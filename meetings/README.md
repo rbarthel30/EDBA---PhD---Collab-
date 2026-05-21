@@ -1,6 +1,6 @@
 # Meetings
 
-Running log of meetings between Armando and Robert. One file per meeting.
+Running log of meetings between Armando and Ryan. One file per meeting.
 
 ## Naming
 
@@ -11,7 +11,7 @@ Running log of meetings between Armando and Robert. One file per meeting.
 ```markdown
 # Meeting — YYYY-MM-DD
 
-**Attendees:** Armando, Robert
+**Attendees:** Armando, Ryan
 **Duration:** ~60 min
 **Location:** Zoom / in-person / async
 
@@ -29,7 +29,7 @@ Running log of meetings between Armando and Robert. One file per meeting.
 | Owner | Task | Due |
 |---|---|---|
 | Armando | ... | YYYY-MM-DD |
-| Robert | ... | YYYY-MM-DD |
+| Ryan | ... | YYYY-MM-DD |
 
 ## Next meeting
 Date / time: ...

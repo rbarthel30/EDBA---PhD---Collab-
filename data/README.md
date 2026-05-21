@@ -52,7 +52,7 @@ This file lists every data source the project draws on, how to get it, and how i
 - **Use:** Outcome variable on disclosure response. MD&A risk-factor changes (Section 1A). 8-K announcements following FDA letter.
 
 ### 8. CRSP
-- **Access:** WRDS — Robert has UM credentials.
+- **Access:** WRDS — Ryan has UM credentials.
 - **Use:** Daily stock returns for short-window event study; daily volume and shares outstanding.
 
 ### 9. Compustat (Fundamentals Annual / Quarterly)
@@ -85,12 +85,12 @@ This file lists every data source the project draws on, how to get it, and how i
 
 | Source | Owner | Status | Date |
 |---|---|---|---|
-| FDA Warning Letters (scrape) | Robert | TODO | — |
-| FDA 510(k) database | Robert | TODO | — |
+| FDA Warning Letters (scrape) | Ryan | TODO | — |
+| FDA 510(k) database | Ryan | TODO | — |
 | MAUDE | TBD | TODO | — |
-| EDGAR (10-K, 8-K) | Robert | TODO | — |
-| CRSP / Compustat / IBES extract | Robert | TODO | — |
-| Firm crosswalk | Robert + Armando | TODO | — |
+| EDGAR (10-K, 8-K) | Ryan | TODO | — |
+| CRSP / Compustat / IBES extract | Ryan | TODO | — |
+| Firm crosswalk | Ryan + Armando | TODO | — |
 
 ---
 

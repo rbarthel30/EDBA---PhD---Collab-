@@ -1,26 +1,26 @@
 # Collaboration Agreement
 
-A working document for how Armando and Robert run this project together. Living document — update as the working relationship evolves.
+A working document for how Armando and Ryan run this project together. Living document — update as the working relationship evolves.
 
 ## Roles
 
 | Domain | Owner | Backup |
 |---|---|---|
-| Research question, framing, narrative | Armando | Robert |
+| Research question, framing, narrative | Armando | Ryan |
 | Industry / regulatory context (FDA, medtech, pharma) | Armando | — |
-| Empirical strategy, econometric design | Robert | Armando reviews |
-| Data acquisition (FDA databases) | Armando | Robert |
-| Data acquisition (CRSP, Compustat, EDGAR, WRDS) | Robert | — |
-| Code, reproducibility, version control | Robert | — |
-| Paper drafting | Armando (lead) | Robert (methods sections) |
-| Tables, figures, regression output | Robert | — |
+| Empirical strategy, econometric design | Ryan | Armando reviews |
+| Data acquisition (FDA databases) | Armando | Ryan |
+| Data acquisition (CRSP, Compustat, EDGAR, WRDS) | Ryan | — |
+| Code, reproducibility, version control | Ryan | — |
+| Paper drafting | Armando (sole author) | — |
+| Tables, figures, regression output | Ryan | — |
 
 ## Mutual Exchange
 
 This is explicitly a **two-way knowledge exchange**, not a one-way service relationship.
 
-- **Armando provides Robert with:** Industry context, regulatory mechanics, networking introductions, exposure to medtech/biotech operational realities, and grounded intuition about how FDA scrutiny *actually* affects firms in practice.
-- **Robert provides Armando with:** Econometric design support, empirical analysis, data engineering, archival data access via WRDS, and writing support on methods and results.
+- **Armando provides Ryan with:** Industry context, regulatory mechanics, networking introductions, exposure to medtech/biotech operational realities, and grounded intuition about how FDA scrutiny *actually* affects firms in practice.
+- **Ryan provides Armando with:** Econometric design support, empirical analysis, data engineering, archival data access via WRDS, and writing support on methods and results.
 
 ## Cadence
 
@@ -30,26 +30,28 @@ This is explicitly a **two-way knowledge exchange**, not a one-way service relat
 
 ## Decision Rules
 
-- **Research design choices** that affect identification (sample, treatment definition, controls, estimator) → discussed jointly; Robert recommends, both sign off in writing (commit message or meeting note).
+- **Research design choices** that affect identification (sample, treatment definition, controls, estimator) → discussed jointly; Ryan recommends, both sign off in writing (commit message or meeting note).
 - **Industry / regulatory interpretation** → Armando has final say.
-- **Code, file structure, reproducibility practices** → Robert has final say.
-- **Manuscript narrative and framing** → Armando has final say; Robert flags concerns that affect empirical defensibility.
+- **Code, file structure, reproducibility practices** → Ryan has final say.
+- **Manuscript narrative and framing** → Armando has final say; Ryan flags concerns that affect empirical defensibility.
 
 ## Authorship
 
-Armando is the lead author of the EDBA paper. Authorship order on any spinoff academic publications to be agreed in writing before submission. Both parties' contributions documented in a CRediT-style statement.
+The EDBA paper is **Armando's sole-authored work**. Ryan is not an author, advisor, or co-author and will not appear on the paper. Ryan's role is research assistance: econometric design, data engineering, and analytical support.
+
+If at any future point this work — or a spinoff — moves toward an academic publication where Ryan's contributions would warrant authorship under field norms, that conversation happens then, in writing, and not before.
 
 ## Working Norms
 
 - **No silent disagreement.** If one of us thinks something is wrong, say so on the PR / in the meeting. The cost of an awkward conversation is much lower than the cost of a flawed paper.
 - **Reproducibility is non-negotiable.** Every number in the paper must trace back to a script in this repo.
-- **Industry knowledge gets written down.** When Armando explains something about FDA process or medtech industry structure, Robert (or Armando) captures it in `notes-from-armando/` so it doesn't get lost.
+- **Industry knowledge gets written down.** When Armando explains something about FDA process or medtech industry structure that informs an empirical choice, capture it in a meeting note or commit message so the rationale is durable.
 
 ## Tooling
 
 - **Version control:** Git + GitHub (this repo)
 - **Languages:** Python (data wrangling), R or Stata (regressions), LaTeX (paper)
-- **Data warehouse:** WRDS via Robert's UM credentials
+- **Data warehouse:** WRDS via Ryan's UM credentials
 - **Communication:** *TBD — Slack channel? Email thread?*
 
 ## Open Items

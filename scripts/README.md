@@ -26,7 +26,7 @@ Number scripts in the order they would run from scratch. Use a clear verb-first 
   ```
   # =============================================================
   # Script: 03_build_firm_panel.py
-  # Author: Robert Barthelemy
+  # Author: Ryan Barthel
   # Purpose: Construct firm-quarter panel from FDA, CRSP, Compustat.
   # Inputs:  data/raw/warning_letters_*.csv, data/raw/crsp_*.csv, data/raw/compustat_*.csv
   # Outputs: data/processed/firm_quarter_panel.parquet

@@ -10,14 +10,14 @@
 
 The project examines how publicly traded medical device firms respond — through voluntary disclosure, regulatory filings, and investor communications — to scrutiny from the U.S. Food and Drug Administration (FDA), and how capital markets price that scrutiny. It is the medical-device analog to the well-developed accounting literature on SEC comment letters (e.g., Cassell, Dreher & Myers 2013; Bozanic, Dietrich & Johnson 2017; Johnston & Petacchi 2017), extended to a setting where the regulator's letters target product safety, efficacy, and manufacturing quality rather than financial reporting.
 
-## Collaborators
+## Author & Collaborator
 
 | Role | Name | Affiliation | Contact |
 |---|---|---|---|
-| EDBA Researcher (Lead Author) | **Armando Cuello** | UM Executive DBA — 25+ yrs medical devices & big pharma, biomedical engineer | a.cuello@umiami.edu |
-| PhD Researcher (Econometrics / Empirical Lead) | **Robert Barthelemy** | UM PhD in Business Administration, Accounting | rbarthel15@gmail.com |
+| **Author** (EDBA paper) | **Armando Cuello** | UM Executive DBA — 25+ yrs medical devices & big pharma, biomedical engineer | a.cuello@umiami.edu |
+| PhD Collaborator (econometric & data support) | Ryan Barthel | UM PhD in Business Administration, Accounting | rbarthel15@gmail.com |
 
-**Collaboration premise.** Armando contributes deep industry expertise on FDA regulatory pathways, medical device manufacturing, and pharma/medtech operations. Robert contributes empirical research design, econometric analysis, and capital-markets data infrastructure. The deliverable is Armando's EDBA paper; the partnership is a mutual exchange of domain knowledge for methodological depth.
+**Premise.** This is **Armando's EDBA paper**. The collaboration is a mutual knowledge exchange: Armando brings deep industry expertise on FDA regulatory pathways, medical device manufacturing, and pharma/medtech operations; Ryan provides econometric, empirical-design, and data-infrastructure support, and in return gains exposure to the medtech/biotech industry.
 
 ## Repository Structure
 
@@ -39,7 +39,6 @@ EDBA_PhD-Collab/
 │   └── logs/                  # Stata/R logs for reproducibility
 ├── references/                # Methodology references, FDA documentation
 ├── literature/                # Key academic papers (PDFs gitignored; .bib tracked)
-├── notes-from-armando/        # Industry knowledge dump from Armando
 └── meetings/                  # Meeting notes, agendas, action items
 ```
 
@@ -48,8 +47,9 @@ EDBA_PhD-Collab/
 - **Sample.** Publicly traded U.S. medical device manufacturers (SIC 3841, 3842, 3843, 3844, 3845).
 - **Treatment of interest.** Receipt of an FDA comment-style communication — primarily **Warning Letters**, **Untitled Letters**, and **FDA Form 483** observations issued following an establishment inspection — and the firm's subsequent disclosure response.
 - **Outcomes.**
-  - *Strategic disclosure:* 8-K filings, MD&A risk-factor changes, IR communications, voluntary press releases, conference-call language.
-  - *Capital market impacts:* abnormal returns (short-window event study), abnormal volume, bid–ask spread, analyst forecast revisions, institutional ownership changes.
+  - *Primary — Strategic disclosure:* whether, when, and how the firm chooses to disclose the letter and related information (8-K filings, MD&A risk-factor changes, IR communications, voluntary press releases, conference-call language, bundling with positive news).
+  - *Secondary — Disclosure timing:* speed and channel of first public acknowledgment.
+  - *Secondary — Capital market response:* short-window event-study abnormal returns, abnormal volume, bid–ask spread, analyst forecast revisions, institutional ownership changes — used to validate that strategic disclosure choices have economic consequences.
 
 ## Key Data Sources
 
@@ -77,7 +77,6 @@ See [`data/README.md`](data/README.md) for the full inventory and access notes. 
 - [Collaboration agreement](COLLABORATION.md)
 - [Data source inventory](data/README.md)
 - [Literature](literature/README.md)
-- [Notes from Armando (industry knowledge)](notes-from-armando/README.md)
 - [Meeting log](meetings/README.md)
 
 ## Status
