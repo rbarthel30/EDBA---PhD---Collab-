@@ -1,0 +1,95 @@
+# =========================================================
+# Data — never commit raw or processed firm-level data
+# =========================================================
+data/raw/**
+data/processed/**
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/raw/README.md
+!data/processed/README.md
+
+# Allow small reference tables in data/external/ but ignore large blobs
+data/external/*.dta
+data/external/*.parquet
+data/external/*.feather
+data/external/*.csv.gz
+data/external/*.zip
+
+# =========================================================
+# WRDS / licensed extracts — never commit
+# =========================================================
+*.sas7bdat
+*_crsp*
+*_compustat*
+*_ibes*
+*_audit_analytics*
+
+# =========================================================
+# Output — keep tables/figures, ignore intermediate logs
+# =========================================================
+output/logs/**
+!output/logs/.gitkeep
+output/tables/*.tex.aux
+output/tables/*.log
+output/**/*.tmp
+
+# =========================================================
+# Literature PDFs — track .bib, ignore PDFs (copyright)
+# =========================================================
+literature/**/*.pdf
+!literature/**/*.bib
+!literature/README.md
+
+# =========================================================
+# Python
+# =========================================================
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+*.egg-info/
+
+# =========================================================
+# R / Stata / LaTeX
+# =========================================================
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+*.Rproj.user/
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.toc
+*.out
+*.dvi
+paper/**/*.pdf
+
+# Allow the final compiled paper
+!paper/manuscript.pdf
+!paper/manuscript_*.pdf
+
+# =========================================================
+# OS / editor
+# =========================================================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.vscode/
+.idea/
+
+# =========================================================
+# Secrets / credentials
+# =========================================================
+*.key
+*.pem
+.wrds_credentials
+config.local.*
