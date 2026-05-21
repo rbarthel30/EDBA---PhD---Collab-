@@ -14,7 +14,7 @@ The project examines how publicly traded medical device firms respond — throug
 
 | Role | Name | Affiliation | Contact |
 |---|---|---|---|
-| **Author** (EDBA paper) | **Armando Cuello** | UM Executive DBA — 25+ yrs medical devices & big pharma, biomedical engineer | a.cuello@umiami.edu |
+| **Author** (EDBA paper) | **Armando Cuello** | UM Executive DBA — 20 yrs medical devices & big pharma, executive and biomedical engineer | a.cuello@umiami.edu |
 | PhD Collaborator (econometric & data support) | Ryan Barthel | UM PhD in Business Administration, Accounting | rbarthel15@gmail.com |
 
 **Premise.** This is **Armando's EDBA paper**. The collaboration is a mutual knowledge exchange: Armando brings deep industry expertise on FDA regulatory pathways, medical device manufacturing, and pharma/medtech operations; Ryan provides econometric, empirical-design, and data-infrastructure support, and in return gains exposure to the medtech/biotech industry.
@@ -67,7 +67,7 @@ See [`data/README.md`](data/README.md) for the full inventory and access notes. 
 
 ## Workflow Conventions
 
-- **Branching.** `main` is the protected default. Work on topic branches named `armando/<topic>` or `robert/<topic>`. PRs reviewed by the other collaborator before merge.
+- **Branching.** `main` is the protected default. Work on topic branches named `armando/<topic>` or `ryan/<topic>`. PRs reviewed by the other collaborator before merge.
 - **Reproducibility.** Every script reads from `data/raw/` or `data/processed/`, writes only to `output/`. Random seeds set explicitly. Logs saved to `output/logs/`.
 - **Data privacy.** Raw firm-level panels and any FOIA'd materials are gitignored. Never commit CRSP / Compustat / WRDS extracts — these are licensed.
 - **Meeting cadence.** See [`COLLABORATION.md`](COLLABORATION.md).
