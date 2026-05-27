@@ -73,8 +73,6 @@ See [`data/README.md`](data/README.md) for the full inventory and access notes. 
 - **Meeting cadence.** See [`COLLABORATION.md`](COLLABORATION.md).
 
 ## Quick Links
-
-- [Collaboration agreement](COLLABORATION.md)
 - [Data source inventory](data/README.md)
 - [Literature](literature/README.md)
 - [Meeting log](meetings/README.md)
