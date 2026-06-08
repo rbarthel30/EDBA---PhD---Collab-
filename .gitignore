@@ -1,5 +1,7 @@
 # =========================================================
-# Data — never commit raw or processed firm-level data
+# Data — ignore raw/processed by default, but explicitly TRACK the
+# shareable project datasets (FDA public data + the small gvkey crosswalk).
+# Repo is PRIVATE — see note in the WRDS section below before adding more.
 # =========================================================
 data/raw/**
 data/processed/**
@@ -7,6 +9,15 @@ data/processed/**
 !data/processed/.gitkeep
 !data/raw/README.md
 !data/processed/README.md
+
+# --- Tracked datasets (allow-list; date wildcards cover future snapshots) ---
+# FDA Warning Letters are public U.S. government data — always shareable.
+!data/raw/fda_warning_letters_*.xlsx
+!data/processed/fda_warning_letters_*.csv
+# Warning-letter <-> Compustat gvkey crosswalk and the unmatched recipient list.
+# Compustat-DERIVED (gvkey + a few company names); kept out of any PUBLIC repo.
+!data/processed/warning_letter_gvkey_crosswalk_*.csv
+!data/processed/warning_letter_unmatched_*.csv
 
 # Allow small reference tables in data/external/ but ignore large blobs
 data/external/*.dta
@@ -16,13 +27,18 @@ data/external/*.csv.gz
 data/external/*.zip
 
 # =========================================================
-# WRDS / licensed extracts — never commit
+# WRDS / licensed extracts — never commit (not even to a private repo:
+# WRDS redistribution terms prohibit it). The full Compustat master pulled
+# by scripts/02 stays ignored here on purpose; collaborators regenerate it
+# from WRDS. Do NOT add a negation for these.
 # =========================================================
 *.sas7bdat
 *_crsp*
 *_compustat*
 *_ibes*
 *_audit_analytics*
+compustat_*
+data/raw/compustat_*
 
 # =========================================================
 # Output — keep tables/figures, ignore intermediate logs

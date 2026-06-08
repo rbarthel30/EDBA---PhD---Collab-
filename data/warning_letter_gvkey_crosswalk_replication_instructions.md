@@ -33,10 +33,14 @@ matched `gvkey` where we are confident, and a clear "unmatched" status otherwise
 | `data/processed/fda_warning_letters_<date>.csv` | produced by script 01 | the company names to match |
 | **Compustat** `comp.company` (firm master) | **WRDS — licensed, UM login required** | the `gvkey` ↔ company-name reference |
 
-> **Licensing:** Compustat is licensed data. The Compustat pull and the crosswalk
-> are written to `data/raw/` and `data/processed/`, which are **gitignored** — they
-> must never be committed to GitHub. Anyone with WRDS access reproduces them by
-> re-running the script.
+> **Licensing — important.** Compustat is licensed data.
+> - The **full Compustat master** (`data/raw/compustat_company_*.csv`, ~57k firms) is
+>   **gitignored and must never be committed**, even to this private repo — WRDS
+>   redistribution terms prohibit it. Regenerate it from WRDS.
+> - The **small crosswalk** (`warning_letter_gvkey_crosswalk_*.csv`) and the
+>   **unmatched list** ARE tracked, but only because **this repo was switched to
+>   private**. They must not be moved to any public repo. They contain `gvkey`s
+>   (proprietary S&P/Compustat identifiers) for ~20 firms.
 
 ---
 
@@ -69,8 +73,8 @@ After that one-time step the script runs without prompting.
 > The password is never stored in the script — it comes from your local pgpass file.
 
 > **No WRDS access (e.g., Armando)?** This step cannot be reproduced without a
-> Compustat license. The *matched crosswalk itself* (a small CSV) can be shared
-> privately between collaborators; it just cannot live on GitHub.
+> Compustat license — but you don't need to. The matched crosswalk and the
+> unmatched list are committed to this **private** repo, so just pull them.
 
 ---
 
@@ -187,4 +191,4 @@ each run; the flag just tells you where to look first.
 - [x] Matching rule is explicit, conservative, and precision-first (exact normalized, unique-gvkey only).
 - [x] Unmatched recipients exported for transparent manual linking — nothing silently discarded.
 - [x] Risky matches flagged (`review_suggested`), not hidden.
-- [x] Licensed Compustat-derived outputs kept out of GitHub (gitignored).
+- [x] Full Compustat master kept out of git entirely (gitignored); crosswalk shared only via the private repo.

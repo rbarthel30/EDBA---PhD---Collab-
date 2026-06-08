@@ -1,6 +1,6 @@
 # Data Inventory
 
-> **Reminder:** `data/raw/` and `data/processed/` are gitignored. Never commit licensed extracts (CRSP, Compustat, IBES, Audit Analytics) or FOIA'd FDA materials.
+> **Reminder:** `data/raw/` and `data/processed/` are gitignored **by default**. A short allow-list in `.gitignore` tracks the shareable project datasets (public FDA files; the small gvkey crosswalk). **This repo is private.** Never commit licensed extracts (CRSP, Compustat *master*, IBES, Audit Analytics) or FOIA'd FDA materials — not even here.
 
 This file lists every data source the project draws on, how to get it, and how it is used. Update as new sources are added.
 
@@ -80,7 +80,7 @@ This file lists every data source the project draws on, how to get it, and how i
 - Built by matching firm names across EDGAR (CIK), CRSP (PERMNO), and FDA establishment registration database. Hand-validate edge cases.
 
 ### 14. Warning Letter → gvkey Crosswalk *(built)*
-- Files: `data/processed/warning_letter_gvkey_crosswalk_<date>.csv` (matched) and `warning_letter_unmatched_<date>.csv` (for manual linking). Gitignored (Compustat-derived).
+- Files: `data/processed/warning_letter_gvkey_crosswalk_<date>.csv` (matched) and `warning_letter_unmatched_<date>.csv` (for manual linking). Tracked in this private repo; the full Compustat master they derive from stays gitignored.
 - Links FDA warning-letter company names to Compustat `gvkey` via WRDS, conservative exact-ish match. See [`warning_letter_gvkey_crosswalk_replication_instructions.md`](warning_letter_gvkey_crosswalk_replication_instructions.md).
 
 ---

@@ -99,8 +99,11 @@ adding new letters (see the coverage note in Section 6).
 | `fda_warning_letters_<date>.xlsx` | `data/raw/` | The **untouched** download, exactly as FDA served it. Never edit this by hand. |
 | `fda_warning_letters_<date>.csv` | `data/processed/` | The **cleaned, analysis-ready** table with parsed dates and device flags. |
 
-> Both `data/raw/` and `data/processed/` are gitignored, so these files stay on your
-> machine and are not pushed to GitHub. To reproduce them, anyone just re-runs the script.
+> These FDA files are **tracked in the (private) repo** so Armando has the exact
+> point-in-time snapshot without re-running anything. FDA Warning Letters are public
+> U.S. government data, so they are safe to share. (`data/raw/`/`data/processed/` are
+> ignored *by default*; these specific dataset families are allow-listed in
+> `.gitignore`.) You can still always recreate them by re-running the script.
 
 ### Columns in the processed CSV
 

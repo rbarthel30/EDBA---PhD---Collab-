@@ -1,0 +1,23 @@
+﻿company_name_fda,normalized_name,match_status,gvkey,company_name_compustat,n_gvkey_candidates,review_suggested,n_letters,any_device_letter
+Abbott Laboratories,ABBOTT LABORATORIES,matched,001078,ABBOTT LABORATORIES,1,False,1,False
+"Amazon.com, Inc",AMAZON COM,matched,064768,AMAZON.COM INC,1,False,1,False
+"Amazon.com, Inc.",AMAZON COM,matched,064768,AMAZON.COM INC,1,False,1,False
+Beckman Coulter Inc.,BECKMAN COULTER,matched,015106,BECKMAN COULTER INC,1,False,1,True
+Cardinal Health,CARDINAL HEALTH,matched,002751,CARDINAL HEALTH INC,1,False,1,True
+"Cue Health, Inc.",CUE HEALTH,matched,039563,CUE HEALTH INC,1,False,1,True
+"Cutera, Inc.",CUTERA,matched,146648,CUTERA INC,1,False,1,True
+"Eagle Energy USA, Inc.",EAGLE ENERGY,matched,185970,EAGLE ENERGY INC,1,False,1,False
+"Exactech, Inc.",EXACTECH,matched,062948,EXACTECH INC,1,False,1,True
+Granules India Limited,GRANULES INDIA,matched,257195,GRANULES INDIA LTD,1,False,1,False
+"Hologic, Inc.",HOLOGIC,matched,020904,HOLOGIC INC,1,False,1,True
+"ImmunityBio, Inc.",IMMUNITYBIO,matched,347007,IMMUNITYBIO INC,1,False,1,False
+Integra LifeSciences Corporation,INTEGRA LIFESCIENCES,matched,061181,INTEGRA LIFESCIENCES HOLDNGS,1,False,1,True
+Invacare Corporation,INVACARE,matched,006158,INVACARE CORP,1,False,1,True
+"Medline Industries, LP",MEDLINE INDUSTRIES,matched,007224,MEDLINE INDUSTRIES INC,1,False,2,True
+"Medtronic, Inc.",MEDTRONIC,matched,007228,MEDTRONIC PLC,1,True,1,True
+"OraLabs, Inc.",ORALABS,matched,009413,ORALABS HOLDING CORP,1,False,1,False
+Sanofi,SANOFI,matched,101204,SANOFI,1,False,1,False
+Tropic Trading Co.,TROPIC TRADING,matched,026120,TROPIC TRADING LTD,1,True,1,False
+"United Health Products, Inc.",UNITED HEALTH PRODUCTS,matched,176503,UNITED HEALTH PRODUCTS INC,1,False,1,True
+"Viatris, Inc.",VIATRIS,matched,007637,VIATRIS INC,1,False,1,False
+"Walmart, Inc",WALMART,matched,011259,WALMART INC,1,False,1,False
