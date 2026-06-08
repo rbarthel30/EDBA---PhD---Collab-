@@ -10,10 +10,11 @@ This file lists every data source the project draws on, how to get it, and how i
 
 ### 1. FDA Warning Letters
 - **URL:** https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/compliance-actions-and-activities/warning-letters
-- **Coverage:** All warning letters issued since 1996; searchable by company, date, issuing office, product area.
-- **Access:** Public. Scrape via the search interface or download bulk via [openFDA](https://open.fda.gov/).
+- **Coverage:** The online database currently lists **~3,500 warning letters** across all FDA centers. The reliable scriptable export returns only the **most recent ~1,000** (currently reaching back to ~2021). Older letters are **not** available through any stable bulk download; back-fill options (FOIA / FDAzilla / a maintained browser harness) are documented in the replication doc. *(The earlier "all letters since 1996" claim was scaffolding text and is not what is programmatically accessible.)*
+- **Access:** Public, but **NOT in openFDA** — openFDA publishes no warning-letters dataset (verified 2026-06-08 against its full dataset manifest at `api.fda.gov/download.json`). We instead download the website's `…/warning-letters/datatables-data` Excel export directly. ⚠️ That endpoint requires the HTTP header `X-Requested-With: XMLHttpRequest`, or it silently returns an empty spreadsheet.
+- **How we pull it:** [`scripts/01_fetch_fda_warning_letters.py`](../scripts/01_fetch_fda_warning_letters.py); full walkthrough in [`fda_warning_letters_replication_instructions.md`](fda_warning_letters_replication_instructions.md). The script also flags the medical-device subset (issuing office + subject keywords).
+- **Key fields (as exported):** Posted Date, Letter Issue Date, Company Name, Issuing Office, Subject, Response Letter, Closeout Letter. *(The website's HTML table additionally shows a short Subject excerpt; there is no "product type" field.)*
 - **Use:** Primary treatment variable. Flag firm-quarters in which a medical device manufacturer receives a warning letter.
-- **Key fields:** Letter date, company name, issuing office, subject (CGMP, labeling, QSR violation, etc.), product type.
 
 ### 2. FDA Form 483 (Inspection Observations)
 - **Coverage:** Issued at the close of an FDA inspection when investigators document objectionable conditions.
@@ -30,6 +31,7 @@ This file lists every data source the project draws on, how to get it, and how i
 
 ### 4. FDA PMA (Premarket Approval) Database
 - **URL:** https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm
+- **openFDA endpoint:** https://api.fda.gov/device/pma
 - **Use:** Class III high-risk devices. Firms in this subset may face different disclosure incentives.
 
 ### 5. MAUDE (Adverse Events)
@@ -39,6 +41,7 @@ This file lists every data source the project draws on, how to get it, and how i
 
 ### 6. FDA Establishment Registration & Device Listing
 - **URL:** https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRL/rl.cfm
+- **openFDA endpoint:** https://api.fda.gov/device/registrationlisting
 - **Use:** Map firms to specific manufacturing facilities; useful when 483s are issued at the establishment level.
 
 ---
@@ -72,8 +75,8 @@ This file lists every data source the project draws on, how to get it, and how i
 ## Constructed / External Tables
 
 ### 12. SIC → Medical Device Classification
-- File: `data/external/sic_medical_device.csv`
-- Mapping of SIC 3841–3845 to device sub-categories.
+- File: `data/external/sic_medical_device.csv` *(to be constructed — not yet created)*
+- Planned mapping of SIC 3841–3845 to device sub-categories.
 
 ### 13. CIK ↔ Ticker ↔ FDA Establishment Crosswalk
 - File: `data/external/firm_crosswalk.csv` *(to be constructed)*
@@ -104,4 +107,4 @@ This file lists every data source the project draws on, how to get it, and how i
 1. **Raw is sacred.** Anything in `data/raw/` is *never* edited by hand. Scripts read from raw, write to processed.
 2. **Document provenance.** Every file in `data/processed/` should be reproducible from a script that names its raw input(s).
 3. **Date-stamp downloads.** When pulling from a public source, save as `<source>_<YYYY-MM-DD>.csv` so we can recreate the snapshot.
-4. **No PII or licensed data on GitHub.** Period.
+4. **Never commit licensed *master* extracts or PII.** The full CRSP / Compustat / IBES / Audit Analytics tables are never committed anywhere — collaborators regenerate them from WRDS. Small **derived** identifier tables (e.g., the warning-letter → `gvkey` crosswalk) may live in this repo **only while it is private**; if the repo is ever made public, they must be removed first.
