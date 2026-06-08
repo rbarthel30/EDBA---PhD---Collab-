@@ -37,4 +37,5 @@ Number scripts in the order they would run from scratch. Use a clear verb-first 
 
 | Script | Purpose | Owner | Status |
 |---|---|---|---|
-| (none yet) | | | |
+| `01_fetch_fda_warning_letters.py` | Download FDA Warning Letters (most-recent ~1,000 snapshot) and flag the medical-device subset. See [`data/fda_warning_letters_replication_instructions.md`](../data/fda_warning_letters_replication_instructions.md). | Ryan | ✅ Working |
+| `02_link_warning_letters_to_gvkey.py` | Link warning-letter company names to Compustat `gvkey` via WRDS (conservative exact-ish match). See [`data/warning_letter_gvkey_crosswalk_replication_instructions.md`](../data/warning_letter_gvkey_crosswalk_replication_instructions.md). | Ryan | ✅ Working |

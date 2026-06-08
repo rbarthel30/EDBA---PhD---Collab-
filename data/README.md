@@ -79,18 +79,23 @@ This file lists every data source the project draws on, how to get it, and how i
 - File: `data/external/firm_crosswalk.csv` *(to be constructed)*
 - Built by matching firm names across EDGAR (CIK), CRSP (PERMNO), and FDA establishment registration database. Hand-validate edge cases.
 
+### 14. Warning Letter → gvkey Crosswalk *(built)*
+- Files: `data/processed/warning_letter_gvkey_crosswalk_<date>.csv` (matched) and `warning_letter_unmatched_<date>.csv` (for manual linking). Gitignored (Compustat-derived).
+- Links FDA warning-letter company names to Compustat `gvkey` via WRDS, conservative exact-ish match. See [`warning_letter_gvkey_crosswalk_replication_instructions.md`](warning_letter_gvkey_crosswalk_replication_instructions.md).
+
 ---
 
 ## Acquisition Status
 
 | Source | Owner | Status | Date |
 |---|---|---|---|
-| FDA Warning Letters (scrape) | Ryan | TODO | — |
+| FDA Warning Letters (most-recent ~1,000 snapshot) | Ryan | ✅ Done — see [`fda_warning_letters_replication_instructions.md`](fda_warning_letters_replication_instructions.md) | 2026-06-08 |
 | FDA 510(k) database | Ryan | TODO | — |
 | MAUDE | TBD | TODO | — |
 | EDGAR (10-K, 8-K) | Ryan | TODO | — |
 | CRSP / Compustat / IBES extract | Ryan | TODO | — |
-| Firm crosswalk | Ryan + Armando | TODO | — |
+| Warning Letter → gvkey crosswalk (Compustat) | Ryan | ✅ Done — 22 firms matched, conservative | 2026-06-08 |
+| Firm crosswalk (full CIK/PERMNO) | Ryan + Armando | TODO | — |
 
 ---
 
