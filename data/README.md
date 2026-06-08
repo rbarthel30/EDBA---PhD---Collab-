@@ -1,7 +1,5 @@
 # Data Inventory
 
-> **Reminder:** `data/raw/` and `data/processed/` are gitignored **by default**. A short allow-list in `.gitignore` tracks the shareable project datasets (public FDA files; the small gvkey crosswalk). **This repo is private.** Never commit licensed extracts (CRSP, Compustat *master*, IBES, Audit Analytics) or FOIA'd FDA materials — not even here.
-
 This file lists every data source the project draws on, how to get it, and how it is used. Update as new sources are added.
 
 ---
