@@ -10,10 +10,10 @@ This file lists every data source the project draws on, how to get it, and how i
 
 ### 1. FDA Warning Letters
 - **URL:** https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/compliance-actions-and-activities/warning-letters
-- **Coverage:** The online database currently lists **~3,500 warning letters** across all FDA centers. The reliable scriptable export returns only the **most recent ~1,000** (currently reaching back to ~2021). Older letters are **not** available through any stable bulk download; back-fill options (FOIA / FDAzilla / a maintained browser harness) are documented in the replication doc. *(The earlier "all letters since 1996" claim was scaffolding text and is not what is programmatically accessible.)*
-- **Access:** Public, but **NOT in openFDA** — openFDA publishes no warning-letters dataset (verified 2026-06-08 against its full dataset manifest at `api.fda.gov/download.json`). We instead download the website's `…/warning-letters/datatables-data` Excel export directly. ⚠️ That endpoint requires the HTTP header `X-Requested-With: XMLHttpRequest`, or it silently returns an empty spreadsheet.
+- **Coverage:** The online database currently lists **~3,500 warning letters** across all FDA centers. The reliable scriptable export returns only the **most recent ~1,000** (currently reaching back to ~2021). Older letters are **not** available through any stable bulk download; back-fill options (FOIA / FDAzilla / a maintained browser harness) are documented in the replication doc.
+- **Access:** Public, but **not in openFDA** (which has no warning-letters dataset). We download the website's `…/warning-letters/datatables-data` Excel export directly. ⚠️ That endpoint requires the HTTP header `X-Requested-With: XMLHttpRequest`, or it silently returns an empty spreadsheet.
 - **How we pull it:** [`scripts/01_fetch_fda_warning_letters.py`](../scripts/01_fetch_fda_warning_letters.py); full walkthrough in [`fda_warning_letters_replication_instructions.md`](fda_warning_letters_replication_instructions.md). The script also flags the medical-device subset (issuing office + subject keywords).
-- **Key fields (as exported):** Posted Date, Letter Issue Date, Company Name, Issuing Office, Subject, Response Letter, Closeout Letter. *(The website's HTML table additionally shows a short Subject excerpt; there is no "product type" field.)*
+- **Key fields (as exported):** Posted Date, Letter Issue Date, Company Name, Issuing Office, Subject, Response Letter, Closeout Letter.
 - **Use:** Primary treatment variable. Flag firm-quarters in which a medical device manufacturer receives a warning letter.
 
 ### 2. FDA Form 483 (Inspection Observations)
@@ -75,8 +75,8 @@ This file lists every data source the project draws on, how to get it, and how i
 ## Constructed / External Tables
 
 ### 12. SIC → Medical Device Classification
-- File: `data/external/sic_medical_device.csv` *(to be constructed — not yet created)*
-- Planned mapping of SIC 3841–3845 to device sub-categories.
+- File: `data/external/sic_medical_device.csv` *(to be constructed)*
+- Mapping of SIC 3841–3845 to device sub-categories.
 
 ### 13. CIK ↔ Ticker ↔ FDA Establishment Crosswalk
 - File: `data/external/firm_crosswalk.csv` *(to be constructed)*
