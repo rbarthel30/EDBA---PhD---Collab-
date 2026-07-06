@@ -1,9 +1,9 @@
 ﻿Statistic,Value
-Number of warning letters,195
-Number of unique firms,139
+Number of warning letters,120
+Number of unique firms,81
 "Firm market capitalization ($M), mean","6,649"
 "Firm market capitalization ($M), median","1,329"
-"Firm total assets ($M), mean","5,946"
+"Firm total assets ($M), mean","5,942"
 "Firm total assets ($M), median",439
-Share of US medical-device market capitalization,61.4%
-Sample period,October 2008 – April 2026
+Share of US medical-device market capitalization,60.3%
+Sample period,October 2008 – January 2026

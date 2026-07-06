@@ -20,6 +20,13 @@
 #     full crosswalk (script 05), INCLUSIVE of review-flagged matches;
 #     ownership windows respected (letter year inside [valid_from, valid_to]).
 #     One row per letter x firm; letters counted by unique Case/Injunction ID.
+#   * ACTIVE-AT-LETTER-DATE requirement (Ryan, 2026-07-06): the sample keeps
+#     only letters whose firm has an ACTIVE Compustat record when the letter
+#     arrives — operationalized as a non-missing market cap at the last
+#     fiscal year-end before the letter (within the staleness window). This
+#     drops linked-but-unmeasurable letters (foreign parents without US
+#     fundamentals, letters outside the firm's Compustat coverage) so every
+#     firm in the dataset and the table carries usable pre-letter data.
 #   * Market cap = prcc_f x csho; total assets = at (both $ millions,
 #     comp.funda, INDL/STD/D/C screens), at the last fiscal year-end strictly
 #     before the letter, within an 18-month staleness window.
@@ -186,21 +193,23 @@ def build_rows(sub, share, n_in, n_uni):
 
 NOTES = ("This table describes the analysis sample: FDA warning letters "
          "classified by the FDA as medical-device actions whose recipient is "
-         "linked to a Compustat firm (gvkey) in the project crosswalk, "
-         "inclusive of matches flagged for manual review; ownership windows "
-         "are respected, so a letter links to the firm that owned the "
-         "recipient in the letter year. Letters are counted by unique FDA "
-         "Case/Injunction ID. Market capitalization (fiscal year-end close "
-         "price times common shares outstanding) and total assets are "
-         "measured at the last fiscal year-end before the firm's first "
-         "letter, in $ millions ({nmc} and {nta} of the firms have usable "
-         "pre-letter data; the remainder are foreign parents or firms whose "
-         "Compustat coverage does not span the letter date). The market-cap "
-         "share is the treated firms' current market capitalization as a "
-         "fraction of the US medical-device universe: {nin} treated firms of "
-         "the {nuni} US-incorporated Compustat firms with primary SIC "
-         "3841–3845 and a market cap at their latest fiscal year-end. "
-         "Sources: FDA Data Dashboard compliance actions; Compustat via WRDS.")
+         "linked to a Compustat firm (gvkey) with an active record as of the "
+         "letter date — a non-missing market capitalization at the last "
+         "fiscal year-end before the letter (within 18 months). Links come "
+         "from the project crosswalk, inclusive of matches flagged for "
+         "manual review; ownership windows are respected, so a letter links "
+         "to the firm that owned the recipient in the letter year. Letters "
+         "are counted by unique FDA Case/Injunction ID. Market "
+         "capitalization (fiscal year-end close price times common shares "
+         "outstanding) and total assets are measured at the last fiscal "
+         "year-end before the firm's first letter, in $ millions"
+         "{ta_gap}. The market-cap share is the sample firms' current "
+         "market capitalization as a fraction of the US medical-device "
+         "universe: {nin} sample firms of the {nuni} US-incorporated "
+         "Compustat firms with primary SIC 3841–3845 and a market cap at "
+         "their latest fiscal year-end; sample firms delisted or acquired "
+         "since their letter no longer contribute. Sources: FDA Data "
+         "Dashboard compliance actions; Compustat via WRDS.")
 
 
 def write_outputs(rows, notes, snapshot_date):
@@ -271,13 +280,22 @@ def main() -> None:
     funda, uni, live = fetch_wrds(sub)
     sub = attach_fundamentals(sub, funda)
 
+    # Active-at-letter-date filter (see header): require pre-letter market
+    # cap. This is what makes the sample usable for capital-market tests.
+    n_before, f_before = len(sub), sub["gvkey"].nunique()
+    sub = sub[sub["mktcap_preletter"].notna()].copy()
+    print(f"    active-at-letter-date filter: {n_before} -> {len(sub)} "
+          f"letter-firm rows; {f_before} -> {sub['gvkey'].nunique()} firms")
+
     data_path = PROCESSED_DIR / f"device_letters_linked_{snapshot_date}.csv"
     sub.to_csv(data_path, index=False, encoding="utf-8-sig")
     print(f"    sub-dataset saved -> {data_path.relative_to(REPO_ROOT)}")
 
     share, n_in, n_uni = universe_share(sub, uni, live)
     rows, nmc, nta, n_in, n_uni = build_rows(sub, share, n_in, n_uni)
-    notes = NOTES.format(nmc=nmc, nta=nta, nin=n_in, nuni=n_uni)
+    ta_gap = ("" if nta == nmc else
+              f" (total assets available for {nta} of the {nmc} firms)")
+    notes = NOTES.format(ta_gap=ta_gap, nin=n_in, nuni=n_uni)
 
     print("[3/4] Writing table (md / csv / tex / pdf) ...")
     written = write_outputs(rows, notes, snapshot_date)
