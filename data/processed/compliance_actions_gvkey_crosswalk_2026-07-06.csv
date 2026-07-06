@@ -1,0 +1,266 @@
+﻿company_name_fda,normalized_name,match_status,gvkey,company_name_compustat,n_gvkey_candidates,review_suggested,n_letters,first_letter_date,last_letter_date,any_device_letter,any_drug_letter,any_biologic_letter,any_medtech_pharma,product_types
+3M Company,3M,matched,007435,3M CO,1,False,1,2010-06-07,2010-06-07,True,False,False,True,Devices
+"ACell, Inc",ACELL,matched,036689,ACELL INC -REDH,1,False,1,2013-04-26,2013-04-26,True,False,False,True,Devices
+"ADMA Biologics, Inc",ADMA BIOLOGICS,matched,017653,ADMA BIOLOGICS INC,1,False,1,2014-11-25,2014-11-25,False,False,True,True,Biologics
+"AMAG Pharmaceuticals, Inc.",AMAG PHARMACEUTICALS,matched,012250,AMAG PHARMACEUTICALS INC,1,False,1,2010-10-18,2010-10-18,False,True,False,True,Drugs
+AS Global INC,GLOBAL,matched,180503,GLOBAL HOLDINGS INC,1,True,1,2023-01-10,2023-01-10,False,True,False,True,Drugs
+Abaxis Inc,ABAXIS,matched,024888,ABAXIS INC,1,False,1,2019-04-12,2019-04-12,True,False,False,True,Devices
+Abbott Laboratories,ABBOTT LABORATORIES,matched,001078,ABBOTT LABORATORIES,1,False,2,2009-07-14,2023-10-24,False,True,True,True,Biologics; Drugs
+"Abiomed, Inc.",ABIOMED,matched,013619,ABIOMED INC,1,False,2,2011-06-10,2023-09-19,True,False,False,True,Devices
+Accentia BioPharmaceuticals,ACCENTIA BIOPHARMACEUTICALS,matched,162956,ACCENTIA BIOPHARMACEUTICALS,1,False,1,2009-11-13,2009-11-13,False,True,False,True,Drugs
+"Acclarent, Inc.",ACCLARENT,matched,180230,ACCLARENT INC -REDH,1,False,2,2012-06-14,2013-03-20,True,False,False,True,Devices
+Acme United Corporation,ACME UNITED,matched,001104,ACME UNITED CORP,1,False,1,2025-10-10,2025-10-10,False,True,False,True,Drugs
+"Acorda Therapeutics, Inc.",ACORDA THERAPEUTICS,matched,156617,ACORDA THERAPEUTICS INC,1,False,2,2012-05-10,2013-07-25,False,True,False,True,Drugs
+"Airgas USA, LLC",AIRGAS,matched,012950,AIRGAS INC,1,False,1,2010-12-01,2010-12-01,False,True,False,True,Drugs
+"Akers Biosciences, Inc.",AKERS BIOSCIENCES,matched,275264,AKERS BIOSCIENCES INC,1,False,1,2011-10-04,2011-10-04,False,False,True,True,Biologics
+Akorn Operating Company LLC,AKORN OPERATING,matched,014304,AKORN OPERATING COMPANY LLC,1,False,1,2019-06-13,2019-06-13,False,True,False,True,Drugs
+"Alexion Pharmaceuticals, Inc.",ALEXION PHARMACEUTICALS,matched,062263,ALEXION PHARMACEUTICALS INC,1,False,1,2013-03-22,2013-03-22,False,True,False,True,Drugs
+Align Technology Inc,ALIGN TECHNOLOGY,matched,141384,ALIGN TECHNOLOGY INC,1,False,1,2010-11-17,2010-11-17,True,False,False,True,Devices
+"Alkermes, Inc.",ALKERMES,matched,024302,ALKERMES PLC,1,True,1,2019-12-02,2019-12-02,False,True,False,True,Drugs
+"Alma Lasers, Inc.",ALMA LASERS,matched,179436,ALMA LASERS LTD-REDH,1,True,1,2013-06-07,2013-06-07,True,False,False,True,Devices
+Amazon.com,AMAZON COM,matched,064768,AMAZON.COM INC,1,False,3,2022-10-28,2023-11-13,False,True,False,True,Drugs
+"Amazon.com, Inc.",AMAZON COM,matched,064768,AMAZON.COM INC,1,False,9,2022-08-04,2026-06-17,False,True,False,True,Drugs
+"Amazon.com, LLC",AMAZON COM,matched,064768,AMAZON.COM INC,1,False,1,2025-03-03,2025-03-03,False,True,False,True,Drugs
+American CryoStem Corporation,AMERICAN CRYOSTEM,matched,187449,AMERICAN CRYOSTEM CORP,1,False,1,2018-01-03,2018-01-03,False,False,True,True,Biologics
+"Amgen, Inc.",AMGEN,matched,001602,AMGEN INC,1,False,1,2014-01-27,2014-01-27,False,True,False,True,Drugs
+"AngioDynamics, Inc.",ANGIODYNAMICS,matched,264387,ANGIODYNAMICS INC,1,False,1,2014-11-04,2014-11-04,True,False,False,True,Devices
+Angiodynamics Inc,ANGIODYNAMICS,matched,264387,ANGIODYNAMICS INC,1,False,1,2014-11-04,2014-11-04,True,False,False,True,Devices
+"Angiodynamics, Inc.",ANGIODYNAMICS,matched,264387,ANGIODYNAMICS INC,1,False,2,2011-01-21,2011-05-27,True,False,False,True,Devices
+Animas Corporation,ANIMAS,matched,260892,ANIMAS CORP,1,False,1,2011-12-27,2011-12-27,True,False,False,True,Devices
+"Applied Therapeutics, Inc.",APPLIED THERAPEUTICS,matched,035091,APPLIED THERAPEUTICS INC,1,False,1,2024-11-27,2024-11-27,False,True,False,True,Drugs
+Arrayit Corporation,ARRAYIT,matched,143339,ARRAYIT CORP,1,False,1,2020-08-18,2020-08-18,True,False,False,True,Devices
+"Artivion, Inc",ARTIVION,matched,027823,ARTIVION INC,1,False,1,2013-01-29,2013-01-29,True,False,False,True,Devices
+"Atrium, Inc.",ATRIUM,matched,137170,ATRIUM CO INC,1,False,1,2012-11-02,2012-11-02,False,False,False,False,Food/Cosmetics
+"Avanos Medical, Inc.",AVANOS MEDICAL,matched,021352,AVANOS MEDICAL INC,1,False,2,2008-12-22,2013-04-10,True,False,False,True,Devices
+BABYLON INC,BABYLON,matched,039938,BABYLON HOLDINGS LTD,1,True,1,2020-09-04,2020-09-04,False,False,False,False,Food/Cosmetics
+BHP Holdings Inc,BHP,matched,013312,BHP GROUP LTD,1,True,1,2020-06-02,2020-06-02,False,False,False,False,Food/Cosmetics
+Balchem Corporation,BALCHEM,matched,001979,BALCHEM CORP  -CL B,1,False,1,2009-12-22,2009-12-22,False,True,False,True,Drugs
+Baxalta US Inc.,BAXALTA,matched,022734,BAXALTA INC,1,False,2,2009-04-14,2010-08-03,False,False,True,True,Biologics
+Bayer AG,BAYER,matched,100080,BAYER AG,1,False,2,2009-08-05,2017-11-14,False,True,False,True,Drugs
+Bebida Beverage Company,BEBIDA BEVERAGE,matched,153669,BEBIDA BEVERAGE CO,1,False,1,2015-03-04,2015-03-04,False,False,False,False,Food/Cosmetics
+Beckman Coulter Inc.,BECKMAN COULTER,matched,015106,BECKMAN COULTER INC,1,False,2,2010-06-21,2011-08-01,True,False,False,True,Devices
+"Beckman Coulter, Inc.",BECKMAN COULTER,matched,015106,BECKMAN COULTER INC,1,False,2,2011-11-01,2024-03-15,True,False,False,True,Devices
+Becton Dickinson & Company,BECTON DICKINSON AND,matched,002111,BECTON DICKINSON & CO,1,False,2,2009-05-11,2018-01-11,True,False,False,True,Devices
+"Beta Bionics, Inc.",BETA BIONICS,matched,045785,BETA BIONICS INC,1,False,1,2026-01-29,2026-01-29,True,False,False,True,Devices
+Bio-Rad Laboratories GmbH,BIO RAD LABORATORIES,matched,002220,BIO-RAD LABORATORIES INC,1,True,1,2015-09-03,2015-09-03,True,False,False,True,Devices
+BioReliance Corporation,BIORELIANCE,matched,065169,BIORELIANCE CORP,1,False,1,2009-01-05,2009-01-05,False,False,True,True,Biologics
+"Biogenix USA, LLC",BIOGENIX,matched,002227,BIOGENIX INC,1,False,1,2014-12-11,2014-12-11,False,False,False,False,Food/Cosmetics
+Biomerieux Inc,BIOMERIEUX,matched,270578,BIOMERIEUX SA,1,True,1,2014-10-10,2014-10-10,True,False,False,True,Devices
+"Biomet, Inc.",BIOMET,matched,002230,BIOMET INC,1,False,2,2010-07-27,2018-08-24,True,False,False,True,Devices
+Boston Scientific Corporation,BOSTON SCIENTIFIC,matched,025279,BOSTON SCIENTIFIC CORP,1,False,1,2014-04-10,2014-04-10,True,False,False,True,Devices
+Burzynski Research Institute,BURZYNSKI RESEARCH INSTITUTE,matched,022401,BURZYNSKI RESEARCH INSTITUTE,1,False,1,2013-12-03,2013-12-03,False,True,False,True,Drugs
+CHEWY INC,CHEWY,matched,035287,CHEWY INC,1,False,1,2023-11-30,2023-11-30,False,False,False,False,Veterinary
+CUE HEALTH INC,CUE HEALTH,matched,039563,CUE HEALTH INC,1,False,1,2024-05-09,2024-05-09,True,False,False,True,Devices
+CVS Health,CVS HEALTH,matched,007241,CVS HEALTH CORP,1,False,2,2010-09-27,2023-09-11,False,True,False,True,Drugs
+Calavo Growers Inc,CALAVO GROWERS,matched,147708,CALAVO GROWERS INC,1,False,1,2024-10-25,2024-10-25,False,False,False,False,Food/Cosmetics
+"Caliber Imaging & Diagnostics,",CALIBER IMAGING AND DIAGNOSTICS,matched,189363,CALIBER IMAGING & DIAGNOSTIC,1,False,1,2015-01-08,2015-01-08,True,False,False,True,Devices
+Cantronic Systems Inc.,CANTRONIC SYSTEMS,matched,150760,CANTRONIC SYSTEMS INC,1,False,1,2021-03-04,2021-03-04,True,False,False,True,Devices
+Carey USA LLC,CAREY,matched,064822,CAREY INTERNATIONAL INC,1,False,1,2020-06-10,2020-06-10,False,False,False,False,Food/Cosmetics
+Cel-Sci Corporation,CEL SCI,matched,012711,CEL-SCI CORP,1,False,1,2011-08-05,2011-08-05,False,True,False,True,Drugs
+Celularity Inc,CELULARITY,matched,039277,CELULARITY INC,1,False,1,2025-12-01,2025-12-01,False,False,True,True,Biologics
+Cepheid Ab,CEPHEID,matched,136804,CEPHEID INC,1,True,1,2015-07-23,2015-07-23,True,False,False,True,Devices
+Chattem Inc,CHATTEM,matched,002950,CHATTEM INC,1,False,1,2011-01-28,2011-01-28,False,True,False,True,Drugs
+Church & Dwight Inc,CHURCH AND DWIGHT,matched,003026,CHURCH & DWIGHT INC,1,False,1,2011-05-16,2011-05-16,True,False,False,True,Devices
+Clorox Co (The),CLOROX,matched,003121,CLOROX CO/DE,1,False,1,2016-12-15,2016-12-15,False,True,False,True,Drugs
+Coastal Contacts Inc.,COASTAL CONTACTS,matched,266196,COASTAL CONTACTS INC,1,False,1,2013-12-11,2013-12-11,True,False,False,True,Devices
+ConAgra Brands Inc,CONAGRA BRANDS,matched,003362,CONAGRA BRANDS INC,1,False,1,2013-09-20,2013-09-20,False,False,False,False,Food/Cosmetics
+ConMed Corporation,CONMED,matched,013623,CONMED CORP,1,False,1,2014-01-29,2014-01-29,True,False,False,True,Devices
+Conair LLC,CONAIR,matched,013148,CONAIR CORP/DE,1,False,1,2013-08-12,2013-08-12,True,False,False,True,Devices
+Conformis Inc.,CONFORMIS,matched,024084,CONFORMIS INC,1,False,1,2019-12-10,2019-12-10,True,False,False,True,Devices
+"ConvaTec, Inc",CONVATEC,matched,322728,CONVATEC GROUP PLC,1,True,1,2013-05-24,2013-05-24,True,False,False,True,Devices
+Cook Incorporated,COOK,matched,003493,COOK INTERNATIONAL INC,1,False,1,2014-09-16,2014-09-16,True,False,False,True,Devices
+Cordis LLC,CORDIS,matched,003520,CORDIS CORP,1,False,1,2011-02-16,2011-02-16,True,False,False,True,Devices
+"Cosco International, Inc.",COSCO,matched,003544,COSCO INC,1,False,1,2025-04-14,2025-04-14,False,True,False,True,Drugs
+Covalon Technologies Ltd.,COVALON TECHNOLOGIES,matched,161840,COVALON TECHNOLOGIES LTD,1,False,1,2021-05-06,2021-05-06,False,True,False,True,Drugs
+"Covidien, LP",COVIDIEN,matched,177264,COVIDIEN PLC,1,True,1,2012-06-14,2012-06-14,True,False,False,True,Devices
+"Craftmatic Industries, Inc.",CRAFTMATIC INDUSTRIES,matched,012737,CRAFTMATIC INDUSTRIES INC,1,False,1,2015-02-17,2015-02-17,True,False,False,True,Devices
+"Cutera, Inc.",CUTERA,matched,146648,CUTERA INC,1,False,2,2012-07-09,2022-11-10,True,False,False,True,Devices
+"CytoDyn, Inc.",CYTODYN,matched,164720,CYTODYN INC,1,False,1,2022-02-11,2022-02-11,False,True,False,True,Drugs
+"DEWMAR INTERNATIONAL BMC, INC",DEWMAR BMC,matched,006014,DEWMAR INTL BMC INC,1,False,1,2014-03-27,2014-03-27,False,False,False,False,Food/Cosmetics
+DSM - Firmenich,DSM FIRMENICH,matched,102454,DSM FIRMENICH AG,1,False,1,2019-10-11,2019-10-11,False,False,False,False,Veterinary
+"Darling Ingredients, Inc.",DARLING INGREDIENTS,matched,030651,DARLING INGREDIENTS INC,1,False,1,2019-11-18,2019-11-18,False,False,False,False,Veterinary
+Datascope Corp.,DATASCOPE,matched,003786,DATASCOPE CORP,1,False,2,2018-09-11,2019-02-06,True,False,False,True,Devices
+"Delta Air Lines, Inc.",DELTA AIR LINES,matched,003851,DELTA AIR LINES INC,1,False,1,2011-04-13,2011-04-13,False,False,False,False,Food/Cosmetics
+Dentsply Sirona Inc.,DENTSPLY SIRONA,matched,013700,DENTSPLY SIRONA INC,1,False,1,2013-04-11,2013-04-11,True,False,False,True,Devices
+"Dexcom, Inc.",DEXCOM,matched,162887,DEXCOM INC,1,False,3,2010-05-21,2025-03-04,True,False,False,True,Devices
+Diamond Foods LLC,DIAMOND FOODS,matched,163627,DIAMOND FOODS INC,1,False,1,2010-02-22,2010-02-22,False,False,False,False,Food/Cosmetics
+"Dr Pepper/Seven Up, Inc.",DR PEPPER SEVEN UP,matched,015273,DR PEPPER/SEVEN UP,1,False,1,2010-08-31,2010-08-31,False,False,False,False,Food/Cosmetics
+Dr. Reddy's Laboratories Limited,DR REDDY S LABORATORIES,matched,223098,DR REDDY'S LABORATORIES LTD,1,False,1,2015-11-05,2015-11-05,False,True,False,True,Drugs
+Dr. Reddy's Laboratories Ltd.,DR REDDY S LABORATORIES,matched,223098,DR REDDY'S LABORATORIES LTD,1,False,1,2015-11-05,2015-11-05,False,True,False,True,Drugs
+"Dreyer's Grand Ice Cream, Inc.",DREYER S GRAND ICE CREAM,matched,004078,DREYER'S GRAND ICE CRM HLDGS,1,False,1,2010-02-22,2010-02-22,False,False,False,False,Food/Cosmetics
+EAGLE ENERGY USA INC,EAGLE ENERGY,matched,185970,EAGLE ENERGY INC,1,False,1,2021-12-01,2021-12-01,False,True,False,True,Drugs
+EFT Inc,EFT,matched,106554,EFT HOLDINGS INC,1,False,1,2009-08-19,2009-08-19,False,False,False,False,Food/Cosmetics
+"Edwards Lifesciences, LLC",EDWARDS LIFESCIENCES,matched,133366,EDWARDS LIFESCIENCES CORP,1,False,2,2010-03-01,2013-05-24,True,False,False,True,Devices
+"Eisai, Inc.",EISAI,matched,100418,EISAI CO LTD,1,True,1,2009-11-06,2009-11-06,False,True,False,True,Drugs
+Elevate,ELEVATE,matched,182908,ELEVATE INC,1,False,1,2025-09-09,2025-09-09,False,True,False,True,Drugs
+Eli Lilly & Company,ELI LILLY AND,matched,006730,LILLY (ELI) & CO,1,False,3,2025-09-09,2025-09-09,False,True,False,True,Drugs
+Encompass Group LLC,ENCOMPASS,matched,031283,ENCOMPASS HOLDINGS INC,1,False,1,2010-06-03,2010-06-03,True,False,False,True,Devices
+Entellus Medical Inc.,ENTELLUS MEDICAL,matched,022667,ENTELLUS MEDICAL INC,1,False,1,2017-04-06,2017-04-06,True,False,False,True,Devices
+Entia Biosciences Inc,ENTIA BIOSCIENCES,matched,178743,ENTIA BIOSCIENCES INC,1,False,1,2021-01-06,2021-01-06,False,False,False,False,Food/Cosmetics
+Envoy Medical Corporation,ENVOY MEDICAL,matched,038030,ENVOY MEDICAL INC,1,False,1,2025-11-13,2025-11-13,True,False,False,True,Devices
+Evenflo Co Inc,EVENFLO,matched,146214,EVENFLO INC,1,False,1,2009-08-25,2009-08-25,True,False,False,True,Devices
+Evoqua Water Technologies LLC,EVOQUA WATER TECHNOLOGIES,matched,032610,EVOQUA WATER TECH,1,False,1,2014-04-17,2014-04-17,True,False,False,True,Devices
+"Exactech, Inc.",EXACTECH,matched,062948,EXACTECH INC,1,False,1,2024-01-19,2024-01-19,True,False,False,True,Devices
+"EyePoint US, Inc.",EYEPOINT,matched,253527,EYEPOINT INC,1,False,1,2024-07-12,2024-07-12,False,True,False,True,Drugs
+Fresenius SE & Co. KGaA,FRESENIUS SE AND KGAA,matched,202305,FRESENIUS SE & CO KGAA,1,False,2,2011-01-28,2011-04-06,True,False,False,True,Devices
+Fujifilm Corporation,FUJIFILM,matched,004925,FUJIFILM HLDGS CORP,1,False,1,2018-03-09,2018-03-09,True,False,False,True,Devices
+"Galena Biopharma, Inc.",GALENA BIOPHARMA,matched,179605,GALENA BIOPHARMA INC,1,False,1,2015-04-03,2015-04-03,False,True,False,True,Drugs
+General Medical Company,GENERAL MEDICAL,matched,005067,GENERAL MEDICAL CORP,1,False,1,2016-06-02,2016-06-02,True,False,False,True,Devices
+"General Mills, Inc",GENERAL MILLS,matched,005071,GENERAL MILLS INC,1,False,1,2009-05-05,2009-05-05,False,False,False,False,Food/Cosmetics
+Genzyme Corporation,GENZYME,matched,012233,GENZYME CORP,1,False,1,2025-01-15,2025-01-15,False,True,False,True,Drugs
+"GeoTec, Inc.",GEOTEC,matched,125377,GEOTEC INC,1,False,1,2015-09-30,2015-09-30,True,False,False,True,Devices
+Gerber Products Company,GERBER PRODUCTS,matched,005141,GERBER PRODUCTS CO,1,False,1,2010-02-22,2010-02-22,False,False,False,False,Food/Cosmetics
+Gilead Sciences Inc,GILEAD SCIENCES,matched,024856,GILEAD SCIENCES INC,1,False,1,2010-09-21,2010-09-21,False,True,False,True,Drugs
+"Globus Medical, Inc.",GLOBUS MEDICAL,matched,171002,GLOBUS MEDICAL INC,1,False,2,2013-09-26,2024-07-15,True,False,False,True,Devices
+Granules India Limited,GRANULES INDIA,matched,257195,GRANULES INDIA LTD,1,False,1,2025-02-26,2025-02-26,False,True,False,True,Drugs
+Gsk,GSK,matched,005180,GSK PLC,1,False,1,2010-04-19,2010-04-19,False,True,False,True,Drugs
+Hanover Foods Corporation,HANOVER FOODS,matched,028730,HANOVER FOODS CORP/PA,1,False,2,2010-10-21,2021-03-26,False,False,False,False,Food/Cosmetics
+"Heartware, Inc.",HEARTWARE,matched,271794,HEARTWARE INTERNATIONAL INC,1,False,1,2014-06-02,2014-06-02,True,False,False,True,Devices
+Hill-Rom Inc,HILL ROM,matched,005639,HILL-ROM HOLDINGS INC,1,False,1,2012-03-02,2012-03-02,True,False,False,True,Devices
+"Hillestad Pharmaceuticals USA, Inc.",HILLESTAD PHARMACEUTICALS,matched,106836,HILLESTAD PHARMACEUTICALS IN,1,False,1,2013-04-17,2013-04-17,False,False,False,False,Food/Cosmetics
+"Hologic, Inc",HOLOGIC,matched,020904,HOLOGIC INC,1,False,1,2024-12-18,2024-12-18,True,False,False,True,Devices
+"Hooper Holmes, Inc.",HOOPER HOLMES,matched,005697,HOOPER HOLMES INC,1,False,1,2010-12-22,2010-12-22,True,False,False,True,Devices
+Horizon Air Industries Inc,HORIZON AIR INDUSTRIES,matched,005701,HORIZON AIR INDUSTRIES INC,1,False,1,2016-05-13,2016-05-13,False,False,False,False,Food/Cosmetics
+Hospira Inc,HOSPIRA,matched,160255,HOSPIRA INC,1,False,1,2009-08-12,2009-08-12,True,False,False,True,Devices
+"Hospira, Inc.",HOSPIRA,matched,160255,HOSPIRA INC,1,False,4,2010-04-12,2017-02-14,True,True,False,True,Devices; Drugs
+ICU Medical Inc.,ICU MEDICAL,matched,025110,ICU MEDICAL INC,1,False,2,2021-10-01,2025-04-04,True,False,False,True,Devices
+"ICU Medical, Inc.",ICU MEDICAL,matched,025110,ICU MEDICAL INC,1,False,3,2010-04-12,2013-05-09,True,True,False,True,Devices; Drugs
+Illinois Tool Works Inc,ILLINOIS TOOL WORKS,matched,005878,ILLINOIS TOOL WORKS,1,False,1,2016-10-19,2016-10-19,False,True,False,True,Drugs
+"Impax Laboratories, LLC.",IMPAX LABORATORIES,matched,061745,IMPAX LABORATORIES INC,1,False,1,2011-05-31,2011-05-31,False,True,False,True,Drugs
+Insulet Corporation,INSULET,matched,177227,INSULET CORP,1,False,1,2015-06-05,2015-06-05,True,False,False,True,Devices
+Integra LifeSciences Corporation,INTEGRA LIFESCIENCES,matched,061181,INTEGRA LIFESCIENCES HOLDNGS,1,False,2,2011-12-21,2024-12-19,True,False,False,True,Devices
+"Intuitive Surgical, Inc.",INTUITIVE SURGICAL,matched,136725,INTUITIVE SURGICAL INC,1,False,1,2013-07-16,2013-07-16,True,False,False,True,Devices
+Invacare Corporation,INVACARE,matched,006158,INVACARE CORP,1,False,2,2010-12-15,2021-11-18,True,False,False,True,Devices
+J.M. Smucker LLC,J M SMUCKER,matched,009777,SMUCKER (JM) CO,1,False,1,2023-01-24,2023-01-24,False,False,False,False,Food/Cosmetics
+"Jazz Pharmaceuticals, Inc",JAZZ PHARMACEUTICALS,matched,177287,JAZZ PHARMACEUTICALS PLC,1,True,3,2010-07-06,2012-09-18,False,True,False,True,Drugs
+"Kaleido Biosciences, Inc.",KALEIDO BIOSCIENCES,matched,034640,KALEIDO BIOSCIENCES INC,1,False,1,2021-08-26,2021-08-26,False,True,False,True,Drugs
+Kerr Corporation,KERR,matched,006402,KERR GROUP INC,1,False,1,2012-07-17,2012-07-17,True,False,False,True,Devices
+Kerry Inc,KERRY,matched,100801,KERRY GROUP PLC,1,True,1,2018-07-27,2018-07-27,False,False,False,False,Food/Cosmetics
+Kerry Inc.,KERRY,matched,100801,KERRY GROUP PLC,1,True,2,2009-11-13,2019-04-02,False,False,False,False,Food/Cosmetics
+Kimberly-Clark Corporation,KIMBERLY CLARK,matched,006435,KIMBERLY-CLARK CORP,1,False,1,2012-08-08,2012-08-08,True,False,False,True,Devices
+LCA Vision Inc,LCA VISION,matched,061900,LCA VISION INC,1,False,1,2009-10-30,2009-10-30,True,False,False,True,Devices
+LCA Vision Inc.,LCA VISION,matched,061900,LCA VISION INC,1,False,2,2009-10-09,2009-10-09,True,False,False,True,Devices
+"LCA Vision, Inc",LCA VISION,matched,061900,LCA VISION INC,1,False,1,2009-10-09,2009-10-09,True,False,False,True,Devices
+LCC Ltd.,LCC,matched,063635,LCC INTERNATIONAL INC  -CL A,1,True,2,2023-08-03,2024-11-22,False,True,False,True,Drugs
+"Lannett Company, Inc.",LANNETT,matched,022632,LANNETT CO INC,1,False,1,2009-03-30,2009-03-30,False,True,False,True,Drugs
+"LeMaitre Vascular, Inc.",LEMAITRE VASCULAR,matched,174390,LEMAITRE VASCULAR INC,1,False,2,2010-05-11,2025-08-11,True,False,False,True,Devices
+LifeCell Corp,LIFECELL,matched,024982,LIFECELL CORP,1,False,1,2015-06-01,2015-06-01,True,False,False,True,Devices
+LifeCell Corporation,LIFECELL,matched,024982,LIFECELL CORP,1,False,2,2008-10-10,2011-05-06,True,False,False,True,Devices
+Lifevantage Corp,LIFEVANTAGE,matched,025027,LIFEVANTAGE CORP,1,False,1,2017-04-17,2017-04-17,False,True,False,True,Drugs; Food/Cosmetics
+"Lifeway Foods, Inc.",LIFEWAY FOODS,matched,015087,LIFEWAY FOODS INC,1,False,1,2011-02-18,2011-02-18,False,False,False,False,Food/Cosmetics
+Lincare Inc,LINCARE,matched,025062,LINCARE HOLDINGS INC,1,False,1,2016-04-25,2016-04-25,False,True,False,True,Drugs
+LivaNova USA Inc.,LIVANOVA,matched,027810,LIVANOVA PLC,1,True,1,2015-12-29,2015-12-29,True,False,False,True,Devices
+Loreal,LOREAL,matched,100581,LOREAL SA,1,False,1,2015-02-12,2015-02-12,False,False,False,False,Food/Cosmetics
+Luminex Corporation,LUMINEX,matched,133504,LUMINEX CORP,1,False,3,2009-05-14,2020-06-26,True,False,False,True,Devices
+MIT,MIT,matched,176745,MIT HOLDING INC,1,False,1,2024-06-21,2024-06-21,False,False,True,True,Biologics
+MannKind Corporation,MANNKIND,matched,160340,MANNKIND CORP,1,False,1,2018-10-05,2018-10-05,False,True,False,True,Drugs
+Mannatech Inc,MANNATECH,matched,112968,MANNATECH INC,1,False,1,2017-11-14,2017-11-14,False,False,False,False,Food/Cosmetics
+Market America Inc,MARKET AMERICA,matched,031057,MARKET AMERICA INC,1,False,1,2020-02-12,2020-02-12,False,False,False,False,Food/Cosmetics
+Masimo Corporation,MASIMO,matched,177881,MASIMO CORP,1,False,1,2014-08-13,2014-08-13,True,False,False,True,Devices
+"Matrixx Initiatives, Inc.",MATRIXX INITIATIVES,matched,062700,MATRIXX INITIATIVES INC,1,False,2,2009-06-16,2011-06-03,False,True,False,True,Drugs
+McKesson,MCKESSON,matched,007171,MCKESSON CORP,1,False,1,2019-02-07,2019-02-07,False,True,False,True,Drugs
+McKesson Corporation,MCKESSON,matched,007171,MCKESSON CORP,1,False,1,2020-01-29,2020-01-29,False,False,False,False,Veterinary
+"Measurement Specialties, Inc.",MEASUREMENT SPECIALTIES,matched,012236,MEASUREMENT SPECIALTIES INC,1,False,1,2011-10-12,2011-10-12,True,False,False,True,Devices
+MedX Health Corp,MEDX HEALTH,matched,164696,MEDX HEALTH CORP,1,False,1,2014-09-11,2014-09-11,True,False,False,True,Devices
+Medical Innovations,MEDICAL INNOVATIONS,matched,015852,MEDICAL INNOVATIONS INC,1,False,1,2014-05-12,2014-05-12,True,False,False,True,Devices
+Medivators Inc,MEDIVATORS,matched,024498,MEDIVATORS INC,1,False,1,2009-07-31,2009-07-31,True,False,False,True,Devices
+"Medline Industries, LP",MEDLINE INDUSTRIES,matched,007224,MEDLINE INDUSTRIES INC,1,False,4,2010-03-12,2026-05-28,True,True,False,True,Devices; Drugs
+"Medtronic, Inc.",MEDTRONIC,matched,007228,MEDTRONIC PLC,1,True,2,2009-11-09,2018-07-30,True,False,False,True,Devices
+Merck & Co Inc,MERCK AND,matched,007257,MERCK & CO INC,1,False,1,2012-02-17,2012-02-17,False,True,False,True,Drugs
+Merck & Co. Inc,MERCK AND,matched,007257,MERCK & CO INC,1,False,1,2010-03-12,2010-03-12,False,False,False,False,Veterinary
+Merck Serono SA,MERCK SERONO,matched,102045,MERCK SERONO SA,1,False,1,2011-12-15,2011-12-15,False,True,False,True,Drugs
+"Merge Healthcare, Inc.",MERGE HEALTHCARE,matched,066630,MERGE HEALTHCARE INC,1,False,1,2015-09-30,2015-09-30,True,False,False,True,Devices
+"MiMedx Group, Inc.",MIMEDX,matched,178157,MIMEDX GROUP INC,1,False,1,2023-12-20,2023-12-20,False,False,True,True,Biologics
+Micro Labs Limited,MICRO LABS,matched,107413,MICRO LABS INC,1,True,1,2015-01-09,2015-01-09,False,True,False,True,Drugs
+Momentum,MOMENTUM,matched,021092,MOMENTUM CORP,1,False,1,2026-06-08,2026-06-08,False,True,False,True,Drugs
+Moog Inc,MOOG,matched,007549,MOOG INC  -CL A,1,False,1,2011-04-20,2011-04-20,True,False,False,True,Devices
+Nature'S Sunshine Products Inc,NATURE S SUNSHINE PRODUCTS,matched,007799,NATURES SUNSHINE PRODS INC,1,False,1,2009-06-05,2009-06-05,False,False,False,False,Food/Cosmetics
+Natus Medical Incorporated,NATUS MEDICAL,matched,144436,NATUS MEDICAL INC,1,False,1,2015-04-10,2015-04-10,True,False,False,True,Devices
+Neogen Corporation,NEOGEN,matched,016453,NEOGEN CORP,1,False,1,2016-01-26,2016-01-26,False,False,False,False,Veterinary
+"Nephros, Inc.",NEPHROS,matched,151423,NEPHROS INC,1,False,1,2015-05-27,2015-05-27,True,False,False,True,Devices
+Nestle USA,NESTLE,matched,016603,NESTLE SA/AG,1,False,1,2009-12-04,2009-12-04,False,False,False,False,Food/Cosmetics
+"North West Company International, Inc.",NORTH WEST,matched,023994,NORTH WEST CO INC,1,False,1,2011-08-08,2011-08-08,False,False,False,False,Food/Cosmetics
+"Noven Pharmaceuticals, Inc.",NOVEN PHARMACEUTICALS,matched,014918,NOVEN PHARMACEUTICALS INC,1,False,2,2011-08-25,2016-08-05,False,True,False,True,Drugs
+Novo Nordisk A/S,NOVO NORDISK A S,matched,008020,NOVO NORDISK A/S,1,False,1,2012-12-12,2012-12-12,False,True,False,True,Drugs
+NuVasive Inc,NUVASIVE,matched,264385,NUVASIVE INC,1,False,1,2013-03-12,2013-03-12,True,False,False,True,Devices
+Nutra Pharma Corporation,NUTRA PHARMA,matched,145206,NUTRA PHARMA CORP,1,False,1,2019-03-11,2019-03-11,False,True,False,True,Drugs
+"NutraStar, Inc.",NUTRASTAR,matched,158133,NUTRASTAR INTERNATIONAL INC,1,False,1,2013-08-02,2013-08-02,False,False,False,False,Food/Cosmetics
+Ocular Therapeutix Inc.,OCULAR THERAPEUTIX,matched,021015,OCULAR THERAPEUTIX INC,1,False,1,2020-09-02,2020-09-02,True,False,False,True,Devices
+Option Care,OPTION CARE,matched,025168,OPTION CARE INC,1,False,2,2015-08-27,2016-10-19,False,True,False,True,Drugs
+"OraLabs, Incorporated",ORALABS,matched,009413,ORALABS HOLDING CORP,1,False,1,2026-03-11,2026-03-11,False,True,False,True,Drugs
+Ortho Clinical Diagnostics Gmbh,ORTHO CLINICAL DIAGNOSTICS,matched,037680,ORTHO CLINICAL DIAG HLDG PLC,1,False,1,2015-09-03,2015-09-03,True,False,False,True,Devices
+"Orthosoft, Inc.",ORTHOSOFT,matched,158599,ORTHOSOFT INC,1,False,1,2016-05-27,2016-05-27,True,False,False,True,Devices
+"Outset Medical, Inc.",OUTSET MEDICAL,matched,036885,OUTSET MEDICAL INC,1,False,1,2023-07-05,2023-07-05,True,False,False,True,Devices
+"PERFORMANCE FOOD GROUP, INC.",PERFORMANCE FOOD,matched,028787,PERFORMANCE FOOD GROUP CO,1,False,1,2010-12-23,2010-12-23,False,False,False,False,Food/Cosmetics
+PRONET,PRONET,matched,013628,PRONET INC,1,False,1,2012-09-18,2012-09-18,False,True,False,True,Drugs
+Penumbra Inc.,PENUMBRA,matched,026147,PENUMBRA INC,1,False,1,2009-12-31,2009-12-31,True,False,False,True,Devices
+Pfizer Inc.,PFIZER,matched,008530,PFIZER INC,1,False,2,2010-05-26,2012-05-24,False,True,False,True,Drugs
+"Pfizer, Inc.",PFIZER,matched,008530,PFIZER INC,1,False,1,2010-04-09,2010-04-09,False,True,False,True,Drugs
+"PotNetwork Holdings, Inc.",POTNETWORK,matched,019751,POTNETWORK HOLDINGS INC,1,False,1,2019-03-28,2019-03-28,False,False,False,False,Food/Cosmetics
+"Power Medical Interventions, Inc",POWER MEDICAL INTERVENTIONS,matched,178722,POWER MEDICAL INTERVENTIONS,1,False,1,2008-10-21,2008-10-21,True,False,False,True,Devices
+Prostar Inc.,PROSTAR,matched,183664,PROSTAR HOLDINGS INC,1,False,1,2011-05-19,2011-05-19,False,False,False,False,Food/Cosmetics
+Purcell International,PURCELL,matched,008825,PURCELL CO INC,1,False,1,2024-11-05,2024-11-05,False,False,False,False,Food/Cosmetics
+QUANTA INC,QUANTA,matched,034011,QUANTA INC,1,False,1,2023-04-19,2023-04-19,False,True,False,True,Drugs
+QUANTA INC.,QUANTA,matched,034011,QUANTA INC,1,False,1,2023-04-19,2023-04-19,False,True,False,True,Drugs
+Radnostix,RADNOSTIX,matched,065280,RADNOSTIX INC,1,False,1,2011-10-26,2011-10-26,False,True,False,True,Drugs
+Reser's Fine Foods Inc.,RESER S FINE FOODS,matched,009075,RESER'S FINE FOODS INC,1,False,1,2016-07-01,2016-07-01,False,False,False,False,Food/Cosmetics
+"Reser's Fine Foods, Inc.",RESER S FINE FOODS,matched,009075,RESER'S FINE FOODS INC,1,False,1,2013-11-01,2013-11-01,False,False,False,False,Food/Cosmetics
+Ridley USA Inc.,RIDLEY,matched,065238,RIDLEY INC,1,False,1,2017-08-03,2017-08-03,False,False,False,False,Veterinary
+Riser Foods Company,RISER FOODS,matched,014792,RISER FOODS INC  -CL A,1,False,1,2013-05-22,2013-05-22,False,False,False,False,Food/Cosmetics
+Rite Aid Corporation,RITE AID,matched,009155,RITE AID CORP,1,False,1,2022-10-19,2022-10-19,False,True,False,True,Drugs
+Salix Pharmaceuticals Inc,SALIX PHARMACEUTICALS,matched,062977,SALIX PHARMACEUTICALS LTD,1,True,1,2010-03-19,2010-03-19,False,True,False,True,Drugs
+Sandoz Incorporated,SANDOZ,matched,043362,SANDOZ GROUP AG,1,True,1,2011-11-18,2011-11-18,False,True,False,True,Drugs
+"Scotty's, Inc.",SCOTTY S,matched,009522,SCOTTY'S INC,1,False,1,2009-11-09,2009-11-09,False,False,False,False,Food/Cosmetics
+"Sea World, LLC",SEA WORLD,matched,009536,SEA WORLD INC,1,False,1,2012-05-02,2012-05-02,False,False,False,False,Food/Cosmetics
+"Sientra, Inc",SIENTRA,matched,022037,SIENTRA INC,1,False,1,2019-03-18,2019-03-18,True,False,False,True,Devices
+Sintx Technologies Inc,SINTX TECHNOLOGIES,matched,177981,SINTX TECHNOLOGIES INC,1,False,1,2009-01-27,2009-01-27,True,False,False,True,Devices
+Smith & Nephew Inc.,SMITH AND NEPHEW,matched,101317,SMITH & NEPHEW PLC,1,True,1,2015-04-30,2015-04-30,True,False,False,True,Devices
+"Smith & Nephew, Inc.",SMITH AND NEPHEW,matched,101317,SMITH & NEPHEW PLC,1,True,1,2014-06-11,2014-06-11,True,False,False,True,Devices
+"Snyder's Lance, Inc.",SNYDER S LANCE,matched,006574,SNYDERS-LANCE INC,1,False,1,2017-10-04,2017-10-04,False,False,False,False,Food/Cosmetics
+Spectranetics Corporation,SPECTRANETICS,matched,024853,SPECTRANETICS CORP,1,False,1,2016-05-23,2016-05-23,True,False,False,True,Devices
+"Spinal Elements, Inc",SPINAL ELEMENTS,matched,037043,SPINAL ELEME HOLDI INC -REDH,1,False,1,2014-06-12,2014-06-12,True,False,False,True,Devices
+St. Jude Medical,ST JUDE MEDICAL,matched,009372,ST JUDE MEDICAL INC,1,False,3,2009-04-17,2015-09-30,True,False,False,True,Devices
+Staar Surgical Company,STAAR SURGICAL,matched,009969,STAAR SURGICAL CO,1,False,1,2014-05-21,2014-05-21,True,False,False,True,Devices
+Staples Inc.,STAPLES,matched,015521,STAPLES INC,1,False,1,2012-03-07,2012-03-07,False,False,False,False,Food/Cosmetics
+Steris Corporation,STERIS,matched,025313,STERIS PLC,1,True,1,2011-02-09,2011-02-09,True,False,False,True,Devices
+Stryker Corporation,STRYKER,matched,010115,STRYKER CORP,1,False,1,2013-03-06,2013-03-06,True,False,False,True,Devices
+"Sumitomo Chemical Co., Ltd.",SUMITOMO CHEMICAL,matched,100689,SUMITOMO CHEMICAL CO LTD,1,False,1,2009-08-24,2009-08-24,False,True,False,True,Drugs
+"Summer Infant, Inc.",SUMMER INFANT,matched,176874,SUMMER INFANT INC,1,False,1,2010-08-12,2010-08-12,True,False,False,True,Devices
+Sunrise International Group,SUNRISE,matched,108397,SUNRISE INTL INC,1,False,1,2021-05-07,2021-05-07,False,False,False,False,Food/Cosmetics
+"Symmetry Medical USA, Inc",SYMMETRY MEDICAL,matched,160600,SYMMETRY MEDICAL INC,1,False,1,2009-10-07,2009-10-07,True,False,False,True,Devices
+"Symmetry Surgical, Inc.",SYMMETRY SURGICAL,matched,022330,SYMMETRY SURGICAL INC,1,False,1,2009-10-07,2009-10-07,True,False,False,True,Devices
+SynCardia Systems LLC,SYNCARDIA SYSTEMS,matched,026196,SYNCARDIA SYSTEMS INC  -REDH,1,False,1,2018-04-03,2018-04-03,True,False,False,True,Devices
+Synbiotics Limited,SYNBIOTICS,matched,010237,SYNBIOTICS CORP,1,True,1,2010-12-16,2010-12-16,False,True,False,True,Drugs
+TELEMED,TELEMED,matched,010409,TELEMED CORP,1,False,1,2017-11-14,2017-11-14,True,False,False,True,Devices
+TLC Vision Corporation,TLC VISION,matched,062465,TLC VISION CORP,1,False,1,2010-04-20,2010-04-20,True,False,False,True,Devices
+Takeda Pharmaceutical Company Limited,TAKEDA PHARMACEUTICAL,matched,100718,TAKEDA PHARMACEUTICAL CO LTD,1,False,1,2020-06-10,2020-06-10,False,True,False,True,Drugs
+Tercica,TERCICA,matched,156293,TERCICA INC,1,False,1,2010-11-02,2010-11-02,False,True,False,True,Drugs
+Teva Pharmaceutical Industries,TEVA PHARMACEUTICAL INDUSTRIES,matched,014538,TEVA PHARMACEUTICALS,1,False,1,2011-01-31,2011-01-31,False,True,False,True,Drugs
+"The Cherry Co., Ltd.",CHERRY,matched,002975,CHERRY CORP,1,True,1,2011-09-12,2011-09-12,False,False,False,False,Food/Cosmetics
+The Coca-Cola Company,COCA COLA,matched,003144,COCA-COLA CO,1,False,1,2008-12-10,2008-12-10,False,False,False,False,Food/Cosmetics
+"The Hain Celestial Group, Inc",HAIN CELESTIAL,matched,029609,HAIN CELESTIAL GROUP INC,1,False,1,2010-02-22,2010-02-22,False,False,False,False,Food/Cosmetics
+"The Hain Celestial Group, Inc.",HAIN CELESTIAL,matched,029609,HAIN CELESTIAL GROUP INC,1,False,1,2010-12-03,2010-12-03,False,False,False,False,Food/Cosmetics
+The Hershey Company,HERSHEY,matched,005597,HERSHEY CO,1,False,1,2012-02-14,2012-02-14,False,False,False,False,Food/Cosmetics
+The Kroger Co.,KROGER,matched,006502,KROGER CO,1,False,1,2025-12-12,2025-12-12,False,False,False,False,Food/Cosmetics
+"The Lennox International, Inc",LENNOX,matched,122380,LENNOX INTERNATIONAL INC,1,False,1,2020-09-29,2020-09-29,False,False,False,False,Veterinary
+The Procter & Gamble Co.,PROCTER AND GAMBLE,matched,008762,PROCTER & GAMBLE CO,1,False,1,2009-10-29,2009-10-29,False,True,False,True,Drugs
+The Quaker Oats Co.,QUAKER OATS,matched,008852,QUAKER OATS CO,1,False,1,2024-06-12,2024-06-12,False,False,False,False,Food/Cosmetics
+Thoratec LLC,THORATEC,matched,010550,THORATEC CORP,1,False,1,2012-01-03,2012-01-03,True,False,False,True,Devices
+Tropic Trading Co.,TROPIC TRADING,matched,026120,TROPIC TRADING LTD,1,True,1,2021-12-06,2021-12-06,False,False,False,False,Food/Cosmetics
+"US Foods, Inc.",FOODS,matched,018312,US FOODS HOLDING CORP,1,False,1,2013-06-04,2013-06-04,False,False,False,False,Food/Cosmetics
+Us Lab Research,LAB RESEARCH,matched,175321,LAB RESEARCH INC,1,False,1,2009-01-06,2009-01-06,False,True,False,True,Drugs
+"Varian Medical Systems, Inc.",VARIAN MEDICAL SYSTEMS,matched,011115,VARIAN MEDICAL SYSTEMS INC,1,False,1,2010-05-17,2010-05-17,True,False,False,True,Devices
+Virbac Corporation,VIRBAC,matched,030451,VIRBAC CORP,1,False,2,2008-12-10,2015-12-18,False,False,False,False,Veterinary
+"Vita Food Products, Inc.",VITA FOOD PRODUCTS,matched,064760,VITA FOOD PRODUCTS INC,1,False,1,2015-02-18,2015-02-18,False,False,False,False,Food/Cosmetics
+Vitality Products Company Inc.,VITALITY PRODUCTS,matched,108767,VITALITY PRODUCTS INC,1,False,1,2010-11-01,2010-11-01,False,False,False,False,Food/Cosmetics
+"Vivos Therapeutics, Inc.",VIVOS THERAPEUTICS,matched,037290,VIVOS THERAPEUTICS INC,1,False,1,2018-01-12,2018-01-12,True,False,False,True,Devices
+WESTMINSTER INTERNATIONAL,WESTMINSTER,matched,011438,WESTMINSTER CORP,1,False,1,2021-03-04,2021-03-04,True,False,False,True,Devices
+Walmart Inc.,WALMART,matched,011259,WALMART INC,1,False,1,2025-12-12,2025-12-12,False,False,False,False,Food/Cosmetics
+Whole Foods Market Group Inc.,WHOLE FOODS MARKET,matched,024893,WHOLE FOODS MARKET INC,1,False,1,2016-06-08,2016-06-08,False,False,False,False,Food/Cosmetics
+"XTANT Medical Holdings, Inc",XTANT MEDICAL,matched,185193,XTANT MEDICAL HOLDINGS INC,1,False,2,2013-01-28,2013-01-28,True,False,False,True,Devices
+Xanodyne Pharmaceuticals Inc,XANODYNE PHARMACEUTICALS,matched,179833,XANODYNE PHARMACEUTICLS-REDH,1,False,1,2009-03-30,2009-03-30,False,True,False,True,Drugs
+ZOLL Medical Corporation,ZOLL MEDICAL,matched,025579,ZOLL MEDICAL CORP,1,False,3,2010-09-30,2026-04-30,True,False,False,True,Devices
+"Zevex, Inc.",ZEVEX,matched,023387,ZEVEX INTERNATIONAL INC,1,False,1,2011-04-20,2011-04-20,True,False,False,True,Devices
+Zoll Medical Corporation,ZOLL MEDICAL,matched,025579,ZOLL MEDICAL CORP,1,False,1,2010-02-05,2010-02-05,True,False,False,True,Devices
+"bioMerieux, Inc.",BIOMERIEUX,matched,270578,BIOMERIEUX SA,1,True,1,2012-08-23,2012-08-23,True,False,False,True,Devices
+"iSatori, Inc.",ISATORI,matched,171057,ISATORI INC,1,False,1,2012-04-24,2012-04-24,False,False,False,False,Food/Cosmetics

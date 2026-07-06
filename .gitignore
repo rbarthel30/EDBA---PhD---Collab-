@@ -14,10 +14,16 @@ data/processed/**
 # FDA Warning Letters are public U.S. government data — always shareable.
 !data/raw/fda_warning_letters_*.xlsx
 !data/processed/fda_warning_letters_*.csv
-# Warning-letter <-> Compustat gvkey crosswalk and the unmatched recipient list.
+# FDA Data Dashboard compliance actions (full warning-letter history, FY2009+).
+!data/raw/fda_compliance_actions_*.csv
+!data/processed/fda_compliance_actions_*.csv
+# Warning-letter <-> Compustat gvkey crosswalks and unmatched recipient lists.
 # Compustat-DERIVED (gvkey + a few company names); kept out of any PUBLIC repo.
 !data/processed/warning_letter_gvkey_crosswalk_*.csv
 !data/processed/warning_letter_unmatched_*.csv
+!data/processed/compliance_actions_gvkey_crosswalk_*.csv
+!data/processed/compliance_actions_unmatched_*.csv
+!data/processed/compliance_actions_fuzzy_candidates_*.csv
 
 # Allow small reference tables in data/external/ but ignore large blobs
 data/external/*.dta

@@ -6,13 +6,21 @@ This file lists every data source the project draws on, how to get it, and how i
 
 ## FDA Sources
 
-### 1. FDA Warning Letters
+### 1. FDA Compliance Actions — full warning-letter history *(primary event source)*
+- **URL:** https://datadashboard.fda.gov/oii/cd/complianceactions.htm (FDA Data Dashboard)
+- **Coverage:** **All Warning Letters, Seizures, and Injunctions from October 2008 (FY2009) to the present**, all FDA product areas. ~174,000 warning letters in the raw snapshot, of which ~4,900 rows (~4,700 unique letters) are to **device, drug, or biologics** firms. ⚠️ The **processed file drops the ~165k tobacco-retailer letters** (design decision 2026-07-06; the raw snapshot keeps them). Updated weekly; final actions only.
+- **Access:** Public. Two routes: the documented **API** (https://api-datadashboard.fda.gov/v1/compliance_actions; free authorization key via the "OII Unified Logon" link on the dashboard page) or the dashboard's **Download Dataset → Entire Dataset** button.
+- **How we pull it:** [`scripts/03_fetch_fda_compliance_actions.py`](../scripts/03_fetch_fda_compliance_actions.py); full walkthrough in [`fda_compliance_actions_replication_instructions.md`](fda_compliance_actions_replication_instructions.md). Industry flags come from **FDA's own Product Type field** (no keyword inference).
+- **Key fields:** FEI Number, Legal Name, State, Country/Area, Product Type, Action Taken Date, Action Type, Case/Injunction ID.
+- **Use:** Primary treatment variable — the event sample of FDA warning letters to medtech/pharma firms. ⚠️ Count letters by unique `Case/Injunction ID`, not rows (one letter can span establishments/product types).
+
+### 1a. FDA Warning Letters — website snapshot (subject lines & letter links)
 - **URL:** https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/compliance-actions-and-activities/warning-letters
-- **Coverage:** The online database currently lists **~3,500 warning letters** across all FDA centers. The reliable scriptable export returns only the **most recent ~1,000** (currently reaching back to ~2021). Older letters are **not** available through any stable bulk download; back-fill options (FOIA / FDAzilla / a maintained browser harness) are documented in the replication doc.
+- **Coverage:** The reliable scriptable export returns only the **most recent ~1,000 letters** (currently reaching back to ~2021). Superseded as the event source by the Data Dashboard (source 1), but still valuable for what the dashboard lacks: **subject lines, response/closeout-letter indicators, and links to letter text** for recent letters.
 - **Access:** Public, but **not in openFDA** (which has no warning-letters dataset). We download the website's `…/warning-letters/datatables-data` Excel export directly. ⚠️ That endpoint requires the HTTP header `X-Requested-With: XMLHttpRequest`, or it silently returns an empty spreadsheet.
 - **How we pull it:** [`scripts/01_fetch_fda_warning_letters.py`](../scripts/01_fetch_fda_warning_letters.py); full walkthrough in [`fda_warning_letters_replication_instructions.md`](fda_warning_letters_replication_instructions.md). The script also flags the medical-device subset (issuing office + subject keywords).
 - **Key fields (as exported):** Posted Date, Letter Issue Date, Company Name, Issuing Office, Subject, Response Letter, Closeout Letter.
-- **Use:** Primary treatment variable. Flag firm-quarters in which a medical device manufacturer receives a warning letter.
+- **Use:** Letter-level metadata for recent letters; join to source 1 on company name + date.
 
 ### 2. FDA Form 483 (Inspection Observations)
 - **Coverage:** Issued at the close of an FDA inspection when investigators document objectionable conditions.
@@ -80,9 +88,13 @@ This file lists every data source the project draws on, how to get it, and how i
 - File: `data/external/firm_crosswalk.csv` *(to be constructed)*
 - Built by matching firm names across EDGAR (CIK), CRSP (PERMNO), and FDA establishment registration database. Hand-validate edge cases.
 
-### 14. Warning Letter → gvkey Crosswalk *(built)*
+### 14. Warning Letter → gvkey Crosswalk *(built; superseded by #15)*
 - Files: `data/processed/warning_letter_gvkey_crosswalk_<date>.csv` (matched) and `warning_letter_unmatched_<date>.csv` (for manual linking). Tracked in this private repo; the full Compustat master they derive from stays gitignored.
 - Links FDA warning-letter company names to Compustat `gvkey` via WRDS, conservative exact-ish match. See [`warning_letter_gvkey_crosswalk_replication_instructions.md`](warning_letter_gvkey_crosswalk_replication_instructions.md).
+
+### 15. Compliance Actions → gvkey Crosswalk *(built — full history + subsidiary back-fill)*
+- **Use this file:** `data/processed/compliance_actions_gvkey_crosswalk_full_<date>.csv` (script 05) — exact matches **plus** subsidiary links, with `match_source` provenance and **ownership-window columns** (`valid_from_year`/`valid_to_year`; joins must respect them). Intermediate files: `compliance_actions_gvkey_crosswalk_<date>.csv` (script 04, exact only), `compliance_actions_unmatched_remaining_<date>.csv`, and `compliance_actions_fuzzy_candidates_<date>.csv` (manual accept/reject worklist).
+- Conservative exact matching (script 04) + tiered subsidiary recovery (script 05) using hand-curated crosswalks imported from Ryan's Clinical Trial Disclosure project (`data/external/ct_*.csv`). First run (2026-07-06): **241 unique public firms, 367 letters covered** (199 firms/266 letters from exact matching alone); 39 parent-prefix matches flagged for review; 4,123 names unmatched. See [`compliance_actions_gvkey_crosswalk_replication_instructions.md`](compliance_actions_gvkey_crosswalk_replication_instructions.md), Section 5.
 
 ---
 
@@ -91,6 +103,8 @@ This file lists every data source the project draws on, how to get it, and how i
 | Source | Owner | Status | Date |
 |---|---|---|---|
 | FDA Warning Letters (most-recent ~1,000 snapshot) | Ryan | ✅ Done — see [`fda_warning_letters_replication_instructions.md`](fda_warning_letters_replication_instructions.md) | 2026-06-08 |
+| FDA Compliance Actions — full history FY2009+ (Data Dashboard) | Ryan | ✅ Done — see [`fda_compliance_actions_replication_instructions.md`](fda_compliance_actions_replication_instructions.md); API key request pending | 2026-07-06 |
+| Compliance Actions → gvkey crosswalk (full history) | Ryan | ✅ Done — 241 public firms, 367 letters after subsidiary back-fill; Tier B review + 147-row fuzzy worklist remain | 2026-07-06 |
 | FDA 510(k) database | Ryan | TODO | — |
 | MAUDE | TBD | TODO | — |
 | EDGAR (10-K, 8-K) | Ryan | TODO | — |
