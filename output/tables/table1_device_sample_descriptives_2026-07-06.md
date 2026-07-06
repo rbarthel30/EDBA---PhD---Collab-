@@ -1,0 +1,14 @@
+# Table 1. Descriptive statistics — linked medical-device warning-letter sample
+
+| Statistic                                        | Value                     |
+|:-------------------------------------------------|:--------------------------|
+| Number of warning letters                        | 195                       |
+| Number of unique firms                           | 139                       |
+| Firm market capitalization ($M), mean            | 6,649                     |
+| Firm market capitalization ($M), median          | 1,329                     |
+| Firm total assets ($M), mean                     | 5,946                     |
+| Firm total assets ($M), median                   | 439                       |
+| Share of US medical-device market capitalization | 61.4%                     |
+| Sample period                                    | October 2008 – April 2026 |
+
+*Notes:* This table describes the analysis sample: FDA warning letters classified by the FDA as medical-device actions whose recipient is linked to a Compustat firm (gvkey) in the project crosswalk, inclusive of matches flagged for manual review; ownership windows are respected, so a letter links to the firm that owned the recipient in the letter year. Letters are counted by unique FDA Case/Injunction ID. Market capitalization (fiscal year-end close price times common shares outstanding) and total assets are measured at the last fiscal year-end before the firm's first letter, in $ millions (81 and 83 of the firms have usable pre-letter data; the remainder are foreign parents or firms whose Compustat coverage does not span the letter date). The market-cap share is the treated firms' current market capitalization as a fraction of the US medical-device universe: 30 treated firms of the 182 US-incorporated Compustat firms with primary SIC 3841–3845 and a market cap at their latest fiscal year-end. Sources: FDA Data Dashboard compliance actions; Compustat via WRDS.
