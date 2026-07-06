@@ -14,10 +14,10 @@ This file lists every data source the project draws on, how to get it, and how i
 - **Key fields:** FEI Number, Legal Name, State, Country/Area, Product Type, Action Taken Date, Action Type, Case/Injunction ID.
 - **Use:** Primary treatment variable — the event sample of FDA warning letters to medtech/pharma firms. ⚠️ Count letters by unique `Case/Injunction ID`, not rows (one letter can span establishments/product types).
 
-### 1a. FDA Warning Letters — website snapshot *(retired as a dataset; script kept)*
+### 1a. FDA Warning Letters — website snapshot *(retired 2026-07-06)*
 - **URL:** https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/compliance-actions-and-activities/warning-letters
-- **Status:** The 2026-06-08 snapshot and its replication doc were **removed from the repo (2026-07-06)** — superseded by the Data Dashboard (source 1). [`scripts/01_fetch_fda_warning_letters.py`](../scripts/01_fetch_fda_warning_letters.py) is kept and can regenerate a fresh snapshot if letter-level metadata is needed: the website export (most recent ~1,000 letters only) carries **subject lines, response/closeout-letter indicators, and letter links** that the dashboard lacks.
-- **Gotcha (if re-running):** the `…/warning-letters/datatables-data` export endpoint requires the HTTP header `X-Requested-With: XMLHttpRequest`, or it silently returns an empty spreadsheet.
+- **Status:** Fully removed from the repo (datasets, docs, and scripts 01/02) — superseded by the Data Dashboard (source 1). Recoverable from git history (commit `eb1e838`) if ever needed. The website export (most recent ~1,000 letters only) is still the place to get **subject lines, response/closeout-letter indicators, and letter links**, which the dashboard lacks.
+- **Gotcha (if ever re-implementing):** the `…/warning-letters/datatables-data` export endpoint requires the HTTP header `X-Requested-With: XMLHttpRequest`, or it silently returns an empty spreadsheet.
 
 ### 2. FDA Form 483 (Inspection Observations)
 - **Coverage:** Issued at the close of an FDA inspection when investigators document objectionable conditions.
@@ -86,7 +86,7 @@ This file lists every data source the project draws on, how to get it, and how i
 - Built by matching firm names across EDGAR (CIK), CRSP (PERMNO), and FDA establishment registration database. Hand-validate edge cases.
 
 ### 14. Warning Letter → gvkey Crosswalk *(retired; replaced by #15)*
-- The script-02 crosswalk built from the website snapshot (22 firms) was **removed from the repo (2026-07-06)** along with its replication doc — fully superseded by the full-history crosswalk in #15. [`scripts/02_link_warning_letters_to_gvkey.py`](../scripts/02_link_warning_letters_to_gvkey.py) is kept for reference; its matching philosophy lives on in scripts 04–05.
+- The script-02 crosswalk built from the website snapshot (22 firms) was **removed from the repo (2026-07-06)** along with its replication doc and script — fully superseded by the full-history crosswalk in #15, which inherits its conservative matching philosophy.
 
 ### 15. Compliance Actions → gvkey Crosswalk *(built — full history + subsidiary back-fill)*
 - **Use this file:** `data/processed/compliance_actions_gvkey_crosswalk_full_<date>.csv` (script 05) — exact matches **plus** subsidiary links, with `match_source` provenance and **ownership-window columns** (`valid_from_year`/`valid_to_year`; joins must respect them). Intermediate files: `compliance_actions_gvkey_crosswalk_<date>.csv` (script 04, exact only), `compliance_actions_unmatched_remaining_<date>.csv`, and `compliance_actions_fuzzy_candidates_<date>.csv` (manual accept/reject worklist).
