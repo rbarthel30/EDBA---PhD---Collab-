@@ -1,0 +1,5 @@
+﻿Group,Firms,Market cap ($M),Share of universe value,Share of universe firms
+"US medical-device universe (SIC 3841-3845, US-incorporated)",182,1149680.0,100%,100%
+  of which: treated (linked FDA device warning letter),30,706090.0,61.4%,16.5%
+"Treated firms outside the universe, still listed",22,702417.0,—,—
+Treated firms without a live market cap (delisted/acquired),87,—,—,—
