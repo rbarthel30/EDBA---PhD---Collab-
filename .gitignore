@@ -11,19 +11,18 @@ data/processed/**
 !data/processed/README.md
 
 # --- Tracked datasets (allow-list; date wildcards cover future snapshots) ---
-# FDA Warning Letters are public U.S. government data — always shareable.
-!data/raw/fda_warning_letters_*.xlsx
-!data/processed/fda_warning_letters_*.csv
 # FDA Data Dashboard compliance actions (full warning-letter history, FY2009+).
+# Public U.S. government data — always shareable.
 !data/raw/fda_compliance_actions_*.csv
 !data/processed/fda_compliance_actions_*.csv
-# Warning-letter <-> Compustat gvkey crosswalks and unmatched recipient lists.
+# Warning-letter <-> Compustat gvkey crosswalk and companion worklists.
 # Compustat-DERIVED (gvkey + a few company names); kept out of any PUBLIC repo.
-!data/processed/warning_letter_gvkey_crosswalk_*.csv
-!data/processed/warning_letter_unmatched_*.csv
 !data/processed/compliance_actions_gvkey_crosswalk_*.csv
 !data/processed/compliance_actions_unmatched_*.csv
 !data/processed/compliance_actions_fuzzy_candidates_*.csv
+# (The script-01/02 website-snapshot families — fda_warning_letters_*,
+#  warning_letter_* — were retired 2026-07-06 and are no longer allow-listed;
+#  re-running those scripts keeps their outputs local-only.)
 
 # Allow small reference tables in data/external/ but ignore large blobs
 data/external/*.dta

@@ -14,13 +14,10 @@ This file lists every data source the project draws on, how to get it, and how i
 - **Key fields:** FEI Number, Legal Name, State, Country/Area, Product Type, Action Taken Date, Action Type, Case/Injunction ID.
 - **Use:** Primary treatment variable — the event sample of FDA warning letters to medtech/pharma firms. ⚠️ Count letters by unique `Case/Injunction ID`, not rows (one letter can span establishments/product types).
 
-### 1a. FDA Warning Letters — website snapshot (subject lines & letter links)
+### 1a. FDA Warning Letters — website snapshot *(retired as a dataset; script kept)*
 - **URL:** https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/compliance-actions-and-activities/warning-letters
-- **Coverage:** The reliable scriptable export returns only the **most recent ~1,000 letters** (currently reaching back to ~2021). Superseded as the event source by the Data Dashboard (source 1), but still valuable for what the dashboard lacks: **subject lines, response/closeout-letter indicators, and links to letter text** for recent letters.
-- **Access:** Public, but **not in openFDA** (which has no warning-letters dataset). We download the website's `…/warning-letters/datatables-data` Excel export directly. ⚠️ That endpoint requires the HTTP header `X-Requested-With: XMLHttpRequest`, or it silently returns an empty spreadsheet.
-- **How we pull it:** [`scripts/01_fetch_fda_warning_letters.py`](../scripts/01_fetch_fda_warning_letters.py); full walkthrough in [`fda_warning_letters_replication_instructions.md`](fda_warning_letters_replication_instructions.md). The script also flags the medical-device subset (issuing office + subject keywords).
-- **Key fields (as exported):** Posted Date, Letter Issue Date, Company Name, Issuing Office, Subject, Response Letter, Closeout Letter.
-- **Use:** Letter-level metadata for recent letters; join to source 1 on company name + date.
+- **Status:** The 2026-06-08 snapshot and its replication doc were **removed from the repo (2026-07-06)** — superseded by the Data Dashboard (source 1). [`scripts/01_fetch_fda_warning_letters.py`](../scripts/01_fetch_fda_warning_letters.py) is kept and can regenerate a fresh snapshot if letter-level metadata is needed: the website export (most recent ~1,000 letters only) carries **subject lines, response/closeout-letter indicators, and letter links** that the dashboard lacks.
+- **Gotcha (if re-running):** the `…/warning-letters/datatables-data` export endpoint requires the HTTP header `X-Requested-With: XMLHttpRequest`, or it silently returns an empty spreadsheet.
 
 ### 2. FDA Form 483 (Inspection Observations)
 - **Coverage:** Issued at the close of an FDA inspection when investigators document objectionable conditions.
@@ -88,9 +85,8 @@ This file lists every data source the project draws on, how to get it, and how i
 - File: `data/external/firm_crosswalk.csv` *(to be constructed)*
 - Built by matching firm names across EDGAR (CIK), CRSP (PERMNO), and FDA establishment registration database. Hand-validate edge cases.
 
-### 14. Warning Letter → gvkey Crosswalk *(built; superseded by #15)*
-- Files: `data/processed/warning_letter_gvkey_crosswalk_<date>.csv` (matched) and `warning_letter_unmatched_<date>.csv` (for manual linking). Tracked in this private repo; the full Compustat master they derive from stays gitignored.
-- Links FDA warning-letter company names to Compustat `gvkey` via WRDS, conservative exact-ish match. See [`warning_letter_gvkey_crosswalk_replication_instructions.md`](warning_letter_gvkey_crosswalk_replication_instructions.md).
+### 14. Warning Letter → gvkey Crosswalk *(retired; replaced by #15)*
+- The script-02 crosswalk built from the website snapshot (22 firms) was **removed from the repo (2026-07-06)** along with its replication doc — fully superseded by the full-history crosswalk in #15. [`scripts/02_link_warning_letters_to_gvkey.py`](../scripts/02_link_warning_letters_to_gvkey.py) is kept for reference; its matching philosophy lives on in scripts 04–05.
 
 ### 15. Compliance Actions → gvkey Crosswalk *(built — full history + subsidiary back-fill)*
 - **Use this file:** `data/processed/compliance_actions_gvkey_crosswalk_full_<date>.csv` (script 05) — exact matches **plus** subsidiary links, with `match_source` provenance and **ownership-window columns** (`valid_from_year`/`valid_to_year`; joins must respect them). Intermediate files: `compliance_actions_gvkey_crosswalk_<date>.csv` (script 04, exact only), `compliance_actions_unmatched_remaining_<date>.csv`, and `compliance_actions_fuzzy_candidates_<date>.csv` (manual accept/reject worklist).
@@ -102,7 +98,7 @@ This file lists every data source the project draws on, how to get it, and how i
 
 | Source | Owner | Status | Date |
 |---|---|---|---|
-| FDA Warning Letters (most-recent ~1,000 snapshot) | Ryan | ✅ Done — see [`fda_warning_letters_replication_instructions.md`](fda_warning_letters_replication_instructions.md) | 2026-06-08 |
+| FDA Warning Letters (most-recent ~1,000 website snapshot) | Ryan | 🗑 Retired 2026-07-06 — superseded by the Data Dashboard pull; script 01 kept | 2026-06-08 |
 | FDA Compliance Actions — full history FY2009+ (Data Dashboard) | Ryan | ✅ Done — see [`fda_compliance_actions_replication_instructions.md`](fda_compliance_actions_replication_instructions.md); API key request pending | 2026-07-06 |
 | Compliance Actions → gvkey crosswalk (full history) | Ryan | ✅ Done — 241 public firms, 367 letters after subsidiary back-fill; Tier B review + 147-row fuzzy worklist remain | 2026-07-06 |
 | FDA 510(k) database | Ryan | TODO | — |

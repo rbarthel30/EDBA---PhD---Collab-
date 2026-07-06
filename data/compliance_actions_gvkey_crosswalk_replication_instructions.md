@@ -10,17 +10,26 @@ dataset (script 03; FY2009–present, all product types except tobacco, which
 script 03 drops) to **Compustat firm identifiers (`gvkey`)**, so letters can
 be joined to financial data, stock returns, and SEC filings.
 
-The matching method, philosophy, and WRDS setup are **identical to script 02** —
-read [`warning_letter_gvkey_crosswalk_replication_instructions.md`](warning_letter_gvkey_crosswalk_replication_instructions.md)
-for the full walkthrough of:
+Three standing rules, inherited from the original script-02 crosswalk:
 
-- the one-time WRDS password setup (`pgpass.conf`),
-- how the conservative exact-normalized name match works and why we refuse to guess,
-- why the full Compustat master (`data/raw/compustat_company_*.csv`) is **never
-  committed** (WRDS redistribution terms), while the small derived crosswalk is
-  tracked in this private repo.
-
-This document covers only what is **different** here.
+- **WRDS access (one-time setup).** The script connects as
+  `wrds.Connection(wrds_username="rxb1406")` (override with the
+  `WRDS_USERNAME` environment variable). The password is read automatically
+  from PostgreSQL's saved-credentials file — on Windows,
+  `%APPDATA%\postgresql\pgpass.conf`, with a line like
+  `wrds-pgdata.wharton.upenn.edu:9737:wrds:YOUR_USERNAME:YOUR_PASSWORD`.
+  The first interactive `wrds.Connection()` call offers to create this file
+  for you. No password ever appears in code or in the repo.
+- **Conservative matching — we do not guess.** Company names are normalized
+  (uppercase, punctuation stripped, corporate suffixes like Inc/Ltd/GmbH and
+  noise words removed) and a link is accepted ONLY when a normalized name
+  maps to exactly one gvkey. Names matching zero or several gvkeys stay
+  unmatched. Precision is prioritized over recall: a low match rate is the
+  correct, honest outcome, not a bug.
+- **The full Compustat master (`data/raw/compustat_company_*.csv`) is never
+  committed** — WRDS redistribution terms prohibit it, even in a private
+  repo. Collaborators regenerate it by running the script. Only the small
+  derived crosswalk (gvkeys + a few company names) is tracked here.
 
 ---
 
