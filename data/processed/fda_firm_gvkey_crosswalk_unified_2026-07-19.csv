@@ -1,0 +1,631 @@
+﻿normalized_name,firm_name_fda,gvkey,company_name_compustat,match_source,review_suggested,valid_from_year,valid_to_year,crosswalk_origin,source,n_records,match_status,n_gvkey_candidates,sic,costat,cik,cross_entity_family
+21ST CENTURY LASERMED PAIN INSTITUTE,21st Century LaserMed Pain Institute,10771.0,21ST CENTURY GROUP INC,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+NATCO PHARMA,NATCO Pharma Limited,128759.0,NATCO GROUP INC,ct_dropped_device,False,1900,2099,letter_crosswalk,,,,,,,,
+NOAH MEDICAL,Noah Medical Corporation,185783.0,NOAH HOLDINGS LIMITED,ct_dropped_device,False,1900,2099,letter_crosswalk,,,,,,,,
+NEW GENERATION WELLNESS,New Generation Wellness Inc.,121318.0,NEW GENERATION HOLDINGS INC,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+NEW ENGLAND LIFE CARE ADVANCED COMPOUNDING SOLUTIONS,"New England Life Care, Inc. dba Advanced Compounding Solutions",7836.0,NEW ENGLAND CORP,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+NESTLE,Nestle USA,16603.0,NESTLE SA/AG,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+NEPHROS,"Nephros, Inc.",151423.0,NEPHROS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+NEOGEN,Neogen Corporation,16453.0,NEOGEN CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+NATUS MEDICAL,Natus Medical Incorporated,144436.0,NATUS MEDICAL INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+NATURE S SUNSHINE PRODUCTS,Nature'S Sunshine Products Inc,7799.0,NATURES SUNSHINE PRODS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+MYLAN PHARMACEUTICALS,Mylan Pharmaceuticals Inc,7637.0,VIATRIS INC,ct_override_windowed,False,1900,2099,letter_crosswalk,,,,,,,,
+NOVABAY PHARMACEUTICALS,Novabay Pharmaceuticals Inc,177228.0,STABLECOIN DEVELOPMENT CORP,ct_resolved,False,1900,2099,letter_crosswalk,,,,,,,,
+MOOG,Moog Inc,7549.0,MOOG INC  -CL A,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+MOMENTUM,Momentum,21092.0,MOMENTUM CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+MICRO LABS,Micro Labs Limited,107413.0,MICRO LABS INC,exact_normalized,True,1900,2099,letter_crosswalk,,,,,,,,
+MIMEDX,"MiMedx Group, Inc.",178157.0,MIMEDX GROUP INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+MERGE HEALTHCARE,"Merge Healthcare, Inc.",66630.0,MERGE HEALTHCARE INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+MERCK SERONO VEVEY,Merck Serono SA (Vevey),102045.0,MERCK SERONO SA,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+MERCK SERONO,Merck Serono SA,102045.0,MERCK SERONO SA,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+MERCK SERONO S P A,Merck Serono S.p.A.,102045.0,MERCK SERONO SA,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+NORTH WEST,"North West Company International, Inc.",23994.0,NORTH WEST CO INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+NOVEN PHARMACEUTICALS,"Noven Pharmaceuticals, Inc.",14918.0,NOVEN PHARMACEUTICALS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+JAZZ PHARMACEUTICALS,"Jazz Pharmaceuticals, Inc",177287.0,JAZZ PHARMACEUTICALS PLC,exact_normalized,True,1900,2099,letter_crosswalk,,,,,,,,
+OPTION CARE ENTERPRISES OPTION CARE,"Option Care Enterprises, Inc. dba Option Care",25168.0,OPTION CARE INC,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+PFIZER,Pfizer Inc.,8530.0,PFIZER INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+PENUMBRA,Penumbra Inc.,26147.0,PENUMBRA INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+PRONET,PRONET,13628.0,PRONET INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+PERFORMANCE FOOD,"PERFORMANCE FOOD GROUP, INC.",28787.0,PERFORMANCE FOOD GROUP CO,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+OUTSET MEDICAL,"Outset Medical, Inc.",36885.0,OUTSET MEDICAL INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+ORTHOSOFT,"Orthosoft, Inc.",158599.0,ORTHOSOFT INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+ORTHO CLINICAL DIAGNOSTICS,Ortho Clinical Diagnostics Gmbh,37680.0,ORTHO CLINICAL DIAG HLDG PLC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+ORALABS,"OraLabs, Incorporated",9413.0,ORALABS HOLDING CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+OPTION CARE ENTERPRISES,"Option Care Enterprises, Inc.",25168.0,OPTION CARE INC,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+NOVO NORDISK A S,Novo Nordisk A/S,8020.0,NOVO NORDISK A/S,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+OPTION CARE,Option Care,25168.0,OPTION CARE INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+OCULAR THERAPEUTIX,Ocular Therapeutix Inc.,21015.0,OCULAR THERAPEUTIX INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+OWLET BABY CARE,OWLET BABY CARE INC,39255.0,OWLET INC,ct_dropped_device,False,1900,2099,letter_crosswalk,,,,,,,,
+NUTRASTAR,"NutraStar, Inc.",158133.0,NUTRASTAR INTERNATIONAL INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+NUTRA PHARMA,Nutra Pharma Corporation,145206.0,NUTRA PHARMA CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+NUVASIVE,NuVasive Inc,264385.0,NUVASIVE INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+NOVO NORDISK,Novo Nordisk Inc.,8020.0,NOVO NORDISK A/S,ct_override,False,1900,2099,letter_crosswalk,,,,,,,,
+MERCK AND,Merck & Co. Inc,7257.0,MERCK & CO INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+MENTOR WORLDWIDE,Mentor Worldwide LLC,7250.0,MENTOR CORP,ct_dropped_device,False,1900,2099,letter_crosswalk,,,,,,,,
+LCA VISION LASIK PLUS VISION CENTER,LCA Vision Inc/Lasik Plus Vision Center,61900.0,LCA VISION INC,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+LIFEVANTAGE,Lifevantage Corp,25027.0,LIFEVANTAGE CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+LIFECELL,LifeCell Corporation,24982.0,LIFECELL CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+LEMAITRE VASCULAR,"LeMaitre Vascular, Inc.",174390.0,LEMAITRE VASCULAR INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+LATIN FOODS MARKET,Latin Foods Market,21775.0,LATIN FOODS INTL INC,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+LANNETT,"Lannett Company, Inc.",22632.0,LANNETT CO INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+LCC,LCC Ltd.,63635.0,LCC INTERNATIONAL INC  -CL A,exact_normalized,True,1900,2099,letter_crosswalk,,,,,,,,
+LCA VISION,"LCA Vision, Inc",61900.0,LCA VISION INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+MEDTRONIC,"Medtronic, Inc.",7228.0,MEDTRONIC PLC,exact_normalized,True,1900,2099,letter_crosswalk,,,,,,,,
+KIMBERLY CLARK,Kimberly-Clark Corporation,6435.0,KIMBERLY-CLARK CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+KERRY,Kerry Inc.,100801.0,KERRY GROUP PLC,exact_normalized,True,1900,2099,letter_crosswalk,,,,,,,,
+KERR,Kerr Corporation,6402.0,KERR GROUP INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+KENVUE BRANDS,Kenvue Brands LLC,41897.0,KENVUE INC,ct_dropped_device,False,1900,2099,letter_crosswalk,,,,,,,,
+KALEIDO BIOSCIENCES,"Kaleido Biosciences, Inc.",34640.0,KALEIDO BIOSCIENCES INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+JOHNSON AND JOHNSON PS,Johnson & Johnson Ps,6266.0,JOHNSON & JOHNSON,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+LIFEWAY FOODS,"Lifeway Foods, Inc.",15087.0,LIFEWAY FOODS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+LINCARE,Lincare Inc,25062.0,LINCARE HOLDINGS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+LIVANOVA,LivaNova USA Inc.,27810.0,LIVANOVA PLC,exact_normalized,True,1900,2099,letter_crosswalk,,,,,,,,
+LOREAL,Loreal,100581.0,LOREAL SA,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+MEDTRONIC MINIMED,"Medtronic MiniMed, Inc.",61059.0,MINIMED INC,ct_dropped_device,False,1900,2099,letter_crosswalk,,,,,,,,
+MEDLINE INDUSTRIES,"Medline Industries, LP",7224.0,MEDLINE INDUSTRIES INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+MEDIVATORS,Medivators Inc,24498.0,MEDIVATORS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+MEDICAL INNOVATIONS,Medical Innovations,15852.0,MEDICAL INNOVATIONS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+MEDX HEALTH,MedX Health Corp,164696.0,MEDX HEALTH CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+MEDLINE INDUSTRIES NAMIC DIVISION,"MedLine Industries, LP (NAMIC Division)",7224.0,MEDLINE INDUSTRIES INC,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+MEASUREMENT SPECIALTIES,"Measurement Specialties, Inc.",12236.0,MEASUREMENT SPECIALTIES INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+MCKESSON,McKesson Corporation,7171.0,MCKESSON CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+MATRIXX INITIATIVES,"Matrixx Initiatives, Inc.",62700.0,MATRIXX INITIATIVES INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+MASIMO,Masimo Corporation,177881.0,MASIMO CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+MARKET AMERICA,Market America Inc,31057.0,MARKET AMERICA INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+MANNATECH,Mannatech Inc,112968.0,MANNATECH INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+MANNKIND,MannKind Corporation,160340.0,MANNKIND CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+MAGNA PHARMACEUTICALS,Magna Pharmaceuticals Inc,13053.0,MAGNA GROUP INC,ct_dropped_device,False,1900,2099,letter_crosswalk,,,,,,,,
+MIT,MIT,176745.0,MIT HOLDING INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+LUMINEX,Luminex Corporation,133504.0,LUMINEX CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+PHILIPS RESPIRONICS,"Philips Respironics, Inc.",14385.0,RESPIRONICS INC,ct_dropped_device,False,1900,2099,letter_crosswalk,,,,,,,,
+PIONEER SURGICAL TECHNOLOGY,Pioneer Surgical Technology Inc.,8594.0,PIONEER CORP,ct_dropped_device,False,1900,2099,letter_crosswalk,,,,,,,,
+KROGER,The Kroger Co.,6502.0,KROGER CO,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+FOODS,"US Foods, Inc.",18312.0,US FOODS HOLDING CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+TROPIC TRADING,Tropic Trading Co.,26120.0,TROPIC TRADING LTD,exact_normalized,True,1900,2099,letter_crosswalk,,,,,,,,
+TOWN AND COUNTRY COMPOUNDING AND CONSULTATION SERVICES,"Town and Country Compounding and Consultation Services, LLC",10634.0,TOWN & COUNTRY CORP  -CL A,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+THORATEC,Thoratec LLC,10550.0,THORATEC CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+WELLNESS CENTER PHARMACY DESIGNER DRUGS,"The Wellness Center Pharmacy, Inc., dba Designer Drugs",170692.0,WELLNESS CENTER USA INC,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+QUAKER OATS,The Quaker Oats Co.,8852.0,QUAKER OATS CO,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+PROCTER AND GAMBLE,The Procter & Gamble Co.,8762.0,PROCTER & GAMBLE CO,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+LENNOX,"The Lennox International, Inc",122380.0,LENNOX INTERNATIONAL INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+HERSHEY,The Hershey Company,5597.0,HERSHEY CO,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+TELEMED,TELEMED,10409.0,TELEMED CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+HAIN CELESTIAL,"The Hain Celestial Group, Inc.",29609.0,HAIN CELESTIAL GROUP INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+COCA COLA,The Coca-Cola Company,3144.0,COCA-COLA CO,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+CHERRY,"The Cherry Co., Ltd.",2975.0,CHERRY CORP,exact_normalized,True,1900,2099,letter_crosswalk,,,,,,,,
+TEVA PHARMACEUTICAL INDUSTRIES,Teva Pharmaceutical Industries,14538.0,TEVA PHARMACEUTICALS,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+TERCICA,Tercica,156293.0,TERCICA INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+TECHTRONIC INDUSTRIES DONGGUAN,Techtronic Industries (Dongguan) Co. Ltd.,103409.0,TECHTRONIC INDUSTRIES CO LTD,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+TAKEDA PHARMACEUTICAL,Takeda Pharmaceutical Company Limited,100718.0,TAKEDA PHARMACEUTICAL CO LTD,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+LAB RESEARCH,Us Lab Research,175321.0,LAB RESEARCH INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+VARIAN MEDICAL SYSTEMS,"Varian Medical Systems, Inc.",11115.0,VARIAN MEDICAL SYSTEMS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+VIRBAC,Virbac Corporation,30451.0,VIRBAC CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+VITA FOOD PRODUCTS,"Vita Food Products, Inc.",64760.0,VITA FOOD PRODUCTS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+21ST CENTURY SCIENTIFIC,21st Century Scientific Inc,10771.0,21ST CENTURY GROUP INC,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+ISATORI,"iSatori, Inc.",171057.0,ISATORI INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+IRHYTHM TECHNOLOGIES,"iRhythm Technologies, Inc.",28367.0,IRHYTHM HOLDINGS INC,ct_fuzzy,False,1900,2099,letter_crosswalk,,,,,,,,
+BIOMERIEUX,"bioMerieux, Inc.",270578.0,BIOMERIEUX SA,exact_normalized,True,1900,2099,letter_crosswalk,,,,,,,,
+ZYNEX MEDICAL,"Zynex Medical, Inc.",129441.0,ZYNEX INC,ct_dropped_device,False,1900,2099,letter_crosswalk,,,,,,,,
+ZOLL MEDICAL,Zoll Medical Corporation,25579.0,ZOLL MEDICAL CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+ZEVEX,"Zevex, Inc.",23387.0,ZEVEX INTERNATIONAL INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+XANODYNE PHARMACEUTICALS,Xanodyne Pharmaceuticals Inc,179833.0,XANODYNE PHARMACEUTICLS-REDH,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+XTANT MEDICAL,"XTANT Medical Holdings, Inc",185193.0,XTANT MEDICAL HOLDINGS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+WHOLE FOODS MARKET,Whole Foods Market Group Inc.,24893.0,WHOLE FOODS MARKET INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+WHITE EAGLE NATIVE HERBS,White Eagle Native Herbs,11468.0,WHITE EAGLE INTERNATIONAL,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+WALMART,Walmart Inc.,11259.0,WALMART INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+WESTMINSTER,WESTMINSTER INTERNATIONAL,11438.0,WESTMINSTER CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+VIVOS THERAPEUTICS,"Vivos Therapeutics, Inc.",37290.0,VIVOS THERAPEUTICS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+VITALITY PRODUCTS,Vitality Products Company Inc.,108767.0,VITALITY PRODUCTS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+VITAL SIGNS DEVICES A GE HEALTHCARE,"Vital Signs Devices, a GE Healthcare Company",23088.0,VITAL SIGNS INC,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+TLC VISION,TLC Vision Corporation,62465.0,TLC VISION CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+SYNERGY HEALTH CONCEPTS,"Synergy Health Concepts, Inc.",14188.0,HEALTH CONCEPTS IV INC,ct_fuzzy,False,1900,2099,letter_crosswalk,,,,,,,,
+POTNETWORK,"PotNetwork Holdings, Inc.",19751.0,POTNETWORK HOLDINGS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+RIDLEY,Ridley USA Inc.,65238.0,RIDLEY INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+SEA WORLD,"Sea World, LLC",9536.0,SEA WORLD INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+SCOTTY S,"Scotty's, Inc.",9522.0,SCOTTY'S INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+SANOFI PASTEUR,Sanofi Pasteur Limited,101204.0,SANOFI,ct_override_windowed,False,1900,2099,letter_crosswalk,,,,,,,,
+SANDOZ,Sandoz Incorporated,43362.0,SANDOZ GROUP AG,exact_normalized,True,1900,2099,letter_crosswalk,,,,,,,,
+SALIX PHARMACEUTICALS,Salix Pharmaceuticals Inc,62977.0,SALIX PHARMACEUTICALS LTD,exact_normalized,True,1900,2099,letter_crosswalk,,,,,,,,
+SOCIETAL CDMO SAN DIEGO,"SOCIETAL CDMO SAN DIEGO, LLC",19025.0,SOCIETAL CDMO INC,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+RITE AID,Rite Aid Corporation,9155.0,RITE AID CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+RISER FOODS,Riser Foods Company,14792.0,RISER FOODS INC  -CL A,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+RESER S FINE FOODS,Reser's Fine Foods Inc.,9075.0,RESER'S FINE FOODS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+SYNBIOTICS,Synbiotics Limited,10237.0,SYNBIOTICS CORP,exact_normalized,True,1900,2099,letter_crosswalk,,,,,,,,
+RADNOSTIX,Radnostix,65280.0,RADNOSTIX INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+QUANTA,QUANTA INC.,34011.0,QUANTA INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+PURCELL,Purcell International,8825.0,PURCELL CO INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+PROSTAR,Prostar Inc.,183664.0,PROSTAR HOLDINGS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+PROFESSIONAL DISPOSABLES,"Professional Disposables International, Inc.",23552.0,PROFESSIONAL HOLDING CORP,ct_dropped_device,False,1900,2099,letter_crosswalk,,,,,,,,
+PROCTER AND GAMBLE MANUFACTURING MEXICO S DE R L DE C V,"Procter & Gamble Manufacturing Mexico, S. de R.L. de C.V.",8762.0,PROCTER & GAMBLE CO,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+POWER MEDICAL INTERVENTIONS,"Power Medical Interventions, Inc",178722.0,POWER MEDICAL INTERVENTIONS,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+SIEMENS HEALTHCARE DIAGNOSTICS,"Siemens Healthcare Diagnostics, Inc.",19349.0,SIEMENS AG,ct_dropped_device,False,1900,2099,letter_crosswalk,,,,,,,,
+SIENTRA,"Sientra, Inc",22037.0,SIENTRA INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+SINTX TECHNOLOGIES,Sintx Technologies Inc,177981.0,SINTX TECHNOLOGIES INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+SMITH AND NEPHEW,Smith & Nephew Inc.,101317.0,SMITH & NEPHEW PLC,exact_normalized,True,1900,2099,letter_crosswalk,,,,,,,,
+SYMMETRY SURGICAL,"Symmetry Surgical, Inc.",22330.0,SYMMETRY SURGICAL INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+SYMMETRY MEDICAL,"Symmetry Medical USA, Inc",160600.0,SYMMETRY MEDICAL INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+SUNRISE,Sunrise International Group,108397.0,SUNRISE INTL INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+SUMMER INFANT,"Summer Infant, Inc.",176874.0,SUMMER INFANT INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+SUMITOMO CHEMICAL,"Sumitomo Chemical Co., Ltd.",100689.0,SUMITOMO CHEMICAL CO LTD,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+STRYKER,Stryker Corporation,10115.0,STRYKER CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+STERIS,Steris Corporation,25313.0,STERIS PLC,exact_normalized,True,1900,2099,letter_crosswalk,,,,,,,,
+STAPLES,Staples Inc.,15521.0,STAPLES INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+STAAR SURGICAL,Staar Surgical Company,9969.0,STAAR SURGICAL CO,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+ST JUDE MEDICAL,St. Jude Medical,9372.0,ST JUDE MEDICAL INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+SPINAL ELEMENTS,"Spinal Elements, Inc",37043.0,SPINAL ELEME HOLDI INC -REDH,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+SPECTRANETICS,Spectranetics Corporation,24853.0,SPECTRANETICS CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+SOLTA MEDICAL,Solta Medical Inc,175913.0,SOLTA MEDICAL INC,ct_dropped_device,False,1900,2099,letter_crosswalk,,,,,,,,
+SNYDER S LANCE,"Snyder's Lance, Inc.",6574.0,SNYDERS-LANCE INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+SMITHKLINE BEECHAM,SmithKline Beecham Limited,14261.0,SMITHKLINE BEECHAM (UK) PLC,ct_fuzzy,False,1900,2099,letter_crosswalk,,,,,,,,
+SMITH AND NEPHEW ORTHOPAEDICS,Smith & Nephew Orthopaedics GmbH,101317.0,SMITH & NEPHEW PLC,ct_dropped_device,False,1900,2099,letter_crosswalk,,,,,,,,
+JOHNSON AND JOHNSON PHARMACEUTICAL RESEARCH AND DEVELOPMENT,"Johnson & Johnson Pharmaceutical Research & Development, LLC",6266.0,JOHNSON & JOHNSON,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+J M SMUCKER,J.M. Smucker LLC,9777.0,SMUCKER (JM) CO,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+BAXALTA,Baxalta US Inc.,22734.0,BAXALTA INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+BIO RAD LABORATORIES,Bio-Rad Laboratories GmbH,2220.0,BIO-RAD LABORATORIES INC,exact_normalized,True,1900,2099,letter_crosswalk,,,,,,,,
+BETA BIONICS,"Beta Bionics, Inc.",45785.0,BETA BIONICS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+BEST VASCULAR,"Best Vascular, Inc",29378.0,BEST INC,ct_dropped_device,False,1900,2099,letter_crosswalk,,,,,,,,
+BECTON DICKINSON AND,Becton Dickinson & Company,2111.0,BECTON DICKINSON & CO,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+BECKMAN COULTER,"Beckman Coulter, Inc.",15106.0,BECKMAN COULTER INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+BEBIDA BEVERAGE,Bebida Beverage Company,153669.0,BEBIDA BEVERAGE CO,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+BAYER,Bayer AG,100080.0,BAYER AG,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+BAUSCH HEALTH AMERICAS,"Bausch Health Americas, Inc.",29955.0,BAUSCH HEALTH COMPANIES INC,ct_override_windowed,False,1900,2099,letter_crosswalk,,,,,,,,
+BIOGENIX,"Biogenix USA, LLC",2227.0,BIOGENIX INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+BAUSCH AND LOMB,Bausch & Lomb Incorporated,40605.0,BAUSCH & LOMB CORP,ct_override_windowed,False,2022,2099,letter_crosswalk,,,,,,,,
+BALCHEM,Balchem Corporation,1979.0,BALCHEM CORP  -CL B,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+BHP,BHP Holdings Inc,13312.0,BHP GROUP LTD,exact_normalized,True,1900,2099,letter_crosswalk,,,,,,,,
+BABYLON,BABYLON INC,39938.0,BABYLON HOLDINGS LTD,exact_normalized,True,1900,2099,letter_crosswalk,,,,,,,,
+AVANOS MEDICAL,"Avanos Medical, Inc.",21352.0,AVANOS MEDICAL INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+ATRIUM,"Atrium, Inc.",137170.0,ATRIUM CO INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+ASAHI KASEI MEDICAL MT OITA WORKS,Asahi Kasei Medical MT Corp. Oita Works,100258.0,ASAHI KASEI CORP,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+BIORELIANCE,BioReliance Corporation,65169.0,BIORELIANCE CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+CEPHEID,Cepheid Ab,136804.0,CEPHEID INC,exact_normalized,True,1900,2099,letter_crosswalk,,,,,,,,
+CUE HEALTH,CUE HEALTH INC,39563.0,CUE HEALTH INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+CELLTRION,Celltrion Inc.,275309.0,,ct_override,False,1900,2099,letter_crosswalk,,,,,,,,
+CEL SCI,Cel-Sci Corporation,12711.0,CEL-SCI CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+CAREY,Carey USA LLC,64822.0,CAREY INTERNATIONAL INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+CARDINAL HEALTH 200,"Cardinal Health 200, LLC",2751.0,CARDINAL HEALTH INC,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+CANTRONIC SYSTEMS,Cantronic Systems Inc.,150760.0,CANTRONIC SYSTEMS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+CALIBER IMAGING AND DIAGNOSTICS,"Caliber Imaging & Diagnostics,",189363.0,CALIBER IMAGING & DIAGNOSTIC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+CALAVO GROWERS,Calavo Growers Inc,147708.0,CALAVO GROWERS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+CVS HEALTH,CVS Health,7241.0,CVS HEALTH CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+CHEWY,CHEWY INC,35287.0,CHEWY INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+BIOMET,"Biomet, Inc.",2230.0,BIOMET INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+CAO,"CAO Group, Inc.",63951.0,NCO GROUP INC,ct_dropped_device,False,1900,2099,letter_crosswalk,,,,,,,,
+C R BARD,C.R. Bard Inc.,2044.0,BARD (C.R.) INC,ct_dropped_device,False,1900,2099,letter_crosswalk,,,,,,,,
+BURZYNSKI RESEARCH INSTITUTE,Burzynski Research Institute,22401.0,BURZYNSKI RESEARCH INSTITUTE,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+BTL INDUSTRIES,"Btl Industries, Inc",1955.0,BTK INDUSTRIES INC,ct_fuzzy,False,1900,2099,letter_crosswalk,,,,,,,,
+BRISTOL MYERS SQUIBB PHARMA LIABILITY,Bristol-Myers Squibb Holdings Pharma Ltd. Liability Company,2403.0,BRISTOL-MYERS SQUIBB CO,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+BOSTON SCIENTIFIC,Boston Scientific Corporation,25279.0,BOSTON SCIENTIFIC CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+ARTIVION,"Artivion, Inc",27823.0,ARTIVION INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+ARRAYIT,Arrayit Corporation,143339.0,ARRAYIT CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+APPLIED THERAPEUTICS,"Applied Therapeutics, Inc.",35091.0,APPLIED THERAPEUTICS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+ABBOTT LABORATORIES,Abbott Laboratories,1078.0,ABBOTT LABORATORIES,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+AIRGAS,"Airgas USA, LLC",12950.0,AIRGAS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+AGILENT TECHNOLOGIES DENMARK APS,Agilent Technologies Denmark ApS,126554.0,AGILENT TECHNOLOGIES INC,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+ADVANCED SURGICAL DESIGN AND MANUFACTURE,"Advanced Surgical Design & Manufacture, Ltd.",28687.0,ADVANCED SURGICAL INC,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+ACORDA THERAPEUTICS,"Acorda Therapeutics, Inc.",156617.0,ACORDA THERAPEUTICS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+ACME UNITED,Acme United Corporation,1104.0,ACME UNITED CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+ACCLARENT,"Acclarent, Inc.",180230.0,ACCLARENT INC -REDH,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+ACCENTIA BIOPHARMACEUTICALS,Accentia BioPharmaceuticals,162956.0,ACCENTIA BIOPHARMACEUTICALS,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+ABIOMED,"Abiomed, Inc.",13619.0,ABIOMED INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+ABAXIS,Abaxis Inc,24888.0,ABAXIS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+APPLIED MEDICAL TECHNOLOGY,Applied Medical Technology Inc,170683.0,APPLIED MEDICAL CORP  -REDH,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+GLOBAL,AS Global INC,180503.0,GLOBAL HOLDINGS INC,exact_normalized,True,1900,2099,letter_crosswalk,,,,,,,,
+AMAG PHARMACEUTICALS,"AMAG Pharmaceuticals, Inc.",12250.0,AMAG PHARMACEUTICALS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+ADMA BIOLOGICS,"ADMA Biologics, Inc",17653.0,ADMA BIOLOGICS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+ACELL,"ACell, Inc",36689.0,ACELL INC -REDH,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+SCIENCE,AB Science,1554.0,AMERICAN SCIENCE ENGINEERING,ct_dropped_device,False,1900,2099,letter_crosswalk,,,,,,,,
+3M,3M Company,7435.0,3M CO,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+INVACARE,Invacare Corporation,6158.0,INVACARE CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+23ANDME,"23andMe, Inc.",38717.0,CHROME HOLDING CO,ct_fuzzy,False,1900,2099,letter_crosswalk,,,,,,,,
+AKERS BIOSCIENCES,"Akers Biosciences, Inc.",275264.0,AKERS BIOSCIENCES INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+AKORN OPERATING,Akorn Operating Company LLC,14304.0,AKORN OPERATING COMPANY LLC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+AKORN,"Akorn, Inc.",14304.0,AKORN OPERATING COMPANY LLC,ct_fuzzy,False,1900,2099,letter_crosswalk,,,,,,,,
+ALCON LENSX,"Alcon LenSx, Inc.",35056.0,ALCON INC,ct_dropped_device,False,1900,2099,letter_crosswalk,,,,,,,,
+APPLIED MEDICAL RESOURCES,Applied Medical Resources Corp,170683.0,APPLIED MEDICAL CORP  -REDH,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+ANIMAS,Animas Corporation,260892.0,ANIMAS CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+ANGIODYNAMICS,Angiodynamics Inc,264387.0,ANGIODYNAMICS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+AMNEAL PHARMACEUTICALS PRIVATE,Amneal Pharmaceuticals Private Limited,18888.0,AMNEAL PHARMACEUTICALS INC,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+AMGEN,"Amgen, Inc.",1602.0,AMGEN INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+AMERICAN CRYOSTEM,American CryoStem Corporation,187449.0,AMERICAN CRYOSTEM CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+AMAZON COM,"Amazon.com, LLC",64768.0,AMAZON.COM INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+ALPHATEC SPINE,"Alphatec Spine, Inc.",166555.0,ALPHATEC HOLDINGS INC,ct_dropped_device,False,1900,2099,letter_crosswalk,,,,,,,,
+ALMA LASERS,"Alma Lasers, Inc.",179436.0,ALMA LASERS LTD-REDH,exact_normalized,True,1900,2099,letter_crosswalk,,,,,,,,
+ALL AMERICAN WELLNESS,All American Wellness LLC,3126.0,ALL AMERICAN GROUP INC,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+ALKERMES,"Alkermes, Inc.",24302.0,ALKERMES PLC,exact_normalized,True,1900,2099,letter_crosswalk,,,,,,,,
+ALIGN TECHNOLOGY,Align Technology Inc,141384.0,ALIGN TECHNOLOGY INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+ALEXION PHARMACEUTICALS,"Alexion Pharmaceuticals, Inc.",62263.0,ALEXION PHARMACEUTICALS INC,ct_override_windowed,False,1900,2099,letter_crosswalk,,,,,,,,
+ALERE SAN DIEGO,"Alere San Diego, Inc.",146156.0,ALERE INC,ct_fuzzy,False,1900,2099,letter_crosswalk,,,,,,,,
+CELULARITY,Celularity Inc,39277.0,CELULARITY INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+CHATTEM,Chattem Inc,2950.0,CHATTEM INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+GENERAL MEDICAL,General Medical Company,5067.0,GENERAL MEDICAL CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+GLOBUS MEDICAL,"Globus Medical, Inc.",171002.0,GLOBUS MEDICAL INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+GILEAD SCIENCES,Gilead Sciences Inc,24856.0,GILEAD SCIENCES INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+GERBER PRODUCTS,Gerber Products Company,5141.0,GERBER PRODUCTS CO,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+GEOTEC,"GeoTec, Inc.",125377.0,GEOTEC INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+GENZYME,Genzyme Corporation,101204.0,SANOFI,ct_override_windowed,False,2011,2099,letter_crosswalk,,,,,,,,
+GENESIS,Genesis,7515.0,GENESIS WORLDWIDE INC-OLD,ct_dropped_device,False,1900,2099,letter_crosswalk,,,,,,,,
+GENERAL MILLS,"General Mills, Inc",5071.0,GENERAL MILLS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+GALENA BIOPHARMA,"Galena Biopharma, Inc.",179605.0,GALENA BIOPHARMA INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+GSK,Gsk,5180.0,GSK PLC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+FUJIFILM,Fujifilm Corporation,4925.0,FUJIFILM HLDGS CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+FRESENIUS SE AND KGAA,Fresenius SE & Co. KGaA,202305.0,FRESENIUS SE & CO KGAA,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+FRESENIUS MEDICAL CARE RENAL THERAPIES,"Fresenius Medical Care Renal Therapies Group, LLC",212782.0,FRESENIUS MEDICAL CARE AG,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+FRESENIUS KABI,"Fresenius Kabi USA, LLC",3849.0,FRESENIUS USA INC,ct_dropped_device,False,1900,2099,letter_crosswalk,,,,,,,,
+EYEPOINT,"EyePoint US, Inc.",253527.0,EYEPOINT INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+EXACTECH,"Exactech, Inc.",62948.0,EXACTECH INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+EVOQUA WATER TECHNOLOGIES,Evoqua Water Technologies LLC,32610.0,EVOQUA WATER TECH,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+EVENFLO,Evenflo Co Inc,146214.0,EVENFLO INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+GRANULES INDIA,Granules India Limited,257195.0,GRANULES INDIA LTD,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+HEALTH CHEM ACQUISITIONS,"Health-Chem Acquisitions, LLC",5545.0,HEALTH-CHEM CORP,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+ENTIA BIOSCIENCES,Entia Biosciences Inc,178743.0,ENTIA BIOSCIENCES INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+ICU MEDICAL,"ICU Medical, Inc.",25110.0,ICU MEDICAL INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+INTUITIVE SURGICAL,"Intuitive Surgical, Inc.",136725.0,INTUITIVE SURGICAL INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+INTEGRA LIFESCIENCES,Integra LifeSciences Corporation,61181.0,INTEGRA LIFESCIENCES HOLDNGS,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+CHINA RESOURCES SANJIU MEDICAL AND PHARMACEUTICAL,"China Resources Sanjiu Medical & Pharmaceutical Co., Ltd.",25699.0,MEDICAL RESOURCES INC,ct_dropped_device,False,1900,2099,letter_crosswalk,,,,,,,,
+INTEGRA LIFESCIENCES NEUROSCIENCES,Integra LifeSciences Corp. (NeuroSciences),61181.0,INTEGRA LIFESCIENCES HOLDNGS,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+INSULET,Insulet Corporation,177227.0,INSULET CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+IMPAX LABORATORIES,"Impax Laboratories, LLC.",61745.0,IMPAX LABORATORIES INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+ILLINOIS TOOL WORKS,Illinois Tool Works Inc,5878.0,ILLINOIS TOOL WORKS,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+ID BIOMEDICAL OF QUEBEC,ID Biomedical Corporation of Quebec,27522.0,ID BIOMEDICAL CORP,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+HEARTWARE,"Heartware, Inc.",271794.0,HEARTWARE INTERNATIONAL INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+ICU MEDICAL COSTA RICA,ICU Medical Costa Rica Ltd.,25110.0,ICU MEDICAL INC,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+HOSPIRA,"Hospira, Inc.",160255.0,HOSPIRA INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+HORIZON AIR INDUSTRIES,Horizon Air Industries Inc,5701.0,HORIZON AIR INDUSTRIES INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+HOOPER HOLMES,"Hooper Holmes, Inc.",5697.0,HOOPER HOLMES INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+HOLOGIC,"Hologic, Inc",20904.0,HOLOGIC INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+HILLESTAD PHARMACEUTICALS,"Hillestad Pharmaceuticals USA, Inc.",106836.0,HILLESTAD PHARMACEUTICALS IN,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+HILL ROM,Hill-Rom Inc,5639.0,HILL-ROM HOLDINGS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+ENVOY MEDICAL,Envoy Medical Corporation,38030.0,ENVOY MEDICAL INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+HANOVER FOODS,Hanover Foods Corporation,28730.0,HANOVER FOODS CORP/PA,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+ENTELLUS MEDICAL,Entellus Medical Inc.,22667.0,ENTELLUS MEDICAL INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+COOK,Cook Incorporated,3493.0,COOK INTERNATIONAL INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+CYTODYN,"CytoDyn, Inc.",164720.0,CYTODYN INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+CUTERA,"Cutera, Inc.",146648.0,CUTERA INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+CRITICARE SYSTEMS MALAYSIA SDN BHD,Criticare Systems (Malaysia) Sdn. Bhd.,13332.0,CRITICARE SYSTEMS INC,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+CRAFTMATIC INDUSTRIES,"Craftmatic Industries, Inc.",12737.0,CRAFTMATIC INDUSTRIES INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+COVIDIEN,"Covidien, LP",177264.0,COVIDIEN PLC,exact_normalized,True,1900,2099,letter_crosswalk,,,,,,,,
+COVALON TECHNOLOGIES,Covalon Technologies Ltd.,161840.0,COVALON TECHNOLOGIES LTD,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+COSCO,"Cosco International, Inc.",3544.0,COSCO INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+CORAM HEALTHCARE OF INDIANA,Coram Healthcare Corp. of Indiana,30442.0,CORAM HEALTHCARE CORP,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+CONVATEC,"ConvaTec, Inc",322728.0,CONVATEC GROUP PLC,exact_normalized,True,1900,2099,letter_crosswalk,,,,,,,,
+DSM FIRMENICH,DSM - Firmenich,102454.0,DSM FIRMENICH AG,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+CONFORMIS,Conformis Inc.,24084.0,CONFORMIS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+CONAIR,Conair LLC,13148.0,CONAIR CORP/DE,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+CONMED,ConMed Corporation,13623.0,CONMED CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+CONAGRA BRANDS,ConAgra Brands Inc,3362.0,CONAGRA BRANDS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+ENCOMPASS,Encompass Group LLC,31283.0,ENCOMPASS HOLDINGS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+COASTAL CONTACTS,Coastal Contacts Inc.,266196.0,COASTAL CONTACTS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+CLOROX,Clorox Co (The),3121.0,CLOROX CO/DE,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+CHURCH AND DWIGHT,Church & Dwight Inc,3026.0,CHURCH & DWIGHT INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+DEWMAR BMC,"DEWMAR INTERNATIONAL BMC, INC",6014.0,DEWMAR INTL BMC INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+CORDIS,Cordis LLC,3520.0,CORDIS CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+DR REDDY S LABORATORIES,Dr. Reddy's Laboratories Ltd.,223098.0,DR REDDY'S LABORATORIES LTD,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+EDWARDS LIFESCIENCES,"Edwards Lifesciences, LLC",133366.0,EDWARDS LIFESCIENCES CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+EFT,EFT Inc,106554.0,EFT HOLDINGS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+EAGLE ENERGY,EAGLE ENERGY USA INC,185970.0,EAGLE ENERGY INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+DREYER S GRAND ICE CREAM,"Dreyer's Grand Ice Cream, Inc.",4078.0,DREYER'S GRAND ICE CRM HLDGS,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+ELEVATE,Elevate,182908.0,ELEVATE INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+DR REDDY S LABORATORIES CTO VI,Dr. Reddy's Laboratories Limited CTO VI,223098.0,DR REDDY'S LABORATORIES LTD,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+ELI LILLY AND,Eli Lilly & Company,6730.0,LILLY (ELI) & CO,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+DR PEPPER SEVEN UP,"Dr Pepper/Seven Up, Inc.",15273.0,DR PEPPER/SEVEN UP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+DIAMOND FOODS,Diamond Foods LLC,163627.0,DIAMOND FOODS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+DEXCOM,"Dexcom, Inc.",162887.0,DEXCOM INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+DENTSPLY SIRONA PREVENTIVE,Dentsply Sirona Preventive,13700.0,DENTSPLY SIRONA INC,parent_prefix,True,1900,2099,letter_crosswalk,,,,,,,,
+DENTSPLY SIRONA,Dentsply Sirona Inc.,13700.0,DENTSPLY SIRONA INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+DELTA AIR LINES,"Delta Air Lines, Inc.",3851.0,DELTA AIR LINES INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+DEPUY ORTHOPAEDICS,"DePuy Orthopaedics, Inc.",63905.0,DEPUY INC,ct_dropped_device,False,1900,2099,letter_crosswalk,,,,,,,,
+DATASCOPE,Datascope Corp.,3786.0,DATASCOPE CORP,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+DARLING INGREDIENTS,"Darling Ingredients, Inc.",30651.0,DARLING INGREDIENTS INC,exact_normalized,False,1900,2099,letter_crosswalk,,,,,,,,
+FRESENIUS,FRESENIUS,3849.0,FRESENIUS USA INC,compustat_exact,False,1900,2099,compustat_direct,part803_maude,1814.0,matched,1.0,3841.0,I,320185.0,False
+HOWMEDICA,"HOWMEDICA, INC.",5761.0,HOWMEDICA INC,compustat_exact,False,1900,2099,compustat_direct,part803_maude,4863.0,matched,1.0,3841.0,I,48846.0,False
+IRHYTHM,IRHYTHM,28367.0,IRHYTHM HOLDINGS INC,compustat_exact,False,1900,2099,compustat_direct,part803_maude,3.0,matched,1.0,3845.0,A,1388658.0,False
+JOHNSON AND JOHNSON,JOHNSON & JOHNSON,6266.0,JOHNSON & JOHNSON,compustat_exact,False,1900,2099,compustat_direct,part803_maude,1301.0,matched,1.0,2834.0,A,200406.0,False
+MAXXIM MEDICAL,MAXXIM MEDICAL,20294.0,MAXXIM MEDICAL INC,compustat_exact,False,1900,2099,compustat_direct,part803_maude,220.0,matched,1.0,3841.0,I,858660.0,False
+MEDLINE,MEDLINE,74887.0,MEDLINE INC,compustat_exact,False,1900,2099,compustat_direct,part803_maude,225.0,matched,1.0,3842.0,A,2046386.0,False
+BRISTOL MYERS SQUIBB,BRISTOL MYERS SQUIBB,2403.0,BRISTOL-MYERS SQUIBB CO,compustat_exact,False,1900,2099,compustat_direct,part803_maude,16.0,matched,1.0,2834.0,A,14272.0,False
+DEPUY,DEPUY,63905.0,DEPUY INC,compustat_exact,False,1900,2099,compustat_direct,part803_maude,46431.0,matched,1.0,3842.0,I,1019900.0,False
+DENTSPLY,DENTSPLY,3874.0,DENTSPLY INTERNATIONAL INC,compustat_exact,False,1900,2099,compustat_direct,part803_maude,466.0,matched,1.0,3843.0,I,28154.0,False
+AMNEAL PHARMACEUTICALS,AMNEAL PHARMACEUTICALS,18888.0,AMNEAL PHARMACEUTICALS INC,compustat_exact,False,1900,2099,compustat_direct,part803_maude,11.0,matched,1.0,2834.0,A,1723128.0,False
+CRITICARE SYSTEMS,CRITICARE SYSTEMS,13332.0,CRITICARE SYSTEMS INC,compustat_exact,False,1900,2099,compustat_direct,part803_maude,20.0,matched,1.0,3845.0,I,812121.0,False
+CONCEPTUS,CONCEPTUS,62236.0,CONCEPTUS INC,compustat_exact,False,1900,2099,compustat_direct,part803_maude,566.0,matched,1.0,3841.0,I,896778.0,False
+BAXTER,BAXTER,2086.0,BAXTER INTERNATIONAL INC,compustat_exact,False,1900,2099,compustat_direct,part803_maude,921.0,matched,1.0,3841.0,A,10456.0,False
+BARD C R,"BARD, C R",2044.0,BARD (C.R.) INC,compustat_exact,False,1900,2099,compustat_direct,part803_maude,2.0,matched,1.0,3841.0,I,9892.0,False
+ARTERIAL VASCULAR ENGINEERING,"ARTERIAL VASCULAR ENGINEERING, INC",62572.0,ARTERIAL VASCULAR ENGR INC,compustat_exact,False,1900,2099,compustat_direct,part803_maude,230.0,matched,1.0,3841.0,I,1007047.0,False
+CARDIAC PACEMAKERS,CARDIAC PACEMAKERS,2746.0,CARDIAC PACEMAKERS,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,44346.0,matched,1.0,3845.0,I,,False
+PERCLOSE,PERCLOSE,61500.0,PERCLOSE INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,1895.0,matched,1.0,3841.0,I,934438.0,False
+ALPHATEC,ALPHATEC,166555.0,ALPHATEC HOLDINGS INC,compustat_exact,False,1900,2099,compustat_direct,part803_maude,14.0,matched,1.0,3842.0,A,1350653.0,False
+APPLIED MEDICAL,APPLIED MEDICAL,170683.0,APPLIED MEDICAL CORP  -REDH,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,1813.0,matched,1.0,3841.0,I,1534727.0,False
+BIOHORIZONS,BIOHORIZONS,185154.0,BIOHORIZONS INC -REDH,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,2605.0,matched,1.0,3843.0,I,1492464.0,False
+IMMUCOR,IMMUCOR,11914.0,IMMUCOR INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,3339.0,matched,1.0,2835.0,I,736822.0,False
+COLOPLAST A S,COLOPLAST A S,101538.0,COLOPLAST A/S,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,4958.0,matched,1.0,3842.0,A,1294325.0,False
+COCHLEAR,COCHLEAR,212635.0,COCHLEAR LTD,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,16880.0,matched,1.0,3842.0,A,1453930.0,False
+ZYNEX,ZYNEX,129441.0,ZYNEX INC,compustat_exact,False,1900,2099,compustat_direct,part803_maude,1.0,matched,1.0,3845.0,I,846475.0,False
+WRIGHT MEDICAL,WRIGHT MEDICAL,143421.0,WRIGHT MEDICAL GROUP NV,compustat_exact,False,1900,2099,compustat_direct,part803_maude,132.0,matched,1.0,3842.0,I,1492658.0,False
+TERUMO,TERUMO,102146.0,TERUMO CORP,compustat_exact,False,1900,2099,compustat_direct,part803_maude,1368.0,matched,1.0,3841.0,A,1446672.0,False
+SYNERON MEDICAL,"SYNERON MEDICAL, LTD",160902.0,SYNERON MEDICAL LTD,compustat_exact,False,1900,2099,compustat_direct,part803_maude,50.0,matched,1.0,3845.0,I,1291361.0,False
+SPACELABS,SPACELABS,9913.0,SPACELABS INC,compustat_exact,False,1900,2099,compustat_direct,part803_maude,52.0,matched,1.0,3845.0,I,92605.0,False
+SIEMENS HEALTHINEERS,SIEMENS HEALTHINEERS,326765.0,SIEMENS HEALTHINEE,compustat_exact,False,1900,2099,compustat_direct,part803_maude,702.0,matched,1.0,3845.0,A,1738519.0,False
+SCIMED LIFE SYSTEMS,SCIMED LIFE SYSTEMS,9477.0,SCIMED LIFE SYSTEMS INC,compustat_exact,False,1900,2099,compustat_direct,part803_maude,199.0,matched,1.0,3841.0,I,87743.0,False
+SANOFI,SANOFI,101204.0,SANOFI,compustat_exact,False,1900,2099,compustat_direct,part803_maude,11.0,matched,1.0,2834.0,A,1121404.0,False
+STRAUMANN,Straumann USA LLC,228218.0,STRAUMANN HOLDING AG,compustat_exact,True,1900,2099,compustat_direct,part806_recall,25.0,matched,1.0,3843.0,A,1451279.0,True
+TREACE MEDICAL CONCEPTS,"Treace Medical Concepts, Inc.",38558.0,TREACE MEDIC CNCPTS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,219.0,matched,1.0,3842.0,A,1630627.0,False
+TOMOTHERAPY,TomoTherapy Incorporated,177125.0,TOMOTHERAPY INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,43.0,matched,1.0,3844.0,I,1317872.0,False
+THERAGENICS,Theragenics Corporation,12691.0,THERAGENICS CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,3.0,matched,1.0,3842.0,I,795551.0,False
+TEVA PHARMACEUTICALS,"Teva Pharmaceuticals USA, Inc.",14538.0,TEVA PHARMACEUTICALS,compustat_exact,False,1900,2099,compustat_direct,part806_recall,21.0,matched,1.0,2834.0,A,818686.0,False
+TANDEM DIABETES CARE,Tandem Diabetes Care Inc,18899.0,TANDEM DIABETES CARE INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,280144.0,matched,1.0,3845.0,A,1438133.0,False
+TELEFLEX MEDICAL,TELEFLEX MEDICAL INC,148254.0,TELEFLEX MEDICAL INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,16612.0,matched,1.0,3842.0,I,1519267.0,False
+TELEFLEX,TELEFLEX LLC,10407.0,TELEFLEX INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1072.0,matched,1.0,3841.0,A,96943.0,False
+SYNCARDIA SYSTEMS,SynCardia Systems Inc.,26196.0,SYNCARDIA SYSTEMS INC  -REDH,compustat_exact,False,1900,2099,compustat_direct,part806_recall,2465.0,matched,1.0,3841.0,I,1231864.0,False
+SYBRON DENTAL SPECIALTIES,Sybron Dental Specialties,141321.0,SYBRON DENTAL SPECIALTIES,compustat_exact,False,1900,2099,compustat_direct,part806_recall,21.0,matched,1.0,3843.0,I,1121302.0,False
+SUNRISE MEDICAL,Sunrise Medical,10185.0,SUNRISE MEDICAL INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1017.0,matched,1.0,3842.0,I,720577.0,False
+STRATA SKIN SCIENCES,"Strata Skin Sciences, Inc.",164293.0,STRATA SKIN SCIENCES INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,3841.0,A,1051514.0,False
+STEREOTAXIS,Stereotaxis Inc,160375.0,STEREOTAXIS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,54.0,matched,1.0,3845.0,A,1289340.0,False
+ST FRANCIS MEDICAL TECHNOLOGIES,St. Francis Medical Technologies Inc,176355.0,ST FRANCIS MEDICAL TECH-REDH,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,3841.0,I,1087325.0,False
+MEDISENSE,MEDISENSE,30418.0,MEDISENSE INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,1769.0,matched,1.0,2835.0,I,922872.0,False
+SPACELABS MEDICAL,Spacelabs Medical Inc.,25390.0,SPACELABS MEDICAL INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,182.0,matched,1.0,3845.0,I,886142.0,False
+TORNIER,"Tornier, Inc",185058.0,TORNIER NV,compustat_exact,True,1900,2099,compustat_direct,part806_recall,718.0,matched,1.0,3842.0,I,,True
+TRINITY BIOTECH,Trinity Biotech USA,25850.0,TRINITY BIOTECH PLC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,2.0,matched,1.0,2835.0,A,888721.0,False
+ULTHERA,Ulthera Inc,20413.0,ULTHERA INC  -REDH,compustat_exact,False,1900,2099,compustat_direct,part806_recall,39.0,matched,1.0,3845.0,I,1345889.0,False
+ALERE,ALERE,146156.0,ALERE INC,compustat_exact,False,1900,2099,compustat_direct,part803_maude,53.0,matched,1.0,2835.0,I,1145460.0,False
+ZIMMER BIOMET,"Zimmer Biomet, Inc.",144559.0,ZIMMER BIOMET HOLDINGS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,35986.0,matched,1.0,3842.0,A,1136869.0,False
+ZELTIQ AESTHETICS,"Zeltiq Aesthetics, Inc",187653.0,ZELTIQ AESTHETICS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,61.0,matched,1.0,3845.0,I,1415336.0,False
+VYSIS,Vysis,66416.0,VYSIS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,2835.0,I,1016794.0,False
+VYCOR MEDICAL,"Vycor Medical, Inc.",182610.0,VYCOR MEDICAL INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,3842.0,A,1424768.0,False
+VOLCANO,Volcano Corp,174118.0,VOLCANO CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,757.0,matched,1.0,3845.0,I,1354217.0,False
+VITAL SIGNS,Vital Signs Inc,23088.0,VITAL SIGNS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,291.0,matched,1.0,3841.0,I,865846.0,False
+VIEWRAY,Viewray Incorporated,23106.0,VIEWRAY INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,12.0,matched,1.0,3845.0,A,1597313.0,False
+VENTANA MEDICAL SYSTEMS,Ventana Medical Systems Inc,63385.0,VENTANA MEDICAL SYSTEM INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,183.0,matched,1.0,2835.0,I,893160.0,False
+VASCULAR SOLUTIONS,"Vascular Solutions, Inc",125000.0,VASCULAR SOLUTIONS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1208.0,matched,1.0,3841.0,I,1030206.0,False
+VAPOTHERM,Vapotherm,34327.0,VAPOTHERM INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,150.0,matched,1.0,3845.0,I,1253176.0,False
+VALLEYLAB,"Valleylab, Inc",11092.0,VALLEYLAB INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,2381.0,matched,1.0,3845.0,I,102724.0,False
+VALERITAS,"Valeritas, Incorporated",23092.0,VALERITAS HOLDINGS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,734.0,matched,1.0,3841.0,I,1619250.0,False
+VNUS MEDICAL TECHNOLOGIES,VNUS Medical Technologies Inc,141276.0,VNUS MEDICAL TECHNOLOGIES,compustat_exact,False,1900,2099,compustat_direct,part806_recall,156.0,matched,1.0,3845.0,I,1040666.0,False
+UTAH MEDICAL PRODUCTS,"Utah Medical Products, Inc",11051.0,UTAH MEDICAL PRODUCTS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,321.0,matched,1.0,3845.0,A,706698.0,False
+UROLOGIX,"Urologix, Inc.",62954.0,UROLOGIX INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,208.0,matched,1.0,3845.0,A,882873.0,False
+NEVRO,NEVRO,21916.0,NEVRO CORP,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,1810.0,matched,1.0,3845.0,I,1444380.0,False
+NOMOS,NOMOS,148472.0,NOMOS CORP  -REDH,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,28.0,matched,1.0,3841.0,I,943799.0,False
+THERASENSE,THERASENSE,140900.0,THERASENSE INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,1376.0,matched,1.0,3841.0,I,1073695.0,False
+BIRTCHER MEDICAL SYSTEMS,BIRTCHER MEDICAL SYSTEMS,2252.0,BIRTCHER MEDICAL SYSTEMS,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,33.0,matched,1.0,3845.0,I,12288.0,False
+NOVACEPT,NOVACEPT,158233.0,NOVACEPT INC-REDH,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,34.0,matched,1.0,3845.0,I,1275711.0,False
+SHERWOOD MEDICAL INDUSTRIES,SHERWOOD MEDICAL INDUSTRIES,9670.0,SHERWOOD MEDICAL INDS INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,34.0,matched,1.0,3841.0,I,,False
+NAMIC,NAMIC,24713.0,NAMIC USA CORP,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,35.0,matched,1.0,3841.0,I,879044.0,False
+CABOT MEDICAL,CABOT MEDICAL,12622.0,CABOT MEDICAL CORP,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,36.0,matched,1.0,3841.0,I,719073.0,False
+SEAMED,SEAMED,64002.0,SEAMED CORP,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,37.0,matched,1.0,3845.0,I,937289.0,False
+FOXHOLLOW TECHNOLOGIES,FOXHOLLOW TECHNOLOGIES,161073.0,FOXHOLLOW TECHNOLOGIES INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,37.0,matched,1.0,3841.0,I,1217688.0,False
+PHARMACIA,PHARMACIA,7536.0,PHARMACIA CORP,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,38.0,matched,1.0,2834.0,I,67686.0,False
+CARDIAC CONTROL SYSTEMS,CARDIAC CONTROL SYSTEMS,12163.0,CARDIAC CONTROL SYSTEMS INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,38.0,matched,1.0,3845.0,I,,False
+KESTRA MEDICAL TECHNOLOGIES,KESTRA MEDICAL TECHNOLOGIES,50999.0,KESTRA MEDICAL TECHNOLOG LTD,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,39.0,matched,1.0,3841.0,A,1877184.0,False
+EP TECHNOLOGIES,EP TECHNOLOGIES,28692.0,EP TECHNOLOGIES INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,39.0,matched,1.0,3841.0,I,896978.0,False
+VALEANT PHARMACEUTICALS,VALEANT PHARMACEUTICALS,9340.0,VALEANT PHARMACEUTICALS -OLD,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,40.0,matched,1.0,2834.0,I,930184.0,False
+ADVANCED TISSUE SCIENCES,ADVANCED TISSUE SCIENCES,14836.0,ADVANCED TISSUE SCI  -CL A,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,40.0,matched,1.0,2836.0,I,829549.0,False
+VIASYS HEALTHCARE,VIASYS HEALTHCARE,145854.0,VIASYS HEALTHCARE INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,43.0,matched,1.0,3841.0,I,1123361.0,False
+MARQUEST MEDICAL PRODUCTS,MARQUEST MEDICAL PRODUCTS,7059.0,MARQUEST MEDICAL PRODS INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,44.0,matched,1.0,3841.0,I,719497.0,False
+COHESION TECHNOLOGIES,COHESION TECHNOLOGIES,113460.0,COHESION TECHNOLOGIES INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,44.0,matched,1.0,2836.0,I,1059574.0,False
+I STAT,I STAT,24971.0,I-STAT CORP,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,47.0,matched,1.0,3845.0,I,882365.0,False
+ELLIPSE TECHNOLOGIES,ELLIPSE TECHNOLOGIES,26375.0,ELLIPSE TECHNOLOGIES -REDH,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,50.0,matched,1.0,3842.0,I,1337425.0,False
+BIORA,BIORA,64335.0,BIORA AB,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,54.0,matched,1.0,2836.0,I,1030739.0,False
+SPAN AMERICA MEDICAL SYSTEMS,SPAN AMERICA MEDICAL SYSTEMS,9916.0,SPAN-AMERICA MEDICAL SYS INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,54.0,matched,1.0,3842.0,I,718924.0,False
+EVEREST MEDICAL,EVEREST MEDICAL,23487.0,EVEREST MEDICAL CORP,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,54.0,matched,1.0,3845.0,I,869426.0,False
+GENENTECH,GENENTECH,5020.0,GENENTECH INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,56.0,matched,1.0,2834.0,I,318771.0,False
+BIOMATRIX,BIOMATRIX,24386.0,BIOMATRIX INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,34.0,matched,1.0,2836.0,I,747952.0,False
+HEART TECHNOLOGY,HEART TECHNOLOGY,25012.0,HEART TECHNOLOGY INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,33.0,matched,1.0,3845.0,I,883330.0,False
+UROMED,UROMED,29874.0,UROMED CORP,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,57.0,matched,1.0,3842.0,I,917821.0,False
+INNERDYNE,INNERDYNE,24845.0,INNERDYNE INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,33.0,matched,1.0,3841.0,I,822084.0,False
+SONOSITE,"SonoSite, Inc.",66728.0,SONOSITE INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,36.0,matched,1.0,3845.0,I,1055355.0,False
+RESEARCH MEDICAL,RESEARCH MEDICAL,9074.0,RESEARCH MEDICAL INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,23.0,matched,1.0,3841.0,I,83306.0,False
+INFRASONICS,INFRASONICS,11750.0,INFRASONICS INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,23.0,matched,1.0,3842.0,I,748618.0,False
+INNOVASIVE DEVICES,INNOVASIVE DEVICES,63003.0,INNOVASIVE DEVICES INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,24.0,matched,1.0,3842.0,I,1003608.0,False
+EDAP TMS,EDAP TMS,65189.0,EDAP TMS SA  -ADR,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,24.0,matched,1.0,3845.0,A,1041934.0,False
+MARQUETTE MEDICAL SYSTEMS,MARQUETTE MEDICAL SYSTEMS,24651.0,MARQUETTE MEDICAL SYS,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,24.0,matched,1.0,3845.0,I,62675.0,False
+VERICEL,VERICEL,64334.0,VERICEL CORP,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,25.0,matched,1.0,2836.0,A,887359.0,False
+AMERICAN STERILIZER,AMERICAN STERILIZER,1571.0,AMERICAN STERILIZER CO,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,25.0,matched,1.0,3842.0,I,5870.0,False
+SURGICAL LASER TECHNOLOGIES,SURGICAL LASER TECHNOLOGIES,17232.0,SURGICAL LASER TECH INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,26.0,matched,1.0,3845.0,I,854099.0,False
+ENDOCARDIAL SOLUTIONS,ENDOCARDIAL SOLUTIONS,64497.0,ENDOCARDIAL SOLUTIONS INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,26.0,matched,1.0,3845.0,I,940659.0,False
+XOMED SURGICAL PRODUCTS,XOMED SURGICAL PRODUCTS,63772.0,XOMED SURGICAL PRODS,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,27.0,matched,1.0,3842.0,I,1016181.0,False
+MEDSOURCE TECHNOLOGIES,MEDSOURCE TECHNOLOGIES,146778.0,MEDSOURCE TECHNOLOGIES INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,28.0,matched,1.0,3841.0,I,1084726.0,False
+EVEREST AND JENNINGS,EVEREST AND JENNINGS,4471.0,EVEREST&JENNINGS INTL,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,28.0,matched,1.0,3842.0,I,,False
+AMERICAN WHITE CROSS,AMERICAN WHITE CROSS,25932.0,AMERICAN WHITE CROSS INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,28.0,matched,1.0,3842.0,I,887622.0,False
+GE HEALTHCARE TECHNOLOGIES,GE HEALTHCARE TECHNOLOGIES,41818.0,GE HEALTHCARE TECHNOLOGI INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,28.0,matched,1.0,3845.0,A,1932393.0,False
+SOMNUS MEDICAL TECHNOLOGIES,SOMNUS MEDICAL TECHNOLOGIES,65788.0,SOMNUS MED TECHNOLOGIES INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,29.0,matched,1.0,3845.0,I,1026405.0,False
+AMSCO,AMSCO,23787.0,AMSCO INTERNATIONAL INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,30.0,matched,1.0,3842.0,I,872463.0,False
+ADVANCED BIOHEALING,ADVANCED BIOHEALING,186609.0,ADVANCED BIOHEALING  -REDH,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,30.0,matched,1.0,2836.0,I,1305108.0,False
+CRYOCATH TECHNOLOGIES,CRYOCATH TECHNOLOGIES,140937.0,CRYOCATH TECHNOLOGIES INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,30.0,matched,1.0,3841.0,I,,False
+DYNATRONICS,DYNATRONICS,4124.0,DYNATRONICS CORP,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,30.0,matched,1.0,3845.0,A,720875.0,False
+CARDIOMEMS,CARDIOMEMS,176974.0,CARDIOMEMS INC -REDH,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,31.0,matched,1.0,3845.0,I,1158091.0,False
+AVINGER,AVINGER,22704.0,AVINGER INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,57.0,matched,1.0,3841.0,I,1506928.0,False
+ASPECT MEDICAL SYSTEMS,ASPECT MEDICAL SYSTEMS,113646.0,ASPECT MEDICAL SYSTEMS INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,63.0,matched,1.0,3845.0,I,886235.0,False
+HOME DIAGNOSTICS,HOME DIAGNOSTICS,174454.0,HOME DIAGNOSTICS INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,797.0,matched,1.0,3845.0,I,884909.0,False
+LUTHER MEDICAL PRODUCTS,LUTHER MEDICAL PRODUCTS,6844.0,LUTHER MEDICAL PRODCTS,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,155.0,matched,1.0,3841.0,I,319204.0,False
+GYNECARE,GYNECARE,61597.0,GYNECARE INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,159.0,matched,1.0,3841.0,I,1002243.0,False
+GENZYME SURGICAL PRODUCTS,GENZYME SURGICAL PRODUCTS,121742.0,GENZYME SURGICAL PRODUCTS,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,164.0,matched,1.0,3841.0,I,,False
+COBE LABORATORIES,COBE LABORATORIES,3135.0,COBE LABORATORIES INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,164.0,matched,1.0,3841.0,I,21310.0,False
+HEARTPORT,HEARTPORT,62705.0,HEARTPORT INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,174.0,matched,1.0,3841.0,I,1009871.0,False
+SENORX,SENORX,175084.0,SENORX INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,191.0,matched,1.0,3845.0,I,1097136.0,False
+SABRATEK,SABRATEK,63117.0,SABRATEK CORP,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,192.0,matched,1.0,3845.0,I,1012480.0,False
+ENDOCHOICE,ENDOCHOICE,23889.0,ENDOCHOICE HOLDINGS INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,231.0,matched,1.0,3845.0,I,1623919.0,False
+VENTRITEX,VENTRITEX,24859.0,VENTRITEX INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,246.0,matched,1.0,3845.0,I,793354.0,False
+TRIMEDYNE,TRIMEDYNE,10734.0,TRIMEDYNE INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,247.0,matched,1.0,3845.0,I,357001.0,False
+NEUROPACE,NEUROPACE,38507.0,NEUROPACE INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,270.0,matched,1.0,3841.0,A,1528287.0,False
+BIOFORM MEDICAL,BIOFORM MEDICAL,178800.0,BIOFORM MEDICAL INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,273.0,matched,1.0,2834.0,I,1282393.0,False
+ACUSON,ACUSON,12570.0,ACUSON CORP,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,278.0,matched,1.0,3845.0,I,717014.0,False
+AEQUITRON MEDICAL,AEQUITRON MEDICAL,1151.0,AEQUITRON MEDICAL INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,321.0,matched,1.0,3842.0,I,736970.0,False
+OLYMPUS,OLYMPUS,100686.0,OLYMPUS CORP,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,371.0,matched,1.0,3845.0,A,1959991.0,False
+SIRONA DENTAL SYSTEMS,SIRONA DENTAL SYSTEMS,174876.0,SIRONA DENTAL SYSTEMS INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,382.0,matched,1.0,3843.0,I,1014507.0,False
+CLOSURE MEDICAL,CLOSURE MEDICAL,63617.0,CLOSURE MEDICAL CORP,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,417.0,matched,1.0,3842.0,I,1016006.0,False
+MCGAW,MCGAW,27964.0,MCGAW INC  -CL A,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,440.0,matched,1.0,2834.0,I,883498.0,False
+GENZYME BIOSURGERY,GENZYME BIOSURGERY,143176.0,GENZYME BIOSURGERY,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,537.0,matched,1.0,3841.0,I,,False
+GLAUKOS,GLAUKOS,23990.0,GLAUKOS CORP,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,575.0,matched,1.0,3841.0,A,1192448.0,False
+SI BONE,SI BONE,34193.0,SI-BONE INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,702.0,matched,1.0,3842.0,A,1459839.0,False
+INTERMEDICS,INTERMEDICS,6045.0,INTERMEDICS INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,711.0,matched,1.0,3845.0,I,216219.0,False
+INTERPORE,INTERPORE,29459.0,INTERPORE INTERNATIONAL,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,157.0,matched,1.0,3842.0,I,854093.0,False
+NMT MEDICAL,NMT MEDICAL,63676.0,NMT MEDICAL INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,148.0,matched,1.0,3841.0,I,1017259.0,False
+INARI MEDICAL,INARI MEDICAL,36236.0,INARI MEDICAL INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,64.0,matched,1.0,3841.0,I,1531048.0,False
+INTRALASE,INTRALASE,160597.0,INTRALASE CORP,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,143.0,matched,1.0,3845.0,I,1163848.0,False
+DERMA SCIENCES,DERMA SCIENCES,30205.0,DERMA SCIENCES INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,65.0,matched,1.0,2834.0,I,892160.0,False
+PRISM MEDICAL,PRISM MEDICAL,132802.0,PRISM MEDICAL LTD,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,67.0,matched,1.0,3842.0,I,,False
+SOFAMOR DANEK,SOFAMOR DANEK,24038.0,SOFAMOR/DANEK GROUP INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,72.0,matched,1.0,3842.0,I,873730.0,False
+PHARMACIA AND UPJOHN,PHARMACIA AND UPJOHN,11040.0,PHARMACIA & UPJOHN INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,75.0,matched,1.0,2834.0,I,949573.0,False
+ORATEC INTERVENTIONS,ORATEC INTERVENTIONS,133729.0,ORATEC INTERVENTIONS INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,76.0,matched,1.0,3845.0,I,1037165.0,False
+ROCHE,ROCHE,25648.0,ROCHE HOLDING AG,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,77.0,matched,1.0,2834.0,A,889131.0,False
+CIRCON,CIRCON,3053.0,CIRCON CORP,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,84.0,matched,1.0,3845.0,I,719727.0,False
+TUTOGEN MEDICAL,TUTOGEN MEDICAL,14487.0,TUTOGEN MEDICAL INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,87.0,matched,1.0,3842.0,I,816949.0,False
+CARL ZEISS MEDITEC JENA,CARL ZEISS MEDITEC JENA,238442.0,CARL ZEISS MEDITEC AG,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,90.0,matched,1.0,3845.0,A,1411576.0,False
+GLIATECH,GLIATECH,61433.0,GLIATECH INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,93.0,matched,1.0,2834.0,I,885741.0,False
+BIO LOK,BIO LOK,116389.0,BIO LOK INTL INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,94.0,matched,1.0,3843.0,I,840573.0,False
+ANSELL,ANSELL,14242.0,ANSELL LTD,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,94.0,matched,1.0,3842.0,A,791440.0,False
+LENSAR,LENSAR,36929.0,LENSAR INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,101.0,matched,1.0,3845.0,A,1320350.0,False
+TARGET THERAPEUTICS,TARGET THERAPEUTICS,24867.0,TARGET THERAPEUTICS INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,109.0,matched,1.0,3841.0,I,882238.0,False
+MINERVA SURGICAL,MINERVA SURGICAL,39753.0,MINERVA SURGICAL INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,111.0,matched,1.0,3841.0,A,1452965.0,False
+BIONX IMPLANTS,BIONX IMPLANTS,64680.0,BIONX IMPLANTS INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,116.0,matched,1.0,3842.0,I,1030418.0,False
+LASERSCOPE,LASERSCOPE,18100.0,LASERSCOPE,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,117.0,matched,1.0,3845.0,I,851737.0,False
+ELECTRO BIOLOGY,ELECTRO BIOLOGY,4264.0,ELECTRO BIOLOGY INC,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,120.0,matched,1.0,3845.0,I,320574.0,False
+NOVOCURE,NOVOCURE,26123.0,NOVOCURE LIMITED,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,129.0,matched,1.0,3845.0,A,1645113.0,False
+U S SURGICAL,U S SURGICAL,10972.0,U S SURGICAL CORP,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,137.0,matched,1.0,3841.0,I,101788.0,False
+THERMO CARDIOSYSTEMS,THERMO CARDIOSYSTEMS,15113.0,THERMO CARDIOSYSTEMS,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,139.0,matched,1.0,3845.0,I,841939.0,False
+SOUND SURGICAL TECHNOLOGIES,"Sound Surgical Technologies, LLC",162574.0,SOUND SURGICAL TECH INC-REDH,compustat_exact,False,1900,2099,compustat_direct,part806_recall,2.0,matched,1.0,3845.0,I,1311984.0,False
+APP PHARMACEUTICALS,App Pharmaceuticals Llc,145512.0,APP PHARMACEUTICALS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,2.0,matched,1.0,2834.0,I,1141399.0,False
+SONENDO,Sonendo Inc,39860.0,SONENDO INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,3.0,matched,1.0,3843.0,A,1407973.0,False
+DIAGNOSTIC PRODUCTS,Diagnostic Products Corp,3917.0,DIAGNOSTIC PRODUCTS CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,7.0,matched,1.0,2835.0,I,702259.0,False
+CYNOSURE,"Cynosure, Inc.",164664.0,CYNOSURE INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,224.0,matched,1.0,3845.0,I,885306.0,False
+CYGNUS,Cygnus LLC,23605.0,CYGNUS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,2.0,matched,1.0,2835.0,I,870755.0,False
+CYBERKINETICS NEUROTECHNOLOGY SYSTEMS,"Cyberkinetics Neurotechnology Systems, Inc.",260759.0,CYBERKINETICS NEURO SYS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,3845.0,I,1180253.0,False
+CURON MEDICAL,Curon Medical Inc,139922.0,CURON MED INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,29.0,matched,1.0,3845.0,I,1114365.0,False
+CONAVI MEDICAL,Conavi Medical Inc.,179929.0,CONAVI MEDICAL CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,3845.0,A,2069519.0,False
+CHOLESTECH,Cholestech Corp,25433.0,CHOLESTECH CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,2.0,matched,1.0,3845.0,I,887227.0,False
+CHEMBIO DIAGNOSTICS,"Chembio Diagnostics, Inc",140568.0,CHEMBIO DIAGNOSTICS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,3.0,matched,1.0,2835.0,I,1092662.0,False
+CARL ZEISS MEDITEC,Carl Zeiss Meditec Inc,238442.0,CARL ZEISS MEDITEC AG,compustat_exact,True,1900,2099,compustat_direct,part806_recall,107.0,matched,1.0,3845.0,A,1411576.0,True
+CARDIOVASCULAR SYSTEMS,Cardiovascular Systems Inc,179413.0,CARDIOVASCULAR SYSTEMS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1662.0,matched,1.0,3841.0,I,1180145.0,False
+CARDIMA,Cardima Inc,64865.0,CARDIMA INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,3.0,matched,1.0,3841.0,I,1022570.0,False
+CANDELA,Candela Corporation,12390.0,CANDELA CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,268.0,matched,1.0,3845.0,I,793279.0,False
+CAMBRIDGE HEART,"Cambridge Heart, Inc.",63418.0,CAMBRIDGE HEART INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,3845.0,I,913443.0,False
+DIADEXUS,"DiaDexus, Inc",121819.0,DIADEXUS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,12.0,matched,1.0,2836.0,I,1036968.0,False
+DIGENE,Digene Corp,62913.0,DIGENE CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,30.0,matched,1.0,2835.0,I,1011582.0,False
+CAS MEDICAL SYSTEMS,"CAS Medical Systems, Inc.",11805.0,CAS MEDICAL SYSTEMS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,98.0,matched,1.0,3845.0,I,764579.0,False
+E MED FUTURE,E Med Future Inc,170531.0,E MED FUTURE INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,3842.0,A,894552.0,False
+GIVEN IMAGING,Given Imaging Inc,145043.0,GIVEN IMAGING,compustat_exact,False,1900,2099,compustat_direct,part806_recall,4869.0,matched,1.0,3845.0,I,1126140.0,False
+GISH BIOMEDICAL,Gish Biomedical Inc,5174.0,GISH BIOMEDICAL INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,131.0,matched,1.0,3841.0,I,700945.0,False
+GEN PROBE,Gen Probe Inc,14186.0,GEN-PROBE INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,6.0,matched,1.0,2835.0,I,820237.0,False
+FOUNDATION MEDICINE,"Foundation Medicine, Inc.",18469.0,FOUNDATION MEDICINE INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,9.0,matched,1.0,2836.0,I,1488613.0,False
+FISHER AND PAYKEL HEALTHCARE,Fisher & Paykel Healthcare Inc,101256.0,FISHER & PAYKEL HEALTHCARE C,compustat_exact,False,1900,2099,compustat_direct,part806_recall,9608.0,matched,1.0,3842.0,A,1144690.0,False
+FISCHER IMAGING,Fischer Imaging Corporation,24402.0,FISCHER IMAGING CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,85.0,matched,1.0,3844.0,I,750901.0,False
+ESCALON MEDICAL,Escalon Medical Corp,25711.0,ESCALON MEDICAL CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,3845.0,A,862668.0,False
+ENPATH MEDICAL,"Enpath Medical, Inc",24449.0,ENPATH MEDICAL INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,85.0,matched,1.0,3841.0,I,833140.0,False
+ENDOLOGIX,Endologix Inc,63083.0,ENDOLOGIX INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,4154.0,matched,1.0,3841.0,I,1013606.0,False
+ENDOCARE,Endocare Inc,62200.0,ENDOCARE INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,320.0,matched,1.0,3841.0,I,1003464.0,False
+ENCISION,"Encision, Inc.",63122.0,ENCISION INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,189.0,matched,1.0,3845.0,A,930775.0,False
+EMBECTA,Embecta Corp.,41050.0,EMBECTA CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,3842.0,A,1872789.0,False
+ELEKTA,Elekta Inc,221486.0,ELEKTA AB,compustat_exact,True,1900,2099,compustat_direct,part806_recall,511.0,matched,1.0,3845.0,A,1451160.0,True
+EP MEDSYSTEMS,EP Medsystems,63100.0,EP MEDSYSTEMS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,3845.0,I,1012394.0,False
+E Z EM,"E-Z-EM, Inc",4162.0,E-Z-EM INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,221.0,matched,1.0,2835.0,I,727008.0,False
+CARIS LIFE SCIENCES,CARIS LIFE SCIENCES,51869.0,CARIS LIFE SCIENCES INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,2835.0,A,2019410.0,False
+GUIDANT,Guidant Corporation,31166.0,GUIDANT CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,774.0,matched,1.0,3841.0,I,929987.0,False
+AMERICAN MEDICAL SYSTEMS,American Medical Systems,138741.0,AMERICAN MEDICAL SYSTMS HLDS,compustat_exact,False,1900,2099,compustat_direct,part806_recall,13533.0,matched,1.0,3842.0,I,1114200.0,False
+ALLIED HEALTHCARE PRODUCTS,Allied Healthcare Products Inc,24837.0,ALLIED HEALTHCARE PRODS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,443.0,matched,1.0,3842.0,I,874710.0,False
+ALCON LABORATORIES,"Alcon Laboratories, Inc",1248.0,ALCON LABORATORIES INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,6544.0,matched,1.0,2834.0,I,3382.0,False
+ALARIS MEDICAL SYSTEMS,Alaris Medical Systems Inc,15315.0,ALARIS MEDICAL SYSTEMS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,2483.0,matched,1.0,3841.0,I,817161.0,False
+AKSYS,"Aksys, Ltd.",62874.0,AKSYS LTD,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,3845.0,I,902600.0,False
+ADVANCED NEUROMODULATION SYSTEMS,Advanced Neuromodulation Systems,8872.0,ADV NEUROMODULATION SYS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,3214.0,matched,1.0,3845.0,I,351721.0,False
+ADVANCED MEDICAL OPTICS,"Advanced Medical Optics, Inc.",148870.0,ADVANCED MEDICAL OPTICS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1116.0,matched,1.0,3845.0,I,1168335.0,False
+ACUTUS MEDICAL,Acutus Medical Inc,36757.0,ACUTUS MEDICAL INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,4.0,matched,1.0,3841.0,A,1522860.0,False
+ACCELERATE DIAGNOSTICS,Accelerate Diagnostics Inc,21118.0,ACCELERATE DIAGNOSTICS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,4.0,matched,1.0,2835.0,I,727207.0,False
+ABBVIE,AbbVie Inc.,16101.0,ABBVIE INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,4.0,matched,1.0,2836.0,A,1551152.0,False
+ATS MEDICAL,"ATS Medical, Inc.",22308.0,ATS MEDICAL INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,57.0,matched,1.0,3842.0,I,824068.0,False
+ARROW,ARROW INTERNATIONAL Inc.,25355.0,ARROW INTERNATIONAL INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,23798.0,matched,1.0,3841.0,I,886046.0,False
+AGA MEDICAL,AGA Medical Corporation,180279.0,AGA MEDICAL HOLDINGS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,2536.0,matched,1.0,3845.0,I,1421419.0,False
+ADAC LABORATORIES,ADAC Laboratories,1115.0,ADAC LABORATORIES,compustat_exact,False,1900,2099,compustat_direct,part806_recall,486.0,matched,1.0,3844.0,I,313798.0,False
+A L I TECHNOLOGIES,A L I Technologies Ltd,105230.0,A L I TECHNOLOGIES INC,compustat_exact,True,1900,2099,compustat_direct,part806_recall,3.0,matched,1.0,3845.0,I,944338.0,True
+AMERICAN SCIENCE AND ENGINEERING,"American Science & Engineering, Inc.",1554.0,AMERICAN SCIENCE ENGINEERING,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,3844.0,I,5768.0,False
+ANIKA THERAPEUTICS,Anika Therapeutics,28209.0,ANIKA THERAPEUTICS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,507.0,matched,1.0,2836.0,A,898437.0,False
+CAREFUSION,CAREFUSION,183257.0,CAREFUSION CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,29834.0,matched,1.0,3841.0,I,1457543.0,False
+BUTTERFLY NETWORK,"Butterfly Network, Inc.",38079.0,BUTTERFLY NETWORK INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,2.0,matched,1.0,3845.0,A,1804176.0,False
+BIOVENTUS,"Bioventus, LLC",27644.0,BIOVENTUS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,62.0,matched,1.0,3845.0,A,1665988.0,False
+BIOSITE,Biosite Inc,64375.0,BIOSITE INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,2393.0,matched,1.0,2835.0,I,1487310.0,False
+BIOMERICA,Biomerica,7662.0,BIOMERICA INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,2835.0,A,73290.0,False
+BIOCARDIA,"Biocardia, Inc.",24598.0,BIOCARDIA INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,3.0,matched,1.0,2836.0,A,925741.0,False
+BIOMIMETIC THERAPEUTICS,"BioMimetic Therapeutics, LLC",166569.0,BIOMIMETIC THERAPEUTICS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,3842.0,I,1138400.0,False
+BIO LOGIC SYSTEMS,Bio-Logic Systems Corp,2246.0,BIO-LOGIC SYSTEMS CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,2.0,matched,1.0,3845.0,I,355007.0,False
+BALLARD MEDICAL PRODUCTS,Ballard Medical Products,1989.0,BALLARD MEDICAL PRODUCTS,compustat_exact,False,1900,2099,compustat_direct,part806_recall,505.0,matched,1.0,3841.0,I,723534.0,False
+ATRICURE,"AtriCure, Inc.",163889.0,ATRICURE INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,635.0,matched,1.0,3841.0,A,1323885.0,False
+ASENSUS SURGICAL,Asensus Surgical Inc,18666.0,ASENSUS SURGICAL INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,3841.0,I,876378.0,False
+ASANTE SOLUTIONS,"Asante Solutions, Inc.",22635.0,ASANTE SOLUTIONS INC -REDH,compustat_exact,False,1900,2099,compustat_direct,part806_recall,8.0,matched,1.0,3845.0,I,1620983.0,False
+ARTHROCARE,ArthroCare Corporation,61996.0,ARTHROCARE CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,5537.0,matched,1.0,3845.0,I,1005010.0,False
+APOLLO ENDOSURGERY,Apollo Endosurgery Inc,29687.0,APOLLO ENDOSURGERY INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1480.0,matched,1.0,3841.0,I,1251769.0,False
+APELLIS PHARMACEUTICALS,"Apellis Pharmaceuticals, Inc.",26359.0,APELLIS PHARMACEUTICALS,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,2836.0,I,1492422.0,False
+GREAT BASIN SCIENTIFIC,"Great Basin Scientific, Inc.",21826.0,GREAT BASIN SCIENTIFIC INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,2835.0,I,1512138.0,False
+HAEMACURE,Haemacure Corporation,63151.0,HAEMACURE CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,2836.0,I,1115552.0,False
+PROCEPT BIOROBOTICS,PROCEPT BIOROBOTICS CORPORATION,39453.0,PROCEPT BIOROBTCS CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,168.0,matched,1.0,3841.0,A,1588978.0,False
+OSMETECH,Osmetech Inc,204326.0,OSMETECH PLC,compustat_exact,True,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,3845.0,I,1369655.0,True
+ORTHOVITA,"Orthovita, Inc.",117142.0,ORTHOVITA INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,25.0,matched,1.0,3841.0,I,913756.0,False
+ORTHOPEDIATRICS,OrthoPediatrics Corp,27555.0,ORTHOPEDIATRICS CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,362.0,matched,1.0,3842.0,A,1425450.0,False
+ORASURE TECHNOLOGIES,"OraSure Technologies, Inc.",12915.0,ORASURE TECHNOLOGIES INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,106.0,matched,1.0,2835.0,A,1116463.0,False
+OBALON THERAPEUTICS,Obalon Therapeutics Inc,28086.0,OBALON THERAPEUTICS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,56.0,matched,1.0,3841.0,I,,False
+OEC MEDICAL SYSTEMS,"OEC Medical Systems, Inc",3935.0,OEC MEDICAL SYSTEMS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,78.0,matched,1.0,3844.0,I,317814.0,False
+NXSTAGE MEDICAL,NxStage Medical Inc,164612.0,NXSTAGE MEDICAL INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,2682.0,matched,1.0,3845.0,I,1333170.0,False
+NUWELLIS,Nuwellis Inc,271987.0,NUWELLIS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,3845.0,A,1506492.0,False
+NUVECTRA,Nuvectra,26382.0,NUVECTRA CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,229.0,matched,1.0,3845.0,I,1648893.0,False
+NEURONETICS,"Neuronetics, Inc.",33698.0,NEURONETICS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,52.0,matched,1.0,3845.0,A,1227636.0,False
+NELLCOR PURITAN BENNETT,Nellcor Puritan Bennett,13333.0,NELLCOR PURITAN BENNETT INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,4365.0,matched,1.0,3845.0,I,799290.0,False
+NANOSPHERE,"Nanosphere, Inc.",178752.0,NANOSPHERE INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,12.0,matched,1.0,2835.0,I,1105184.0,False
+NOVADAQ TECHNOLOGIES,NOVADAQ TECHNOLOGIES INC.,166224.0,NOVADAQ TECHNOLOGIES INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,5.0,matched,1.0,3845.0,I,1173293.0,False
+MISONIX,"Misonix, Inc",24890.0,MISONIX INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,96.0,matched,1.0,3841.0,I,880432.0,False
+MINNTECH,Minntech Corp,9051.0,MINNTECH CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,448.0,matched,1.0,3841.0,I,724969.0,False
+PARAGON 28,"Paragon 28, Inc.",39734.0,PARAGON 28 INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,387.0,matched,1.0,3842.0,I,1531978.0,False
+MICRUS ENDOVASCULAR,Micrus Endovascular Corporation,163102.0,MICRUS ENDOVASCULAR CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,603.0,matched,1.0,3841.0,I,1028318.0,False
+POSSIS MEDICAL,"Possis Medical, Inc",8687.0,POSSIS MEDICAL INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,681.0,matched,1.0,3841.0,I,79677.0,False
+SILK ROAD MEDICAL,Silk Road Medical Inc,34882.0,SILK ROAD MEDICAL INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,238.0,matched,1.0,3845.0,I,1397702.0,False
+SIGHT SCIENCES,"Sight Sciences, Inc.",39171.0,SIGHT SCIENCES INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,44.0,matched,1.0,3841.0,A,1531177.0,False
+SHOCKWAVE MEDICAL,"Shockwave Medical, Inc.",34854.0,SHOCKWAVE MEDICAL INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,57.0,matched,1.0,3845.0,I,1642545.0,False
+SENSUS HEALTHCARE,"Sensus Healthcare, Inc.",26908.0,SENSUS HEALTHCARE INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,3845.0,A,1494891.0,False
+SENSEONICS,"Senseonics, Inc.",26636.0,SENSEONICS HLDGS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1001.0,matched,1.0,3845.0,A,1616543.0,False
+SEASPINE,SeaSpine Inc,24458.0,SEASPINE HOLDINGS CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,296.0,matched,1.0,3842.0,I,1637761.0,False
+SALIENT SURGICAL TECHNOLOGIES,"Salient Surgical Technologies, Inc",179669.0,SALIENT SURGICAL TECH-REDH,compustat_exact,False,1900,2099,compustat_direct,part806_recall,30.0,matched,1.0,3845.0,I,1125490.0,False
+ROCKWELL MEDICAL,"Rockwell Medical, Inc",66366.0,ROCKWELL MEDICAL INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,3842.0,A,1041024.0,False
+ROCHESTER MEDICAL,Rochester Medical Corp,24304.0,ROCHESTER MEDICAL CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,165.0,matched,1.0,3841.0,I,868368.0,False
+RITA MEDICAL SYSTEMS,Rita Medical Systems,138129.0,RITA MEDICAL SYSTEMS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,151.0,matched,1.0,3845.0,I,1056421.0,False
+RETRACTABLE TECHNOLOGIES,"Retractable Technologies, Inc.",143526.0,RETRACTABLE TECHNOLOGIES INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,368.0,matched,1.0,3841.0,A,946563.0,False
+RESTORATION ROBOTICS,Restoration Robotics,32380.0,RESTORATION ROBOTIC INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,4.0,matched,1.0,3845.0,I,,False
+RESPIRONICS,Respironics,14385.0,RESPIRONICS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,371337.0,matched,1.0,3842.0,I,780434.0,False
+RESMED,Resmed Corporation,31887.0,RESMED INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,9137.0,matched,1.0,3845.0,A,943819.0,False
+RENOVORX,"RenovoRx, Inc.",39411.0,RENOVORX INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,2836.0,A,1574094.0,False
+REPLIGEN,REPLIGEN CORPORATION,12181.0,REPLIGEN CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,2836.0,A,730272.0,False
+QUIDELORTHO,QUIDELORTHO,7526.0,QUIDELORTHO CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,68.0,matched,1.0,2835.0,A,1906324.0,False
+PURITAN BENNETT,Puritan Bennett,8829.0,PURITAN-BENNETT CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,3887.0,matched,1.0,3842.0,I,81199.0,False
+PULMONX,"Pulmonx, Corp.",36260.0,PULMONX CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,249.0,matched,1.0,3841.0,A,1127537.0,False
+PRO DEX,Pro-Dex Inc,12458.0,PRO-DEX INC/CO,compustat_exact,False,1900,2099,compustat_direct,part806_recall,6.0,matched,1.0,3841.0,A,788920.0,False
+MILESTONE SCIENTIFIC,"Milestone Scientific, Inc.",61496.0,MILESTONE SCIENTIFIC INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,3843.0,A,855683.0,False
+MICRO THERAPEUTICS,Micro Therapeutics Inc,64392.0,MICRO THERAPEUTICS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,386.0,matched,1.0,3841.0,I,311407.0,False
+HAEMONETICS,Haemonetics Corporation,24021.0,HAEMONETICS CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1524.0,matched,1.0,3841.0,A,313143.0,False
+INVISION TECHNOLOGIES,Invision Technologies Inc,62688.0,INVISION TECHNOLOGIES INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,3844.0,I,1005969.0,False
+INTERSECT ENT,"Intersect ENT, Inc.",21006.0,INTERSECT ENT INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,29.0,matched,1.0,3842.0,I,1271214.0,False
+LIFE SCIENCES,International Life Sciences,6721.0,LIFE SCIENCES INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,3.0,matched,1.0,2835.0,I,59401.0,False
+INSPIRE MEDICAL SYSTEMS,Inspire Medical Systems Inc.,33435.0,INSPIRE MEDICAL SYSTEM,compustat_exact,False,1900,2099,compustat_direct,part806_recall,343.0,matched,1.0,3845.0,A,1609550.0,False
+INOGEN,"Inogen, Inc",19274.0,INOGEN INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,60.0,matched,1.0,3845.0,A,1294133.0,False
+INFRAREDX,"Infraredx, Inc.",22658.0,INFRAREDX INC -REDH,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,3845.0,I,1111406.0,False
+INAMED,Inamed Corp,4675.0,INAMED CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,175.0,matched,1.0,3842.0,I,109831.0,False
+IKARIA,Ikaria Holdings,182350.0,IKARIA INC-REDH,compustat_exact,False,1900,2099,compustat_direct,part806_recall,147.0,matched,1.0,2836.0,I,1396990.0,False
+INSPIREMD,INSPIREMD Inc,186953.0,INSPIREMD INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,6.0,matched,1.0,3845.0,A,1433607.0,False
+IMRIS,IMRIS Inc,178774.0,IMRIS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1.0,matched,1.0,3845.0,A,1489161.0,False
+I FLOW,I-Flow Corporation,20296.0,I-FLOW CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,2319.0,matched,1.0,3841.0,I,857728.0,False
+HYCOR BIOMEDICAL,Hycor Biomedical Inc,5798.0,HYCOR BIOMEDICAL INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,3.0,matched,1.0,2835.0,I,719447.0,False
+HORIZON MEDICAL PRODUCTS,Horizon Medical Products Inc,109423.0,HORIZON MEDICAL PRODUCTS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1181.0,matched,1.0,3841.0,I,1052958.0,False
+HEMOSENSE,HemoSense Inc,163672.0,HEMOSENSE INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,1838.0,matched,1.0,3845.0,I,1127393.0,False
+HANSEN MEDICAL,Hansen Medical Inc,175978.0,HANSEN MEDICAL INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,5.0,matched,1.0,3845.0,I,1276591.0,False
+INVIVO,Invivo Corporation,13198.0,INVIVO CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,358.0,matched,1.0,3845.0,I,806168.0,False
+MEVION MEDICAL SYSTEMS,"Mevion Medical Systems, Inc.",21945.0,MEVION MEDICAL SYSTEMS -REDH,compustat_exact,False,1900,2099,compustat_direct,part806_recall,14.0,matched,1.0,3845.0,I,1326730.0,False
+INVUITY,"Invuity, Inc.",23704.0,INVUITY INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,29.0,matched,1.0,3841.0,I,1393020.0,False
+MERIT MEDICAL SYSTEMS,"Merit Medical Systems, Inc",21777.0,MERIT MEDICAL SYSTEMS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,4103.0,matched,1.0,3841.0,A,856982.0,False
+MERIDIAN BIOSCIENCE,Meridian Bioscience Inc,12433.0,MERIDIAN BIOSCIENCE INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,22.0,matched,1.0,2835.0,I,794172.0,False
+MEDSTONE,Medstone International Inc,14512.0,MEDSTONE INTERNATIONAL INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,2.0,matched,1.0,3845.0,I,819939.0,False
+MEDRAD,Medrad Inc,25575.0,MEDRAD INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,674.0,matched,1.0,3845.0,I,886192.0,False
+MEDICAL ACTION INDUSTRIES,Medical Action Industries Inc,7205.0,MEDICAL ACTION INDUSTRIES,compustat_exact,False,1900,2099,compustat_direct,part806_recall,131.0,matched,1.0,3842.0,I,748270.0,False
+MAZOR ROBOTICS,Mazor Robotics Ltd,286017.0,MAZOR ROBOTICS LTD,compustat_exact,False,1900,2099,compustat_direct,part806_recall,214.0,matched,1.0,3845.0,I,1566844.0,False
+MAKO SURGICAL,Mako Surgical Corporation,179380.0,MAKO SURGICAL CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,3393.0,matched,1.0,3841.0,I,1411861.0,False
+LUMIRADX,LumiraDx,37813.0,LUMIRADX LTD,compustat_exact,False,1900,2099,compustat_direct,part806_recall,6.0,matched,1.0,3845.0,I,1685428.0,False
+LUCID DIAGNOSTICS,"Lucid Diagnostics, Inc.",39728.0,LUCID DIAGNOSTICS INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,2.0,matched,1.0,3845.0,A,1799011.0,False
+LIVONGO HEALTH,Livongo Health,35394.0,LIVONGO HEALTH INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,29.0,matched,1.0,3845.0,I,1639225.0,False
+KYPHON,Kyphon Inc,147644.0,KYPHON INC,compustat_exact,False,1900,2099,compustat_direct,part806_recall,217.0,matched,1.0,3841.0,I,1123313.0,False
+KENSEY NASH,Kensey Nash Corp,61703.0,KENSEY NASH CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,77.0,matched,1.0,3842.0,I,1002811.0,False
+IRIDEX,Iridex Corporation,62168.0,IRIDEX CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,139.0,matched,1.0,3845.0,A,1006045.0,False
+IRADIMED,Iradimed Corporation,20945.0,IRADIMED CORP,compustat_exact,False,1900,2099,compustat_direct,part806_recall,82.0,matched,1.0,3841.0,A,1325618.0,False
+SOMANETICS,SOMANETICS,23776.0,SOMANETICS CORP,compustat_exact,False,1900,2099,compustat_direct,part803_unmatched,23.0,matched,1.0,3845.0,I,704328.0,False

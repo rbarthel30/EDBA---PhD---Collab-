@@ -1,0 +1,11 @@
+{
+  "snapshot_date": "2026-07-19",
+  "openfda_export_date": "2026-07-14",
+  "openfda_total_records": 25368161,
+  "partitions_processed": 362,
+  "partitions_available": 362,
+  "since_filter": null,
+  "keep_text": false,
+  "records_kept": 10737528,
+  "distinct_gvkeys": 177
+}

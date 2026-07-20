@@ -114,3 +114,16 @@ desktop.ini
 *.pem
 .wrds_credentials
 config.local.*
+
+# --- Large / regenerable data pulls (2026-07-19) ---
+# Excluded on size or licensing, NOT importance. All are reproducible:
+#   MAUDE  -> script 11 --resume from the local stream cache (~1 min)
+#   FDA raw-> scripts 10/13 re-download from openFDA (seconds)
+#   Compustat -> scripts 12/14 re-pull from WRDS (licensed; never committed)
+data/processed/part803_adverse_events_*.csv.gz
+data/raw/fda_device_recalls_*.csv
+data/raw/fda_device_enforcement_*.csv
+data/raw/edgar_8k_candidates_*.csv
+data/raw/compustat_funda_*.csv
+data/processed/part806_corrections_removals_*.csv
+data/processed/8k_all_classified_*.csv
