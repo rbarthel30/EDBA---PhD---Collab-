@@ -471,16 +471,28 @@ def describe(df: pd.DataFrame, snapshot_date: str) -> str:
     add(f"| With MD&A section | {int(df['has_mda'].sum()):,} "
         f"({df['has_mda'].mean():.0%}) |\n")
 
+    n_filings = len(df)
     add("## Event discussion: mentions vs SUBSTANTIVE (boilerplate-filtered)\n")
+    add("Two denominators, kept separate on purpose. **Filing-level rate** = "
+        "share of all filings that carry ANY substantive mention (the "
+        "firm-quarter disclosure rate). **Substantive share of mentions** = of "
+        "all occurrences of the term, the fraction that are real-event "
+        "discussion rather than boilerplate.\n")
     add("| Event | Filings w/ mention | Filings w/ substantive | "
-        "Total mentions | Total substantive | Substantive share |")
-    add("|:---|---:|---:|---:|---:|---:|")
+        "Filing-level rate | Total mentions | Total substantive | "
+        "Substantive share of mentions |")
+    add("|:---|---:|---:|---:|---:|---:|---:|")
     for ev in events:
         m = df[f"{ev}_mentions_total"]
         s = df[f"{ev}_substantive_total"]
         share = s.sum() / m.sum() if m.sum() else 0
+        filing_rate = (s > 0).sum() / n_filings if n_filings else 0
         add(f"| {ev} | {int((m > 0).sum()):,} | {int((s > 0).sum()):,} | "
-            f"{int(m.sum()):,} | {int(s.sum()):,} | {share:.0%} |")
+            f"{filing_rate:.0%} | {int(m.sum()):,} | {int(s.sum()):,} | "
+            f"{share:.0%} |")
+    add("")
+    add(f"*(Denominators: {n_filings:,} filings; mention totals are "
+        f"occurrence counts across Risk Factors + MD&A.)*")
     add("")
 
     add("## Substantive mentions by section\n")

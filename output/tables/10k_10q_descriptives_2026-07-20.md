@@ -12,11 +12,15 @@
 
 ## Event discussion: mentions vs SUBSTANTIVE (boilerplate-filtered)
 
-| Event | Filings w/ mention | Filings w/ substantive | Total mentions | Total substantive | Substantive share |
-|:---|---:|---:|---:|---:|---:|
-| warning_letter | 2,176 | 970 | 11,179 | 5,398 | 48% |
-| recall | 3,514 | 1,538 | 28,918 | 5,573 | 19% |
-| adverse_event | 2,034 | 559 | 11,761 | 1,557 | 13% |
+Two denominators, kept separate on purpose. **Filing-level rate** = share of all filings that carry ANY substantive mention (the firm-quarter disclosure rate). **Substantive share of mentions** = of all occurrences of the term, the fraction that are real-event discussion rather than boilerplate.
+
+| Event | Filings w/ mention | Filings w/ substantive | Filing-level rate | Total mentions | Total substantive | Substantive share of mentions |
+|:---|---:|---:|---:|---:|---:|---:|
+| warning_letter | 2,176 | 970 | 15% | 11,179 | 5,398 | 48% |
+| recall | 3,514 | 1,538 | 23% | 28,918 | 5,573 | 19% |
+| adverse_event | 2,034 | 559 | 9% | 11,761 | 1,557 | 13% |
+
+*(Denominators: 6,547 filings; mention totals are occurrence counts across Risk Factors + MD&A.)*
 
 ## Substantive mentions by section
 
