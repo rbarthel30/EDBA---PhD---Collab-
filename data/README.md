@@ -72,6 +72,14 @@ This file lists every data source the project draws on, how to get it, and how i
 - **Filings of interest:** 10-K, 10-Q, 8-K (esp. Items 7.01, 8.01), DEF 14A, S-1.
 - **Use:** Outcome variable on disclosure response. MD&A risk-factor changes (Section 1A). 8-K announcements following FDA letter.
 
+### 7a. SEC 10-K / 10-Q device disclosure panel *(built 2026-07-20)*
+- **File:** `data/processed/10k_10q_devices_<date>.csv` (script 17). One row per filing; 6,547 filings, 117 firms, 2005-2026.
+- **What it measures.** In the spirit of Bozanic, Dietrich & Johnson (2017): how much each periodic filing *discusses* the three FDA events (warning letter, recall/correction, adverse event/MDR), separating actual event discussion from hypothetical risk-factor boilerplate.
+- **Sections only.** Fetches the full filing but keeps only **Risk Factors (Item 1A)** and **MD&A (Item 7 in a 10-K, Item 2 in a 10-Q)**, located by a widest-span-between-item-headers rule. Section text cached at `%LOCALAPPDATA%\edba_fda_cache\edgar_10kq_sections` (780 MB, outside OneDrive) so re-scoring never re-fetches.
+- **Substantive vs mention.** Per event x section: `*_mentions` (any occurrence) and `*_substantive` (occurrence tied to an actual event - past-tense receipt/action verb, definite reference, or specific date - AND not locally hedged by a modal). Occurrence-window scoring, NOT sentence-based: EDGAR trademark glyphs and abbreviations break sentence splitting and leaked boilerplate into the substantive count (caught and fixed 2026-07-20).
+- **⚠ Caveats.** (1) Legal Proceedings (Item 3) also carries actual disclosures and is NOT parsed - counts are a lower bound. (2) Item 1A required only for FYE >= 2005-12-01, so RF coverage is thin pre-2006 (74% of filings have an RF section; 95% have MD&A). (3) Section boundaries are heuristic; empty sections are flagged by `has_risk_factors`/`has_mda`.
+- **Join:** to the treatment panel on gvkey/CIK.
+
 ### 8. CRSP
 - **Access:** WRDS — Ryan has UM credentials.
 - **Use:** Daily stock returns for short-window event study; daily volume and shares outstanding.
