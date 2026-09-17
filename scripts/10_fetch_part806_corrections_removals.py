@@ -440,6 +440,16 @@ def main() -> None:
     PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
 
     use_cached = "--use-cached" in sys.argv
+    if use_cached:
+        # --use-cached rebuilds the processed file from the MOST RECENT raw
+        # snapshot already on disk, and stamps every output with THAT
+        # snapshot's date. Previously this looked only for a raw file dated
+        # today, so on any later day it silently fell through to a fresh
+        # download - a different FDA snapshot, which breaks reproducibility of
+        # anything built on the earlier one (e.g. the script-14 panel).
+        cached = sorted(glob.glob(str(RAW_DIR / "fda_device_recalls_*.csv")))
+        if cached:
+            snapshot_date = Path(cached[-1]).stem.replace("fda_device_recalls_", "")
     raw_recall_path = RAW_DIR / f"fda_device_recalls_{snapshot_date}.csv"
     raw_enf_path = RAW_DIR / f"fda_device_enforcement_{snapshot_date}.csv"
     out_path = PROCESSED_DIR / f"part806_corrections_removals_{snapshot_date}.csv"
