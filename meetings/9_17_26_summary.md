@@ -18,3 +18,11 @@ On the disclosure side, 596 filings substantively discuss a warning letter in th
 There are 176 unique device event 8-Ks (115 warning letter, 62 recall, 6 adverse event); 76 of them merge to a reporting quarter in the panel.
 
 Full tables are in `descriptives_combined_9_17_26.pdf` in this folder.
+
+## Updates from Armando on 9_18_26
+Let's revisit the research question to make sure we are aligned.  As it's written at the moment, it doesn't cover the full aspect.   
+
+The research question is - How do executive communication tactics hedge against the severity of negative market outcomes for medical device companies following an FDA warning letter?
+
+The primary outcome variables hold for now.  We can focus on those three, but let's keep in mind that I'm interested in monitoring the effect of hedging on multiple periods (3 days prior to the event, 3 days after the event, and then 12 months after the event)
+
