@@ -62,19 +62,34 @@ Dataset: `data/combined_9_17_26.csv` - the full medical-device 10-K/10-Q panel (
 
 ## Product event dates (the events themselves - no filings involved)
 
-| Event type - scope | Events | Distinct firm-dates | Firms | Event dates span |
-|:---|---:|---:|---:|---:|
-| Warning letter - all gvkey-linked firms | 192 | 188 | 135 | 2008-10-10 to 2026-04-30 |
-| Warning letter - firms in the 10-K/10-Q panel | 128 | 125 | 86 | 2008-10-10 to 2026-04-30 |
-| Warning letter - merged to a reporting quarter | 96 | 93 | 67 | 2008-10-21 to 2026-01-29 |
-| Recall (Part 806) - all gvkey-linked firms | 17,448 | 5,411 | 113 | 2000-04-11 to 2026-06-30 |
-| Recall (Part 806) - firms in the 10-K/10-Q panel | 11,722 | 3,989 | 82 | 2000-04-11 to 2026-06-30 |
-| Recall (Part 806) - merged to a reporting quarter | 7,761 | 2,544 | 74 | 2004-09-20 to 2026-03-30 |
-| Adverse event (Part 803) - all gvkey-linked firms | 10,737,528 | 266,574 | 177 | 1991-12-31 to 2026-06-30 |
-| Adverse event (Part 803) - firms in the 10-K/10-Q panel | 9,588,496 | 202,984 | 113 | 1991-12-31 to 2026-06-30 |
-| Adverse event (Part 803) - merged to a reporting quarter | 7,114,479 | 118,510 | 110 | 2004-09-03 to 2026-05-28 |
+| Event type - scope | Events | Distinct firm-dates | Firms | First event date | Last event date |
+|:---|---:|---:|---:|---:|---:|
+| Warning letter - all gvkey-linked firms | 192 | 188 | 135 | 2008-10-10 | 2026-04-30 |
+| Warning letter - firms in the 10-K/10-Q panel | 128 | 125 | 86 | 2008-10-10 | 2026-04-30 |
+| Warning letter - merged to a reporting quarter | 96 | 93 | 67 | 2008-10-21 | 2026-01-29 |
+| Recall (Part 806) - all gvkey-linked firms | 17,448 | 5,411 | 113 | 2000-04-11 | 2026-06-30 |
+| Recall (Part 806) - firms in the 10-K/10-Q panel | 11,722 | 3,989 | 82 | 2000-04-11 | 2026-06-30 |
+| Recall (Part 806) - merged to a reporting quarter | 7,761 | 2,544 | 74 | 2004-09-20 | 2026-03-30 |
+| Adverse event (Part 803) - all gvkey-linked firms | 10,737,528 | 266,574 | 177 | 1991-12-31 | 2026-06-30 |
+| Adverse event (Part 803) - firms in the 10-K/10-Q panel | 9,588,496 | 202,984 | 113 | 1991-12-31 | 2026-06-30 |
+| Adverse event (Part 803) - merged to a reporting quarter | 7,114,479 | 118,510 | 110 | 2004-09-03 | 2026-05-28 |
 
 *Counted from the FDA source data. Event = one warning letter (unique Case ID, dated by action date), one recall record (dated when the firm initiated it), one adverse-event report (dated when FDA received it). 'Distinct firm-dates' counts each firm x calendar date once. Events not merged belong to firms outside the 10-K/10-Q panel, predate the firm's first filing in it (the panel starts in 2005; MAUDE in 1991), postdate its last, or fall in a gap between filings.*
+
+## Industry coverage: share of the US publicly traded medical-device industry (Table 1 of 2026-07-06, carried over - NOT recomputed)
+
+| Statistic | Value |
+|:---|---:|
+| Number of warning letters | 120 |
+| Number of unique firms | 81 |
+| Firm market capitalization ($M), mean | 6,649 |
+| Firm market capitalization ($M), median | 1,329 |
+| Firm total assets ($M), mean | 5,942 |
+| Firm total assets ($M), median | 439 |
+| Share of US medical-device market capitalization | 60.3% |
+| Sample period | October 2008 – January 2026 |
+
+*CARRIED OVER VERBATIM from output/tables/table1_device_sample_descriptives_2026-07-06 and not recomputed for this dataset. It describes the linked device WARNING-LETTER sample (120 letters, 81 firms), not the 117-firm 10-K/10-Q panel above. Original notes: This table describes the analysis sample: FDA warning letters classified by the FDA as medical-device actions whose recipient is linked to a Compustat firm (gvkey) with an active record as of the letter date — a non-missing market capitalization at the last fiscal year-end before the letter (within 18 months). Links come from the project crosswalk, inclusive of matches flagged for manual review; ownership windows are respected, so a letter links to the firm that owned the recipient in the letter year. Letters are counted by unique FDA Case/Injunction ID. Market capitalization (fiscal year-end close price times common shares outstanding) and total assets are measured at the last fiscal year-end before the firm's first letter, in $ millions. The market-cap share is the sample firms' current market capitalization as a fraction of the US medical-device universe: 26 sample firms of the 182 US-incorporated Compustat firms with primary SIC 3841–3845 and a market cap at their latest fiscal year-end; sample firms delisted or acquired since their letter no longer contribute. Sources: FDA Data Dashboard compliance actions; Compustat via WRDS.*
 
 ## Caveats
 

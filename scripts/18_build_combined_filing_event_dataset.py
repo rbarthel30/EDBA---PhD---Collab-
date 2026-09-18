@@ -99,6 +99,10 @@ DATASET_NAME = "combined_9_17_26"
 OUT_DATA = REPO_ROOT / "data" / f"{DATASET_NAME}.csv"
 OUT_MD = REPO_ROOT / "output" / "tables" / f"descriptives_{DATASET_NAME}.md"
 OUT_PDF = REPO_ROOT / "meetings" / f"descriptives_{DATASET_NAME}.pdf"
+# Table 1 (script 09, 2026-07-06) is reproduced VERBATIM in the descriptives for
+# its industry-coverage figure. It is read from its committed Markdown, not
+# recomputed - it needs WRDS and describes a different (warning-letter) sample.
+TABLE1_MD = REPO_ROOT / "output" / "tables" / "table1_device_sample_descriptives_2026-07-06.md"
 
 EVENT_TYPES = ["warning_letter", "recall", "adverse_event"]
 EVENT_LABELS = {"warning_letter": "Warning letter",
@@ -602,9 +606,11 @@ def build_tables(combined, ev_assigned, k8):
             rows.append((f"{EVENT_LABELS[ev]} - {label}", fmt(d["n"].sum()),
                          fmt(d.groupby(["gvkey", "event_date"]).ngroups),
                          fmt(d["gvkey"].nunique()),
-                         f"{d['event_date'].min().date()} to {d['event_date'].max().date()}"))
+                         str(d["event_date"].min().date()),
+                         str(d["event_date"].max().date())))
     event_dates = pd.DataFrame(rows, columns=[
-        "Event type - scope", "Events", "Distinct firm-dates", "Firms", "Event dates span"])
+        "Event type - scope", "Events", "Distinct firm-dates", "Firms", "First event date",
+        "Last event date"])
 
     return [
         ("Overview", None, overview),
@@ -648,6 +654,26 @@ def build_tables(combined, ev_assigned, k8):
 
 
 WL_NOTE = ("* Warning-letter row uses only filings whose whole period falls on/after 2008-10-01, when FDA's letter data begins; earlier filings have letters UNOBSERVED, not absent, and are excluded rather than counted as no-event.")
+
+
+def load_table1_block():
+    """Parse the committed Table 1 Markdown into a (title, note, DataFrame)
+    block so it renders through the same md/pdf writers as every other table.
+    Values and notes are carried over exactly as published on 2026-07-06."""
+    lines = TABLE1_MD.read_text(encoding="utf-8").splitlines()
+    rows = [[c.strip() for c in ln.strip().strip("|").split("|")]
+            for ln in lines if ln.startswith("|") and not ln.startswith("|:")]
+    df = pd.DataFrame(rows[1:], columns=rows[0])
+    note = next(ln for ln in lines if ln.startswith("*Notes:*"))
+    note = note.replace("*Notes:*", "").strip()
+    assert len(df) == 8 and "Share of US medical-device market capitalization" in set(df.iloc[:, 0])
+    return ("Industry coverage: share of the US publicly traded medical-device "
+            "industry (Table 1 of 2026-07-06, carried over - NOT recomputed)",
+            "CARRIED OVER VERBATIM from output/tables/table1_device_sample_"
+            "descriptives_2026-07-06 and not recomputed for this dataset. It "
+            "describes the linked device WARNING-LETTER sample (120 letters, 81 "
+            "firms), not the 117-firm 10-K/10-Q panel above. Original notes: " + note,
+            df)
 
 
 CAVEATS = [
@@ -704,7 +730,7 @@ def write_pdf(blocks, pdf_path) -> bool:
         ncol = df.shape[1]
         first_w = 0.50 if ncol == 2 else 0.27
         if df.iloc[:, 0].astype(str).str.len().max() > 45:   # long row labels
-            first_w = 0.46
+            first_w = 0.36
         # Budget 0.97 of the text width LESS the inter-column padding (2 x 3pt
         # per column, ~0.013 of the width each) so wide tables stay in the margin.
         other_w = (0.97 - 0.013 * ncol - first_w) / (ncol - 1)
@@ -800,6 +826,7 @@ def main() -> int:
 
     print("[6/6] Writing descriptives (md + pdf) ...")
     blocks = build_tables(combined, ev_assigned, k8)
+    blocks.append(load_table1_block())
     write_markdown(blocks, OUT_MD)
     print(f"    -> {OUT_MD.relative_to(REPO_ROOT)}")
     if write_pdf(blocks, OUT_PDF):
