@@ -1,11 +1,10 @@
 # 9_17_26_summary
 
-The research question fundamentally asks, "what is the effect of FDA monitoring and action events on 
-a.) company's investor-facing disclosure  and b.) capital market response. This question will be tested with three primary outcome variables of interest: 
-1.) Disclosure response in earnings calls and SEC filings, proxied by textual indicators for management sentiment, obfuscation, and use of hedging or qualifier language. 
-2.) The market response , proxied by abnormal returns and volatility, to the actual product event 
-3.) The market response to SEC filings and earnings calls that discuss these events, relative to those that do not.
-For the market tests, both short and long time windows will be used to understand the role of these events in signaling longer-run valuation downturns. 
+The research question fundamentally asks, "How do executive communication tactics hedge against the severity of negative market outcomes for medical device companies following regulatory product scrutiny (measured with FDA Warning letters and potentially other monitoring/action events)? This question will be tested with the following general structure:
+1.) First, descriptively explore how management discussion and analysis changes when the reporting period experienced a warning letter event, relative to the counterfactual of communication during normal operating periods. Evaluate the content for suggestive evidence of strategic hedging and obfuscation in disclosure. 
+2.) Second, confirm that the market indeed prices these events, looking at both the event date itself and when the event is discussed in SEC filings. 
+3.) As the main analysis, evaluate whether and which communication tactics successfully attenuate negative equity market reactions to regulator scrutiny. 
+4.) Additionally, investigate different time windows around the event and filing (-3 days, +3 day, +12mo): Do firms discuss these events through non-financial/unregulated communication channels to preemptively or retroactively hedge against equity price risk? What is the market response over these alternative time windows? 
 
 ## Descriptives summary - `combined_9_17_26`
 
@@ -18,11 +17,4 @@ On the disclosure side, 596 filings substantively discuss a warning letter in th
 There are 176 unique device event 8-Ks (115 warning letter, 62 recall, 6 adverse event); 76 of them merge to a reporting quarter in the panel.
 
 Full tables are in `descriptives_combined_9_17_26.pdf` in this folder.
-
-## Updates from Armando on 9_18_26
-Let's revisit the research question to make sure we are aligned.  As it's written at the moment, it doesn't cover the full aspect.   
-
-The research question is - How do executive communication tactics hedge against the severity of negative market outcomes for medical device companies following an FDA warning letter?
-
-The primary outcome variables hold for now.  We can focus on those three, but let's keep in mind that I'm interested in monitoring the effect of hedging on multiple periods (3 days prior to the event, 3 days after the event, and then 12 months after the event)
 
