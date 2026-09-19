@@ -1,10 +1,14 @@
 # 9_17_26_summary
 
-The research question fundamentally asks, "How do executive communication tactics hedge against the severity of negative market outcomes for medical device companies following regulatory product scrutiny (measured with FDA Warning letters and potentially other monitoring/action events)? This question will be tested with the following general structure:
+The research question fundamentally asks, "How do executive communication tactics hedge against the severity of negative market outcomes for medical device companies following regulatory product scrutiny (measured with FDA Warning Letters and potentially other monitoring/action events)? This question will be tested with the following general structure:
+
 1.) First, descriptively explore how management discussion and analysis changes when the reporting period experienced a warning letter event, relative to the counterfactual of communication during normal operating periods. Evaluate the content for suggestive evidence of strategic hedging and obfuscation in disclosure. 
+
 2.) Second, confirm that the market indeed prices these events, looking at both the event date itself and when the event is discussed in SEC filings. 
+
 3.) As the main analysis, evaluate whether and which communication tactics successfully attenuate negative market reactions to regulatory product scrutiny.
-4.) Additionally, investigate different time windows around the event and filing (-3 days, +3 day, +12mo): Do firms discuss these events through non-financial/unregulated communication channels to preemptively or retroactively hedge against equity price risk? What is the market response over these alternative time windows? 
+
+4.) Additionally, investigate different time windows around the event and filing (-3 days, +3 days, +12mo): Do firms discuss these events through non-financial/unregulated communication channels to preemptively or retroactively hedge against equity price risk? What is the market response over these alternative time windows? 
 
 ## Descriptives summary - `combined_9_17_26`
 
