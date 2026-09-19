@@ -110,6 +110,16 @@ DEVICE_SICS = ("3841", "3842", "3843", "3844", "3845")
 # or after this date. Script 09 used 2024-06-30 in July 2026; moved forward one
 # year so "current" means fiscal 2025 or later as of September 2026.
 LIVE_CUTOFF = "2025-06-30"
+# "US listed" = Compustat stock-exchange code (funda.exchg) of a US EXCHANGE at
+# that fiscal year-end: 11 NYSE, 12 NYSE American, 14 NASDAQ, 15-18 US regional
+# exchanges. Replaces script 09's US-INCORPORATION test (fic = USA) at Ryan's
+# direction (2026-09-18): Medtronic, Steris and LivaNova are foreign-
+# incorporated but US-listed SEC filers and belong in a US-market measure.
+# OTC quotation (13, 19) is NOT counted as a listing: every non-USD firm in the
+# device universe is a Canadian company whose only US presence is an OTC quote
+# (exchg 19, market cap in CAD), and OTC firms total ~0.2% of device market cap.
+# Restricting to exchanges therefore also guarantees USD market caps (asserted).
+US_EXCHG = {11, 12, 14, 15, 16, 17, 18}
 WRDS_USERNAME = os.environ.get("WRDS_USERNAME", "rxb1406")
 
 EVENT_TYPES = ["warning_letter", "recall", "adverse_event"]
@@ -669,15 +679,18 @@ WL_NOTE = ("* Warning-letter row uses only filings whose whole period falls on/a
 # =============================================================
 def load_universe_mktcap(panel_gvkeys) -> pd.DataFrame:
     """
-    One row per firm in (US device universe) U (panel firms): gvkey, fic, sic,
+    One row per firm in (device-SIC firms) U (panel firms): gvkey, fic, sic, exchg,
     latest fiscal year-end on/after LIVE_CUTOFF, market cap and total assets
     ($M). Read from the gitignored cache if present, else pulled from WRDS
     (non-interactive; password from pgpass.conf) and cached.
     """
     if UNIVERSE_CACHE.exists():
-        print(f"    using cached WRDS extract: {UNIVERSE_CACHE.name}")
-        return pd.read_csv(UNIVERSE_CACHE, dtype={"gvkey": str, "sic": str},
-                           parse_dates=["datadate"])
+        cached = pd.read_csv(UNIVERSE_CACHE, dtype={"gvkey": str, "sic": str},
+                             parse_dates=["datadate"])
+        if "exchg" in cached.columns:      # older caches predate the listing test
+            print(f"    using cached WRDS extract: {UNIVERSE_CACHE.name}")
+            return cached
+        print("    cached extract lacks exchg - re-pulling")
 
     import wrds
     print("    connecting to WRDS ...")
@@ -691,7 +704,7 @@ def load_universe_mktcap(panel_gvkeys) -> pd.DataFrame:
         # Standard Compustat filters, as in scripts 09 and 14: without them
         # funda returns several rows per firm-year.
         live = db.raw_sql(f"""
-            select gvkey, datadate, prcc_f*csho as mktcap, at
+            select gvkey, datadate, prcc_f*csho as mktcap, at, exchg, curcd
             from comp.funda
             where indfmt='INDL' and datafmt='STD' and popsrc='D' and consol='C'
               and datadate >= '{LIVE_CUTOFF}' and gvkey in ({keys})
@@ -711,10 +724,11 @@ def load_universe_mktcap(panel_gvkeys) -> pd.DataFrame:
 def build_industry_share_block(combined: pd.DataFrame):
     """
     Panel firms' CURRENT market cap as a share of the US medical-device
-    universe. Universe = US-incorporated (fic = USA) Compustat firms with
-    primary SIC 3841-3845 and a computable market cap at their latest fiscal
-    year-end on/after LIVE_CUTOFF (script 09's definition). A panel firm
-    contributes to the share only if it is itself in that universe.
+    universe. Universe = US-LISTED Compustat firms (exchg in US_EXCHG,
+    regardless of country of incorporation) with primary SIC 3841-3845 and a
+    computable market cap at their latest fiscal year-end on/after LIVE_CUTOFF.
+    Script 09's definition except that US listing replaces US incorporation.
+    A panel firm contributes to the share only if it is itself in that universe.
     """
     fmt = lambda n: f"{int(round(n)):,}"
     panel = {f"{int(g):06d}" for g in combined["gvkey"].unique()}
@@ -724,8 +738,10 @@ def build_industry_share_block(combined: pd.DataFrame):
     assert u["gvkey"].is_unique and u["in_panel"].sum() == len(panel)
     live = u["mktcap"].notna()
     is_dev = u["sic"].isin(DEVICE_SICS)
-    is_us = u["fic"] == "USA"
+    is_us = u["exchg"].isin(US_EXCHG)        # US-listed, any country of incorporation
     universe = u[live & is_dev & is_us]
+    # Every universe market cap must be in USD for the shares to add up.
+    assert (universe["curcd"] == "USD").all(), universe.loc[universe["curcd"] != "USD", "conm"].tolist()
     num = universe[universe["in_panel"]]
     share = num["mktcap"].sum() / universe["mktcap"].sum()
 
@@ -741,7 +757,9 @@ def build_industry_share_block(combined: pd.DataFrame):
         ("  in the US medical-device universe (counted in the share)", fmt(len(num))),
         ("  no current market cap (acquired, delisted or private since)", fmt(n_no_cap)),
         ("  current market cap, but primary SIC outside 3841-3845", fmt(n_non_dev)),
-        ("  device SIC, but incorporated outside the US", fmt(n_foreign)),
+        ("  device SIC, but not listed on a US exchange (OTC or foreign-listed)", fmt(n_foreign)),
+        ("  memo: counted in the share but incorporated outside the US",
+         fmt((num["fic"] != "USA").sum())),
         ("US medical-device universe, firms", fmt(len(universe))),
         ("Panel firms as a share of universe firms",
          f"{100 * len(num) / len(universe):.1f}%"),
@@ -756,15 +774,18 @@ def build_industry_share_block(combined: pd.DataFrame):
     note = (
         "Share = current market capitalization of the panel firms that are in "
         "the US medical-device universe, divided by the universe total. "
-        "Universe: US-incorporated Compustat firms with primary SIC 3841-3845 "
-        "and a computable market cap (fiscal year-end price x shares "
-        f"outstanding) at their latest fiscal year-end on or after {LIVE_CUTOFF} "
-        "- the definition used for Table 1 of 2026-07-06, recomputed here for "
-        "the 10-K/10-Q panel. It is a CURRENT snapshot: panel firms acquired or "
-        "delisted since they entered the sample contribute nothing, and neither "
-        "do panel firms classified outside the device SIC codes or incorporated "
-        "abroad, however large - so the share understates the panel's "
-        "historical coverage. Source: Compustat (comp.company, comp.funda) via "
+        "Universe: Compustat firms listed on a US stock exchange (NYSE, NYSE "
+        "American, NASDAQ or a US regional exchange; OTC-quoted firms excluded), "
+        "whatever their country of incorporation, "
+        "with primary SIC 3841-3845 and a computable market cap (fiscal year-end "
+        f"price x shares outstanding) at their latest fiscal year-end on or after "
+        f"{LIVE_CUTOFF}. Same as Table 1 of 2026-07-06 except that US LISTING "
+        "replaces US incorporation, so foreign-incorporated US filers such as "
+        "Medtronic plc count on both sides of the ratio. It is a CURRENT "
+        "snapshot: panel firms acquired or delisted since they entered the "
+        "sample contribute nothing, nor do panel firms whose primary SIC is "
+        "outside the device codes, however large - so the share understates the "
+        "panel's historical coverage. Source: Compustat (comp.company, comp.funda) via "
         "WRDS.")
     return ("Industry coverage: panel share of the US publicly traded "
             "medical-device industry", note,

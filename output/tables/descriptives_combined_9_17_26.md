@@ -81,20 +81,21 @@ Dataset: `data/combined_9_17_26.csv` - the full medical-device 10-K/10-Q panel (
 | Statistic | Value |
 |:---|---:|
 | Firms in the 10-K/10-Q panel | 117 |
-| &nbsp;&nbsp;in the US medical-device universe (counted in the share) | 31 |
+| &nbsp;&nbsp;in the US medical-device universe (counted in the share) | 34 |
 | &nbsp;&nbsp;no current market cap (acquired, delisted or private since) | 53 |
 | &nbsp;&nbsp;current market cap, but primary SIC outside 3841-3845 | 30 |
-| &nbsp;&nbsp;device SIC, but incorporated outside the US | 3 |
-| US medical-device universe, firms | 167 |
-| Panel firms as a share of universe firms | 18.6% |
-| Share of US medical-device market capitalization | 81.0% |
-| Market cap of panel firms in the universe ($M), mean | 29,794 |
-| Market cap of panel firms in the universe ($M), median | 3,161 |
-| Total assets of panel firms in the universe ($M), mean | 10,397 |
-| Total assets of panel firms in the universe ($M), median | 1,827 |
+| &nbsp;&nbsp;device SIC, but not listed on a US exchange (OTC or foreign-listed) | 0 |
+| &nbsp;&nbsp;memo: counted in the share but incorporated outside the US | 3 |
+| US medical-device universe, firms | 172 |
+| Panel firms as a share of universe firms | 19.8% |
+| Share of US medical-device market capitalization | 79.9% |
+| Market cap of panel firms in the universe ($M), mean | 30,949 |
+| Market cap of panel firms in the universe ($M), median | 3,442 |
+| Total assets of panel firms in the universe ($M), mean | 12,608 |
+| Total assets of panel firms in the universe ($M), median | 2,466 |
 | Fiscal year-ends at which market cap is measured | 2025-06-30 to 2026-06-30 |
 
-*Share = current market capitalization of the panel firms that are in the US medical-device universe, divided by the universe total. Universe: US-incorporated Compustat firms with primary SIC 3841-3845 and a computable market cap (fiscal year-end price x shares outstanding) at their latest fiscal year-end on or after 2025-06-30 - the definition used for Table 1 of 2026-07-06, recomputed here for the 10-K/10-Q panel. It is a CURRENT snapshot: panel firms acquired or delisted since they entered the sample contribute nothing, and neither do panel firms classified outside the device SIC codes or incorporated abroad, however large - so the share understates the panel's historical coverage. Source: Compustat (comp.company, comp.funda) via WRDS.*
+*Share = current market capitalization of the panel firms that are in the US medical-device universe, divided by the universe total. Universe: Compustat firms listed on a US stock exchange (NYSE, NYSE American, NASDAQ or a US regional exchange; OTC-quoted firms excluded), whatever their country of incorporation, with primary SIC 3841-3845 and a computable market cap (fiscal year-end price x shares outstanding) at their latest fiscal year-end on or after 2025-06-30. Same as Table 1 of 2026-07-06 except that US LISTING replaces US incorporation, so foreign-incorporated US filers such as Medtronic plc count on both sides of the ratio. It is a CURRENT snapshot: panel firms acquired or delisted since they entered the sample contribute nothing, nor do panel firms whose primary SIC is outside the device codes, however large - so the share understates the panel's historical coverage. Source: Compustat (comp.company, comp.funda) via WRDS.*
 
 ## Caveats
 
