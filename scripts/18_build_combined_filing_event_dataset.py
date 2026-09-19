@@ -99,10 +99,18 @@ DATASET_NAME = "combined_9_17_26"
 OUT_DATA = REPO_ROOT / "data" / f"{DATASET_NAME}.csv"
 OUT_MD = REPO_ROOT / "output" / "tables" / f"descriptives_{DATASET_NAME}.md"
 OUT_PDF = REPO_ROOT / "meetings" / f"descriptives_{DATASET_NAME}.pdf"
-# Table 1 (script 09, 2026-07-06) is reproduced VERBATIM in the descriptives for
-# its industry-coverage figure. It is read from its committed Markdown, not
-# recomputed - it needs WRDS and describes a different (warning-letter) sample.
-TABLE1_MD = REPO_ROOT / "output" / "tables" / "table1_device_sample_descriptives_2026-07-06.md"
+# Industry-coverage table (Step 7): current market cap of the panel firms as a
+# share of the US medical-device universe - same definition as script 09's
+# Table 1, recomputed for THIS panel. The WRDS pull is cached under data/raw/
+# with a `compustat_` prefix, so it is gitignored (licensed; never committed).
+# Only the aggregate statistics reach the committed descriptives.
+UNIVERSE_CACHE = RAW / "compustat_device_universe_mktcap_2026-09-18.csv"
+DEVICE_SICS = ("3841", "3842", "3843", "3844", "3845")
+# "Current" market cap = prcc_f x csho at the firm's latest fiscal year-end on
+# or after this date. Script 09 used 2024-06-30 in July 2026; moved forward one
+# year so "current" means fiscal 2025 or later as of September 2026.
+LIVE_CUTOFF = "2025-06-30"
+WRDS_USERNAME = os.environ.get("WRDS_USERNAME", "rxb1406")
 
 EVENT_TYPES = ["warning_letter", "recall", "adverse_event"]
 EVENT_LABELS = {"warning_letter": "Warning letter",
@@ -656,24 +664,111 @@ def build_tables(combined, ev_assigned, k8):
 WL_NOTE = ("* Warning-letter row uses only filings whose whole period falls on/after 2008-10-01, when FDA's letter data begins; earlier filings have letters UNOBSERVED, not absent, and are excluded rather than counted as no-event.")
 
 
-def load_table1_block():
-    """Parse the committed Table 1 Markdown into a (title, note, DataFrame)
-    block so it renders through the same md/pdf writers as every other table.
-    Values and notes are carried over exactly as published on 2026-07-06."""
-    lines = TABLE1_MD.read_text(encoding="utf-8").splitlines()
-    rows = [[c.strip() for c in ln.strip().strip("|").split("|")]
-            for ln in lines if ln.startswith("|") and not ln.startswith("|:")]
-    df = pd.DataFrame(rows[1:], columns=rows[0])
-    note = next(ln for ln in lines if ln.startswith("*Notes:*"))
-    note = note.replace("*Notes:*", "").strip()
-    assert len(df) == 8 and "Share of US medical-device market capitalization" in set(df.iloc[:, 0])
-    return ("Industry coverage: share of the US publicly traded medical-device "
-            "industry (Table 1 of 2026-07-06, carried over - NOT recomputed)",
-            "CARRIED OVER VERBATIM from output/tables/table1_device_sample_"
-            "descriptives_2026-07-06 and not recomputed for this dataset. It "
-            "describes the linked device WARNING-LETTER sample (120 letters, 81 "
-            "firms), not the 117-firm 10-K/10-Q panel above. Original notes: " + note,
-            df)
+# =============================================================
+# STEP 7. Industry coverage: panel share of US medical-device market cap
+# =============================================================
+def load_universe_mktcap(panel_gvkeys) -> pd.DataFrame:
+    """
+    One row per firm in (US device universe) U (panel firms): gvkey, fic, sic,
+    latest fiscal year-end on/after LIVE_CUTOFF, market cap and total assets
+    ($M). Read from the gitignored cache if present, else pulled from WRDS
+    (non-interactive; password from pgpass.conf) and cached.
+    """
+    if UNIVERSE_CACHE.exists():
+        print(f"    using cached WRDS extract: {UNIVERSE_CACHE.name}")
+        return pd.read_csv(UNIVERSE_CACHE, dtype={"gvkey": str, "sic": str},
+                           parse_dates=["datadate"])
+
+    import wrds
+    print("    connecting to WRDS ...")
+    db = wrds.Connection(wrds_username=WRDS_USERNAME)
+    try:
+        sics = ",".join(f"'{x}'" for x in DEVICE_SICS)
+        pkeys = ",".join(f"'{g}'" for g in sorted(set(panel_gvkeys)))
+        comp = db.raw_sql(f"select gvkey, conm, fic, sic from comp.company "
+                          f"where sic in ({sics}) or gvkey in ({pkeys})")
+        keys = ",".join(f"'{g}'" for g in sorted(set(comp["gvkey"])))
+        # Standard Compustat filters, as in scripts 09 and 14: without them
+        # funda returns several rows per firm-year.
+        live = db.raw_sql(f"""
+            select gvkey, datadate, prcc_f*csho as mktcap, at
+            from comp.funda
+            where indfmt='INDL' and datafmt='STD' and popsrc='D' and consol='C'
+              and datadate >= '{LIVE_CUTOFF}' and gvkey in ({keys})
+        """, date_cols=["datadate"])
+    finally:
+        db.close()
+    # Latest fiscal year-end WITH a computable market cap, one row per firm.
+    live = (live.dropna(subset=["mktcap"]).sort_values("datadate")
+                .groupby("gvkey").tail(1))
+    out = comp.merge(live, on="gvkey", how="left")
+    out.to_csv(UNIVERSE_CACHE, index=False)
+    print(f"    pulled {len(out):,} firms -> {UNIVERSE_CACHE.relative_to(REPO_ROOT)}")
+    return pd.read_csv(UNIVERSE_CACHE, dtype={"gvkey": str, "sic": str},
+                       parse_dates=["datadate"])
+
+
+def build_industry_share_block(combined: pd.DataFrame):
+    """
+    Panel firms' CURRENT market cap as a share of the US medical-device
+    universe. Universe = US-incorporated (fic = USA) Compustat firms with
+    primary SIC 3841-3845 and a computable market cap at their latest fiscal
+    year-end on/after LIVE_CUTOFF (script 09's definition). A panel firm
+    contributes to the share only if it is itself in that universe.
+    """
+    fmt = lambda n: f"{int(round(n)):,}"
+    panel = {f"{int(g):06d}" for g in combined["gvkey"].unique()}
+    u = load_universe_mktcap(panel)
+    u["gvkey"] = u["gvkey"].str.zfill(6)
+    u["in_panel"] = u["gvkey"].isin(panel)
+    assert u["gvkey"].is_unique and u["in_panel"].sum() == len(panel)
+    live = u["mktcap"].notna()
+    is_dev = u["sic"].isin(DEVICE_SICS)
+    is_us = u["fic"] == "USA"
+    universe = u[live & is_dev & is_us]
+    num = universe[universe["in_panel"]]
+    share = num["mktcap"].sum() / universe["mktcap"].sum()
+
+    # Why the other panel firms are not in the numerator - mutually exclusive.
+    inp = u["in_panel"]
+    n_no_cap = int((inp & ~live).sum())               # acquired / delisted / private
+    n_non_dev = int((inp & live & ~is_dev).sum())     # pharma, diversified, retail ...
+    n_foreign = int((inp & live & is_dev & ~is_us).sum())
+    assert len(num) + n_no_cap + n_non_dev + n_foreign == int(inp.sum())
+
+    rows = [
+        ("Firms in the 10-K/10-Q panel", fmt(inp.sum())),
+        ("  in the US medical-device universe (counted in the share)", fmt(len(num))),
+        ("  no current market cap (acquired, delisted or private since)", fmt(n_no_cap)),
+        ("  current market cap, but primary SIC outside 3841-3845", fmt(n_non_dev)),
+        ("  device SIC, but incorporated outside the US", fmt(n_foreign)),
+        ("US medical-device universe, firms", fmt(len(universe))),
+        ("Panel firms as a share of universe firms",
+         f"{100 * len(num) / len(universe):.1f}%"),
+        ("Share of US medical-device market capitalization", f"{100 * share:.1f}%"),
+        ("Market cap of panel firms in the universe ($M), mean", fmt(num["mktcap"].mean())),
+        ("Market cap of panel firms in the universe ($M), median", fmt(num["mktcap"].median())),
+        ("Total assets of panel firms in the universe ($M), mean", fmt(num["at"].mean())),
+        ("Total assets of panel firms in the universe ($M), median", fmt(num["at"].median())),
+        ("Fiscal year-ends at which market cap is measured",
+         f"{universe['datadate'].min().date()} to {universe['datadate'].max().date()}"),
+    ]
+    note = (
+        "Share = current market capitalization of the panel firms that are in "
+        "the US medical-device universe, divided by the universe total. "
+        "Universe: US-incorporated Compustat firms with primary SIC 3841-3845 "
+        "and a computable market cap (fiscal year-end price x shares "
+        f"outstanding) at their latest fiscal year-end on or after {LIVE_CUTOFF} "
+        "- the definition used for Table 1 of 2026-07-06, recomputed here for "
+        "the 10-K/10-Q panel. It is a CURRENT snapshot: panel firms acquired or "
+        "delisted since they entered the sample contribute nothing, and neither "
+        "do panel firms classified outside the device SIC codes or incorporated "
+        "abroad, however large - so the share understates the panel's "
+        "historical coverage. Source: Compustat (comp.company, comp.funda) via "
+        "WRDS.")
+    return ("Industry coverage: panel share of the US publicly traded "
+            "medical-device industry", note,
+            pd.DataFrame(rows, columns=["Statistic", "Value"]))
 
 
 CAVEATS = [
@@ -728,9 +823,11 @@ def write_pdf(blocks, pdf_path) -> bool:
     body = []
     for title, note, df in blocks:
         ncol = df.shape[1]
-        first_w = 0.50 if ncol == 2 else 0.27
-        if df.iloc[:, 0].astype(str).str.len().max() > 45:   # long row labels
-            first_w = 0.36
+        long_labels = df.iloc[:, 0].astype(str).str.len().max() > 45
+        if ncol == 2:       # statistic/value tables: the label gets the room
+            first_w = 0.66 if long_labels else 0.50
+        else:               # wide tables: widen the label column only a little
+            first_w = 0.36 if long_labels else 0.27
         # Budget 0.97 of the text width LESS the inter-column padding (2 x 3pt
         # per column, ~0.013 of the width each) so wide tables stay in the margin.
         other_w = (0.97 - 0.013 * ncol - first_w) / (ncol - 1)
@@ -826,7 +923,7 @@ def main() -> int:
 
     print("[6/6] Writing descriptives (md + pdf) ...")
     blocks = build_tables(combined, ev_assigned, k8)
-    blocks.append(load_table1_block())
+    blocks.append(build_industry_share_block(combined))
     write_markdown(blocks, OUT_MD)
     print(f"    -> {OUT_MD.relative_to(REPO_ROOT)}")
     if write_pdf(blocks, OUT_PDF):

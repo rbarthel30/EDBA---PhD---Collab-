@@ -76,20 +76,25 @@ Dataset: `data/combined_9_17_26.csv` - the full medical-device 10-K/10-Q panel (
 
 *Counted from the FDA source data. Event = one warning letter (unique Case ID, dated by action date), one recall record (dated when the firm initiated it), one adverse-event report (dated when FDA received it). 'Distinct firm-dates' counts each firm x calendar date once. Events not merged belong to firms outside the 10-K/10-Q panel, predate the firm's first filing in it (the panel starts in 2005; MAUDE in 1991), postdate its last, or fall in a gap between filings.*
 
-## Industry coverage: share of the US publicly traded medical-device industry (Table 1 of 2026-07-06, carried over - NOT recomputed)
+## Industry coverage: panel share of the US publicly traded medical-device industry
 
 | Statistic | Value |
 |:---|---:|
-| Number of warning letters | 120 |
-| Number of unique firms | 81 |
-| Firm market capitalization ($M), mean | 6,649 |
-| Firm market capitalization ($M), median | 1,329 |
-| Firm total assets ($M), mean | 5,942 |
-| Firm total assets ($M), median | 439 |
-| Share of US medical-device market capitalization | 60.3% |
-| Sample period | October 2008 – January 2026 |
+| Firms in the 10-K/10-Q panel | 117 |
+| &nbsp;&nbsp;in the US medical-device universe (counted in the share) | 31 |
+| &nbsp;&nbsp;no current market cap (acquired, delisted or private since) | 53 |
+| &nbsp;&nbsp;current market cap, but primary SIC outside 3841-3845 | 30 |
+| &nbsp;&nbsp;device SIC, but incorporated outside the US | 3 |
+| US medical-device universe, firms | 167 |
+| Panel firms as a share of universe firms | 18.6% |
+| Share of US medical-device market capitalization | 81.0% |
+| Market cap of panel firms in the universe ($M), mean | 29,794 |
+| Market cap of panel firms in the universe ($M), median | 3,161 |
+| Total assets of panel firms in the universe ($M), mean | 10,397 |
+| Total assets of panel firms in the universe ($M), median | 1,827 |
+| Fiscal year-ends at which market cap is measured | 2025-06-30 to 2026-06-30 |
 
-*CARRIED OVER VERBATIM from output/tables/table1_device_sample_descriptives_2026-07-06 and not recomputed for this dataset. It describes the linked device WARNING-LETTER sample (120 letters, 81 firms), not the 117-firm 10-K/10-Q panel above. Original notes: This table describes the analysis sample: FDA warning letters classified by the FDA as medical-device actions whose recipient is linked to a Compustat firm (gvkey) with an active record as of the letter date — a non-missing market capitalization at the last fiscal year-end before the letter (within 18 months). Links come from the project crosswalk, inclusive of matches flagged for manual review; ownership windows are respected, so a letter links to the firm that owned the recipient in the letter year. Letters are counted by unique FDA Case/Injunction ID. Market capitalization (fiscal year-end close price times common shares outstanding) and total assets are measured at the last fiscal year-end before the firm's first letter, in $ millions. The market-cap share is the sample firms' current market capitalization as a fraction of the US medical-device universe: 26 sample firms of the 182 US-incorporated Compustat firms with primary SIC 3841–3845 and a market cap at their latest fiscal year-end; sample firms delisted or acquired since their letter no longer contribute. Sources: FDA Data Dashboard compliance actions; Compustat via WRDS.*
+*Share = current market capitalization of the panel firms that are in the US medical-device universe, divided by the universe total. Universe: US-incorporated Compustat firms with primary SIC 3841-3845 and a computable market cap (fiscal year-end price x shares outstanding) at their latest fiscal year-end on or after 2025-06-30 - the definition used for Table 1 of 2026-07-06, recomputed here for the 10-K/10-Q panel. It is a CURRENT snapshot: panel firms acquired or delisted since they entered the sample contribute nothing, and neither do panel firms classified outside the device SIC codes or incorporated abroad, however large - so the share understates the panel's historical coverage. Source: Compustat (comp.company, comp.funda) via WRDS.*
 
 ## Caveats
 
