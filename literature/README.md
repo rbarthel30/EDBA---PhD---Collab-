@@ -4,6 +4,16 @@ Key academic and policy references. PDFs are gitignored (copyright); only `.bib`
 
 A working bibliography file lives at [`refs.bib`](refs.bib) — keep it canonical so paper LaTeX can `\bibliography{../literature/refs}`.
 
+## Folder layout
+
+| Folder | Contents |
+|---|---|
+| `Articles Used for Summer 2026 Lit Review/` | Every academic source cited in Armando's BUS813 summer 2026 literature review (45 papers), plus the 1976 Medical Device Amendments and Zheng et al. (2023). Files are named `Author(s)_Year_Short-Title.pdf`; `_File_Index.csv` maps each file to its citation and original file name. |
+| `Additional Readings (Not Cited)/` | Relevant papers not yet cited in the review (tone management, legitimacy theory, crisis reviews, FDA warning-letter studies). Same naming convention and its own `_File_Index.csv`. |
+| `Lit Review Draft and Fix Log/` | The literature review draft and `Lit_Review_Fix_Log.md`, the running list of corrections to make to it. |
+
+Naming convention for new PDFs: `Author_Year_Short-Title.pdf` (two authors: `Author1-Author2`; three or more: `Author1-et-al`).
+
 ---
 
 ## I. SEC Comment Letters — the Methodological Template
