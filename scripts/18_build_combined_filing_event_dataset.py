@@ -48,18 +48,19 @@
 #   (`compustat_active_year`). The event loaders are reconciled against the
 #   committed script-14 panel on every run (exact match required).
 #
-# Inputs:  data/processed/10k_10q_devices_2026-07-20.csv            (script 17)
-#          data/processed/gvkey_year_event_panel_2026-07-19.csv     (script 14, reconciliation)
+# Inputs:  data/processed/10k_10q_devices_2026-09-28.csv            (script 17)
+#          data/processed/gvkey_year_event_panel_2026-09-28.csv     (script 14, reconciliation)
 #          data/processed/fda_compliance_actions_2026-07-06.csv     (script 03)
 #          data/processed/part806_corrections_removals_2026-07-19.csv (script 10 --use-cached)
 #          %LOCALAPPDATA%/edba_fda_cache/part803_stream/*.parquet   (script 11 cache,
 #                                           openFDA export 2026-07-14, 362 chunks)
-#          data/processed/fda_firm_gvkey_crosswalk_unified_2026-07-19.csv (script 12)
+#          data/processed/fda_firm_gvkey_crosswalk_unified_2026-09-28.csv (script 12)
+#          data/processed/compliance_actions_gvkey_crosswalk_full_2026-09-28.csv (script 05; blocked names)
 #          data/processed/8k_device_event_disclosures_2026-07-19.csv (script 16)
-#          data/raw/compustat_funda_2026-07-19.csv                  (flag only)
-# Outputs: data/combined_9_17_26.csv
-#          output/tables/descriptives_combined_9_17_26.md
-#          meetings/descriptives_combined_9_17_26.pdf   (pdflatex / MiKTeX)
+#          data/raw/compustat_funda_2026-09-28.csv                  (flag only)
+# Outputs: data/combined_9_28_26.csv
+#          output/tables/descriptives_combined_9_28_26.md
+#          meetings/descriptives_combined_9_28_26.pdf   (pdflatex / MiKTeX)
 #
 # Usage:   python scripts/18_build_combined_filing_event_dataset.py
 # =============================================================
@@ -86,16 +87,19 @@ RAW = REPO_ROOT / "data" / "raw"
 
 # Inputs are PINNED by name, not globbed: this is a dated deliverable tied to
 # exact snapshots, and a glob once silently picked a `_SUPERSEDED` sibling.
-FILINGS_PATH = PROCESSED / "10k_10q_devices_2026-07-20.csv"
-PANEL_PATH = PROCESSED / "gvkey_year_event_panel_2026-07-19.csv"
+FILINGS_PATH = PROCESSED / "10k_10q_devices_2026-09-28.csv"
+PANEL_PATH = PROCESSED / "gvkey_year_event_panel_2026-09-28.csv"
 LETTERS_PATH = PROCESSED / "fda_compliance_actions_2026-07-06.csv"
 RECALLS_PATH = PROCESSED / "part806_corrections_removals_2026-07-19.csv"
 EIGHTK_PATH = PROCESSED / "8k_device_event_disclosures_2026-07-19.csv"
-FUNDA_PATH = RAW / "compustat_funda_2026-07-19.csv"
+FUNDA_PATH = RAW / "compustat_funda_2026-09-28.csv"
 MAUDE_CACHE = Path(os.environ["LOCALAPPDATA"]) / "edba_fda_cache" / "part803_stream"
 MAUDE_EXPECTED_CHUNKS = 362      # part803_manifest_2026-07-19.json
 
-DATASET_NAME = "combined_9_17_26"
+# 2026-09-28 rebuild after the subsidiary->parent crosswalk fix
+# (data/external/project_subsidiary_parent_overrides.csv). New name so the
+# 9/17 meeting deliverable (combined_9_17_26 + its PDF) stays as shared.
+DATASET_NAME = "combined_9_28_26"
 OUT_DATA = REPO_ROOT / "data" / f"{DATASET_NAME}.csv"
 OUT_MD = REPO_ROOT / "output" / "tables" / f"descriptives_{DATASET_NAME}.md"
 OUT_PDF = REPO_ROOT / "meetings" / f"descriptives_{DATASET_NAME}.pdf"
@@ -104,7 +108,7 @@ OUT_PDF = REPO_ROOT / "meetings" / f"descriptives_{DATASET_NAME}.pdf"
 # Table 1, recomputed for THIS panel. The WRDS pull is cached under data/raw/
 # with a `compustat_` prefix, so it is gitignored (licensed; never committed).
 # Only the aggregate statistics reach the committed descriptives.
-UNIVERSE_CACHE = RAW / "compustat_device_universe_mktcap_2026-09-18.csv"
+UNIVERSE_CACHE = RAW / "compustat_device_universe_mktcap_2026-09-28.csv"  # re-pulled: panel gained 25 firms in the 9/28 rebuild
 DEVICE_SICS = ("3841", "3842", "3843", "3844", "3845")
 # "Current" market cap = prcc_f x csho at the firm's latest fiscal year-end on
 # or after this date. Script 09 used 2024-06-30 in July 2026; moved forward one
@@ -313,7 +317,11 @@ def load_recall_events(s14, win) -> pd.DataFrame:
     init = pd.to_datetime(rc["event_date_initiated"], errors="coerce")
     post = pd.to_datetime(rc["event_date_posted"], errors="coerce")
     rc["event_date"] = init.fillna(post)
-    rc = rc[rc["event_date"].notna() & rc["gvkey"].notna()].copy()
+    # A recall is identified by cfres_id; script 14 counts nunique(cfres_id),
+    # so a row without one is not a countable recall there. Drop it here too
+    # or the reconciliation fails (1 such row: a 2002 Cordis recall).
+    rc = rc[rc["event_date"].notna() & rc["gvkey"].notna()
+            & rc["cfres_id"].notna()].copy()
     rc["year"] = rc["event_date"].dt.year.astype(int)
     rc["gvkey"] = rc["gvkey"].astype("int64")
     rc["normalized_name"] = rc["recalling_firm"].map(s14.normalize_name)
@@ -330,7 +338,7 @@ def load_recall_events(s14, win) -> pd.DataFrame:
     return rc[["gvkey", "event_date", "year", "n", "class_i", "class_ii", "class_iii"]]
 
 
-def load_adverse_event_days(s14, win) -> pd.DataFrame:
+def load_adverse_event_days(s14, win, blocked) -> pd.DataFrame:
     """
     Part 803 MAUDE reports collapsed to gvkey x DAY counts, read straight from
     script 11's per-partition cache. The cache (not a fresh `--resume` run) is
@@ -361,10 +369,9 @@ def load_adverse_event_days(s14, win) -> pd.DataFrame:
             if nm not in name_memo:
                 name_memo[nm] = s14.normalize_name(nm)
         ch["normalized_name"] = ch["manufacturer_d_name"].map(name_memo)
-        ch = ch.merge(win, on=["normalized_name", "gvkey"], how="left")
-        ok = ((ch["year"] >= ch["valid_from_year"].fillna(1900))
-              & (ch["year"] <= ch["valid_to_year"].fillna(2099)))
-        ch = ch[ok]
+        # Same per-name, per-year owner rule as script 14 (shared function),
+        # so the reconciliation against the script-14 panel stays exact.
+        ch = s14.resolve_gvkey_by_era(ch, win, blocked)
         ch["tier_a"] = ch["link_tier"].eq("A_exact").astype(int)
         ch["tier_b"] = ch["link_tier"].eq("B_prefix").astype(int)
         parts.append(ch.groupby(["gvkey", "event_date", "year"])
@@ -909,7 +916,7 @@ def main() -> int:
     win = s14.load_ownership_windows()
     events = {"warning_letter": load_warning_letter_events(s14, win),
               "recall": load_recall_events(s14, win),
-              "adverse_event": load_adverse_event_days(s14, win)}
+              "adverse_event": load_adverse_event_days(s14, win, s14.load_blocked_names())}
 
     print("[3/6] Reconciling event-level rows against the script-14 panel ...")
     active, _ = s14.build_active_firm_years(pd.read_csv(FUNDA_PATH, low_memory=False))

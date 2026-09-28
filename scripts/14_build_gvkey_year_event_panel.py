@@ -43,7 +43,8 @@
 #
 # Inputs:  data/processed/fda_compliance_actions_<DATE>.csv            (script 03)
 #          data/processed/part806_corrections_removals_<DATE>.csv      (script 10)
-#          data/processed/part803_adverse_events_<DATE>.csv.gz         (script 11)
+#          %LOCALAPPDATA%/edba_fda_cache/part803_stream/*.parquet     (script 11 cache;
+#                                         checked against part803_manifest_<DATE>.json)
 #          data/processed/fda_firm_gvkey_crosswalk_unified_<DATE>.csv  (script 12)
 #          data/raw/compustat_company_<DATE>.csv                       (firm metadata)
 # Outputs: data/processed/gvkey_year_event_panel_<DATE>.csv            (THE panel)
@@ -72,8 +73,12 @@ TABLES_DIR = REPO_ROOT / "output" / "tables"
 
 WRDS_USERNAME = os.environ.get("WRDS_USERNAME", "rxb1406")
 
-# MAUDE is ~10.7M rows; read it in chunks so peak memory stays modest.
-MAUDE_CHUNK = 1_000_000
+# MAUDE (~10.7M reports) is read straight from script 11's per-partition
+# parquet cache, OUTSIDE OneDrive. The cache - not a processed csv.gz extract
+# in data/processed/ - is the pinned snapshot (openFDA export 2026-07-14), so
+# no multi-GB extract has to sit in the repo folder for this script to run.
+MAUDE_CACHE = Path(os.environ.get("LOCALAPPDATA", str(Path.home()))) \
+    / "edba_fda_cache" / "part803_stream"
 
 EVENT_TYPES = ["warning_letter", "recall", "adverse_event"]
 
@@ -143,6 +148,83 @@ def load_ownership_windows() -> pd.DataFrame:
           f"({(~trivial).mean():.1%}) - the rest default to 1900-2099, so the "
           f"ownership gate is effectively NON-BINDING")
     return win
+
+
+def iter_maude_cache(columns: list):
+    """
+    Yield script 11's cached MAUDE partitions one parquet chunk at a time
+    (only `columns`, dates left as YYYYMMDD strings). Refuses to run on a
+    partial cache: the chunk count must equal `partitions_processed` in the
+    most recent part803 manifest, so a half-rebuilt cache cannot pass silently.
+    A partition with no sample-firm reports was cached as a column-less empty
+    frame; those are skipped. Shared by scripts 12, 14 and 18.
+    """
+    import json
+    import pyarrow.parquet as pq
+    chunks = sorted(MAUDE_CACHE.glob("*.parquet"))
+    manifest = json.loads(latest(PROCESSED_DIR,
+                                 "part803_manifest_*.json").read_text())
+    expected = manifest["partitions_processed"]
+    if len(chunks) != expected:
+        raise RuntimeError(
+            f"MAUDE cache at {MAUDE_CACHE} has {len(chunks)} chunks; the "
+            f"manifest expects {expected} (openFDA export "
+            f"{manifest['openfda_export_date']}). Do NOT run script 11 "
+            f"--resume to fill it - that pulls a newer export.")
+    for c in chunks:
+        if columns[0] not in pq.read_schema(c).names:
+            continue
+        yield pd.read_parquet(c, columns=columns)
+
+
+def load_blocked_names() -> set:
+    """
+    Names the letter crosswalk (script 05) resolved to NO listed owner -
+    a private or non-US-listed parent, or a neutralized false match
+    (gvkey='UNMAPPED' in data/external/project_subsidiary_parent_overrides.csv).
+    These rows carry no gvkey, so they never reach the ownership windows; this
+    set lets the MAUDE path drop reports still carrying a stale stream-time
+    link for such a name (e.g. 'Cook Incorporated' -> COOK INTERNATIONAL).
+    """
+    cx = pd.read_csv(latest(PROCESSED_DIR,
+                            "compliance_actions_gvkey_crosswalk_full_*.csv"),
+                     low_memory=False)
+    unlisted = cx["match_status"].eq("resolved_unlisted_parent")
+    return set(cx.loc[unlisted, "company_name_fda"].map(normalize_name))
+
+
+def resolve_gvkey_by_era(df: pd.DataFrame, win: pd.DataFrame, blocked: set,
+                         year_col: str = "year") -> pd.DataFrame:
+    """
+    Re-resolve the gvkey of name-linked MAUDE reports from the CURRENT
+    crosswalk, by name AND year. Script 11 stamped each report with a gvkey at
+    stream time (2026-07 crosswalk); the crosswalk has since gained real
+    ownership eras (Abiomed -> ABIOMED INC through 2022, J&J from 2023). So:
+      * name in the windows table -> gvkey = the era containing the year
+        (no era covers the year -> report dropped: no listed owner then);
+      * name resolved to no listed owner at all (blocked) -> dropped;
+      * otherwise (Tier-B prefix names the crosswalk does not list) -> the
+        stream-time gvkey is kept with an open window, as before.
+    Rows matching TWO eras (overlapping windows, different gvkeys) are
+    ambiguous and dropped rather than double-counted.
+    Shared by this script and script 18 so both apply the identical rule.
+    """
+    names_in_win = set(win["normalized_name"])
+    df = df.reset_index(drop=True)
+    in_win = df["normalized_name"].isin(names_in_win)
+    drop_blocked = df["normalized_name"].isin(blocked) & ~in_win
+
+    rest = df[~in_win & ~drop_blocked].copy()
+    rest["valid_from_year"], rest["valid_to_year"] = 1900, 2099
+
+    hit = (df[in_win].drop(columns="gvkey")
+           .rename_axis("_row").reset_index()
+           .merge(win, on="normalized_name", how="inner"))
+    hit = hit[(hit[year_col] >= hit["valid_from_year"])
+              & (hit[year_col] <= hit["valid_to_year"])]
+    ambiguous = hit["_row"].duplicated(keep=False)
+    hit = hit[~ambiguous].drop(columns="_row")
+    return pd.concat([hit, rest], ignore_index=True)
 
 
 def apply_window_gate(df: pd.DataFrame, year_col: str) -> pd.DataFrame:
@@ -309,7 +391,10 @@ def build_recalls(win: pd.DataFrame) -> pd.DataFrame:
     init = pd.to_datetime(rc["event_date_initiated"], errors="coerce")
     post = pd.to_datetime(rc["event_date_posted"], errors="coerce")
     rc["year"] = init.fillna(post).dt.year
-    rc = rc[rc["year"].notna() & rc["gvkey"].notna()].copy()
+    # A recall is identified by cfres_id; a row without one cannot be counted
+    # by nunique() and would otherwise leave a zero-count panel cell.
+    rc = rc[rc["year"].notna() & rc["gvkey"].notna()
+            & rc["cfres_id"].notna()].copy()
     rc["year"] = rc["year"].astype(int)
     rc["gvkey"] = rc["gvkey"].astype("int64")
 
@@ -346,7 +431,7 @@ def build_recalls(win: pd.DataFrame) -> pd.DataFrame:
 # =============================================================
 # STEP 4. MAUDE adverse events -> gvkey-year counts
 # =============================================================
-def build_adverse_events(win: pd.DataFrame) -> pd.DataFrame:
+def build_adverse_events(win: pd.DataFrame, blocked: set) -> pd.DataFrame:
     """
     Part 803 adverse-event reports aggregated to gvkey-year, read in chunks.
 
@@ -356,16 +441,17 @@ def build_adverse_events(win: pd.DataFrame) -> pd.DataFrame:
     when Tier B is excluded needs to be reported both ways - keeping the split
     in the panel makes that a one-line robustness check rather than a re-run.
     """
-    path = latest(PROCESSED_DIR, "part803_adverse_events_*.csv.gz")
-
     parts, n_raw, n_gated = [], 0, 0
-    reader = pd.read_csv(path, low_memory=False, chunksize=MAUDE_CHUNK,
-                         usecols=["gvkey", "date_received", "date_of_event",
-                                  "link_tier", "manufacturer_d_name"])
+    reader = iter_maude_cache(["gvkey", "date_received", "date_of_event",
+                               "link_tier", "manufacturer_d_name"])
     for i, chunk in enumerate(reader, start=1):
         n_raw += len(chunk)
-        rec = pd.to_datetime(chunk["date_received"], errors="coerce")
-        evt = pd.to_datetime(chunk["date_of_event"], errors="coerce")
+        # The cache stores dates as YYYYMMDD strings (the same parse script 11
+        # applies when it writes its processed extract).
+        rec = pd.to_datetime(chunk["date_received"], format="%Y%m%d",
+                             errors="coerce")
+        evt = pd.to_datetime(chunk["date_of_event"], format="%Y%m%d",
+                             errors="coerce")
         # date_received is the regulatory clock (when FDA got the report) and
         # is far better populated than date_of_event, so it leads.
         chunk["year"] = rec.fillna(evt).dt.year
@@ -373,14 +459,11 @@ def build_adverse_events(win: pd.DataFrame) -> pd.DataFrame:
         chunk["year"] = chunk["year"].astype(int)
         chunk["gvkey"] = chunk["gvkey"].astype("int64")
 
-        # Per-name window join, for the same reason as the recall path.
+        # Per-name, per-year owner from the current crosswalk (re-assigns
+        # acquired firms' reports to the acquirer's era; drops reports whose
+        # name now has no listed owner that year).
         chunk["normalized_name"] = chunk["manufacturer_d_name"].map(normalize_name)
-        chunk = chunk.merge(win, on=["normalized_name", "gvkey"], how="left")
-        chunk["valid_from_year"] = chunk["valid_from_year"].fillna(1900).astype(int)
-        chunk["valid_to_year"] = chunk["valid_to_year"].fillna(2099).astype(int)
-        keep = ((chunk["year"] >= chunk["valid_from_year"])
-                & (chunk["year"] <= chunk["valid_to_year"]))
-        chunk = chunk[keep]
+        chunk = resolve_gvkey_by_era(chunk, win, blocked)
         n_gated += len(chunk)
 
         chunk["is_tier_a"] = chunk["link_tier"].eq("A_exact")
@@ -390,7 +473,8 @@ def build_adverse_events(win: pd.DataFrame) -> pd.DataFrame:
                           n_mdr_tier_a=("is_tier_a", "sum"),
                           n_mdr_tier_b=("is_tier_b", "sum"))
                      .reset_index())
-        print(f"       chunk {i}: {n_raw:,} read, {n_gated:,} kept")
+        if i % 50 == 0:   # 362 partitions - report every 50
+            print(f"       partition {i}: {n_raw:,} read, {n_gated:,} kept")
 
     out = (pd.concat(parts, ignore_index=True)
            .groupby(["gvkey", "year"]).sum().reset_index())
@@ -416,7 +500,7 @@ def attach_firm_metadata(panel: pd.DataFrame) -> pd.DataFrame:
     return panel.merge(comp, on="gvkey", how="left")
 
 
-def describe(panel: pd.DataFrame, snapshot_date: str) -> str:
+def describe(panel: pd.DataFrame, snapshot_date: str, win: pd.DataFrame) -> str:
     """
     Build the descriptive block reported to the console AND written to
     output/tables/, so the numbers quoted in the paper have a dated artefact
@@ -503,10 +587,15 @@ def describe(panel: pd.DataFrame, snapshot_date: str) -> str:
         "same test Table 1 (script 09) applies, so the panel and Table 1 now "
         "share one definition.")
     add("")
-    add("> *Note:* the crosswalk ownership-window gate is retained but is "
-        "near-vacuous on its own - only 2 of 630 name-gvkey pairs carry a "
-        "real window, the rest defaulting to 1900-2099. The funda gate above "
-        "is what actually binds.")
+    # Computed, not hard-coded: the count changes whenever ownership eras are
+    # added to data/external/project_subsidiary_parent_overrides.csv.
+    real = ~((win["valid_from_year"] <= 1900) & (win["valid_to_year"] >= 2099))
+    add(f"> *Note:* the crosswalk ownership-window gate binds only where a "
+        f"real window exists - {int(real.sum())} of {len(win):,} name-gvkey "
+        f"pairs, chiefly acquired firms re-pointed to the acquirer after the "
+        f"closing year (data/external/project_subsidiary_parent_overrides.csv); "
+        f"the rest default to 1900-2099. The funda gate above is the broad "
+        f"binding test.")
     add("")
     add("*Other notes:* warning letters are counted by unique FDA "
         "Case/Injunction ID. MAUDE counts include Tier B parent-prefix "
@@ -535,7 +624,7 @@ def main() -> None:
     print("[3/6] Recalls (Part 806) ...")
     rc = build_recalls(win)
     print("[4/6] Adverse events (Part 803 MAUDE) ...")
-    ae = build_adverse_events(win)
+    ae = build_adverse_events(win, load_blocked_names())
 
     print("[5/6] Assembling panel ...")
     panel = pd.concat([wl, rc, ae], ignore_index=True)
@@ -557,7 +646,7 @@ def main() -> None:
     panel.to_csv(out_path, index=False, encoding="utf-8-sig")
     print(f"    panel -> {out_path.relative_to(REPO_ROOT)}")
 
-    md = describe(panel, snapshot_date)
+    md = describe(panel, snapshot_date, win)
     md_path = TABLES_DIR / f"panel_descriptives_{snapshot_date}.md"
     md_path.write_text(md, encoding="utf-8")
     print(f"    descriptives -> {md_path.relative_to(REPO_ROOT)}\n")
