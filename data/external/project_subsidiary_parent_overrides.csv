@@ -1,0 +1,148 @@
+fda_firm_name,gvkey,start_year,end_year,parent_name,closing_date,note
+21st Century Scientific Inc,UNMAPPED,1900,2099,,,False match to 21ST CENTURY GROUP INC (deleted 1987)
+AGFA Healthcare Corp.,UNMAPPED,1900,2099,,,Agfa-Gevaert (Belgium; not US-listed)
+AGFA Healthcare Corporation,UNMAPPED,1900,2099,,,Agfa-Gevaert (Belgium; not US-listed)
+Abaxis Inc,024888,1900,2018,ABAXIS INC,2018-07-31,Abaxis standalone through 2018 (closed 2018-07-31; closing year stays with target)
+Abaxis Inc,013721,2019,2099,ZOETIS INC,2018-07-31,Acquired by Zoetis
+Abbott Diabetes Care Inc.,001078,1900,2099,ABBOTT LABORATORIES,,Abbott subsidiary
+Abbott Medical,001078,1900,2099,ABBOTT LABORATORIES,,Abbott subsidiary (Abbott Medical Optics pre-2017; ex-St. Jude units post-2017)
+Abbott Molecular Inc.,001078,1900,2099,ABBOTT LABORATORIES,,Abbott subsidiary
+Abbott Point of Care Canada Limited,001078,1900,2099,ABBOTT LABORATORIES,,Abbott subsidiary
+Abiomed Inc.,013619,1900,2022,ABIOMED INC,2022-12-22,Abiomed standalone through 2022
+Abiomed Inc.,006266,2023,2099,JOHNSON & JOHNSON,2022-12-22,Acquired by J&J 2022-12-22
+Acclarent Inc.,UNMAPPED,1900,2009,,2010-01-27,"Acclarent private before J&J (filed S-1, never listed)"
+Acclarent Inc.,006266,2010,2023,JOHNSON & JOHNSON,2010-01-27,Acclarent acquired by J&J 2010-01; stale ACCLARENT INC -REDH gvkey replaced
+Acclarent Inc.,061181,2024,2099,INTEGRA LIFESCIENCES HOLDNGS,2024-04-01,Acclarent sold by J&J to Integra 2024-04 (closing year to acquirer)
+Advanced Surgical Design & Manufacture Ltd.,UNMAPPED,1900,2099,,,False match to ADVANCED SURGICAL INC (deleted 1996)
+Aizu Olympus Co. Ltd.,UNMAPPED,1900,2099,,,Olympus (Japan; OTC only)
+Allergan Sales LLC,027845,1900,2019,ALLERGAN PLC,2020-05-08,Allergan plc subsidiary through 2019
+Allergan Sales LLC,016101,2020,2099,ABBVIE INC,2020-05-08,Allergan acquired by AbbVie 2020-05-08 (closing year to acquirer)
+Alma Lasers Inc.,UNMAPPED,1900,2099,,,Alma Lasers private (never US-listed); replaces -REDH registration match
+Animas Corporation,260892,1900,2005,ANIMAS CORP,2006-02-17,Animas standalone through 2005 (pre-acquisition era)
+Animas Corporation,006266,2006,2099,JOHNSON & JOHNSON,2006-02-17,Animas acquired by J&J 2006-02; stale ANIMAS CORP gvkey replaced
+Applied Medical Resources Corp,UNMAPPED,1900,2099,,,Applied Medical is private; replaces match to never-listed APPLIED MEDICAL CORP -REDH registration
+Bard Peripheral Vascular Inc,002044,1900,2017,BARD (C.R.) INC,2017-12-29,C.R. Bard subsidiary through 2017
+Bard Peripheral Vascular Inc,002111,2018,2099,BECTON DICKINSON & CO,2017-12-29,Bard acquired by BD 2017-12-29
+Baxter Healthcare Corporation,002086,1900,2099,BAXTER INTERNATIONAL INC,,Baxter operating subsidiary
+Baxter Healthcare Renal Div,002086,1900,2099,BAXTER INTERNATIONAL INC,,Baxter division
+Beckman Coulter Inc.,015106,1900,2010,BECKMAN COULTER INC,2011-06-30,Beckman standalone through 2010
+Beckman Coulter Inc.,003735,2011,2099,DANAHER CORP,2011-06-30,Acquired by Danaher 2011-06-30 (closing year to acquirer: owned ~half of 2011)
+Becton Dickinson Medical Systems,002111,1900,2099,BECTON DICKINSON & CO,,BD subsidiary
+Biomet Inc.,002230,1900,2014,BIOMET INC,2015-06-24,Biomet (public debt filer through LBO) through 2014
+Biomet Inc.,144559,2015,2099,ZIMMER BIOMET HOLDINGS INC,2015-06-24,Merged into Zimmer Biomet 2015-06-24 (closing year to acquirer)
+CAO Group Inc.,UNMAPPED,1900,2099,,,False match to NCO GROUP INC (debt collector)
+Cantronic Systems Inc.,UNMAPPED,1900,2099,,,Cantronic delisted 2013; letter postdates delisting
+CareFusion 213 LLC,002111,2015,2099,BECTON DICKINSON & CO,2015-03-17,BD subsidiary
+CareFusion 303 Inc.,002751,1900,2009,CARDINAL HEALTH INC,2009-08-31,Cardinal Health unit until CareFusion spin-off 2009-08-31 (closing year to Cardinal)
+CareFusion 303 Inc.,183257,2010,2014,CAREFUSION CORP,2015-03-17,CareFusion standalone 2010-2014
+CareFusion 303 Inc.,002111,2015,2099,BECTON DICKINSON & CO,2015-03-17,CareFusion acquired by BD 2015-03-17
+Carefusion 2200 Inc,002751,1900,2009,CARDINAL HEALTH INC,2009-08-31,Cardinal Health unit until spin-off
+Carefusion 2200 Inc,183257,2010,2014,CAREFUSION CORP,2015-03-17,CareFusion standalone 2010-2014
+Carefusion 2200 Inc,002111,2015,2099,BECTON DICKINSON & CO,2015-03-17,BD from 2015
+Conair LLC,UNMAPPED,1900,2099,,,Conair private; false match to CONAIR CORP/DE (deleted 1996)
+Cook Incorporated,UNMAPPED,1900,2099,,,Cook Group is private; replaces false match to COOK INTERNATIONAL INC (deleted 1985)
+CooperSurgical Inc.,003504,1900,2099,COOPER COS INC (THE),,Cooper Companies subsidiary
+CooperVision Inc.,003504,1900,2099,COOPER COS INC (THE),,Cooper Companies subsidiary
+CooperVisision Manufacturing Puerto Rico LLC,003504,1900,2099,COOPER COS INC (THE),,Cooper Companies subsidiary (FDA misspelling kept verbatim)
+Cordis LLC,003520,1900,1995,CORDIS CORP,1996-02-29,Cordis standalone through 1995 (pre-acquisition era)
+Cordis LLC,006266,1996,2015,JOHNSON & JOHNSON,1996-02-29,Cordis acquired by J&J 1996; sold to Cardinal 2015-10-02 (closing year stays with J&J)
+Cordis LLC,002751,2016,2021,CARDINAL HEALTH INC,2015-10-02,Cordis owned by Cardinal 2015-10 to 2021-08 (sold to Hellman & Friedman 2021-08-02)
+Cordis LLC,UNMAPPED,2022,2099,,2021-08-02,Cordis private (Hellman & Friedman) from 2021-08
+Craftmatic Industries Inc.,UNMAPPED,1900,2099,,,Stale match to gvkey deleted 1996
+Criticare Systems (Malaysia) Sdn. Bhd.,UNMAPPED,1900,2099,,,Criticare owned by Opto Circuits (India) from 2008; replaces stale CRITICARE SYSTEMS INC gvkey
+Datascope Corp.,003786,1900,2008,DATASCOPE CORP,2009-01-30,Datascope standalone through 2008
+Datascope Corp.,UNMAPPED,2009,2099,,2009-01-30,Acquired by Getinge 2009-01 (Sweden; not US-listed)
+DePuy Orthopaedics Inc.,063905,1900,1998,DEPUY INC,1998-11-27,DePuy standalone through 1998 (pre-acquisition era)
+DePuy Orthopaedics Inc.,006266,1999,2099,JOHNSON & JOHNSON,1998-11-27,DePuy acquired by J&J 1998; stale DEPUY INC gvkey replaced
+Draeger Medical Systems Inc.,UNMAPPED,1900,2099,,,Draegerwerk (Germany; not US-listed)
+Evenflo Co Inc,UNMAPPED,1900,2099,,,Evenflo private after 2004; stale match
+Exactech Inc.,062948,1900,2017,EXACTECH INC,2018-02-14,Exactech standalone through 2017
+Exactech Inc.,UNMAPPED,2018,2099,,2018-02-14,Exactech taken private by TPG 2018-02
+Exactech Sarasota Inc.,UNMAPPED,2018,2099,,2018-02-14,Exactech private (TPG) from 2018
+FUJIFILM Healthcare Americas Corporation,UNMAPPED,1900,2099,,,Fujifilm (Japan; OTC only)
+Fresenius Hemocare Deutschland GmbH,UNMAPPED,1900,2099,,,Fresenius Kabi unit (Fresenius SE; not US-listed)
+Fresenius Kabi USA LLC,UNMAPPED,1900,2099,,,Fresenius Kabi (parent Fresenius SE; not US-listed); replaces false match to FRESENIUS USA INC (1996-delisted FMC predecessor)
+Fresenius USA Manufacturing Inc.,212782,1900,2099,FRESENIUS MEDICAL CARE AG,,Fresenius Medical Care North America unit (FMC NYSE-listed)
+Gambro Dasco SPA Monitors Division,UNMAPPED,1900,2013,,2013-09-06,Gambro private (Investor AB/EQT) before Baxter
+Gambro Dasco SPA Monitors Division,002086,2014,2099,BAXTER INTERNATIONAL INC,2013-09-06,Gambro acquired by Baxter 2013-09 (closing year stays with target)
+Gambro Dialysatoren GmbH,UNMAPPED,1900,2013,,2013-09-06,Gambro private before Baxter
+Gambro Dialysatoren GmbH,002086,2014,2099,BAXTER INTERNATIONAL INC,2013-09-06,Baxter from 2014
+Gambro Renal Products S.A. de C.V.,UNMAPPED,1900,2013,,2013-09-06,Gambro private before Baxter
+Gambro Renal Products S.A. de C.V.,002086,2014,2099,BAXTER INTERNATIONAL INC,2013-09-06,Baxter from 2014
+General Medical Company,UNMAPPED,1900,2099,,,False match to GENERAL MEDICAL CORP (deleted 1980)
+GeoTec Inc.,UNMAPPED,1900,2099,,,Stale/false match to GEOTEC INC (deleted 2010)
+Haemoscope Division of Haemonetics Corp,024021,1900,2099,HAEMONETICS CORP,,Haemonetics division
+Health-Chem Acquisitions LLC,UNMAPPED,1900,2099,,,Stale match to HEALTH-CHEM CORP (deleted 2001)
+Integra NeuroSciences Ltd.,061181,1900,2099,INTEGRA LIFESCIENCES HOLDNGS,,Integra subsidiary
+Integra Neurosciences,061181,1900,2099,INTEGRA LIFESCIENCES HOLDNGS,,Integra subsidiary
+Kerr Corporation,003735,2006,2019,DANAHER CORP,2006-05-10,Dental unit of Danaher (via Sybron Dental 2006) until Envista split-off 2019-12; replaces false match to KERR GROUP INC (packaging)
+Kerr Corporation,035497,2020,2099,ENVISTA HOLDINGS CORP,2019-12-18,Envista from 2020
+Laboratorios B. Braun S.A.,UNMAPPED,1900,2099,,,B. Braun (private)
+Leica Microsystems NC Inc.,003735,1900,2099,DANAHER CORP,,Danaher subsidiary (Leica Microsystems acquired 2005)
+LifeCell Corp,024982,1900,2007,LIFECELL CORP,2008-05-27,LifeCell standalone through 2007
+LifeCell Corp,UNMAPPED,2008,2016,,2008-05-27,Owned by KCI then private Acelity
+LifeCell Corp,027845,2017,2019,ALLERGAN PLC,2017-02-01,Allergan
+LifeCell Corp,016101,2020,2099,ABBVIE INC,2020-05-08,AbbVie
+LifeCell Corporation,024982,1900,2007,LIFECELL CORP,2008-05-27,LifeCell standalone through 2007
+LifeCell Corporation,UNMAPPED,2008,2016,,2008-05-27,Owned by KCI 2008-05 (KCI gvkey not found in comp.company) then private Acelity from 2011-11
+LifeCell Corporation,027845,2017,2019,ALLERGAN PLC,2017-02-01,LifeCell acquired by Allergan 2017-02
+LifeCell Corporation,016101,2020,2099,ABBVIE INC,2020-05-08,Allergan acquired by AbbVie 2020-05-08 (closing year to acquirer)
+Maquet Cardiopulmonary GmbH,UNMAPPED,1900,2099,,,Getinge subsidiary (Sweden; not US-listed)
+Maquet Cardiovascular LLC,UNMAPPED,1900,2099,,,Getinge subsidiary (Sweden; not US-listed)
+MedLine Industries LP (NAMIC Division),UNMAPPED,1900,2099,,,Medline private; replaces false match to 1978-deleted gvkey. Revisit if Medline IPO is confirmed
+Medical Innovations,UNMAPPED,1900,2099,,,False match to MEDICAL INNOVATIONS INC (deleted 1996)
+Medivators Inc,024498,1900,1995,MEDIVATORS INC,1996-03-31,Medivators standalone through 1995 (pre-acquisition era)
+Medivators Inc,002942,1996,2020,CANTEL MEDICAL CORP,1996-03-31,Medivators merged into Cantel 1996-03; Cantel until Steris 2021
+Medivators Inc,025313,2021,2099,STERIS PLC,2021-06-02,Cantel acquired by Steris 2021-06-02 (closing year to acquirer)
+Medline Industries LP,UNMAPPED,1900,2099,,,Medline private in letter years; replaces false match to MEDLINE INDUSTRIES INC (deleted 1978). Revisit if Medline IPO is confirmed
+Medtronic MiniMed Inc.,061059,1900,2001,MINIMED INC,2001-08-28,MiniMed standalone through 2001 (pre-acquisition era)
+Medtronic MiniMed Inc.,007228,2002,2099,MEDTRONIC PLC,2001-08-28,MiniMed acquired by Medtronic 2001-08 (closing year stays with target); stale MINIMED INC gvkey replaced from 2002
+Medtronic Navigation Inc.,007228,1900,2099,MEDTRONIC PLC,,Medtronic subsidiary
+Medtronic Neuromodulation,007228,1900,2099,MEDTRONIC PLC,,Medtronic division
+Medtronic Puerto Rico Operations Co.,007228,1900,2099,MEDTRONIC PLC,,Medtronic subsidiary
+Mentor Worldwide LLC,007250,1900,2008,MENTOR CORP,2009-01-23,Mentor standalone through 2008 (pre-acquisition era)
+Mentor Worldwide LLC,006266,2009,2099,JOHNSON & JOHNSON,2009-01-23,Mentor acquired by J&J 2009-01; stale MENTOR CORP gvkey replaced
+Merit Medical Ireland Ltd.,021777,1900,2099,MERIT MEDICAL SYSTEMS INC,,Merit subsidiary
+Mindray DS USA Inc.,175612,1900,2015,MINDRAY MEDICAL INTL,2016-03-07,Mindray NYSE-listed until go-private 2016-03
+Mindray DS USA Inc.,UNMAPPED,2016,2099,,2016-03-07,Mindray private then Shenzhen-listed (not US-listed)
+NIPRO CANADA CORPORATION,UNMAPPED,1900,2099,,,Nipro (Japan; not US-listed)
+Natus Europe GmbH,144436,1900,2022,NATUS MEDICAL INC,2022-07-21,Natus subsidiary; Natus taken private 2022-07 (closing year stays with target)
+Natus Europe GmbH,UNMAPPED,2023,2099,,2022-07-21,Natus private (ArchiMed)
+Nihon Kohden Digital Health Solutions LLC,UNMAPPED,1900,2099,,,Nihon Kohden (Japan; not US-listed)
+OLYMPUS MEDICAL SYSTEMS CORP. Hinode Plant,UNMAPPED,1900,2099,,,Olympus (Japan; OTC only)
+OLYMPUS TERUMO BIOMATERIALS CORP. MISHIMA FACTORY,UNMAPPED,1900,2099,,,Olympus/Terumo JV (Japan; not US-listed)
+Olympus Corporation of the Americas,UNMAPPED,1900,2099,,,Olympus (Japan; OTC only)
+Olympus Medical Systems Corporation,UNMAPPED,1900,2099,,,Olympus (Japan; OTC only)
+Orthosoft Inc.,158599,1900,2007,ORTHOSOFT INC,2007-10-26,Orthosoft standalone through 2007 (pre-acquisition era)
+Orthosoft Inc.,144559,2008,2099,ZIMMER BIOMET HOLDINGS INC,2007-10-26,Orthosoft acquired by Zimmer 2007-10; stale ORTHOSOFT INC gvkey replaced
+Philips Healthcare,008546,1900,2099,KONINKLIJKE PHILIPS NV,,Philips subsidiary (NYSE-listed ADR; files 20-F)
+Philips Healthcare (Suzhou) Co. Ltd.,008546,1900,2099,KONINKLIJKE PHILIPS NV,,Philips subsidiary
+Philips Medical Systems (Cleveland) Inc,008546,1900,2099,KONINKLIJKE PHILIPS NV,,Philips subsidiary
+Philips Medical Systems Nederland B.V.,008546,1900,2099,KONINKLIJKE PHILIPS NV,,Philips subsidiary
+Philips North America LLC,008546,1900,2099,KONINKLIJKE PHILIPS NV,,Philips subsidiary
+Philips Respironics Inc.,014385,1900,2007,RESPIRONICS INC,2008-03-14,Respironics standalone through 2007
+Philips Respironics Inc.,008546,2008,2099,KONINKLIJKE PHILIPS NV,2008-03-14,Acquired by Philips 2008-03 (Philips NYSE-listed)
+Qiagen Sciences LLC,063186,1900,2099,QIAGEN NV,,Qiagen subsidiary (NYSE-listed)
+Stryker Craniomaxillofacial Division,010115,1900,2099,STRYKER CORP,,Stryker division
+Stryker Medical London dba CHG Hospital Beds,010115,1900,2099,STRYKER CORP,,Stryker subsidiary
+SynCardia Systems LLC,UNMAPPED,1900,2099,,,SynCardia private in letter years; replaces -REDH registration match
+Synergy Health Concepts Inc.,UNMAPPED,1900,2099,,,False match to HEALTH CONCEPTS IV INC
+Syneron Inc.,160902,1900,2017,SYNERON MEDICAL LTD,2017-07-18,Syneron Nasdaq-listed until go-private 2017-07 (closing year stays with target)
+Syneron Inc.,UNMAPPED,2018,2099,,2017-07-18,Syneron private (Apax) from 2017-07
+Synthes Inc.,UNMAPPED,1900,2012,,2012-06-14,Synthes SIX-listed only before J&J; closing year 2012 kept UNMAPPED (exception to majority rule) so the 2012-02-16 letter is not attributed to J&J
+Synthes Inc.,006266,2013,2099,JOHNSON & JOHNSON,2012-06-14,J&J from 2013 (closed 2012-06-14; closing year held back - see UNMAPPED row)
+TELEMED,UNMAPPED,1900,2099,,,False match to TELEMED CORP (deleted 1979)
+Terumo BCT Inc.,UNMAPPED,1900,2099,,,Terumo (Japan; not US-listed)
+Terumo Medical Corporation,UNMAPPED,1900,2099,,,Terumo (Japan; not US-listed)
+Terumo Medical Products (Hangzhou) Co. Ltd.,UNMAPPED,1900,2099,,,Terumo (Japan; not US-listed)
+Vital Signs Devices a GE Healthcare Company,005047,1900,2022,GE AEROSPACE,2008-10-30,Name post-dates GE's 2008-10 acquisition; GE (gvkey now named GE AEROSPACE) until GE HealthCare spin-off
+Vital Signs Devices a GE Healthcare Company,041818,2023,2099,GE HEALTHCARE TECHNOLOGI INC,2023-01-03,GE HealthCare spun off 2023-01
+WESTMINSTER INTERNATIONAL,UNMAPPED,1900,2099,,,False match to WESTMINSTER CORP (deleted 1976)
+ZOLL Medical Corporation,025579,1900,2011,ZOLL MEDICAL CORP,2012-04-27,ZOLL standalone through 2011
+ZOLL Medical Corporation,UNMAPPED,2012,2099,,2012-04-27,Acquired by Asahi Kasei 2012-04 (Japan; not US-listed)
+Zhejiang Biomet Medical Products Co. Ltd.,002230,1900,2015,BIOMET INC,2015-06-24,Biomet subsidiary through 2015 (exception to majority rule: the 2015-06-03 letter predates the 2015-06-24 close)
+Zhejiang Biomet Medical Products Co. Ltd.,144559,2016,2099,ZIMMER BIOMET HOLDINGS INC,2015-06-24,Zimmer Biomet from 2016
+Zimmer Manufacturing B.V.,144559,1900,2099,ZIMMER BIOMET HOLDINGS INC,,Zimmer subsidiary (same gvkey as Zimmer Holdings)
+Zoll Manufacturing Corp.,025579,1900,2011,ZOLL MEDICAL CORP,2012-04-27,ZOLL subsidiary through 2011
+Zoll Manufacturing Corp.,UNMAPPED,2012,2099,,2012-04-27,Asahi Kasei (Japan; not US-listed) from 2012
+Noah Medical Corporation,UNMAPPED,1900,2099,,,"Noah Medical is private (surgical robotics); false match to NOAH HOLDINGS LIMITED (Chinese wealth manager)"

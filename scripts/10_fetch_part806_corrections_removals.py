@@ -214,6 +214,19 @@ def latest(pattern: str) -> Path:
     return Path(hits[-1])
 
 
+def eras_overlap(eras: list) -> bool:
+    """True if two ownership eras with DIFFERENT gvkeys overlap in time -
+    i.e. the crosswalk cannot say who owned the name in some year."""
+    for i in range(len(eras)):
+        for j in range(i + 1, len(eras)):
+            a, b = eras[i], eras[j]
+            if (a["gvkey"] != b["gvkey"]
+                    and a["valid_from_year"] <= b["valid_to_year"]
+                    and b["valid_from_year"] <= a["valid_to_year"]):
+                return True
+    return False
+
+
 def build_sample_keys() -> tuple:
     """
     Assemble the two key sets that define "a sample firm" for this pull.
@@ -252,31 +265,38 @@ def build_sample_keys() -> tuple:
     cx["gvkey"] = cx["gvkey"].astype("int64")
     cx["norm_key"] = cx["company_name_fda"].map(normalize_name)
 
-    # --- Route B: normalized name -> firm metadata.
-    # Where two crosswalk rows normalize to the same key (subsidiaries of the
-    # same parent), they resolve to the same gvkey by construction, so keeping
-    # the first is safe. Where they do NOT, the name is ambiguous and we drop
-    # it rather than guess - consistent with script 04's precision-first rule.
+    # --- Route B: normalized name -> list of OWNERSHIP ERAS.
+    # A name can legitimately map to several gvkeys in sequence (Abiomed ->
+    # ABIOMED INC through 2022, -> J&J from 2023; see script 05's windowed
+    # overrides). Each era is kept, and a recall later links to the era that
+    # contains its action year. A name is AMBIGUOUS - and dropped rather than
+    # guessed, per script 04's precision-first rule - only when two eras with
+    # DIFFERENT gvkeys overlap in time. (The earlier version dropped every
+    # name with more than one gvkey, which silently discarded all recalls at
+    # acquired firms.)
+    def era(row) -> dict:
+        return {"gvkey": int(row["gvkey"]),
+                "company_name_compustat": row["company_name_compustat"],
+                "match_source_crosswalk": row["match_source"],
+                "review_suggested": bool(row["review_suggested"]),
+                "valid_from_year": int(row["valid_from_year"]),
+                "valid_to_year": int(row["valid_to_year"])}
+
     name_to_gvkey = {}
     ambiguous = set()
     for key, grp in cx.groupby("norm_key"):
         if not key:
             continue
-        if grp["gvkey"].nunique() > 1:
+        eras = [era(r) for _, r in
+                grp.drop_duplicates(["gvkey", "valid_from_year",
+                                     "valid_to_year"]).iterrows()]
+        if eras_overlap(eras):
             ambiguous.add(key)
             continue
-        row = grp.iloc[0]
-        name_to_gvkey[key] = {
-            "gvkey": int(row["gvkey"]),
-            "company_name_compustat": row["company_name_compustat"],
-            "match_source_crosswalk": row["match_source"],
-            "review_suggested": bool(row["review_suggested"]),
-            "valid_from_year": int(row["valid_from_year"]),
-            "valid_to_year": int(row["valid_to_year"]),
-        }
+        name_to_gvkey[key] = eras
     if ambiguous:
         print(f"    dropped {len(ambiguous)} ambiguous normalized names "
-              f"(map to >1 gvkey)")
+              f"(overlapping eras with different gvkeys)")
 
     # --- Route A: FEI -> firm metadata, via the letter recipient's name.
     ca["norm_key"] = ca["company_name_clean"].map(normalize_name)
@@ -285,13 +305,18 @@ def build_sample_keys() -> tuple:
 
     fei_to_gvkey = {}
     for fei, grp in linked.groupby("fei_key"):
-        # An FEI is an establishment; if letters at one establishment map to
-        # different owners over time, ownership changed. Take the crosswalk
-        # entry and let the ownership-window check in STEP 4 sort out timing.
+        # An FEI is an establishment. It inherits the ownership eras of the
+        # letter-recipient name(s) cited there; the window check in STEP 4
+        # picks the era by year. If letters at one establishment went to names
+        # whose eras CONFLICT (different gvkeys over overlapping years), the
+        # ownership is ambiguous - skip, do not guess.
         keys = grp["norm_key"].unique()
-        if len({name_to_gvkey[k]["gvkey"] for k in keys}) > 1:
-            continue  # ambiguous establishment ownership - skip, do not guess
-        fei_to_gvkey[fei] = name_to_gvkey[keys[0]]
+        eras = [e for k in keys for e in name_to_gvkey[k]]
+        eras = list({(e["gvkey"], e["valid_from_year"], e["valid_to_year"]): e
+                     for e in eras}.values())
+        if eras_overlap(eras):
+            continue
+        fei_to_gvkey[fei] = eras
 
     print(f"    sample firms (gvkey)     : {cx['gvkey'].nunique():,}")
     print(f"    Route A keys (FEI)       : {len(fei_to_gvkey):,}")
@@ -325,20 +350,29 @@ def link_recalls(recalls: pd.DataFrame, fei_to_gvkey: dict,
     out["action_year"] = (out["event_date_initiated"]
                           .fillna(out["event_date_posted"]).dt.year)
 
+    def era_for_year(eras, yr):
+        """The ownership era containing `yr` (None if no era covers it). With
+        no action year, only an unambiguous single-era name can link."""
+        if eras is None:
+            return None
+        if pd.isna(yr):
+            return eras[0] if len(eras) == 1 else None
+        for e in eras:
+            if e["valid_from_year"] <= yr <= e["valid_to_year"]:
+                return e
+        return None
+
     def resolve(row):
-        """Return (meta, link_source) for one recall row, or (None, None)."""
-        meta = fei_to_gvkey.get(row["fei_key"])
-        source = "fei_exact"
-        if meta is None:
-            meta = name_to_gvkey.get(row["norm_key"])
-            source = "name_normalized"
-        if meta is None:
-            return None, None
-        # Enforce the ownership window.
+        """Return (meta, link_source) for one recall row, or (None, None).
+        FEI route first; the name route is the fallback. Either way the
+        ownership window is enforced by picking the era for the action year."""
         yr = row["action_year"]
-        if pd.notna(yr) and not (meta["valid_from_year"] <= yr <= meta["valid_to_year"]):
-            return None, None
-        return meta, source
+        fei_eras = fei_to_gvkey.get(row["fei_key"])
+        if fei_eras is not None:
+            meta = era_for_year(fei_eras, yr)
+            return (meta, "fei_exact") if meta else (None, None)
+        meta = era_for_year(name_to_gvkey.get(row["norm_key"]), yr)
+        return (meta, "name_normalized") if meta else (None, None)
 
     resolved = out.apply(resolve, axis=1)
     out["link_source"] = [r[1] for r in resolved]

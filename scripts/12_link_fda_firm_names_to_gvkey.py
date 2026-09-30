@@ -60,7 +60,7 @@
 #
 # Inputs:  data/raw/compustat_company_<DATE>.csv                   (cached; or WRDS)
 #          data/raw/fda_device_recalls_<DATE>.csv                  (script 10)
-#          data/processed/part803_adverse_events_<DATE>.csv.gz     (script 11, optional)
+#          %LOCALAPPDATA%/edba_fda_cache/part803_stream/*.parquet (script 11 cache, optional)
 #          data/processed/compliance_actions_gvkey_crosswalk_full_<DATE>.csv (script 05)
 # Outputs: data/processed/fda_firm_gvkey_crosswalk_unified_<DATE>.csv
 #          data/processed/fda_firm_unmatched_worklist_<DATE>.csv
@@ -258,33 +258,37 @@ def harvest_source_names() -> pd.DataFrame:
     else:
         print("    part806 recalls : SKIPPED (run script 10 first)")
 
-    # --- 3b. Part 803 MAUDE (optional - script 11 is long-running).
-    mau_path = latest(PROCESSED_DIR, "part803_adverse_events_*.csv.gz",
-                      required=False)
-    if mau_path is not None:
-        mau = pd.read_csv(mau_path, low_memory=False,
-                          usecols=["manufacturer_d_name"])
-        g = (mau.groupby("manufacturer_d_name").size()
-             .reset_index(name="n_records"))
+    # --- 3b. Part 803 MAUDE, read straight from script 11's pinned parquet
+    # cache (outside OneDrive) via script 14's shared reader - so no
+    # multi-GB processed extract has to exist in data/processed/.
+    #
+    # REMOVED 2026-09-28: the old step 3c harvested MAUDE manufacturers that
+    # script 11 could NOT link, from part803_unmatched_manufacturers_<DATE>.csv.
+    # That worklist exists only as a by-product of a FULL script-11 stream
+    # (the cache keeps linked reports only), and the committed 2026-07-19 copy
+    # is header-only - overwritten by a later --resume run - so it contributed
+    # zero names and could never be regenerated from the cache. Dropping it
+    # removes a dependency on an irreproducible file without changing output.
+    # Consequence: firms appearing ONLY in MAUDE and outside the letter
+    # crosswalk cannot enter via this script (the no-letter control group
+    # comes from Part 806 recall names instead).
+    import importlib.util
+    spec = importlib.util.spec_from_file_location(
+        "script14", SCRIPT_DIR / "14_build_gvkey_year_event_panel.py")
+    s14 = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(s14)
+    try:
+        counts = pd.concat(
+            [c["manufacturer_d_name"].value_counts()
+             for c in s14.iter_maude_cache(["manufacturer_d_name"])])
+        g = (counts.groupby(level=0).sum().rename("n_records")
+             .rename_axis("firm_name_fda").reset_index())
         g["source"] = "part803_maude"
-        g = g.rename(columns={"manufacturer_d_name": "firm_name_fda"})
         frames.append(g)
         print(f"    part803 MAUDE   : {len(g):,} distinct firm names "
-              f"({len(mau):,} records)")
-    else:
-        print("    part803 MAUDE   : SKIPPED (script 11 output not present yet)")
-
-    # --- 3c. MAUDE names that script 11 could NOT link. This is where the
-    # unmatched sample is hiding, so it is fed in explicitly.
-    unm_path = latest(PROCESSED_DIR, "part803_unmatched_manufacturers_*.csv",
-                      required=False)
-    if unm_path is not None:
-        unm = pd.read_csv(unm_path)
-        g = unm.rename(columns={"normalized_manufacturer": "firm_name_fda",
-                                "n_reports": "n_records"})
-        g["source"] = "part803_unmatched"
-        frames.append(g[["firm_name_fda", "n_records", "source"]])
-        print(f"    part803 unmatched: {len(g):,} distinct firm names")
+              f"({int(g['n_records'].sum()):,} records, from the cache)")
+    except (RuntimeError, FileNotFoundError) as exc:
+        print(f"    part803 MAUDE   : SKIPPED ({exc})")
 
     if not frames:
         raise RuntimeError("No FDA source files found. Run scripts 10/11 first.")
@@ -382,6 +386,12 @@ def merge_with_letter_crosswalk(matched: pd.DataFrame) -> pd.DataFrame:
         return matched
 
     cx = pd.read_csv(cx_path, low_memory=False)
+    # Every name the letter crosswalk RESOLVED - including names resolved to
+    # an unlisted/private parent or neutralized as a false match (no gvkey) -
+    # is blocked from this script's direct Compustat match below. Otherwise a
+    # deliberately neutralized false match (e.g. 'Conair LLC') would come
+    # straight back as a 'compustat_direct' row.
+    resolved_names = set(cx["company_name_fda"].map(normalize_name))
     cx = cx[cx["gvkey"].notna()].copy()
     cx["normalized_name"] = cx["company_name_fda"].map(normalize_name)
     cx["crosswalk_origin"] = "letter_crosswalk"
@@ -413,14 +423,19 @@ def merge_with_letter_crosswalk(matched: pd.DataFrame) -> pd.DataFrame:
     ok["n_records"] = ok.groupby("normalized_name")["n_records"].transform("sum")
     ok = ok.drop_duplicates("normalized_name", keep="first")
 
+    # Where both sources cover a name, the LETTER CROSSWALK WINS - and ALL of
+    # its rows for that name are kept. A name can legitimately carry several
+    # rows, one per ownership era (Abiomed -> ABIOMED INC through 2022, ->
+    # J&J from 2023). The earlier version de-duplicated on normalized_name
+    # alone, which silently kept one era and discarded the rest.
+    n_blocked = int(ok["normalized_name"].isin(resolved_names).sum())
+    ok = ok[~ok["normalized_name"].isin(resolved_names)]
+    cx = cx.drop_duplicates(["normalized_name", "gvkey", "valid_from_year",
+                             "valid_to_year"])
     unified = pd.concat([cx, ok], ignore_index=True)
-    before = len(unified)
-    unified = unified.sort_values(
-        "crosswalk_origin",  # 'compustat_direct' < 'letter_crosswalk'
-        ascending=False).drop_duplicates("normalized_name", keep="first")
-    print(f"    unified crosswalk: {len(unified):,} names "
-          f"({before - len(unified):,} duplicates resolved in favour of the "
-          f"letter crosswalk)")
+    print(f"    unified crosswalk: {unified['normalized_name'].nunique():,} "
+          f"names, {len(unified):,} name-era rows ({n_blocked:,} direct "
+          f"matches superseded by the letter crosswalk)")
     return unified
 
 

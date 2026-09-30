@@ -23,6 +23,8 @@
 # Inputs:  data/processed/compliance_actions_gvkey_crosswalk_<date>.csv (script 04)
 #          data/processed/compliance_actions_unmatched_<date>.csv       (script 04)
 #          data/raw/compustat_company_<date>.csv                        (script 04's WRDS pull)
+#          data/external/project_subsidiary_parent_overrides.csv        (THIS project, hand-curated,
+#                                                                         windowed; highest trust)
 #          data/external/ct_sponsor_overrides_supplemental.csv          (CT project, hand-curated)
 #          data/external/ct_sponsor_to_gvkey_crosswalk_extended_20260505.csv (CT project)
 #          data/external/ct_dropped_device_sponsors.csv                 (CT project, device firms)
@@ -69,6 +71,10 @@ FUZZY_CUTOFF = 90
 # distinctive enough that a coincidental prefix is implausible.
 PREFIX_MIN_CHARS = 8    # normalized parent name must be at least this long ...
 PREFIX_MIN_TOKENS = 2   # ... and have at least this many words
+
+# Sources that carry REAL ownership windows. A key covered by one of these
+# supersedes every whole-period source and corrects script-04 exact matches.
+WINDOWED_SOURCES = {"project_override_windowed", "ct_override_windowed"}
 
 
 # =============================================================
@@ -117,6 +123,27 @@ def build_curated_map(company: pd.DataFrame) -> pd.DataFrame:
     wins:  ct_override > ct_resolved > ct_dropped_device > ct_fuzzy.
     """
     frames = []
+
+    # --- 2-pre. THIS project's own hand-curated subsidiary->parent overrides
+    # (data/external/project_subsidiary_parent_overrides.csv, added
+    # 2026-09-28). Highest trust of all sources. They (i) link subsidiary
+    # names exact matching misses (Abbott Medical, Baxter Healthcare Corp),
+    # (ii) re-point acquired targets to the acquirer after the closing year
+    # (Abiomed -> J&J from 2023), and (iii) neutralize false or stale exact
+    # matches (gvkey='UNMAPPED' for the whole window, e.g. CAO Group ->
+    # NCO Group). Closing-year rule: the year goes to whoever owned the
+    # business for the majority of it; the exact closing_date stays in the
+    # file so events on the wrong side of it can be audited.
+    po = pd.read_csv(EXTERNAL_DIR / "project_subsidiary_parent_overrides.csv",
+                     dtype={"gvkey": str})
+    frames.append(pd.DataFrame({
+        "key": po["fda_firm_name"].map(normalize_name),
+        "gvkey": po["gvkey"],
+        "valid_from_year": po["start_year"],
+        "valid_to_year": po["end_year"],
+        "source": "project_override_windowed",
+        "note": po["note"],
+    }))
 
     # --- 2a. Hand-curated overrides, WITH ownership windows. gvkey='UNMAPPED'
     # is meaningful: a known subsidiary whose parent is not in Compustat
@@ -174,21 +201,29 @@ def build_curated_map(company: pd.DataFrame) -> pd.DataFrame:
 
     # --- 2d. Resolve duplicates: keep the most trusted source per
     # (key, window). Distinct windows for one key are legitimate (Wyeth).
-    trust = {"ct_override_windowed": 0, "ct_override": 1, "ct_resolved": 2,
+    trust = {"project_override_windowed": -1,
+             "ct_override_windowed": 0, "ct_override": 1, "ct_resolved": 2,
              "ct_dropped_device": 3, "ct_fuzzy": 4}
     cand["trust"] = cand["source"].map(trust)
     cand = (cand.sort_values("trust")
                 .drop_duplicates(["key", "valid_from_year", "valid_to_year"],
                                  keep="first"))
 
+    # A key covered by this project's own overrides takes ONLY those rows —
+    # its ownership history is fully specified there, so any CT-project row
+    # for the same key (windowed or not) would be a competing history.
+    project_keys = set(cand.loc[cand["source"] == "project_override_windowed",
+                                "key"])
+    cand = cand[(cand["source"] == "project_override_windowed")
+                | ~cand["key"].isin(project_keys)]
+
     # Where a key has hand-curated WINDOWED override rows, they supersede all
     # other sources for that key — otherwise a whole-period row (e.g.
     # "allergan" -> AbbVie for 1900-2099 in the extended crosswalk) would
     # falsely conflict with the windowed ownership history (Allergan plc
     # through 2019, AbbVie from 2020).
-    windowed_keys = set(cand.loc[cand["source"] == "ct_override_windowed",
-                                 "key"])
-    cand = cand[(cand["source"] == "ct_override_windowed")
+    windowed_keys = set(cand.loc[cand["source"].isin(WINDOWED_SOURCES), "key"])
+    cand = cand[cand["source"].isin(WINDOWED_SOURCES)
                 | ~cand["key"].isin(windowed_keys)]
 
     # --- 2e. Precision guard: a key whose surviving rows disagree on gvkey
@@ -332,7 +367,7 @@ def main() -> None:
     # 2009 belong to Roche, not to the pre-buyout GENENTECH INC gvkey).
     # Wherever the hand-curated WINDOWED overrides cover an exact-matched
     # name, the windowed mapping replaces the exact match.
-    windowed_keys = set(curated.loc[curated["source"] == "ct_override_windowed",
+    windowed_keys = set(curated.loc[curated["source"].isin(WINDOWED_SOURCES),
                                     "key"])
     needs_corr = matched04["normalized_name"].isin(windowed_keys)
     corrected = pd.DataFrame()
@@ -446,7 +481,8 @@ def main() -> None:
     print("Summary (medtech/pharma, matched rows)")
     print(f"  exact (script 04)         : "
           f"{(mp['match_source'] == 'exact_normalized').sum():,} names")
-    for s in ["ct_override_windowed", "ct_override", "ct_resolved",
+    for s in ["project_override_windowed", "ct_override_windowed",
+              "ct_override", "ct_resolved",
               "ct_dropped_device", "ct_fuzzy"]:
         n = (mp["match_source"] == s).sum()
         if n:

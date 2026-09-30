@@ -183,6 +183,52 @@ still unmatched           : 4,123 names (147-row fuzzy worklist)
    147 rows sorted by similarity): fill the `accept` column TRUE/FALSE.
    Beware word-order traps — "Pharmaceutical Innovations" is NOT
    "Innovation Pharmaceuticals".
-3. Accepted decisions should be added to a project overrides file (same
-   format as `data/external/ct_sponsor_overrides_supplemental.csv`) so they
-   survive re-runs — talk to Ryan before doing this the first time.
+3. Accepted decisions should be added to the project overrides file
+   (Section 5a) so they survive re-runs.
+
+## 5a. Project subsidiary → parent overrides (added 2026-09-28)
+
+**File:** [`data/external/project_subsidiary_parent_overrides.csv`](external/project_subsidiary_parent_overrides.csv)
+— hand-curated for THIS project; script 05 reads it first and it beats every
+other source (`match_source = project_override_windowed`).
+
+**Why it exists.** Large device companies usually receive warning letters
+under a *subsidiary's* legal name — "Abbott Medical", "Baxter Healthcare
+Corporation", "CareFusion 303, Inc.", "Philips Respironics, Inc." Exact name
+matching never reaches the parent, so before this file **Abbott (9 letters),
+Baxter (5), Philips (9), Cooper (3), Zimmer Biomet, Danaher, Merit,
+Haemonetics and Teleflex were missing or under-counted**, and letters to
+acquired firms (Abiomed 2023, Beckman Coulter 2024, ZOLL 2026) were attached
+to the *old* company's gvkey, which no longer trades — so they silently
+dropped out.
+
+**One row per ownership era.** Columns: `fda_firm_name` (as FDA writes it;
+matching ignores punctuation and "Inc./LLC"), `gvkey` of the owner,
+`start_year`–`end_year`, `parent_name`, `closing_date` of the deal, `note`
+with the source of the fact. Example — Abiomed:
+
+| fda_firm_name | gvkey | start_year | end_year | parent_name |
+|---|---|---|---|---|
+| Abiomed Inc. | 013619 | 1900 | 2022 | ABIOMED INC |
+| Abiomed Inc. | 006266 | 2023 | 2099 | JOHNSON & JOHNSON |
+
+**Rules used to fill it in:**
+1. **Closing year** goes to whoever owned the business for most of that year
+   (Beckman Coulter closed 30 Jun 2011 → Danaher from 2011). Two exceptions,
+   made so a *warning letter* is never attributed to the wrong firm: Synthes
+   (letter Feb 2012, J&J closed Jun 2012) and Zhejiang Biomet (letter 3 Jun
+   2015, Zimmer merger closed 24 Jun 2015) keep the closing year with the
+   pre-deal owner. Recalls and adverse-event reports in a closing year can
+   still land on the wrong side of the closing date — windows are in years,
+   not days (see the limitation in `SESSION_REPORT.md`).
+2. **`UNMAPPED`** = the owner that year is private or not listed on a US
+   exchange (Olympus, Terumo, Getinge, Asahi Kasei/ZOLL after 2012, Medline,
+   Cook). This matches the US-listing definition of the device universe.
+   Philips, Qiagen and Fresenius Medical Care ARE NYSE-listed, so they map.
+3. **`UNMAPPED` for the whole period** also neutralizes a *false* exact match
+   (e.g. "CAO Group" had matched NCO Group, a debt collector).
+
+**To add a firm:** add its row(s), make sure eras for one name do not
+overlap (script 05 drops a name whose eras overlap with different gvkeys),
+then re-run scripts 05 → 12 → 10 `--use-cached` → 11 `--from-cache` (only if
+the MAUDE extract is missing) → 14 → 17 → 18.

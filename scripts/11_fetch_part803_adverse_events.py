@@ -405,6 +405,33 @@ def main() -> None:
     manifest_path = PROCESSED_DIR / f"part803_manifest_{snapshot_date}.json"
     work_path = PROCESSED_DIR / f"part803_unmatched_manufacturers_{snapshot_date}.csv"
 
+    # --from-cache: rebuild the processed file from the EXISTING per-partition
+    # cache only - no openFDA manifest call, no streaming. This is how the
+    # gitignored processed file is regenerated WITHOUT changing the snapshot:
+    # a --resume run would read today's openFDA manifest (a newer export) and
+    # stream any partitions it does not find, mixing exports. The export date
+    # is carried over from the most recent full-run manifest.
+    if "--from-cache" in sys.argv:
+        chunks = sorted(CACHE_DIR.glob("*.parquet"))
+        prev = json.loads(latest("part803_manifest_*.json").read_text())
+        print(f"[--from-cache] {len(chunks)} cached chunks; openFDA export "
+              f"{prev['openfda_export_date']} (from {prev['snapshot_date']} manifest)")
+        if len(chunks) != prev["partitions_processed"]:
+            raise RuntimeError(f"cache has {len(chunks)} chunks but the "
+                               f"manifest recorded {prev['partitions_processed']}"
+                               " - cache is not the pinned snapshot")
+        out = pd.concat([pd.read_parquet(c) for c in chunks], ignore_index=True)
+        out = out.drop(columns=["_valid_from", "_valid_to"], errors="ignore")
+        for col in ["date_of_event", "date_received", "date_report_to_fda"]:
+            out[col] = pd.to_datetime(out[col], format="%Y%m%d", errors="coerce")
+        out.to_csv(out_path, index=False, compression="gzip", encoding="utf-8-sig")
+        manifest_path.write_text(json.dumps(
+            {**prev, "snapshot_date": snapshot_date, "rebuilt_from_cache": True,
+             "records_kept": int(len(out)),
+             "distinct_gvkeys": int(out["gvkey"].nunique())}, indent=2))
+        print(f"    {len(out):,} reports -> {out_path.relative_to(REPO_ROOT)}")
+        return
+
     print("=" * 64)
     print("FDA Part 803 - Medical Device Reports (MAUDE adverse events)")
     print(f"Snapshot date: {snapshot_date}")
