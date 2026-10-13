@@ -1,7 +1,7 @@
 # Warning-Letter Full Texts — Replication Instructions
 
 **Dataset:** `data/warning_letters/` (one text file + one HTML file per letter, plus a manifest)
-**Produced by:** [`scripts/19_fetch_warning_letter_texts.py`](../../scripts/19_fetch_warning_letter_texts.py)
+**Produced by:** [`scripts/23_fetch_warning_letter_texts.py`](../../scripts/23_fetch_warning_letter_texts.py)
 **Maintainer:** Ryan Barthel · **First built:** 2026-10-13
 
 This folder holds the **full text of the FDA warning letters** in our sample:
@@ -144,7 +144,7 @@ archive copy.
 From the repository root:
 
 ```bash
-python scripts/19_fetch_warning_letter_texts.py
+python scripts/23_fetch_warning_letter_texts.py
 ```
 
 - **Inputs** (already in the repo or on Ryan's machine): the Data Dashboard
@@ -215,7 +215,7 @@ letter date more than 7 days from the dashboard date.
   letter, not the warning letter itself.
 - **Dashboard date error (1).** Ocular Therapeutix (Section 3, point 2).
 
-To continue, re-run `python scripts/19_fetch_warning_letter_texts.py`. Pages
+To continue, re-run `python scripts/23_fetch_warning_letter_texts.py`. Pages
 already downloaded are cached, and the run adds whatever it can still find.
 Note that a re-run also applies one more check added after this snapshot: it
 flags every letter whose printed recipient differs from the dashboard name,

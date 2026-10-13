@@ -1,5 +1,5 @@
 # =============================================================
-# Script: 19_fetch_warning_letter_texts.py
+# Script: 23_fetch_warning_letter_texts.py
 # Author: Ryan Barthel
 # Project: FDA Comment Letters & Medtech/Pharma Disclosure (Armando Cuello, EDBA)
 # Purpose: Download the FULL TEXT of every device warning letter that the
@@ -82,7 +82,7 @@
 #          data/warning_letters/warning_letter_texts_manifest_<date>.csv
 #          data/warning_letters/warning_letter_text_candidates_<date>.csv (audit)
 #
-# Usage:   python scripts/19_fetch_warning_letter_texts.py
+# Usage:   python scripts/23_fetch_warning_letter_texts.py
 #          (re-runs read the on-disk cache; --refresh re-downloads indexes)
 # =============================================================
 
