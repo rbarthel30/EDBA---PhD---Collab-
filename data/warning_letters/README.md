@@ -11,6 +11,15 @@ counts in `data/combined_9_28_26.csv`. The rest of this page explains where
 each letter came from, how we confirmed it is the right letter, and how to
 rebuild the folder from scratch.
 
+> **Archived (pre-2016) letters.** FDA's live site only carries letters from
+> 2021 on; older letters survive only in web archives. We recovered
+> **115 of 160** letters issued 2008–2015:
+> - **2008–2012: 86 of 98**, nearly complete.
+> - **2013–2015: 29 of 62**, the main gap (FDA's archived indexes for these
+>   years are incomplete).
+>
+> 104 of the 115 come from **Common Crawl** copies of FDA's old site.
+
 ---
 
 ## 1. What is in this folder
