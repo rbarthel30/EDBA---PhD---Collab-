@@ -1,0 +1,129 @@
+Medtronic Inc. Cardiac Rhythm Disease Managment , 11/9/09
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Minneapolis District Office
+Central Region
+250 Marquette Avenue, Suite 600
+Minneapolis, MN 55401
+Telephone: (612) 758-7112
+FAX: (612) 334-4142
+November 9, 2009
+WARNING LETTER
+CERTIFIED MAIL
+RETURN RECEIPT REQUESTED Refer to MIN 10 - 03
+William A. Hawkins, III
+Chief Executive Officer
+Medtronic
+710 Medtronic Parkway
+Minneapolis, Minnesota 55432
+Dear Mr. Hawkins:
+During an inspection of Medtronic's Cardiac Rhythm Disease Management business unit located at 8200 Coral Sea Street NE, Mounds View, Minnesota, on June 8 through August 6, 2009, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures implantable pacemakers and pacemaker leads. Under section 201 (h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act [21 U.S.C. § 351(h)] in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) regulation found at Title 21, Code of Federal Regulations (21 CFR), Part 820. At the close of the inspection, our investigators issued a Form FDA 483 citing a number of quality system observations, which included the following:
+1. Failure to establish and maintain adequate corrective and preventive action procedures which ensure consistent handling of investigations of the cause of nonconformities relating to product, processes, and the quality system, and identification of actions needed to correct and prevent recurrence of nonconforming product or other quality problems, required by 21 CFR 820.100(a)(2 and 3). Specifically:
+Corrective and Preventive Action procedure (GP.1401, Rev 6.0,9/28/07) states that when an investigation of a quality problem identifies a potential impact to product in the field, personnel shall address whether a Field Product Impact Report (FPIR) is required. FPIRs and field corrective actions are not being completed in a uniform and consistent manner, as noted below:
+A. FPIRs were written for CAPA 729 (Sigma pacemakers) and CAPA 769 (Kappa pacemakers) to cover recurring device failures due to
+(b)(4)
+. The FPIRs provide a predicted number of additional clinical events over the lifetime of each device family (Sigma
+(b)(4)
+, Kappa
+(b)(4)
+. Both FPIRs state that the FPIR will be revisited if these numbers are exceeded.
+i. CAPA 729 was closed on 4/15/08 (even though the number of predicted additional clinical events had been exceeded at the end of March 2008). A new CAPA (1150) to address the same issue of
+(b)(4)
+in Sigma devices was not opened until 4/7/09, the FPIR was not revised until 5/12/09, and a field corrective action (recall) was not conducted until 5/18/09. By then, the number of clinical events had risen to
+(b)(4)
+, well beyond the predicted
+(b)(4)
+failures. Further, modeling predicted a failure rate of
+(b)(4)
+% over the remaining lifetime of the Sigma pacemakers subject to this field action.
+ii. CAPA 769 was closed 2/7/08. The predicted number of additional clinical events was exceeded in August 2008. A new CAPA (1097) to address the same issue of
+(b)(4)
+in Kappa devices was not opened until 11/10/08, the FPIR was not revised until 5/12/09, and a field corrective action (recall) was not conducted until 5/18/09. By then, the number of clinical events had risen to
+(b)(4)
+well beyond the predicted
+(b)(4)
+failures. Further, modeling predicted a failure rate of
+(b)(4)
+% over the remaining lifetime of the Kappa pacemakers subject to this field action.
+B. FPIR Rev. A for CAPA 463 (Sigma pacemakers) resulted in a predicted failure rate of
+(b)(4)
+% over the remaining life of the devices. The actual failure rate reached
+(b)(4)
+% on 7/31/08 and
+(b)(4)
+% on 1/31/09. An FPIR update for CAPA 463 was initiated on 1/2/09, but not approved until 5/12/09. A "Performance Update" was not communicated to physicians until 5/18/09. By then, updated modeling predicted a failure rate of
+(b)(4)
+% instead of
+(b)(4)
+% over the remaining device life.
+2. Failure to follow procedures for the validation or verification of design changes before their implementation, which is required by 21 CFR 820.30(i). Specifically:
+A. The Component/Material Qualification and Characterization Procedure (Doc No. 1910837, Rev. B) includes a requirement that" ... the measurement. .. equipment associated with evaluation of performance of the component/material should demonstrate measurement error less than
+(b)(4)
+% of allowed tolerance and that no correlation, nor measurement instabilities exist at
+(b)(4)
+the supplier or between
+(b)(4)
+and the supplier." The Component Qualification Report for Components (QE-8-218, 1/20/99) includes a requirement to measure
+(b)(4)
+and compare against the supplier's measurements to determine accuracy and precision. Measured values failed to meet the required
+(b)(4)
+due to "
+(b)(4)
+measuring process." Therefore, all
+(b)(4)
+values were based solely on the manufacturer's measurements and Certificate of Acceptance with no verification of accuracy and precision.
+B. The Component Qualification Plan (QE-8-218, 9/8/98) for
+(b)(4)
+Components:
+i. failed to include all tests to be conducted (e.g.,
+(b)(4)
+)
+ii. did not establish acceptance criteria (e.g.,
+(b)(4)
+): and
+iii. was not followed for determining the percentage of
+(b)(4)
+. The plan states that
+(b)(4)
+of each component
+(b)(4)
+will be tested; however, only two were actually tested.
+3. Failure to implement procedures addressing documentation of corrective and preventive action activities as required by 21 CFR 820.100(b). Specifically:
+The Corrective and Preventive Action procedure (GP.1401, Ver. 6.0) establishes requirements to [i.] " *** Design and implement corrective or preventive action, including verification or validation that such action does not adversely affect the finished device or system" and (ii.) "Demonstrate and document the effectiveness of corrective and/or preventive action(s)." The procedure also states, (iii.) "The corrective action and preventive action changes shall follow design, process, or Quality System change process requirements."
+However, the validation of patient management recommendations (implemented in CAPA 644 as part of the Fidelis lead fracture corrective action and October 15, 2007, recall) was not reviewed and documented appropriately. See related observation # 5 below.
+4. Failure to establish and maintain adequate design validation procedures to include risk analysis, a requirement of 21 CFR 820.30(g). Specifically:
+The Risk Management Process (CSS.0411.0002, Version 6.0, 12/17/08) requires the Risk Management File to be updated as required when issues arise that introduce new hazards or increased residual risk. However, the Safety Update Assessment - Sigma Series and Derivatives (JS-07111, Rev A) has not been updated to include the information in CAPA 729 or CAPA 1150. In addition, the Safety Update Assessment - Kappa 700 Series (JS07113, Rev A) and Safety Update Assessment - Kappa 900 Series (JS-07114, Rev A) have not been updated to include the information in CAPA 769 or CAPA 1097.
+5. Failure to implement procedures for document control, which is required by 21 CFR 820.40. Specifically:
+The Configuration Management and Document Control procedure (502.P, Rev B) states "Quality system documents shall be reviewed for adequacy and approved by designated individual(s) prior to release for use. *** The approval of the documents shall be documented and shall include the date, and signature of the individual(s)." However, there is no record of review or approval of the document entitled
+(b)(4)
+: Fidelis Leads."
+6. Failure to establish and maintain adequate procedures for purchasing controls that ensure the type and extent of control to be exercised over the product, services and suppliers is based on the supplier evaluation process, required by 21 CFR 820.50(a). Specifically:
+A. The Component/Material Qualification and Characterization Procedure (Doc No. 1910837, Rev. B), includes minimum requirements for a component/material to be qualified. These requirements include, but are not limited to: "Qualification of the supplier's capability to deliver a specific component/material that meets the specified requirements. This requirement is usually met by subjecting at least
+(b)(4)
+distinct lots to tests specified in the qualification plan...." However, the Component Qualification (QE-8-218) for
+(b)(4)
+Components
+(b)(4)
+tested only one lot for each of
+(b)(4)
+.
+B. Supplier Quality Management Strategy (#Q06000120Q, Ver. 3.0 (11/4/03) - 12.0 (8/24/00) and #3215172, Rev. 0 (9/26/06), A and B (2/6/07)) requires ongoing review of supplier performance to determine if the quality level established is being adequately maintained and improved. Among the factors to be evaluated in making this determination are the following:
+(b)(4)
+. However, there is no record that such an evaluation took place for a supplier of
+(b)(4)
+components from 2002-2007.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies are advised of the issuance of all Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+We received responses from Timothy D. Samsel, Vice President CRDM Quality and Regulatory, dated August 27, October 1, and November 3, 2009, concerning the observations noted on the Form FDA 483. The responses promise corrective actions, but several of the corrective actions have not been completed. The promised corrective actions appear to be adequate; however, a follow-up inspection will be necessary to ensure that corrections are implemented and effective.
+The June 8 through August 6, 2009, inspection also revealed deficiencies regarding Medical Device Reports (MDRs) that had been filed by your firm. (See enclosed Form FDA 483, Observations #7 and 8.) In particular, your firm failed to submit five (5) MDRs within the timeframes required by MedWatch Report Submission (EMDR) procedure, CSS.2105.0002, Version 3.0. The corrective actions described in the aforementioned responses to the Form FDA 483 appear to adequately address the deficiencies. The implementation and effectiveness of these corrective actions will be evaluated further during a follow-up inspection.
+Please notify this office in writing within 15 working days from the date you receive this letter to provide an update on the specific steps taken by your firm to correct the noted violations, including an explanation of how you plan to prevent these violations, or similar violations, from occurring again. Include documentation of the corrective action you have taken. If your planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective action cannot be completed within 15 working days, state the reason for the delay and the time within which the corrections will be completed.
+Your response should be sent to Pamela B. Schweikert, Director of Compliance, at the address on this letterhead. If you have any questions about the content of this letter please contact Ms. Schweikert at (612) 758-7112.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, Form FDA 483, issued at the conclusion of the inspection may be symptomatic of serious problems in your firm's manufacturing and quality assurance systems. You should investigate and determine the causes of the violations, and take prompt actions to correct the violations and to bring your products into compliance.
+Sincerely,
+/s/
+W. Charles Becoat
+Director
+Minneapolis District
+Enclosure
+-

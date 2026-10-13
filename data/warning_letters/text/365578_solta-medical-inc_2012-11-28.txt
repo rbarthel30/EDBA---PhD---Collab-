@@ -1,0 +1,127 @@
+Solta Medical, Inc. 11/28/12
+Share
+Tweet
+Linkedin
+Pin it
+More sharing options
+Linkedin
+Pin it
+Email
+Print
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+10903 New Hampshire Ave.
+Silver Spring, MD 20993-0002
+NOV 28 2012
+WARNING LETTER
+VIA UNITED PARCEL SERVICE
+Stephen J. Fanning
+President & Chief Executive Officer
+Solta Medical, Inc.
+25881 Industrial Blvd.
+Hayward, CA 94545
+Dear Mr. Fanning:
+This Warning Letter is to inform you of objectionable conditions observed during the Food and Drug Administration (FDA) inspection conducted at Solta Medical, Inc. from July 12, 2012, to August 17, 2012, by
+an investigator from the FDA San Francisco District Office. This inspection was conducted to determine whether activities as sponsor of the three clinical studies
+(b)(4)
+, complied with applicable federal regulations. The ISIS Laser, Serenity Skin Rejuvenation System, and Janus Resurfacing Laser are devices as that term is defined in section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 USC 321(h)
+because it is intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or function of the body. This letter also requests prompt corrective action to address the violations cited
+and discusses your firm’s initial written response to the noted violations dated September 7, and the updated response dated September 28, 2012.
+The inspection was conducted under a program designed to ensure that data and information contained in requests for IDE, Premarket Approval applications, and Premarket Notification submissions are scientifically valid and accurate. Another objective of the program is to ensure that human subjects are protected from undue hazard or risk during the course of scientific investigations.
+Our review of the inspection report prepared by the district office revealed
+serious violations of Title 21, Code of Federal Regulations (CFR) Part 812 - Investigational Device Exemptions and Part 50 - Protection of Human Subjects, which concerns requirements prescribed under section 520(g) of the Act, 21 U.S.C. § 360j(g). At the close of the inspection, the FDA investigator presented an inspectional observations Form FDA 483 for your review and discussed the observations listed on the form with you. The deviations noted on the Form FDA 483, your written response,and our subsequent review of the inspection report, are discussed below:
+1. Failure to include all appropriate elements of informed consent. [21 CFR 50.25(b)(1)]
+Sponsors are responsible for ensuring that the Informed Consent (IC) shall include, when appropriate, a statement that the particular treatment or procedure may involve unforeseeable risks to the subject, embryo, or fetus
+.
+Your firm failed to adequately include this element of IC for the ISIS and Serenity laser studies. The ICs stated “pregnant women are not allowed in this study, and you must notify your study doctor if you suspect you are pregnant.” This is not sufficient because the IC did not explicitly state that there may be risks to the subject, embryo, or fetus, if the subject was to become pregnant. It is important for female study subjects to be aware of all the risks of participation in the study both to themselves and to future child. This allows them to consider all present and future risks of participation in the study and to make a well informed decision. If these risks are unknown, a statement disclosing this should be included in the IC.
+Your firm’s initial response states that subjects were told of the importance of not participating in the studies if they were pregnant or planned on becoming pregnant. In addition, the response indicates a corrective action plan that includes:
+revision of standard operating procedure
+(b)(4)
+, Informed Consent,
+approval of draft consent forms by the Director of Clinical Programs, and
+required training on the development of the IC form for all affected personnel.
+Your firm’s response is inadequate because supporting documentation was not provided or was deficient. Please provide the following:
+documentation of whether any subjects were potentially affected by use of deficient ICs and if any subject notifications are warranted;
+case report forms or other written documentation of risks discussed during the consent process; and
+revised
+(b)(4)
+including an element pertaining to unforeseeable risks and the new process for drafting and approving the IC.
+2. Failure to provide the investigators with information needed to conduct the investigation properly and failure to ensure proper monitoring of the investigation
+. [
+21 CFR 812.40]
+Sponsors are responsible for providing investigators with the information they need to conduct the investigation properly and ensuring proper monitoring of the investigation. It is necessary to inform investigators of study-related procedures for subjects’ safety and welfare, complete and current subject case history records, and required reports of deviations from the investigational plan. Additionally, interim monitoring is necessary to assess protocol and regulatory compliance, which could impact data quality and subject protection. Examples of your firm’s failure include, but are not limited to, the following:
+Your firm did not perform site initiation visits and train the investigators on the ISIS, Serenity, and Janus laser protocols and other study and regulatory requirements. Proper training of clinical investigators is essential to ensuring subject safety and preventing medical complications from incorrect usage of the device. As a result of your actions study subjects, and possibly the clinical investigator, were placed at increased risk of medical complications associated with the investigational lasers. These include eye injury to the subject and device operator, permanent scarring, and infection.
+For the ISIS laser study, your firm only performed one monitoring visit, which was for study close-out.
+For the Serenity laser study, your firm only performed one monitoring visit at
+(b)(4), (b)(6)
+site. This visit took place after all 40 subjects were enrolled in the study, about 5 months after the last subject was treated, and about 2 weeks before the last subject was followed up. In addition, your firm completed the Site Initiation Visit Form, Interim Monitoring Visit Form, and Study Close/Termination Visit Form during this same monitoring visit.
+For the Janus laser study, your firm performed the first monitoring visit at two sites and the only visit at one site after all subjects were enrolled. In addition, your firm performed the sole visit to
+(b)(4), (b)(6)
+site on the same day it submitted the study’s closure to the Institutional Review Board (IRB). Your practice of conducting monitoring visits once during the course of the study or only during study closeout is a serious violation of your responsibility as the study sponsor. Inadequate and infrequent monitoring may result in a delay or failure to detect potentially serious problems or deviations. This delay or failure can potentially harm subjects at that particular site. It can also prevent you from making the necessary changes and conveying necessary information to all sites. This places subjects at other sites at increased risk of harm as well.
+Your firm’s initial response states that documentation of monitoring activities was not in study records and that some monitoring was conducted through email communications. In addition, the response includes a corrective action plan that includes:
+updated
+(b)(4)
+pertaining to site visits, and
+training on the SOPs, including periodic refresher training, to be completed.
+Your firm’s response is inadequate because it does not include preventive measures. Please clarify how your firm plans to provide information to investigators and to ensure adequate monitoring for future studies.
+3. Failure to obtain signed investigator agreements and sufficient accurate financial disclosure information. [21 CFR 812.43(c) and 21 CFR Part 54]
+A sponsor shall obtain from each participating investigator a signed agreement. The agreement must include, among other items, sufficient accurate financial disclosure information to satisfy certification and disclosure requirements under 21 CFR 54. Examples of your firm’s failure include, but are not limited to, the following:
+Your firm did not obtain signed agreements from
+(b)(4), (b)(6)
+for the Janus laser study in which 65 subjects were treated and the Serenity laser study until at least 11 subjects had been enrolled.
+Your firm did not obtain financial disclosure information from
+(b)(4), (b)(6)
+for the ISIS, Serenity, and Janus laser studies, until after the studies closed.
+Your firm did not obtain financial disclosure information from
+(b)(4), (b)(6)
+for the Janus laser studies, until after the studies closed. In addition,
+(b)(4), (b)(6)
+reported a significant equity interest (stock) in your firm.
+Your firm’s initial response appears adequate and indicates a corrective action plan that includes:
+recruitment of a new Clinical Trial Associate (CTA) responsible for ensuring required documentation is obtained,
+(b)(4)
+, Site Initiation Visit, revision and training affected personnel on the revised procedure, and
+Good Clinical Practice (GCP) training for employees involved in clinical studies conduct.
+4. Failure to maintain accurate, complete, and current device shipment and disposition records. [21 CFR 812.140(b)(2)]
+Sponsors are responsible for maintaining accurate, complete, and current records relating to shipment and disposition of devices. This is necessary for control of devices and adequate follow-up of any unanticipated adverse device effects. This is also necessary to confirm that the investigational device is used only by qualified investigators on subjects appropriately enrolled in the study. If the device were used by unqualified individuals on patients not enrolled in the study there would be an increased risk of harm to both the user and patient. Examples of your firm’s failure include, but are not limited to, the following:
+Your firm did not have device shipment receipts and disposition records for the ISIS and Serenity laser studies.
+Your firm provided a device accountability summary sheet for the Janus laser study but it did not have supporting documents with the investigator’s name and address, type and quantity of the device, date of shipment, and device serial number.
+Your firm’s initial response indicates a corrective action plan that includes:
+SOPs revisions pertaining to site visits,
+investigator and sponsor device shipment and disposition logs,
+training for personnel on the revised SOPs, and
+Good Clinical Practice training for employees involved in clinical studies.
+Your firm’s initial response is inadequate in that it does not document any action taken to reconcile the study device log for the Janus, ISIS, and Serenity studies. Please clarify this in your response.
+We are unable to determine the adequacy of your updated response at this time because it lacks supporting documentation. It states that your firm:
+implemented all revised SOPs and completed training on revised SOPs and GCPs,
+retained outside consultants to perform an audit of clinical studies conducted from January 2009 to the present,
+hired a new Senior Clinical Research Associate (Sr.CRA) who will complete the GCP training, and
+retained an independent clinical research organization to provide clinical monitoring services.
+Please provide the results of the audit and any corrective and preventive actions planned as a result of the audit. Also, please provide the Sr.CRA’s roles and responsibilities, including if the Sr.CRA will serve as the CTA, and documentation of the Sr.CRA’s completed training. Additionally, please clarify how your firm will ensure ultimate monitoring responsibilities.
+The violations described above are not intended to be an all inclusive list of problems that may exist with your clinical study. It is your responsibility as a study sponsor to ensure compliance with the Act and applicable regulations.
+Within 15 working days of receiving this letter, please provide documentation of the additional actions that you have taken or will take to correct these violations and to prevent the recurrence of similar violations in current or future studies for which you are the study sponsor. Any submitted corrective action plan must include projected completion dates for each action to be accomplished as well as a plan for monitoring the effectiveness of your corrective actions. Failure to respond to this letter and take appropriate corrective action could result in the FDA taking regulatory action without further notice to you.
+Y
+our response should reference “CTS # EC120427/E001” and be sent to:
+Attention: Veronica Calvin
+Food and Drug Administration
+Center for Devices and Radiological Health
+Office of Compliance
+Division of Bioresearch Monitoring
+10903 New Hampshire Avenue
+Building 66, Room 3508
+Silver Spring, Maryland 20993-0002.
+A copy of this letter has been sent to FDA’s San Francisco District Office, 1431 Harbor Bay Pkwy, Alameda, CA 94502-7070­­. Please send a copy of your response to that office.
+The Division of Bioresearch Monitoring has developed introductory training modules in FDA-regulated device clinical research practices, which are available on the FDA website. The modules are for persons involved in FDA-regulated device clinical research activities. These modules are located at the following website address:
+http://www.fda.gov/Training/CDRHLearn/ucm162015.htm
+.
+If you have any questions, please contact Veronica Calvin, (301) 796-5647,
+Veronica.Calvin@fda.hhs.gov
+.
+Sincerely yours,
+/S/
+Steven D. Silverman
+Director
+Office of Compliance
+Center for Devices and
+Radiological Health

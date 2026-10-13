@@ -1,0 +1,198 @@
+Symmetry Medical USA, Inc 10/7/09
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+New Orleans District
+404 BNA Drive
+Building 200, Suite 500
+Nashville, TN 37217
+Telephone: 615-366-7801
+FAX: 615-366-7802
+October 7, 2009
+WARNING LETTER NO. 2010-NOL-01
+FEDERAL EXPRESS
+DELIVERY SIGNATURE REQUESTED
+Brian Moore, CEO
+Symmetry Medical, Inc.
+486 West 350 N
+Warsaw, Indiana 46582
+Dear Mr. Moore:
+During an inspection of your facility, Symmetry Medical/Specialty Surgical Instrumentation, Inc. (SSI), located at 200 River Hills Drive, Nashville, Tennessee, on June 9-10, 2009, an investigator from the United States Food and Drug Administration (FDA) determined your firm manufactures UltraSystem™ Sterilization Containers. Under Section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+This inspection revealed these devices are adulterated within the meaning of Section 501(h) of the Act [21 U.S.C. 351(h)], because the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) regulation found at Title 21, Code of Federal Regulations, Part 820 (21 CFR 820). On July 14, 2009, we received a response from
+(b)(7)(C)
+Quality Assurance/Document Control, SSI, concerning our investigator's observations noted on the Form FDA 483 (FDA 483), List of Inspectional Observations dated June 10, 2009. We address this response below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1. Failure to adequately establish and maintain procedures for implementing corrective and preventive action for analyzing processes, work operations, concessions, quality audit reports, quality records, service records, complaints, returned product, and other sources of quality data to identify existing and potential causes of nonconforming product, or other quality problems, as required by 21 CFR 820.100(a)(1).
+For example, the
+(b)(4)
+for Corrective and Preventive Action (CAPA), QSP 8.50, has not been implemented. The procedure references associated
+procedures which have not been established, defined, and documented. The referenced procedures are:
+a.
+(b)(4)
+5.60
+b.
+(b)(4)
+8.22
+c.
+(b)(4)
+7.41.1
+d.
+(b)(4)
+7.60
+e.
+(b)(4)
+8.30
+f.
+(b)(4)
+5.52
+g.
+(b)(4)
+7.54
+h.
+(b)(4)
+8.21 and
+i.
+(b)(4)
+8.40
+Some of these procedures are required to identify sources of quality data to determine the need for a CAPA.
+We have reviewed
+(b)(7)(C)
+response and concluded it is inadequate. Although the response included a copy of the revised CAPA procedure
+(b)(4)
+8.50, training has not been completed. This document was released on July 7, 2009; however, there are no approval signatures on the document or indication electronic approvals are being used. The revision number on the procedure is the same as the copy collected during the inspection on June 10, 2009, and the procedure is described in its "Revision History" section as the initial release. The following procedures are listed within
+(b)(4)
+8.50 as
+(b)(4)
+.60;
+(b)(4) 8
+.30;
+(b)(4)
+" 5.52;
+(b)(4)
+" 7.54;
+(b)(4)
+8.21; and,
+(b)(4)
+4.24. Two of these referenced procedures,
+(b)(4)
+8.30
+(b)(4)
+and
+(b)(4)
+7.54
+(b)(4)
+, were not included as evidence to support the response, and no evidence was provided to indicate the other referenced procedures were implemented.
+2. Failure to establish and maintain procedures for quality audits and conduct such audits to assure the quality system is in compliance with the established quality system requirements and to determine the effectiveness of the quality system, as required by 21 CFR 820.22.
+For example, Section 8.2.2 of your Quality Manual,
+(b)(4)
+4.22 Rev. 2, states quality audits will be conducted at planned intervals per the procedure
+(b)(4)
+8.22. Procedure 8.22 does not exist and no quality audits have been conducted.
+We have reviewed the response and have concluded it is inadequate because it stated the
+(b)(4)
+4.24,
+(b)(4)
+,
+(b)(4)
+had been completed, was in the approval process, and training was to be completed by August 31, 2009.
+(b)(4)
+4.24,
+(b)(4)
+, does not cover internal quality audits. The response included a copy of
+(b)(4)
+8.22,
+(b)(4)
+, which shows an Initial Release date of July 7, 2009, and a Prepared Date of July 8, 2009. There is no approval signature on the document and it does not show indication of electronic approval. No evidence of its implementation was provided in the response.
+3. Failure to establish procedures for identifying training needs and ensure all personnel are trained to adequately perform their assigned responsibilities. Training shall be documented, as required by 21 CFR 820.25(b).
+For example, one employee reportedly received on-the-job training on inspection procedures for the sterilization containers, but the training is not documented.
+We have reviewed the response and concluded it is inadequate. The response stated procedure
+(b)(4)
+6.22.1,
+(b)(4)
+, and
+(b)(4)
+6.22.2,
+(b)(4)
+are in the approval process; however, training on these procedures has not been conducted. We acknowledge your employees were to receive training on these two procedures by August 31, 2009.
+4. Failure to establish quality system procedures and instructions, as required by 21 CFR 820.20(e).
+For example:
+a. Corrective and Preventive Action procedure,
+(b)(4)
+8.50, stipulates in Section 7.0 CAPA records, including complaints, will be maintained per procedure,
+(b)(4)
+4.24.
+(b)(4)
+4.24 has not been completed.
+b.
+(b)(4)
+7.55, has reportedly been implemented. However, ancillary work instructions, forms and procedures referenced in the document either do not exist or have not been implemented.
+(b)(4)
+7.55 references the following associated documents which have not been implemented:
+1) A procedure entitled
+(b)(4)
+7.51.2;
+2) A procedure entitled
+(b)(4)
+7.54; and,
+3)
+(b)(4)
+7.55.2.
+We have reviewed the response and concluded it is inadequate because training on the above procedures has not been completed. The response included a copy of
+(b)(4)
+4.24 which showed an Initial Release date of July 7,2009, even though the response states it is in the approval process. The document has no approval signatures or indication of electronic approval.
+A copy of
+(b)(4)
+7.55 is included in the response. According to the response this procedure was revised to remove non applicable procedures; however, it references
+(b)(4)
+4.24
+(b)(4)
+7.54.1 and
+(b)(4)
+8.30. No evidence was provided to demonstrate the procedures referenced were implemented.
+Our inspection also revealed your UltraSystem™ Sterilization Containers devices are misbranded under Section 502(t)(2) of the Act, 21 U.S.C. 352(t)(2), because your firm failed or refused to furnish material or information respecting the device which is required by or under Section 519 of the Act, 21 U.S.C. 360i, and 21 CFR 803 - Medical Device Reporting (MDR) regulation. Significant deviations include, but are not limited to, the following:
+1. Failure to develop, maintain and implement written MDR procedures, as required by 21 CFR 803.17.
+For example the Supplier Quality Agreement between SSI and
+(b)(4)
+indicates
+(b)(4)
+is responsible for
+(b)(4)
+.
+According to device labeling
+(b)(4)
+also includes the following comment:
+(b)(4)
+Your firm did not have a procedure to provide for the identification, communication, and evaluation of events which may be reportable to FDA.
+We have reviewed the response and concluded it is inadequate. We acknowledge the response provided a copy of standard operating procedure
+(b)(4)
+5.52,
+(b)(4)
+; however, it is in the approval process and the procedure shows an Initial Release date of July 6, 2009. The document has no approval signatures or indication of electronic approval.
+(b)(4)
+5.52 procedure contains language which is inconsistent with the Medical Device Reporting regulation.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the Food and Drug Administration without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies are advised of the issuance of all warning letters about devices so they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related will not be approved until the violations have been corrected.
+Please notify this office in writing within fifteen (15) working days from the date you receive this letter of the specific steps you have taken to correct the noted violations, including an explanation of how you plan to prevent these violations, or similar violations, from recurring again. Include documentation of the corrective actions you have taken. If your planned corrections will occur over time, include a timetable for implementation of those corrections. If corrective actions cannot be completed within 15 working days, state the reason for the delay and the time within which the corrections will be completed.
+Your reply should be directed to the U.S. Food and Drug Administration, Attention: Mark W. Rivero, Compliance Officer, at address above. If you have questions regarding any issue in this letter, please contact Mr. Rivero at (504) 219-8818, extension 103.
+This letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA.
+The specific violations noted in this letter and in the Inspectional Observations, Form FDA 483, issued at the closeout of the inspection may be symptomatic of serious problems in your firm's manufacturing and quality assurance systems. You should investigate and determine the causes of the violations, and take prompt action to correct the violations and to bring your products into compliance.
+Sincerely,
+/S/
+H. Tyler Thornburg
+District Director
+New Orleans District
+Enclosure: Form FDA 483
+cc: Lee Crowe, General Manager
+Symmetry Medical/SSI
+200 River Hills Drive
+Nashville, Tennessee 37210-2321
+(b)(7)(C)
+QA Manager
+Regulatory Affairs Manager
+Specialty Surgical Instrumentation, Inc.
+200 River Hills Drive
+Nashville, Tennessee 37210-2321
+-
+-
+Close-out Letter
+Symmetry Medical, Inc. Closeout Letter 2/11/11
+[ARCHIVED]
+-

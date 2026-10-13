@@ -1,0 +1,45 @@
+Abiomed, Inc.
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+10903 New Hampshire Avenue
+Silver Spring, MD 20993
+JUN 10, 2011
+WARNING LETTER
+VIA UNITED PARCEL SERVICE
+Michael R. Minogue
+President and Chief Executive Officer
+ABIOMED, Incorporated
+22 Cherry Hill Drive
+Danvers, Massachusetts, 01923-2575
+Re: IMPELLA RECOVER LP 2.5 Percutaneous Cardiac Support System
+Refer to: GEN1100068
+Dear Mr. Minogue:
+The Food and Drug Administration (FDA) has learned that your firm is marketing the IMPELLA RECOVER LP 2.5 Percutaneous Cardiac Support System (IMPELLA RECOVER LP 2.5) device in the United States without the required marketing clearance or approval, in violation of the Federal Food, Drug, and Cosmetic Act (the Act). The product is a device within the meaning of section 201(h) of the Act, 21 U.S.C. § 321(h), because it is intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or it is intended to affect the structure or function of the body.
+Your firm obtained the following 510(k) clearance for this device: for “partial circulatory support using an extracorporeal bypass control unit, for periods up to 6 hours. It is also intended to be used to provide partial circulatory support (for periods up to 6 hours) during procedures not requiring cardiopulmonary bypass. The IMPELLA RECOVER LP 2.5 also provides pressure measurements which are useful in determining intravascular pressure.”
+The Office of Compliance (OC) in the Center for Devices and Radiological Health (CDRH) reviewed an advertisement, labeling pieces, and your firm’s website at www.abiomed.com the IMPELLA RECOVER LP 2.5 device on May 12, 2011. Our review of your firm’s promotional materials indicate that ABIOMED is making claims that we stated were inappropriate in a January 28, 2010, letter to your firm. These claims represent a major modification to both the intended use and the indications for use of the device. The objectionable claims include the following: for
+An advertisement placed in the September, 2010, Cath Lab Digest (vol. 18, no.9). The advertisement shows a hand puncturing a red balloon with a pin. Printed on the balloon is text that reads, “Old ideas about heart recovery.” The caption below the balloon reads in part, “After 40 years, there is something other than the intra-aortic balloon [pump] (IABP) for circulatory support in the Cath lab . . . Cardiac Power Output (CPO) is the #1 correlate to mortality for [acute myocardial infarctions] (AMI) in cardiogenic shock patients . . . In the latest USPELLA registry, the CPO of shock patients was observed to increase 120% from 0.5± 0.2 prior to IMPELLA to 1.1±0.2 on IMPELLA (p=0.02).”
+As we stated in our January 28, 2010, letter, “comparative statements can be interpreted as efficacy statements regarding the superiority of the IMPELLA RECOVER LP 2.5 to IABP.” When we sent you the January, 2010, letter, ABIOMED had an ongoing investigational device study, G050017, and we advised your firm that the claims violated the regulations at 21 CFR 812.7(d), which prohibit the representation that a device is safe and effective for the purposes being studied. Although the study has since been terminated, the unsupported comparative claims violate 21 CFR 801.6.
+On page 9 of your firm’s presentation to the 2010 Transcatheter Cardiovascular Therapeutics meeting, your firm claimed that use of the IMPELLA RECOVER LP 2.5 in AMI Shock patients improves hemodynamics, and on page 10 your firm states that the use of the IMPELLA RECOVER LP 2.5 improves cardiac output, which is then linked to lower mortality rates. Both of these indications would need to be supported with an appropriately designed clinical study performed under an Investigational Device Exemption (IDE).
+On the ABIOMED website and in the aforementioned advertisement, your logo includes the tag line, “Recovering Hearts, Saving Lives.” This is another claim that would require a randomized clinical study performed under an IDE specifically to evaluate whether the device could salvage heart tissue and muscle.
+Statements such as the ones cited above represent a major change or modification in the intended use of your firm’s device that requires a new premarket notification. 21 CFR 807.81(a)(3)(ii). Therefore, the IMPELLA RECOVER LP 2.5 device is adulterated under section 501(f)(1)(B) of the Act, 21 U.S.C.C. 351(f)(1)(B), because your firm does not have an approved application for premarket approval (PMA) in effect pursuant to section 515(a) of the Act, 21 U.S.C. 360e(a), or an approved application for an IDE under section 520(g) of the Act, 21 U.S.C. 360j(g). The device is also misbranded under section 502(o) of the Act, 21 U.S.C. 352(o), because your firm did not notify the agency of its intent to introduce it into commercial distribution for the intended uses discussed above, as required by section 510(k) of the Act, 21 U.S.C. 360(k). For a device requiring premarket approval, the notification required by section 510(k) of the Act, 21 U.S.C. 360(k), is deemed satisfied when a PMA is pending before the agency. 21 C.F.R. 807.81(b). The kind of information your firm must submit in order to obtain approval or clearance of its device is available through the Internet at
+http://www.fda.gov/cdrh/deviceadvice/3122.html
+. The FDA will evaluate the information submitted and decide whether your firm’s product may be legally marketed.
+The Office of Compliance requests that ABIOMED, Inc., immediately cease marketing the IMPELLA RECOVER LP 2.5 for unapproved uses such as those described above. Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by FDA without further notice. Such action includes, but is not limited to, seizure, injunction, and/or civil money penalties. U.S. federal agencies are advised of the issuance of all Warning Letters about devices so that they may take this information into account when considering the award of contracts. Request for Certificates to Foreign Government will not be granted until the violations related to the subject device are corrected.
+Please notify this office in writing within 15 working days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, including an explanation of how your firm plans to prevent these violations, or similar violations from occurring again. Include documentations of the corrective actions taken. If corrective action cannot be completed within 15 working days, state the reason for the delay and the time within which the corrections will be completed. Please provide a translation of documentation not in English to facilitate our review. Your response should be sent to:
+Terri T. Garvin
+Food and Drug Administration
+Center for Devices and Radiological Health
+Office of Compliance
+10903 New Hampshire Avenue
+WO66-3521
+Silver Spring, MD 20993
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. Your firm should investigate and determine the causes of the violations and take prompt steps to correct the violations and to bring your firm’s products into compliance.
+Sincerely yours,
+/S/
+Steven D. Silverman
+Director
+Office of Compliance
+Center for Devices and
+Radiological Health
+-

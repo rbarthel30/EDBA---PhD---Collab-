@@ -1,0 +1,102 @@
+Integra NeuroSciences Ltd.11/1/12
+Share
+Tweet
+Linkedin
+Pin it
+More sharing options
+Linkedin
+Pin it
+Email
+Print
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+10903 New Hampshire Avenue
+Silver Spring, MD 20993
+WARNING LETTER
+NOV 1, 2012
+VIA UNITED PARCEL SERVICE
+Mr. Wenzel Hurtak
+Vice President – European Operations
+Integra NeuroSciences Ltd.
+Newbury Road, Andover
+Hampshire SP10 4DR
+England
+Dear Mr. Hurtak:
+During an inspection of your firm located in Hampshire, England, on June 11 through June 14, 2012, an investigator from the United States Food and Drug Administration (FDA) determined that your firm manufactures Intracranial Pressure Monitors and Ultrasonic Aspiration devices. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820. We received a response from Peter J. Arduini, President and Chief Operating Officer, Integra LifeSciences Corp., dated July 3, 2012 concerning our investigator’s observations noted on the Form FDA 483 (FDA 483), List of Inspectional Observations, which was issued to your firm. We address this response below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1. Failure to establish and maintain adequate procedures for implementing corrective and preventive action (CAPA), as required by 21 CFR 820.100(a). For example:
+a) There is no requirement in your firm’s procedure for analysis of quality data to identify existing or potential causes of nonconforming product or other quality problems, using appropriate statistical methodology where necessary.
+b) Your firm’s Corrective Action Preventative Action Process Procedure (SOP 17.2) requires an effectiveness check that is a valid method of assessment that the root cause has been addressed for the corrective/preventative actions proposed. However, five out of
+(b)(4)
+CAPAs reviewed did not include a completed and/or valid effectiveness check (i.e.,
+(b)(4)
+).
+c) Appendix A to SOP 17.2 includes trigger points for opening a CAPA. One trigger point involves repeated customer complaints related to similar issues. Of the
+(b)(4)
+complaints reviewed from 2011 and 2012, the investigator noted four that were related to the
+(b)(4)
+and three that reported a
+(b)(4
+). However, no CAPAs were opened to address these issues.
+d) Your firm has not addressed continuing complaints received due to
+(b)(4)
+. The inspection noted that thirteen out of
+(b)(4)
+complaints reviewed related to (
+b)(4)
+, including at least four that reported
+(b)(4)
+. The original CAPA (February 11, 2010) was opened November 10, 2010, to investigate reports of
+(b)(4)
+. No information has been added to the CAPA since March 28, 2011, and the CAPA was never closed by the firm.
+The adequacy of your firm’s response cannot be determined at this time. Your firm provided a detailed list of corrective actions, but it did not provide completion dates or documentation to show that it had implemented these corrective actions.
+2. Failure to adequately ensure, when the results of a process cannot be fully verified by subsequent inspection and test, that the process shall be validated with a high degree of assurance and approved according to established procedures, as required by 21 CFR 820.75(a).
+For example, your firm’s Qualification of Materials, Equipment Processes and Products (SOP 11.3) defines process validation as a method for establishing documented evidence in protocol and report form that a process will consistently produce acceptable product under normal operating conditions. However, there is no documentation to demonstrate validation of the manufacturing process for
+(b)(4)
+. The
+(b)(4)
+(
+(b)(4)
+) are manufactured on the
+(b)(4)
+(i.e.,
+(b)(4)
+). First Article Inspections are performed along with
+(b)(4)
+inspections of the
+(b)(4)
+and functional tests are performed at the end of the manufacturing process; however, full verification, to include dimensional measurements of the
+(b)(4)
+manufactured, is not performed.
+The adequacy of your firm’s response cannot be determined at this time. Your firm provided a detailed plan to correct the deficiencies but did not submit any documentation to show that the corrective actions have been implemented.
+3. Failure to establish adequate procedures for quality audits and conduct such audits to assure that the quality system is in compliance with established quality system requirements and to determine the effectiveness of the quality system, as required by 21 CFR 820.22. For example, your firm’s internal Quality Audits procedure (SOP 17.1) states that the maximum close-out period related to nonconformances found during internal audits is
+(b)(4)
+. Review of the Audit Plan and completed Audit Schedule, along with the audit close-out sheets for 2010 and 2011, noted that several nonconformances had not been closed within the
+(b)(4)
+timeframe. In addition, seven out of
+(b)(4)
+audits conducted in 2012 were not closed within the
+(b)(4)
+timeframe.
+The adequacy of your firm’s response cannot be determined at this time. Your firm provided a detailed plan to correct the deficiencies, but did not provide completion dates or documentation to show that it had implemented the corrective actions.
+4. Failure to adequately review the suitability and effectiveness of the quality system at defined intervals and with sufficient frequency according to established procedures to ensure that the quality system satisfies the requirements of Part 820 and the manufacturer’s established quality policy and objectives, as required by 21 CFR 820.20(c). For example, your firm’s Quality Management Review procedure (SOP 1.2) states that invited participants, if unable to attend the Quality Management Review Meeting, must send a designee in their place. The individuals to be invited to the Quality Management Review, per the procedure, include: Plant Manager, Quality & Regulatory, Production, Operations, Engineering, Customer Services, and Corporate Management/Representative. However, there was no Customer Service representative, or a designee, at the meetings held in
+(b)(4)
+. Additionally, there was no Production or Operations representative, or a designee, at the meeting held in
+(b)(4)
+.
+The adequacy of your firm’s response cannot be determined at this time. Your firm provided a detailed plan to correct the deficiencies, but it did not provide completion dates or documentation to show that it had implemented the corrective actions.
+A follow-up inspection will be required to assure that corrections and/or corrective actions are adequate.
+U.S. federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, including an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective action (including any systemic corrective actions) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Please provide a translation of documentation not in English to facilitate our review.
+Your firm’s response should be sent to: Food and Drug Administration, Center for Devices and Radiological Health, Office of Compliance, Field Operations Branch, White Oak Building 66, Rm 2609, 10903 New Hampshire Ave., Silver Spring, MD 20993. Refer to CMS case #363118 when replying. If you have any questions about the contents of this letter, please contact LaShanda Long, Chief at 301-796-5770.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely yours,
+/S/
+Steven D. Silverman
+Director
+Office of Compliance
+Center for Devices and
+Radiological Health
+Close Out Letter
+Integra NeuroSciences Ltd. - Close Out Letter 6/30/15

@@ -1,0 +1,146 @@
+WARNING LETTER
+Baxter Healthcare Corp.
+MARCS-CMS 413807 — Jan 17, 2014
+Share
+Tweet
+Linkedin
+Email
+Print
+Baxter Healthcare Corp. - 413807 - 01/17/2014
+Recipient:
+Baxter Healthcare Corp.
+United States
+Issuing Office:
+Chicago District Office
+United States
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Chicago District
+550 West Jackson Blvd., 15th Floor
+Chicago, Illinois 60661
+Telephone: 312- 353-5863
+January 17, 2014
+WARNING LETTER
+CHI-2-14
+VIA UPS NEXT DAY
+Robert L. Parkinson, Jr.
+Chairman, President, and Chief Executive Officer
+Baxter Healthcare Corporation
+One Baxter Parkway
+Deerfield, Illinois 60015
+Dear Mr. Parkinson:
+United States Food and Drug Administration (FDA) investigators conducted an inspection of your firm, Baxter Healthcare Corporation (hereafter called “Baxter”) located at 25212 W. Illinois Route 120 in Round Lake, Illinois from July 9, 2013 through July 29, 2013 and August 29, 2013. The investigators determined that Baxter’s Round Lake facility is a specification developer for their medical devices, including the Class II medical devices HomeChoice and HomeChoice Pro Automated Peritoneal Dialysis (APD) Systems and IPUMP syringe-style intravenous, epidural or subcutaneous delivery infusion pump. Under Section 201(h) of the Federal Food, Drug and Cosmetic Act (the Act) [21 U.S.C. 321(h)], these products are defined as devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+The inspection revealed that these devices are adulterated within the meaning of Section 501(h) of the Act [21 U.S.C. 351(h)], in that the methods used in, or the facilities or controls used for, their manufacturer, processing, packing, or holding are not in conformity with the current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) Regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+We received written responses, dated August 19, 2013, September 27, 2013, October 31, 2013, and November 26, 2013, detailing your firm’s corrective actions to the observations noted on the Form FDA-483, Inspectional Observations, issued to Mr. Robert M. Davis on July 29, 2013. Your September 27, 2013 response also included Baxter Medical Products’ Quality System Improvement Plan (“QSIP”). This plan was also discussed with the Agency in a meeting on November 6, 2013. We are unable to determine the adequacy or effectiveness of the QSIP at this time because the plan is still being developed. We address the written responses below, in relation to each of the noted violations. The violations include, but are not limited to, the following:
+1. Failure to review, evaluate, and investigate, where necessary, complaints involving the possible failure of a device to meet any of its specifications, as required by 21 CFR 820.198(c).
+Specifically,
+a. Your firm replaced
+(b)(4)
+failed components on the HomeChoice peritoneal dialysis devices, which did not meet your firm’s design specification, and you did not investigate the cause of the failure as part of your investigation when the life expectancy of your HomeChoice device is 10 years.
+b. Your firm’s complaint investigations do not include an assessment as to whether there are other similar/same failures on the device to meet specification. For example, your firm had
+(b)(4)
+digital printed circuit board failures in the HomeChoice peritoneal dialysis devices since April 2012; however, the individual complaint investigations documented that there was “no trend”.
+This is a repeat observation from your firm’s April 17, 2012 to June 7, 2012 inspection.
+We have reviewed your responses and have determined that they are inadequate because they are incomplete and lack detail. Specifically, CAPA’s 2013-0005965 and 2013-0005807, which were initiated to investigate your firm’s failure to conduct complaint investigations that were in accordance with procedures and to investigate adequacy of complaint trending, respectively, are either incomplete or lacking of conclusions and corrective actions of the reviews. The adequacy of your firm’s responses with respect to trending cannot be determined at this time because trending of “as determined” problems and cause codes is not complete, and details on this trending were not included as part of the response. The CAPA Event
+(b)(4)
+that is included in the written responses provides a plan for the review of procedures and systems for conducting failure investigations trending; however, no detail is provided as to results or conclusions of the assessment.
+In addition, your response indicated that the HomeChoice does not have a 10-year life expectancy
+per se
+, but rather a 10-year service life expectancy. The response references an attachment, “HomeChoice Hardware Estimated Design Life”
+(b)(4)
+, which provides a list of estimates for design life for hardware components, including the pump, power supply and battery; however, your response does not address non-hardware components, such as the digital circuit board components and subassemblies.
+2.
+Failure to adequately establish procedures for corrective and preventive actions, as required by 21 CFR 820.100(a
+). Specifically,
+a. Your firm failed to evaluate whether a corrective or preventive action should be initiated when you received
+(b)(4)
+complaints of over infusion in your elastomeric infusion systems. The complaints of over infusions were related to infusions of drugs, including fluorouracil, morphine, vancomycin and fentanyl citrate, which had over delivery times that were between 20 and 48 hours prior to the expected delivery time. Your design specification does not include over infusion as an expected result.
+b. Your firm failed to follow procedure
+(b)(4)
+, “Corrective Action Preventive Action (CAPA) Procedure” in that you failed to open a CAPA when changes were made to your supplier control procedures as part of a continuous improvement project. The procedural changes were made to supplier control procedures, including
+(b)(4)
+, to address the handling of suppliers that do not agree to be audited by your firm and/or sign Baxter’s quality agreement. The changes affected approximately
+(b)(4)
+suppliers.
+This is a repeat observation from your firm’s April 17, 2012 to June 7, 2012 inspection
+.
+The adequacy of your firm’s response for part (a) cannot be determined at this time because the corrective actions, such as
+(b)(4)
+, CAPA Event
+(b)(4)
+and a plan to remediate Design History Files, are all in progress, and we cannot determine their effectiveness at this time.
+The adequacy of your firm’s response to part (b) cannot be determined at this time because the corrective actions, such as the CAPA Event
+(b)(4)
+which was initiated to document the process improvements and to track the plan’s effectiveness and CAPA Event
+(b)(4)
+which was initiated to investigate the lack of adherence to the CAPA procedure, are not yet complete.
+3.
+Failure to establish and maintain corrective and preventive action procedures that include requirements for ensuring the corrective and preventive action is effective, as required by 21 CFR 820.100(a)(4).
+Specifically, your firm failed to identify and document the verification of the effectiveness of the action taken for
+(b)(4)
+closed CAPAs.
+This is a repeat observation from your firm’s April 17, 2012 to June 7, 2012 inspection.
+The adequacy of your firm’s responses cannot be determined at this time because the corrective actions, such as CAPA Event
+(b)(4)
+, which was generated in order to perform a detailed review and root cause investigation of the
+(b)(4)
+closed events, are incomplete. In addition, your firm was cited for this same issue during the previous inspection and your June 27, 2012 response indicated that your firm would document and provide rationale when no effectiveness check is performed; however, this inspection showed that your firm did not adequately implement this previous corrective action.
+4.
+Failure to adequately establish procedures for identifying valid statistical techniques required for establishing, controlling, and verifying the acceptability of process capability and product characteristics have not been adequately established, as required 21 CFR 820.250(a).
+For example, your statistical tool for CAPA data trending is inadequate for the intended use for identifying problems to assess whether a preventive action or corrective action is indicated. Your firm received 186,822 complaints between April 17, 2012 and July 2013, and your current process is to check your trending tool for a known trigger when you receive a complaint. This is inadequate in that:
+a. The statistical trigger tool is published once a month, and if the complaint personnel are looking at the trending tool at the end of the month, you are not assessing approximately
+(b)(4)
+complaints to determine if there are same/similar problems to investigate collectively.
+b. The statistical trending tool, which is used to identify complaint triggers, is not based on whether the device meets its intended use and user needs.
+c. Review of more than
+(b)(4)
+CAPA investigations that were initiated due to triggers from the complaint trending tool, such as CAPA Event PR
+(b)(4)
+, revealed that all of the CAPA investigations were closed with no action taken by your firm.
+We have reviewed your responses and have determined that they are inadequate because it is unclear from the responses how the CAPA that was initiated to address this observation, CAPA
+(b)(4)
+, will address FDA’s concerns regarding the frequency of the trending, and the failure to identify complaint triggers based on risk and whether the device meets its intended use and user needs.
+5.
+Failure to adequately establish procedures for design validation, as required by 21 CFR 820.30(g).
+Specifically,
+a. Your current design controls for the coil tube infusor are inadequate in that the mitigation for your design risk analysis for over infusion does not identify the mitigation actions implemented to address/prevent over infusion in your intravenous drug/fluid delivery systems. Your risk analysis documents the design inputs as your mitigation factors when design inputs are defined as “the physical and performance requirements of a device that are used as a basis for device design”. There were
+(b)(4)
+incidences of over infusion in your
+(b)(4)
+devices, including the coil tube infusor, since the previous inspection.
+b. Your current design control risk analysis for the coil tube infusor is inadequate in that your mitigation for over infusion does not identify the mitigation actions implemented to address/prevent over infusions. Your risk analysis mitigation states that the device will be manufactured on validated processes and will have manufacturing testing. These steps are considered part of design transfer; they do not identify mitigations to address/prevent over infusions in your intravenous drug/fluid delivery system.
+We have reviewed your responses and have determined that although your firm has committed to discontinuing distribution and sale of the coiled tube infusor products in the U.S. market no later than December 31, 2013, your responses lack detail on how your firm is addressing the failure to properly identify risk analysis mitigation across all product lines.
+6.
+Failure to adequately establish procedures to ensure equipment is routinely calibrated, inspected, checked, and maintained, as required by 21 CFR 820.72(a).
+Specifically,
+a. Your firm performed renal and fluid system intravenous administration set design verification testing using 25 non-validated test methods which you created in house. The use of non-validated test methods does not ensure that design test method results were valid.
+b. Your firm failed to follow your procedures to ensure that instruments used in intravenous administration set and peritoneal dialysis administration set design verification packaging and complaint investigation packaging are calibrated. Review during the inspection found
+(b)(4)
+instruments that were not calibrated.
+This is a repeat observation from your firm’s April 17, 2012 to June 7, 2012 inspection.
+The adequacy of your responses cannot be determined at this time because many of the corrective actions that were initiated in the responses to the observation, including CAPA Events
+(b)(4)
+and
+(b)(4)
+, are either not yet complete or evidence of their effective implementation has not been verified.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the Food and Drug Administration without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts.
+Please notify this office in writing within fifteen (15) working days from the date you receive this letter of the specific steps you have taken to correct the noted violations, including an explanation of how you plan to prevent these violations, or similar violations, from occurring again. Include documentation of the corrective action you have taken. If your planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective action cannot be completed within 15 working days, state the reason for the delay and the time within which the corrections will be completed.
+Your response should be sent to: Carrie Ann Plucinski, Compliance Officer, Food and Drug Administration, 550 W. Jackson Blvd., 15
+th
+floor, Chicago, IL 60661. Refer to the Unique Identification Number (CMS Case # 413807) when replying. If you have any questions about the content of this letter, please contact Ms. Plucinski at 312-596-4224.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, Form FDA-483 (FDA-483), issued at the close-out of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality assurance systems. FDA expects your corporate management to undertake a comprehensive and global assessment of your operations immediately to ensure that medical devices conform to FDA requirements.
+Sincerely,
+/S/
+Scott J. MacIntire
+District Director
+cc: Mark W. Jackson
+Vice President Global Quality
+Baxter Healthcare Corporation
+25212 W. Illinois Route 120
+Round Lake, Illinois 60073
+Close Out Letter
+Baxter Healthcare Corp. - Close Out Letter 2/8/17
+Content current as of:
+02/10/2014
+More Warning Letters

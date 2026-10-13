@@ -1,0 +1,183 @@
+Animas Corporation 12/27/11
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+900 U.S. Customhouse
+2nd and Chestnut Streets
+Philadelphia, PA 19106
+Telephone: 215-597-4390
+WARNING LETTER
+12-PHI-04
+VIA UNITED PARCEL SERVICE
+December 27, 2011
+Kenneth J. Tompkins
+General Manager
+Animas Corporation
+200 Lawrence Drive
+West Chester, Pennsylvania 19380-3428
+Dear
+Mr. Tompkins:
+During an inspection of your firm located in
+West Chester, Pennsylvania,
+on
+July 18, 2011, through August 10, 2011, an investigator from the United States Food and Drug Administration (FDA) determined that your firm manufactures insulin infusion pumps
+. Under Section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+Our inspection revealed that the insulin infusion pump devices are misbranded under Section 502(t)(2) of the Act, 21 U.S.C. §
+352(t)(2), in that your firm failed or refused to furnish material or information respecting the devices that is required by or under Section 519 of the Act, 21 U.S.C. § 360i, and 21 CFR Part 803 - Medical Device Reporting. We received a response from
+Jon Mulberg, Director, Worldwide Quality Systems and Compliance, dated August 26, 2011, concerning our investigator’s observations noted on the Form FDA 483 (FDA 483), List of Inspectional Observations, that was issued to your firm. We address this response below, in relation to each of the noted violations.
+These violations include, but are not limited to, the following:
+1.
+Failure to report to FDA no later than 30 calendar days after the day that your firm received or otherwise became aware of information, from any source, that reasonably suggests that a device that it markets may have caused or contributed to a death or serious injury, as required by 21 CFR 803.50(a)(1). For example:
+a.
+Complaint #
+(b)(4)
+references an event where the subject device may have been a factor in a serious injury (Diabetic Ketoacidosis) as a result of user error. This event should have been reported to FDA.
+b.
+Complaint #
+(b)(4)
+references a patient who was placed on insulin drips after being admitted to the hospital with high blood glucose.
+Although there is no evidence that the device malfunctioned, the hyperglycemic patient received medical intervention (i.e., insulin drip). Your firm became aware of this event on August 8, 2010. However, this event was not reported to FDA until January 28, 2011. This event should have been reported to FDA within 30 days of your firm becoming aware of the event.
+c.
+Complaint #
+(b)(4)
+references an event where the subject device may have been a factor in a serious injury (i.e., coma, respiratory failure, and hypoglycemia) as a result of user error. Your firm became aware of this event on November 16, 2010. However, this event was not reported to FDA until January 11, 2011. This event should have been reported to FDA within 30 days of your firm becoming aware of the event.
+2.
+Failure to develop, maintain and implement written MDR procedures, as required by 21 CFR 803.17. For example: Your firm’s
+(b)(4)
+effective May 16, 2011, does not establish a process that provides the following:
+a.
+Timely and effective identification, communication, and evaluation of events that may be subject to MDR requirements. Specifically:
+i.
+By combining language from requirements of other regulatory authorities with 21 CFR 803, using
+(b)(4)
+could lead to incomplete, inadequate, or non-reporting of adverse events meeting the reportability requirements under 21 CFR 803,
+ii.
+MDR Reportable Event
+is not a defined term, and
+iii.
+(b)(4)
+does not include a process for identifying and evaluating events occurring outside the United States (U.S.) as potentially reportable to FDA.
+This process is required by 21 CFR 803.50 and 21 CFR 803.53. If an event occurs in a foreign country, it may be reportable under the MDR regulation if the event involves a device that is the same or similar to a device that has been cleared or approved in the U.S. and is also marketed in a foreign country.
+b.
+A standardized review process or procedure for determining when an event meets the criteria for reporting under this part. Specifically:
+i.
+While
+(b)(4)
+specifies the person responsible for submitting reports to foreign regulators, it does not specify the person responsible for reporting events to the U.S. FDA, and
+ii.
+No instructions for conducting a complete investigation of each event and evaluating the cause of the event are documented in the procedure.
+c. Timely submission of complete medical device reports. Specifically:
+i.
+How event information reasonably known by your firm will be submitted, and
+ii.
+Information related to submission of MDR reports for events that occur outside the U.S. is not included in the procedure.
+If an event occurs outside of the US and involves a device that is the same or similar to a device that is cleared or approved for marketing approval in the U. S., then your firm must also evaluate these events for reportability and submit MDRs as required.
+We reviewed your firm’s response and conclude that it is not adequate. Your firm submitted a procedure entitled
+(b)(4)
+effective date August 5, 2011, in response to Observations #3 and #4 of the FDA 483 issued on August 10, 2011. The following is stated in
+(b)(4)
+(1) the complaint classification process utilizes trained and qualified Medical Surveillance Specialists to review and classify complaints, in compliance with 21 CFR Part 803, Medical Device Reporting, and (2) that potentially reportable cases are assigned to individual specialists who are responsible for the classification, processing and submission of MDRs utilizing the eMDR system. However,
+(b)(4)
+does not appear to be a MDR procedure for reportability of adverse events to FDA. The referenced procedure, as written, does not establish internal systems that provide for timely and effective identification, communication, and evaluation of events that may be subject to MDR requirements; a standardized review process or procedure for determining reporting criteria; timely transmission of complete medical device reports; and documentation and recordkeeping requirements, as required by 21 CFR 803.17.
+Also, your firm states in
+(b)(4)
+that malfunctions causing or contributing to a death or serious injury will be reported to FDA until the malfunction has not caused or contributed to further deaths or serious injuries for two years. The guidance document “Medical Device Reporting for Manufacturers,” dated March, 1997, contains a discussion of malfunctions and reportability. The guidance advises that malfunctions should be reported until valid data shows that the likelihood of another death or serious injury occurring as a result of the malfunction is remote and references a two year period. The guidance is intended to assist industry with interpreting the requirements of the MDR regulation, 21 CFR Part 803. However we currently recommend that manufacturers who wish to stop reporting a malfunction contact the MDR Policy Branch for further discussion at 301-796-6670 or by email at MDRPolicy@fda.hhs.gov.
+In addition, Appendix II of your firm’s procedure includes a flowchart entitled US/Decision Tree. We were unable to read this flowchart and request that it be resubmitted.
+If your firm wishes to submit MDR reports via electronic submission it can follow the directions stated at the following URL:
+http://www.fda.gov/ForIndustry/FDAeSubmitter/ucm107903.htm
+If your firm wishes to discuss MDR reportability criteria or to schedule further communications, it may contact the MDR Policy Branch at 301-796-6670 or by email at
+MDRPolicy@fda.hhs.gov
+.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties.
+Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the awarding of contracts.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+In addition, FDA noted nonconformances with regards to Section 501(h) of the Act (21 U.S.C. § 351(h)), which are deficiencies within your firm’s quality system pertaining to current good manufacturing practice requirements specified in the Quality System regulation found at 21 CFR Part 820. These nonconformities include, but are not limited to, the following:
+1.
+Failure to identify the action needed to correct and prevent recurrence of nonconforming product and other quality problems, as required by 21 CFR 820.100(a)(3). For example, CAPA
+(b)(4)
+was opened by your firm on October 2, 2008, after complaint investigations revealed that the
+(b)(4)
+supplied by
+(b)(4)
+were experiencing unidentified
+(b)(4)
+failures. Because of this
+(b)(4)
+failure, your firm returned
+(b)(4)
+from lot date code
+(b)(4)
+to the supplier. CAPA
+(b)(4)
+was then closed by your firm on July 23, 2009, without identifying the action needed to correct the IR1200 and IR1250 insulin pumps
+(b)(4)
+failures. Also, your firm continued to purchase
+(b)(4)
+from the supplier, who did not perform any corrective actions as a result of CAPA
+(b)(4)
+until the IR1200 and IR1250 insulin pumps were discontinued in June, 2009.
+Your firm’s response to this observation appears to be adequate. According to your firm, when this corrective action was closed in July, 2009, it was closed in accordance with the Corrective and Preventive Action (CAPA) procedures in affect at that time. Since July, 2010, your firm developed WI
+(b)(4)
+and conducted an investigation, risk analysis, and health hazard evaluation for product in the field. Also, WI
+(b)(4)
+was established to require that supplier corrective actions be captured within your firm’s CAPA system.
+2.
+Failure to adequately document corrective and preventive action activities and their results, as required by 21 CFR 820.100(b). For example, CAPA
+(b)(4)
+was opened by your firm on April 26, 2010, to investigate failures associated with complaint code
+(b)(4)
+in the One Touch Ping and 2020 insulin pumps. As a result of the investigation, your firm released a design change to correct the failures and transferred the
+(b)(4)
+manufacturing process to another supplier. However, no rationale was documented in CAPA
+(b)(4)
+to explain why it was acceptable for your firm to continue to use the remaining
+(b)(4)
+with known failure modes during insulin pump production.
+We reviewed your firm’s response and conclude that it is not adequate. The response did not indicate why your firm continued to manufacture insulin pumps with
+(b)(4)
+that had known failures. However, your firm’s response did state that a Health Hazard Evaluation was performed and that an additional Risk Evaluation Board meeting was held on August 5, 2011, to assess the risk to patients using products made with the original
+(b)(4)
+.
+3.
+Failure of management with executive responsibility to review the suitability and effectiveness of the quality system at defined intervals and with sufficient frequency according to established procedures to ensure that the quality system satisfies the requirements of this part and the manufacturer’s established quality policy and objectives, as required by 21 CFR 820.20(c). For example, according to your firm’s
+(b)(4)
+section 6.2 states that the management review process was to occur quarterly and be attended by the general manager. However, quarterly management review documentation did not confirm that the General Manager, who is the firm’s top management official, was in attendance at the following meetings:
+2008 Q1 meeting on April 22, 2008,
+2009 Q1 meeting on May 11, 2009,
+2009 Q2 meeting on August 7, 2009,
+2010 Q2 meeting on July 9, 2010, and
+2010 Q3 meeting on November 5, 2010.
+We reviewed your firm’s response and conclude that it is not adequate. No evidence of training on your firm’s new procedure,
+(b)(4)
+was provided. However, it was noted that a thorough review of the Management review process was conducted by your firm.
+Your firm’s response to this letter should be sent to: U.S. Food and Drug Administration, 2
+nd
+and Chestnut Streets, Room 900, Philadelphia, Pennsylvania 19106, Attention: Kristina J. Donohue, Compliance Officer. If you have any questions about the contents of this letter, please contact
+Dr. Donohue at (215) 717-3078.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely yours,
+/S/
+Kirk Sooter
+District Director
+Philadelphia District Director
+CC:
+Jon Mulberg
+Director, Worldwide Quality Systems and Compliance
+Animas Corporation
+200 Lawrence Drive
+West Chester, Pennsylvania 19380-3428
+William C. Weldon
+Chief Executive Officer
+Johnson & Johnson
+One Johnson & Johnson Plaza
+New Brunswick, New Jersey 08933
+Alex Gorsky
+Vice Chairman
+Johnson & Johnson
+One Johnson & Johnson Plaza
+New Brunswick, New Jersey 08933
+-
+-
+Close Out Letter
+Animas Corporation - Close Out Letter 5/22/13
+-

@@ -1,0 +1,138 @@
+Siemens Healthcare Diagnostics, Inc. 6/29/12
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+PHILADELPHIA DISTRICT
+900 U.S. Customhouse
+2nd and Chestnut Streets
+Philadelphia, PA 19106
+Telephone: 215-597-4390
+WARNING LETTER
+12-PHI-18
+CERTIFIED MAIL
+RETURN RECEIPT REQUESTED
+June 29, 2012
+Mr. Edward Leonard
+Vice President, Global Logistics/Site Leader
+Siemens Healthcare Diagnostics, Inc.
+700 GBC Drive
+Newark, DE 19702
+Dear Mr. Leonard:
+During an inspection of your facility located in Newark, Delaware, from December 14, 2011, to February 9, 2012, an investigator from the United States Food and Drug Administration (FDA) determined that your firm manufactures in vitro diagnostic products for human use. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, (21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820. We received a response from you dated February 14, 2012, concerning our investigator's observations noted on the Form FDA 483 (FDA 483), List of lnspectional Observations, which was issued to your firm. We address this response below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1. Failure to establish and maintain adequate procedures to control product that does not conform to specified requirements, as required by 21 CFR 820.90(a).
+Specifically section
+(b)(4)
+contains
+(b)(4)
+considerations used by your firm to determine when a Replace on Complaint Action may be performed and when a Field Correction is required. During the 2010-2011 time period, your firm chose to replace on complaint instead of initiating a field correction on
+(b)(4)
+occasions. For example:
+a.
+(b)(4)
+dated 5/18/11, was initiated as a result of multiple complaints associated with a high calibration failure rate for Mass CKMB Isoenzyme Calibrator, lot
+(b)(4)
+when used with certain reagents lots. Your firm's investigation revealed that the incorrect
+(b)(4)
+was assigned. A
+(b)(4)
+meeting was held 6/03/11 and the decision was made to scrap remaining inventory of
+(b)(4)
+and to replace on complaint for product already distributed. Your firm received
+(b)(4)
+additional complaints for this malfunction. Your firm's
+(b)(4)
+document specifies that a field correction is warranted if the situation has a significant impact on product usability/functionality or if it results in product not meeting performance specifications. When this failure occurs, the device is unusable and cannot function as intended. This also results in the device not meeting its performance specifications. Your firm failed to initiate a field correction to control its nonconforming product as required by its documented procedures for addressing nonconforming products.
+b.
+(b)(4)
+dated 9/08/11, was initiated as a result of multiple complaints associated with a low bias on quality control and patient results at the low end of the assay range following calibration with Mass CKMB Isoenzyme Calibrator lot
+(b)(4)
+. Your firm's investigation determined that
+(b)(4)
+are not adequate
+to prevent QC shifts, and a
+(b)(4)
+meeting was held 9/19/11.The
+(b)(4)
+meeting resulted in the decision to scrap remaining inventory
+(b)(4)
+and to replace on complaint for product already distributed. Your firm received
+(b)(4)
+additional complaints for this for this malfunction after the
+(b)(4)
+decision. When the bias exceeds the acceptable quality control range, the customer will not be able to use the device. Additionally, when the low bias is seen on patient samples, the device cannot function as intended. Both of these failures result in the device not meeting its performance specifications. Your firm failed to initiate a field correction to control its nonconforming product as required by its documented procedures for addressing nonconforming products.
+c.
+(b)(4)
+dated 4/18/11, was initiated as a result of multiple complaints associated with a high rate of Slope Error calibration failures for Stratus CS nt-ProBNP (CPBNPM), lot
+(b)(4)
+. Your firm's investigation revealed that the Alkaline Phosphatase in the substrate may
+(b)(4).
+A
+(b)(4)
+meeting was held 4/25/11 and resulted in the decision to replace on complaint. Your firm received
+(b)(4)
+additional complaints for this malfunction after the
+(b)(4)
+decision. When this failure occurs, the device is unusable and cannot function as intended. This also results in the device not meeting its performance specifications. Your firm failed to initiate a field correction to control its nonconforming product as required by its documented procedures for addressing nonconforming products.
+We reviewed your firm's response and conclude it is not adequate. Your firm stated that it will issue a communication to make customers aware of the malfunction in example (a.) above; however, your firm's response did not include the communication. Additionally, since this communication will result in the correction or removal of the nonconforming product, you should also comply with correction and removal regulations. Your firm also stated that it will review all "replace on complaint" actions taken since January 1, 2010, to determine whether any impacted products are not expired and therefore potentially remain on the market. Your firm's response did not include a timeframe for when this would be completed or any documentation of how it would correct any malfunctioning products that are still on the market. The Procedure
+(b)(4)
+has been updated to remove the "replace on complaint" option, and this appears to be adequate; however, the training of appropriate personnel on the revised document has not been completed and will have to be reviewed for adequacy after completion. Additionally, your firm did not provide documentation that it has considered a systemic corrective action for this deficiency to include review of other aspects of its quality system to ensure that procedures are implemented as required.
+2. Failure to establish and maintain adequate procedures for rework, to include retesting and reevaluation of the nonconforming product after rework to ensure that the product meets its current approved specifications, as required by 21 CFR 820.90(b)(2). Specifically, your firm did not document reevaluation activities, including a determination of any adverse effect from the rework on its product in the Design History Record, as specified by regulation. For example, no investigation was conducted to determine the cause of the failure of lmmulite Substrate, validation lot
+(b)(4)
+to meet finished product specification prior to the initiation of rework activities. The bulk lot passed the in-process assay and was approved for filling. The finished product was again sampled
+(b)(4)
+and failed the Immulite Assay. As a result, the finished product was
+(b)(4)
+. The product was re-tested and passed the Immulite Substrate Assay. However, your firm's personnel stated that the lot was rejected and scrapped due to the post filling failure and the need for rework. Despite this rejection, your firm did not document an investigation into the cause of the failure or its adverse effects from the rework of the nonconforming product.
+We reviewed your firm's response and conclude it is not adequate. Your firm stated that, as of July 28, 2009, the rework procedure that was followed in the example above was made obsolete and replaced with an updated rework process. However, your firm did not include any documentation that the appropriate personnel were trained on the new process. Your firm also concluded that this observation was found to be an isolated incident due to
+a
+specific
+(b)(4)
+but did not submit any documentation that it has reviewed all
+(b)(4)
+to ensure that this was the only occurrence of this type of incident. Additionally, your firm did not provide documentation that it has considered a systemic corrective action for this deficiency to include review of rework activities for other products to ensure that activities were completed as required.
+3. Failure to establish and maintain adequate procedures for implementing corrective and preventive action (CAPA), as required by 21 CFR 820.100(a). Specifically, your firm's CAPAs did not adequately document the investigation or confirmation of suspected causes of nonconformities. The CAP As also did not adequately document corrective and/or preventative actions. For example:
+a. CAPA
+(b)(4)
+submitted 4/11/2011, was initiated to investigate the cause of multiple slope error calibration failure complaints associated with Stratus CS nt-ProBNP (CPBNPM), lot
+(b)(4)
+. Your firm's investigation Phosphatase (ALP) Inhibitor contained in the substrate
+(b)(4)
+and caused the slope to increase. This slope increase resulted in calibration failures before the product's expiration date. Your firm concluded that the malfunction could be mitigated by
+(b)(4)
+or reducing the product's expiration dating to 6 months. However, your firm's documented action was to do neither of these and simply accept the customer complaints. The CAPA did not identify why the ALP Inhibitor was failing and the CAP A was closed on 11/30/11 and documented that your firm would not perform any corrective or preventative action.
+b.
+(b)(4)
+CAPA-date submitted 6/28/11, was initiated due to complaints regarding QC and patient shift with the use of LOCI Cardiac Troponin I Calibrator, lot
+(b)(4)
+. Your firm confirmed a patient shift up to 30% at low troponin concentrations following calibration with the affected lot and issued an Urgent Field Safety Notice to customers in August 2011. CAPA-
+(b)(4)
+identified differences in the way the distributed calibrators and the calibrators used for value assignment/testing are
+(b)(4)
+during the manufacturing process as the potential root cause. Preventive actions were implemented based on the potential root cause identified above, but the root cause was never confirmed by testing affected and unaffected lots side by side. Without additional evidence to substantiate the root cause documented, the listed actions may not preclude the recurrence of this nonconformance. At the time of the inspection the CAPA was still open awaiting a final report. Additionally, the preventive actions identified were not implemented until September, 2011, and multiple LOCI Cardiac Troponin I Calibrator lots were manufactured between 6/20/11, when the CAPA was submitted, and September 2011, when the preventative actions were implemented. These lots were manufactured under the same conditions as nonconforming lot
+(b)(4)
+.
+c. CAPA
+(b)(4)
+submitted 10/06/2011, was initiated as a result of multiple complaints regarding QC and patients shifts with the Dimension Vista Cardiac Troponin I Calibrator lot
+(b)(4)
+. Your firm issued an Urgent Field Safety Notice in November 2011. The CAPA identified the potential root cause as
+(b)(4)
+at a
+(b)(4)
+. The CAPA failed to document evidence to substantiate this claim. The instructions for use for this product claim the product can be stored from -20 to -10 C. Without additional evidence to substantiate the root cause documented, the listed actions may not preclude the recurrence of this nonconformance. At the time of this inspection the CAPA was still open awaiting the final report which will only discuss the actions items identified in the action plan.
+We reviewed your firm's response and conclude it is not adequate. Your firm is updating the CAPAs specified above, but at the time of your firm's response, this had not been completed. Your firm is also updating its CAPA procedures and will be providing training to appropriate personnel. These actions are targeted for completion by May 30, 2012. Your firm's response is not adequate because documentation that a corrective action for this deficiency was implemented was not provided and evidence that a systemic corrective action was considered to include review of other CAPAs to ensure that they were completed as required was not provided.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm's planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm's response should be comprehensive and address all violations included in this Warning Letter.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm's facility. It is your firm's responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the FDA 483 issued at the close of the inspection may be symptomatic of serious problems in your firm's manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Your firm's response should be sent to: Kirk D. Sooter, District Director, Room 901 U.S. Customhouse, Philadelphia, Pennsylvania, 19106-2973. If you have any questions about this letter, please contact Compliance Officer Richard C. Cherry at (215) 717-3075 (phone) or (215) 597-8212 (fax).
+Sincerely yours,
+/s/
+Kirk D. Sooter
+District Director
+Philadelphia District
+-
+-
+Close Out Letter
+Siemens Healthcare Diagnostics, Inc. - Close Out Letter 1/28/13
+-

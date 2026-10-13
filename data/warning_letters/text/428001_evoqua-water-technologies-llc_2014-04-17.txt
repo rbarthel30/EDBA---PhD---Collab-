@@ -1,0 +1,102 @@
+Mar Cor Purification 4/17/14
+Share
+Tweet
+Linkedin
+Pin it
+More sharing options
+Linkedin
+Pin it
+Email
+Print
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Minneapolis District Office
+Central Region
+250 Marquette Avenue, Suite 600
+Minneapolis, MN 55401
+Telephone: (612) 334-4100
+FAX: (612) 334-4142
+April 17, 2014
+WARNING LETTER
+Via UPS Overnight Delivery
+Refer to MIN 14 – 18
+Curtis D. Weitnauer
+President
+Mar Cor Purification
+14550 28
+th
+Avenue North
+Plymouth, Minnesota 55447
+Dear Mr. Weitnauer:
+During an inspection of your firm located in Plymouth, Minnesota, on January 29 through February 18, 2014, an investigator from the United States Food and Drug Administration (FDA) determined that your firm manufactures water purification systems. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (21 CFR), Part 820. We received your firm’s responses dated March 7 and March 20, 2014, to the Form FDA 483 (FDA 483) and our evaluation is discussed below. Violations revealed during the inspection include, but are not limited to, the following:
+1. You failed to adequately establish procedures for corrective and preventive action, as required by 21 CFR 820.100(a). For example:
+A.
+Corrective and Preventive Action Work Instruction (300.MCPM.025) specifies the guidelines for establishing when a trend should trigger the initiation of a CAPA, including the same issue occurring multiple times on similar devices, as well as safety. The firm’s CAPA procedure was not implemented to control and document the following activities:
+(1) Corrective action was taken to redesign the CWP pump head assembly to
+(b)(4)
+after receiving multiple complaints of the CWP pump causing smoke and/or fire. These activities were not documented in a CAPA.
+(2) Multiple design changes were made to correct issues with the CWP after receiving multiple complaints of the CWP chemical pump intake not suctioning up the proper amount of fluid. These activities were not documented in a CAPA.
+2. You failed to adequately establish procedures for receiving, reviewing and evaluating complaints by a formally designated unit, as required by 21 CFR 820.198(a). For example:
+A.
+Complaint Handling Work Instruction (300.MCPM.023 Rev. C) does not ensure that complaints are processed in a uniform and timely manner.
+(1) The following were not entered into your complaint system upon becoming aware of the event:
+(a) The Call Log for Tech
+(b)(6)
+on 9/4/13, Call no. 2, indicates a call was received from a customer stating the boost pump died. This was not entered as a complaint until the customer called back on 9/23/13 and spoke with a different Tech, who then entered Complaint 1309052, which states the pump just went out and was not powering up anymore.
+(b) Complaint 1301036, involving solenoid not plugged back in and some loose wires, states in the investigation summary that the firm was aware of the situation in May 2012, when the issue originally occurred; however, the complaint was not entered until 1/15/13.
+(c) Devices returned under the following Return Material Authorization and corresponding MRB (Material Review) are not entered into the complaint system:
+RMA
+MRB
+Description of Discrepancy
+6862
+1303050
+Cracked permeate tube
+6914
+1303132
+Defective part
+6921
+1304074
+Customer installed new pump; when it started something crunched and it died – no pressure or flow
+7360
+1308048
+High TDS (RMA comments: customer replaced five membranes and unable to get TDS on two of them to come down. He ran the machine for several hours and still unable to get good results from two of the membranes.)
+7433
+1309023
+Customer stated the pump failed and wanted to return under warranty
+7295
+1307065
+Left side of screen periodically goes blank
+B.
+The Complaint Handling Work Instruction does not ensure complaints are adequately evaluated to determine whether the complaint represents an event which is required to be reported to FDA under Part 803, Medical Device Reporting.
+(1) Complaint 1303025, opened 3/21/13, involving a dialysis technician receiving an electric shock caused by a leak within the machine, was initially determined to not be reportable. However, during this inspection a reevaluation resulted in an MDR submission.
+(2) Complaint 1307008, opened 7/15/13, involving a pump burning up (they saw sparks coming from the top of the pump), was not evaluated for MDR reportability until this inspection, which resulted in an MDR submission on 2/6/14.
+3. You failed to investigate, where necessary, complaints involving the possible failure of a device to meet any of its specifications, as required by 21 CFR 820.198(c). For example:
+A.
+Complaint 1309048, opened 9/23/13, states “The heating element [is] defective. The heating element was tripping the machine and would not start up. Customer stated that one of the coils exploded….” The investigation summary states that “Technical Services closed the RMA with no action – part is out of warranty and has been physically scrapped.” To date there has been no investigation to determine why a coil exploded.
+B.
+Complaint 1302032, opened 2/13/13, states “…they added the transformer and they plugged the head in and the drive motor sparked and burned up….” To date there has been no investigation to determine why the drive motor sparked.
+C.
+Complaint 1208026, opened 8/10/12, states “…the 24 volt plug on the head burned up, we will send out a replacement.” To date there has been no investigation to determine why the 24 volt plug burned up.
+D.
+Complaint 1301008, opened 1/4/13, states “…Flow meter is leaking water out of the top where the black cap sits on the meter….” To date there has been no investigation to determine why the water was leaking.
+4. You failed to adequately establish document control procedures, as required by 21 CFR 820.40. Specifically, a draft form of Complaint Handling Work Instruction, 300.MCPM.023, Revision D, which has not yet been approved, has been used in complaint records including: 1212027, 1212028, 1210034, and 1301071.
+We have reviewed your responses dated March 7 and March 20, 2014. We acknowledge your commitment to review and update as necessary your CAPA and complaint handling procedures. Your March 7, 2014, letter does provide your updated complaint handling procedure; however, you have not provided an updated CAPA procedure for review. Further, the implementation of your corrective actions will require verification during our next inspection.
+Our inspection also revealed that your Millenium HX and Central Water System (CWP) products are misbranded under section 502(t)(2) of the Act, 21 U.S.C. § 352(t)(2), in that your firm failed or refused to furnish material or information respecting the device that is required by section 519 of the Act, 21 U.S.C. § 360i, and 21 CFR Part 806 – Reports of Corrections and Removals regulation. Your firm failed to submit a written report to FDA of a correction or removal of a device. The correction or removal was initiated to remedy a violation of the Act which might present a risk to health. A report is required by 21 CFR 806.10(a)(2).
+A. Your firm made a decision in June 2013 to service all Millenium HX devices in the field to replace the old valve after receiving multiple complaints of water leaks and water issues; your firm changed suppliers to a new valve in March 2013. Your firm did not submit a written report to FDA of that correction or removal as required by 21 CFR 806.
+B. Your firm made a decision in June 2012 to replace the end cap on the CWP after receiving multiple complaints of the CWP pump causing smoke and/or fire. Your firm determined
+(b)(4)
+caused resistive heating. Your firm did not submit a written report to FDA of that correction or removal as required by 21 CFR 806.
+We have reviewed your March 7 and March 20, 2014 responses. The March 20, 2014, response refers to an additional field corrective action that will be reported to FDA; documentation is to be provided in your next update to FDA (60 days). Please note any correction or removal should be reported to FDA within 10 days of initiating a correction or removal. You should not wait until your next update to provide the relevant documentation to FDA.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts.
+Please notify this office in writing within 15 business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within 15 business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+Your firm’s response should be sent to Melissa I. Michurski, Compliance Officer, at the address on the letterhead. If you have any questions about the content of this letter please contact Ms. Michurski at (612) 758-7185.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely,
+/S/
+Michael Dutcher, DVM
+Director
+Minneapolis District
+Close Out Letter
+Mar Cor Purification - Close Out Letter 3/26/15

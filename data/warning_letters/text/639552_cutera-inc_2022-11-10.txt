@@ -1,0 +1,70 @@
+WARNING LETTER
+Cutera, Inc.
+MARCS-CMS 639552 —
+February 08, 2023
+More Warning Letters
+Product:
+Medical Devices
+Recipient:
+Recipient Name
+David H. Mowry
+Recipient Title
+CEO
+Cutera, Inc.
+3240 Bayshore Blvd.
+Brisbane
+,
+CA
+94005
+United States
+(b)(6)@cutera.com
+Issuing Office:
+Center for Devices and Radiological Health
+United States
+February 8, 2023
+Dear David H. Mowry:
+The United States Food and Drug Administration (FDA) completed an evaluation of your firm's corrections and corrective actions in response to our Warning Letter (CMS # 639552, dated November 10, 2022). We address your response below, in relation to each of the noted violations. These violations previously cited include, but are not limited to, the following:
+FDA has reviewed your website (last viewed November 10, 2022), https://mycutera.com/product-landing-pages/juliet.aspx, and determined that the Juliet; MCL 31 Dermablate System is adulterated under section 5010(1)(B) of the Act, 21 US.C. § 351(f)(1)(B), because your firm does not have an approved application for premarket approval (PMA) in effect pursuant to section 515(a) of the Act, 21 U.S.C. § 360e(a), or an approved application for an investigational device exemption (IDE) under section 520(g) of the Act, 21 U.S.C. § 360j(g) for the device as described and marketed. The Juliet; MCL 31 Dermablate System is also misbranded under section 502(o) the Act, 21 U.S.C. § 352(o), because your firm introduced or delivered for introduction into interstate commerce for commercial distribution this device with major changes or modifications to the intended use without submitting a new premarket notification to FDA as required by section 510(k) of the Act, 21 US. C. § 360(k), and 21 CFR 807.81(a)(3)(ii).
+Specifically, the MCL 31 Dermablate System with My Juliet handpiece was cleared under K210634 with the following indications:
+The MCL 31 Dermablate System with its accessories is indicated for coagulation, vaporization, ablation, or cutting of soft tissue (skin) in Dermatology, Plastic Surgery, Oral Surgery, ENT, Gynecology, General Surgery, Podiatry, and Ophthalmology (skin around the eyes).
+The MCL 31 Dermablate System, when used with its micro beam handpieces, is intended for use in Dermatological procedures and Skin resurfacing procedures.
+However, your firm's promotion of the device provides evidence that the device is intended for treatment of vaginal atrophy, vaginal relaxation syndrome, genitourinary syndrome of menopause, wound healing, and tissue remodeling, which would constitute a major change or modification to its intended use for which your firm lacks clearance or approval. Examples of statements on your webs ite include but are not limited to:
+"To stimulate collagen and revitalize the vaginal tissue to address symptoms associated with vaginal atrophy and vaginal relaxation syndrome"
+"Stimulat[ing] the body's normal wound healing, revitalizing the mucosa, remodeling damaged tissue and inducing formation of new vessels
+"Juliet delivers two passes to the vaginal wall to improve the symptoms of GRS and VRS"
+1
+"Patients reported better vaginal lubrication, reduction of or no dyspareunia, better quality of sexual life"
+o "Those with symptoms of vulvar vaginal atrophy"
+o "Those who have undergone a hysterectomy or cancer treatment"
+o "Women who want to improve the quality of their sexual life"
+o "Women who want to enhance the appearance of the vaginal area"
+"Alternative to some hormone therapy"
+The adequacy of your firm's response to our Warning Letter cannot be determined at this time. You proposed several corrective actions to be completed by the end of January 2023, including issuance of a "dear doctor" letter, comprehensive review of websites that promote the My Juliet device, and comprehensive review of all marketing materials. While the "dear doctor" letter and comprehensive review of websites that promote the My Juliet device were completed as of your December 30, 2022 Response Update #1, the comprehensive review of all marketing materials is still ongoing. As this corrective action is still outstanding, we are unable to verify that it has been implemented by your firm.
+Please be advised that it is your firm's responsibility to assure compliance with the Federal Food, Drug, and Cosmetic Act and its implementing regulations or with other relevant legal authority.
+A Warning Letter close-out letter will not be issued until FDA has been able to verify that corrections and/or corrective actions (which must address systemic problems) have been implemented by your firm (e.g., through your proposed monthly updates). We request that you provide us with an additional written response within 15 business days from the date you receive this letter.
+Your firm's additional response should be sent to: CDRHWarningLetterResponses@fda.hhs.gov. Refer to CMS case # 639552 when replying.
+Finally, this letter is not meant to be an all-inclusive list of the violations that exist in connection with the product(s) at your firm or in your promotional materials including your website. It is your firm's responsibility to ensure that the products you sell are in compliance with the Act and its implementing regulations. Failure to adequately address any violations may result in legal action, including without limitation, seizure and injunction.
+If you have any questions or concerns about the contents of this letter, please contact: Monica Garcia, Ph.D., Assistant Director for the Obstetrical and Reproductive Health Devices Team at (240) 402-2791 or monica.garcia@fda.hhs.gov.
+Sincerely yours,
+/S/
+Sharon M. Andrews
+Director
+DHT3B: Division of Reproductive,
+Gynecology and Urology Devices
+OHT3: Office of GastroRenal, ObGyn,
+General Hospital and Urology Devices
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+CC:
+John J. Smith, M.D., J.D.
+Hogan Lovells US LLP
+555 Thirteenth Street, NW
+Washington, DC 20004
+john.smithAhoganlovells.com
+________________
+1
+Based on other statements on this webpage, FDA understands the acronyms in this statement to refer to "genitourinary syndrome of menopause" and "vaginal relaxation syndrome," respectively.
+Content current as of:
+02/14/2023
+Regulated Product(s)
+Medical Devices

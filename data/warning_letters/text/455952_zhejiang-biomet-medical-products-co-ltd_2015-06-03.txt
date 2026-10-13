@@ -1,0 +1,134 @@
+WARNING LETTER
+Zhejiang Biomet Medical Products Co. Ltd.
+MARCS-CMS 455952 — Jun 03, 2015
+Share
+Tweet
+Linkedin
+Email
+Print
+Zhejiang Biomet Medical Products Co. Ltd. - 455952 - 06/03/2015
+Recipient:
+Zhejiang Biomet Medical Products Co. Ltd.
+United States
+Issuing Office:
+Center for Devices and Radiological Health
+United States
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+10903 New Hampshire Avenue
+Silver Spring, MD 20993
+JUN 3, 2015
+WARNING LETTER
+VIA UNITED PARCEL SERVICE
+Ms. Xuemei Wang
+General Manager/Sr. Operations Director – Asian Operations
+Zhejiang Biomet Medical Products Co., Ltd.
+980 Shenli Road, Jinhua City
+321016 Zhejiang
+China
+Dear Ms. Wang:
+During an inspection of your firm located in Jinhua City, Zhejiang
+, China, on January 19, 2015, through January 22, 2015, an investigator from the United States Food and Drug Administration (FDA) determined that your firm manufactures orthopedic surgical instruments used for knee prosthesis systems. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+We received a response from Ms. Tamara Yuan, Regulatory Compliance and Quality Assurance Director, dated February 12, 2015, concerning our investigator’s observations noted on the Form FDA 483 (FDA 483), List of Inspectional Observations, which was issued to your firm. We address this response below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1.
+Failure to i
+dentify the actions needed to correct and prevent recurrence of nonconforming product and other quality problems, as required by 21 CFR 820.100(a)(3).
+For example, your
+firm opened Complaint #CMP-0055046 to investigate how approximately 1,051 of 1,654 “3.5 MM INSERTER CONNECTOR” (Part Nos. 14-441043-01 and 14-44105-00) pieces were manufactured and shipped of for final packaging and distribution between November, 2010, and March, 2013 without meeting the minimum required tensile strength of
+(
+b)(4)
+. Your firm’s corporate Regulatory Compliance Director stated that your firm received approximately 45 complaints of tip fracture for the device. Your firm initiated CAPA, CA-01097 which states the root cause as
+“(
+b)(4)
+., which lead
+(
+b)(4)
+requirement not transferred into
+(
+b)(4)
+”.
+However, your fi
+rm did not review if other products failed to meet design specifications during design transfer. Additionally, your firm did not investigate how to prevent tip fracture due to torsional overloading.
+The adequacy of your firm’s
+response cannot be determined at this time. Your firm conducted an investigation and revised the appropriate procedures. Additionally, your firm opened CAPA CA-01898 to evaluate the “Corrective and Preventative [Action] Procedure” to ensure that out of specification products are identified and addressed by your design facility. However, the adequacy of your response cannot be determined until your firm performs a retrospective review of other products to determine that the device designs were correctly translated into production specifications.
+2.
+Failure to est
+ablish and maintain procedures for monitoring and control of process parameters for validated processes to ensure that specified requirements continue to be met, as required by 21 CFR 820.75(b).
+F
+or example, your firm did not establish procedures for monitoring validated processes such as
+(
+b)(4)
+.
+Your firm did not establish procedures identifying the data to be monitored, process control limits, or the review and analysis of data generated from the monitoring of validated processes.
+The adequacy of your firm’s
+response cannot be determined at this time. Your firm reviewed and revised documents to establish validation requirements. Additionally, your firm opened CAPA CA-01899 to specify process parameter monitoring requirements, identify how data generated from the monitoring of validated processes is to be reviewed and analyzed, and evaluate other processes to ensure adequate monitoring, review, and analysis. However, the adequacy of your response cannot be determined until your firm performs a retrospective review of validated processes to ensure nonconforming products were not distributed..
+3.
+Failure to establish and maintain procedures to control product that does not conform to specified requirements, as required by 21 CFR 820.90. For example:
+a. Your fi
+rm’s “Nonconformance Control Procedure,” Document No. SOP
+(
+b)(4)
+, states “During final inspection, when batches of products are found slightly unqualified due to appearance, burr or aberration, etc., the products can be returned to the production process directly.” Your firm’s RC/QA Director stated that those returned products are not considered rework and are not recorded.
+b.
+N
+onconformances are not adequately analyzed or investigated. Three nonconformances lacked a determination of the need for an evaluation, or notification of the persons or organizations responsible for the nonconformances.
+The adequacy of your firm’s
+response cannot be determined at this time. Your firm reviewed and updated the appropriate procedures as part of CAPA CA-01900. The adequacy of your response cannot be determined until your firm performs a risk analysis of products to evaluate the impact of rework..
+4.
+Failure to control and monitor production processes to ensure that a device conforms to its specifications, as required by 21 CFR 820.70(a). For example, your fi
+rm’s
+(
+b)(4)
+Records shows that your firm has not replaced the rinses, or recorded the rinse change after every shift.
+The
+adequacy of your firm’s response cannot be determined at this time. Your firm identifying 7 work orders that did not record solution changes. Your firm also found that the documents do not contain work order numbers for solution changes. CAPA CA-0191 was opened to modify the change record and work instruction, to add the requirement for monitoring solution change every shift by a second person to the work instruction. Additionally, other processes that require solution changes will be reviewed to determine if adequate controls and monitors are in place. The adequacy of your firm’s response cannot be determined until this documentation is submitted for review.
+5.
+Failure to base sampling plans on a valid statistical rationale, as required by 21 CFR 820.250(b). For example, your fi
+rm’s in-process inspection of instruments, as documented in the
+(
+b)(4)
+states “For other dimensions,
+(
+b)(4)
+inspected when the product quantity
+(
+b)(4)
+shall be inspected when the quantity
+(
+b)(4)
+.
+” The sampling plan is not based on a valid statistical rationale.
+The
+adequacy of your firm’s response cannot be determined at this time. Your firm aligned the
+“(
+b)(4)
+.”
+CAPA CA-01902 was opened to review the
+(
+b)(4)
+to define in-process inspection sampling plans based on valid statistical rationale. The adequacy of your response cannot be determined until your firm performs a systemic review of sampling plans used for other in-process and finished product inspections to determine if they are based on valid statistical rationale. Additionally, your firm should conduct a retrospective review to determine if nonconforming product has been released due to inadequate sampling plans.
+U.S. federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related will not be approved until the violations have been corrected.
+Please notify this office in writing, within fifteen business days from the date you receive this letter, of the specific steps your firm has taken to correct the noted violations, including an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective action (which must address systemic problems) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within thirty business days, state the reason for the delay and the time within which these activities will be completed. Please provide a translation of documentation not in English to facilitate our review. We will notify you regarding the adequacy of your firm’s response(s) and the need to re-inspect your firm’s facility to
+verify that the appropriate corrections and/or corrective actions have been made.
+Your firm’s response should be sent to:
+Food and Drug Administration, Center for Devices and Radiological Health, Office of Compliance, Field Inspections Support Branch, White Oak Building 66, Room 2622, 10903 New Hampshire Ave., Silver Spring, MD 20993. Refer to CMS case #455952 when replying.
+If you have any questions about the contents of this letter, please contact: Daniel Walter, Chief, Foreign Enforcement Branch, at +1 (301) 796-5587 or +1 (301) 847-8139 (fax).
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely yours,
+/S/
+Jan B. Welch, MHS, MT (ASCP) SBB
+Acting Director
+Office of Compliance
+Center for Devices and
+Radiological Health
+cc:
+Barb Akers
+56 East Bell Drive
+Warsaw, IN 46581
+Close Out Letter
+Zhejiang Biomet Medical Products Co. Ltd. - Close Out Letter 5/8/17
+Content current as of:
+11/09/2015
+More Warning Letters

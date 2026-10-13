@@ -1,0 +1,233 @@
+Beckman Coulter, Inc. 11/1/11
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Florida District
+555 Winderley Place, Suite 200
+Maitland, Florida 32751
+Telephone: 407-475-4700
+FAX: 407-475-4770
+CERTIFIED MAIL
+RETURN RECEIPT REQUESTED
+WARNING LETTER
+FLA-12-07
+November 1, 2011
+Cynthia L. Collins
+Group Vice President Cellular Analysis Business
+Beckman Coulter, Inc.
+11800 SW 147th Avenue
+Miami, FL 33196
+Dear
+Ms. Collins:
+During an inspection of your establishment located in
+Miami, FL
+from
+February 28, 2011, through
+June 2, 2011, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures Class I and II
+in vitro
+diagnostic products.
+Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, (21 U.S.C. § 351(h)), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+We received responses from J. Robert Hurley, President and Chief Executive Officer dated July 3, 2011, and August 30, 2011, concerning our investigators’ observations noted on the Form FDA 483 (FDA 483), List of Inspectional Observations that was issued to your firm. We address these responses below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1)
+Failure to establish and maintain adequate procedures for implementing corrective and preventive action, as required by 21 CFR 820.100(a). Specifically, your firm failed to implement the Corrective and Preventive Action (CAPA) procedure (BCP0046, effective dates 04/15/09 and 01/11/11) to ensure that existing and/or potential events related to product, process, or the quality management system that had failed to meet requirements or expectations were evaluated to determine CAPA eligibility, root causes, failure investigation, risk assessment, and eventually establish a status of the investigation. For example:
+a)
+Failure investigations were not always extended to determine the underlying cause of the problem in order to determine an appropriate implementation of corrective actions. For example:
+i)
+CAPA 15082 was generated to investigate
+(b)(4)
+assay value assignment performed using the incorrect calibration reference. Investigation into the causes disclosed that at the time the
+(b)(4)
+Calibrator value assignment process was converted from the
+(b)(4)
+to the
+(b)(4)
+series, the
+(b)(4)
+instrument calibration procedures had not been implemented. Corrective actions included update of procedures to ensure proper escalation of failures and document the calibration of records. However, this CAPA was not extended to evaluate the lack and/or inadequacy of established controls and procedures that allowed the transfer of value assignment process to an instrument for which no calibration procedures had been implemented for that specific value. Furthermore, no investigation was conducted to determine the decision of using the previous S-Cal values as the
+(b)(4)
+Calibrator instead of the
+(b)(4)
+reference
+(b)(4)
+as established by procedures and the lack of a planned deviation request in order to depart from the established manufacturing process.
+ii)
+SAR 9015-2635 was opened on 05/26/10 to investigate field service visits reporting
+(b)(4)
+mixing chamber plugging. Prior to this SAR, the Hematology Group had implemented at least two separate design changes through Change Notices (CNs) # 901550-1129 and # 901550-1200 in order to correct the plugging issue. The validations of the design changes were found acceptable both times. Still, the field continued to report plugging problems. SAR 9015-2635 investigation was not extended to evaluate the failure of the established testing and validation processes to identify that the design changes were not effective and did not eliminate the problem. The two CNs were implemented on 11/19/09 and 4/9/10, respectively.
+iii)
+Manufacturing Discrepancy Report NC280197 was issued to investigate
+(b)(4)
+reagent shelf life/stability failure of Lot # 7548040. The root cause of this failure was identified as a calculation error in the manufacturing batch record that resulted in the omission of a
+(b)(4)
+step. CAPA 12482 was opened to document the failure investigation because the corrective actions had been already identified and implemented through CAPA 11376. CAPA 11376 was issued to investigate recovery values higher than assigned for non-IVD reagent
+(b)(4)
+and applied to
+(b)(4)
+reagent because
+(b)(4)
+and
+(b)(4)
+is the same product used for different applications. However, CAPA 12482 failed to evaluate the information obtained regarding the omission of the
+(b)(4)
+step and its specific result on the IVD reagent stability. Additionally, risk assessment evaluations were not conducted to determine actions needed to update established failure modes.
+The adequacy of the responses dated July 3, 2011, and August 30, 2011, cannot be determined at this time. Your firm implemented new CAPA procedures at the beginning of 2011 which appear to have provisions for corrections found deficient during the current inspection. However, your firm has not provided evidence of implementation. Although your firm has provided training to the approximate
+(b)(4)
+employees at the Miami facility who are involved in CAPA, the implementation of these procedures cannot be fully verified until the next inspection.
+b)
+Your firm failed to extend CAPA investigations to assess the failures of OEMs' quality systems, in particular design controls, to ensure the manufacture of devices comply with your firm’s specifications. The failure of OEM's to comply with your firm’s specifications has resulted in the issuance of PCAs to correct/retrieve defective devices. For example:
+i)
+CAPA 13029 was opened to investigate a PrepPlus 2™ OEM design change that introduced a defect in the system that resulted in dilution of antibody; causing diminished cellular fluorescence staining and presenting the risk of erroneous results in some systems' applications. Corrective actions included the upgrade of the instrument software. However, the investigation failed to evaluate OEM validation review process to determine if it included all aspects, specifically evaluation of software capabilities, including that testing is commensurate to the risk of the change; change control procedures; and internal regulatory review of changes to determine if it included all relevant aspects pertaining to OEM changes and interactions with proprietary instruments.
+ii)
+CAPA 15532 was opened to determine the root cause of PrepPlus™ 2 reagent vial sensing problems that can lead to erroneous results. Several corrective actions regarding hardware design changes were identified. However, this CAPA was not extended to evaluate the failure of the firm to implement appropriate design testing and risk assessment to identify the major factors that could affect the performance of the instrument.
+The adequacy of the responses dated July 3, 2011, and August 30, 2011, cannot be determined at this time. In your response, your firm mainly refers to the corrections promised in the remediation plan relating to CAPA and design controls. Your firm also intended to have a process for independent oversight of Design Control activities by September 30, 2011.
+c)
+Inadequate failure investigation in that conflicting information was presented for the analysis of the problem, including its occurrence, overall risk, clinical impact, and how easily the user would able to identify the problem. For example: CAPA 15268 was opened to investigate CYTO-STAT® tetraCHROMETM CD45FITC/CD4-RDI/CD8-ECD/CD3-PC5 and CYTO-STAT® tetraCHROMETM CD56-RDlICD19-ECD/CD3-PC5 sample stability claim that was extended not according to 510(k) clearance. Evaluation of the risk to health/clinical impact of this problem, identified that the flow cytometry assessment at extended prepared samples stability could lead to decrease in the proportion and absolute number of cell populations and this could lead to misdiagnosis and management of the patient therapy. Mitigating factors were identified as CDC guidelines for not holding specimen beyond 24 hours post venipuncture, no customer complaints received within the past 7 years for reagent stability failure for this product, and that the results were evaluated with other clinical parameters. These mitigations factors are conflicting with the identified problem in that the extended stability claim referred to prepared sample (blood and reagent) and not to blood sample. Complaints related to this failure would not be received for stability of the reagent because the failure causes a decrease in the proportion and absolute number of cell populations and would have been only evident if same patient samples were run immediately after preparation and then re-tested using the extended timeframe. Similarly, this investigation was not extended to include the evaluation of other products that may have labeling stability issues and to your firm's internal audit activities that failed to evaluate/identify this discrepancy for seven years.
+The adequacy of the responses dated July 3, 2011, and August 30, 2011, cannot be determined at this time. In the responses, your firm stated you completed two HHE’s to separately address prepared samples and specimen problems. Your firm initiated a recall Z-1876-2011 (PCA 15268) and stated that the effectiveness measures have been met; however, supporting documentation for this statement was not provided. Your firm has updated associated labeling development processes. Your firm also included planned actions, which appear to be appropriate including a retrospective review of the labeling-related PCAs since January 2006 by September 30, 2011.
+d)
+Failure to implement established procedures to ensure corrective actions requested to suppliers/contractors are appropriately implemented. Nonconformance associated to OEM equipments or purchased part/components identified during incoming, manufacturing, and/or service were not always followed to ensure the implementation of corrective actions and closing. For example: Decision to open CAPA 9661 for the investigation of excessive differential flags associated to Fix Reagent was made in November 2008. The CAPA was closed on 02/09/10 based on that the reagent supplier (OEM) was issued Supplier Corrective Action (SCAR) # 54641 for root cause analysis and the resolution of product issues. OEM responded by 06/14/10 indicating effectiveness of all actions implemented. However, SCAR # 54641 is still open with no interim or final resolution of the failure.
+The adequacy of the responses dated July 3, 2011, and August 30, 2011, cannot be determined at this time. In the response, your firm suggests that due to improvements made in the CAPA procedures including the establishment of a CAPA review board and Company CAPA council, CAPAs will be resolved and closed in a timely manner. Your firm intends to conduct an effectiveness check to verify the revised PRC-007, Supplier Corrective Action Process Procedure by December 31, 2011.
+e)
+Procedures for the escalation of evaluation of quality issues affecting product performance are not consistently implemented. As per procedure (BCP0046, effective dates 04/15/09 and 01/11/11), the purpose of the CAPA process is to ensure that appropriate actions are initiated upon verification that product, process, or the quality management system has failed to meet requirements, or the potential for such a failure may exist based on available information and/or data. Your firm failed to implement the procedures as follow:
+i)
+At least, 22 complaints were received reporting DxH 800™ missing platelet clumps flag. On 07/14/10, SAR 9023-0678 was opened to investigate the DxH 800™ platelet clumps flagging complaints. The missing platelet clumps flag failure was not escalated to CAPA even when corrections would require a software algorithm update with the addition of flagging rules to increase the instrument sensitivity. The missing platelet clumps flag failure was identified/considered to be a quality performance issue by the quality group responsible for evaluating customer complaints.
+ii)
+The investigation of complaints and field service visits reporting DxH 800™ mixing chamber plugging (air mixing port and waste drain) prompted several hardware and software changes. At least two SARs (SAR 9015-2604, SAR 9015-2635), four Change Notices (CN 901550-1129, CN 901550-1200, CN 901550-1239, CN 901550-1240), and two service modes (SM 3604, SM 3630) were released in order to correct the plugging problem. These issues were not considered to be related to quality of instrument performance even when they were identified as performance failure of the instrument in the field and the investigation and corrective actions identified deficiencies related to design. No CAPA was opened to investigate the plugging failures or later to investigate the failure of the implemented corrective actions to prevent the reoccurrence of plugging. Furthermore, CN 901550-1129 was implemented on 11/19/09 to correct plugging issues reported in the field, still this change/correction was not associated to any appropriate corrective action.
+The adequacy of the responses dated July 3, 2011, and August 30, 2011, cannot be determined at this time. In the response, your firm stated that it has revised its CAPA Oversight and Customer Feedback procedures. Your firm also planned to revise the local SAR Process procedure and review all open SARs related to hardware, software and labeling issues by September 30, 2011.
+2)
+Failure to establish and maintain adequate procedures for receiving, reviewing, and evaluating complaints by a formally designated unit as required by 21 CFR 820.198(a).
+Specifically, you failed to implement Customer Feedback Process (PRC-001) and Processing Customer Feedback (CAD-014.04) procedures in that not all customer feedback (CF) investigations include required information pertaining to recurrence details, frequency, investigation results description, and associated CAPAs and CFs that pertain to the investigation performed, as evidenced by the following:
+a)
+Not all complaints investigations have been evaluated to determine the extent of review and whether a more extensive investigation is necessary. Numerous CFs continued to be identified as “Assigned for Investigation” failing to follow the established procedures that required closure of CFs including investigation results and the determination of the need for CAPA. From December 2009 through October 2010 approximately 125 hematology-related CFs and 60 cytometry-related CFs were listed under the status of “Assigned for Investigation” and most of them lacked documented investigation results. Out of all these CFs, 4 were classified as Type 1 (report of injury or death or an event that results in serious medical deterioration) and the rest were classified Type 2 (product issues where the product fails to meet published specifications for intended use).
+b)
+Not all complaints investigation results document accurate information as it relates to the number of CFs received for a particular event (recurrence or frequency), association to an open investigation, and/or the need for CAPA investigation. Between March/April of 2009, multiples CFs were received for
+(b)(4)
+recovery issues, mostly (WBC), and CAPA 11197 was generated to review all the documentation associated with the reagent and affected lots. This CAPA is still open. Your firm failed to conduct adequate complaint investigations in that most of the CFs received for
+(b)(4)
+recovery issues after May 2010 were either closed to track and trend or were identified as still pending for investigation. All have been identified as not meeting CAPA investigation criteria. Furthermore, CFs received prior to May 2010 that did refer to CAPA 11197, were not updated to include correct information. Specifically, 22 out of 27 CFs investigation results documented from August 2009 through May 2010 were not updated to include the actual number of CFs received for that particular event. These CFs' investigation results included the following statement:
+“22 complaints have been received from multiple sites on
+(b)(4)
+for recovery issues (failed RBC). After running
+(b)(4)
+, the instruments are informing the customers to re-calibrate. After changing the cal factors, the controls are then shifted out of range.”
+The adequacy of the responses dated July 3, 2011, and August 30, 2011, can not be determined at this time. Your firm provided a copy of its revised PRD-482, Customer Feedback Complaint Procedure, which has a level of detail not previously used to process, investigate, and close Type 1 and Type 2 complaints and has opened a CAPA to investigate defective reagent management cards. Your firm also plans to introduce a search tool to review past complaints for hazardous issues following the validation of the search tool function and review complaint-related CAPAs closed in the last two years to determine if complaints were incorrectly assigned and make appropriate corrections/follow-up. Your firm also planned to conduct effectiveness checks to verify revisions to the PRD-482 procedure by November 20, 2011, implement the search tool by September 15, 2011, complete the root cause determination for the opened CAPA by September 30, 2011, and review complaint-related CAPAs that have been closed in the past two years by December 31, 2011. The adequacy of these planned actions can not be verified at this time since the effectiveness checks have not been completed.
+3)
+Failure to establish and maintain adequate procedures for identifying training needs and ensure that all personnel are trained to adequately perform their assigned responsibilities as required by 21 CFR 820.25(b).
+Specifically, you failed to implement Training, Qualifications and Competency procedure (BCCP0087) in that the supervisor of the area failed to ensure that all personnel were trained or otherwise qualified for the responsibilities assigned to him/her. Specifically, your firm failed to follow the established procedures for identifying training needs of personnel and to ensure all personnel were trained to adequately perform their assigned responsibilities. A temporary employee that had been separated from the assembly operations for 4 months was re-hired and assigned to conduct the soldering operations on LH500 and HmX analyzers, 71 of which were later recalled due to possible soldering problems.
+The responses dated June 2, 2011, and August 30, 2011, are adequate because your firm revised their Training and Qualifications – Procedure (PRD-112) to include review of training as a responsibility of supervisors and managers for employees where job separation has occurred. The procedure requires that this be documented on the Initial Work Output Verification Form (TMP-0098). A copy of the revised procedure was provided.
+Our inspection also revealed that the DxH series, LH series, HmX series, and the
+(b)(4)
+Diff series hematology analyzers and the reagents used on these analyzers are misbranded under section 502(t)(2) of the Act, 21 USC § 352(t)(2), in that your firm failed or refused to furnish material or information respecting the devices that is required by and under section 519 of the Act, 21 USC § 360i, and 21 CFR Part 803 – Medical Device Reporting (MDR) Regulation. Significant deviations include, but are not limited to:
+1)
+Failure to adequately develop, maintain and implement written MDR procedures as required by 21 CFR Part 803.17. Your procedures
+AES-001 Adverse Event (AE) Subcommittee Charter & Membership
+, Revision 4.1, Effective 11/06/2008;
+AES-003 AE & Safety Subcommittee Review
+, Revision 1.0, Effective 01/15/2007; and
+AES-004 AE Administrative Review,
+Revision 4.3, Effective 10/28/2008, considered collectively as your MDR procedure, are not adequate to address your firm’s requirements under Part 21 CFR Part 803.
+a)
+Your firm’s procedure does not contain a standardized process or instructions for determining when an event meets the criteria for MDR. For example:
+i)
+There is a limited description of how your firm will evaluate and interpret events for reportability under 21 CFR Part 803. To facilitate the correct interpretation of reportable events and to assure the quality of MDR submissions, your procedure needs to include definitions based on Part 803.3 for
+become aware; caused or contributed; MDR reportable event;
+and a definition for
+reasonably known
+found in Part 803.50(b).
+ii)
+The definition of a
+serious injury
+in your firm’s procedure incorrectly omits the term, “or surgical intervention”.
+iii)
+Decision Tree #1 fails to include malfunction events that may be likely to cause or contribute to a serious injury if they were to recur.
+iv)
+Your procedure does not include a process for conducting a complete investigation of each event to determine the cause of an event as required by 21 CFR Part 803.50(b)(3).
+b)
+Your procedure fails to provide instructions for the timely submission of complete medical device reports. For example:
+i)
+Section 6.3,
+Adverse Event Review Schedule
+fails to include instructions for your firm to submit an MDR within 30 calendar days after the day your firm becomes aware of information that reasonably suggests that a device it markets may have caused or contributed to a reportable event.
+ii)
+The procedure fails to describe the circumstances under which your firm must submit 5-day and supplemental or follow-up reports.
+iii)
+The procedure fails to describe the type of information that must be included in the FDA Form 3500A.
+iv)
+The procedure fails to provide instructions that your firm must submit all information reasonably known to it.
+c)
+Your firm’s procedure does not describe its documentation and record keeping process. The procedure does not include a description of how your firm will ensure access to information that facilitates timely follow-up and inspection by FDA.
+2)
+Failure to report to the FDA no later than 30 calendar days after the day your firm received or otherwise became aware of information that reasonably suggests that a device marketed by your firm has malfunctioned and would be likely to cause or contribute to a death or serious injury if the malfunction were to recur, as required by21 CFR Part 803.50(a)(2).
+For example:
+Complaint CF090223-109 describes a fire inside the
+(b)(4)
+analyzer, involving the power supply that resulted in the evacuation of the laboratory and the notification of the local fire department. The device caught fire during use. A malfunction that results in a fire is likely to cause or contribute to a death or serious injury if it were to recur, regardless of where the event takes place and therefore must be reported to FDA as a malfunction.
+The response dated 07/03/2011 is not adequate. Although your firm submitted multiple MDRs including MDR #1061932-2011-00374 for complaint number CF090223-109, your firm’s revised procedures
+AES-003 AE & Safety Review
+and
+AES-004 Administrative Review
+do not meet the requirements of 21 CFR Part 803.17, as referenced above and described in the following:
+1)
+The MDR procedure does not contain a standardized process or procedure for determining when an event meets the criteria for MDR. For example:
+a)
+The definitions in Section 7 of AES-003 are not consistent with the language in Part 803.3.
+i)
+The definition of a malfunction narrows the scope of events that your firm will consider as “likely to” cause or contribute to a reportable event because the definition limits reporting to only those malfunctions that are likely ((b)(4) or better) to recur. The definition, if not corrected, may result in failure to submit reportable malfunction events to FDA.
+ii)
+Defining
+Recur
+outside of the definition of an MDR Reportable event is misleading. Your definition also does not describe where the user of this document would find the Subcommittee definition.
+iii)
+The definition of
+become aware
+is incomplete and does not describe the circumstances under which your firm is considered to have become aware of a reportable event. The definition also omits the timeframes under which your firm must report.
+iv)
+This section needs to include definitions for
+MDR reportable
+event (Part 803.3) and
+reasonably known
+(Part 803.50(b)).
+2)
+The classifications, e.g. Type 1, of Customer Feedback/complaint events used to interpret or decide if an event is reportable, needs to be defined in all documents in which they are mentioned.
+3)
+The application of your firm’s MDR Decision Tree in Appendix A of procedure AES-003 may result in inadequate or non-reporting of events that meet the definition of MDR reportability for the following reasons:
+a)
+Step 2
+: Your firm cannot base its reportability decision solely on user facility input. Your firm’s evaluation of an event for reportability needs to include all information obtained during its investigation of the event.
+b)
+Step 5
+: Your decision tree fails to correctly consider events that may be caused by user error. Events involving user error may be reportable if the user error caused or contributed to, or was a factor in the event.
+c)
+Step 6
+: Does not direct the user of this document to the “existing risk analysis documentation, e.g., PSR”. This documentation is needed for him/her to determine whether a malfunction is likely to cause or contribute to a death or serious injury and thus avoid incorrectly classifying an event as not reportable.
+d)
+Steps 9 &10
+: Your firm needs to consider the device test system performance collectively when making a reportability decision. It is not acceptable to limit consideration of reportability only to failures of a device’s components, raw materials or technological characteristics. The decision should be based on the performance of the finished device as a whole, including the impact on the patient or device operator as a result of a failure of the device. It is misleading to indicate that the reportability decision can be made only by asking the question, “Has this common component, raw material or technological characteristic malfunctioned and is this malfunction the subject of this event?”.
+This may result in incorrectly ruling out an MDR reportable event.
+4)
+The procedure fails to provide instructions for the timely submission of complete medical device reports. For example:
+a)
+It does not include instructions for your firm to submit an MDR within 30 days after the day your firm becomes aware of information that reasonably suggests that a device it markets may have caused or contributed to a reportable event.
+b)
+The procedure fails to describe the circumstances under which your firm must submit 5-day, or supplemental or follow-up reports.
+c)
+The procedure fails to describe the types of information to be included in the FDA Form 3500A or that all information reasonably known must be included in the 3500A report.
+Note: Every event must be evaluated for reportability. If your firm excludes events from consideration based on the lists of commonly encountered events in procedure AES-004, an event may be classified as “No File” when it actually meets criteria for MDR reportability under Part 803.
+The adequacy of the response dated 08/30/2011 cannot be determined. The response did not contain any additional information relative to Observation #3.
+If your firm wishes to discuss MDR reportability criteria or to schedule further communications, you may contact the MDR Policy Branch at 301-796-6670 or by email at
+MDRPolicy@fda.hhs.gov
+.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the Food and Drug Administration without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies are advised of the issuance of all Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+Your response should be sent to: Andrea H. Norwood, Compliance Officer 555 Winderley Place, Suite 200, Maitland, FL 32751.
+If you have any questions about the content of this letter please contact Ms. Norwood at (407) 475-4724.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely,
+/S/
+Emma R. Singleton
+Director, Florida District
+-
+-
+Close Out Letter
+Beckman Coulter, Inc. - Close Out Letter 1/21/14
+-

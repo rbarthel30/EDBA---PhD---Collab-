@@ -1,0 +1,96 @@
+Abbott Diabetes Care, Inc. 7/2/10
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+San Francisco District
+1431 Harbor Parkway
+Alameda, CA 94502-7070
+Telephone: 510/337-6700
+WARNING LETTER
+VIA UPS EXPRESS
+July 2, 2010
+Ms Heather L. Mason
+President
+1360 South Loop Road
+Alameda, California 94502
+Dear Ms. Mason:
+During an inspection of your firm located in Alameda, California between 8, 2010 and March 5, 2010, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures the FreeStyle glucose monitoring and the Navigator continuous monitoring systems. These devices are in-vitro glucose monitoring and continuous monitoring systems to measure glucose (sugar) in whole blood. These devices are intended for use by healthcare professionals and home use. Under section 201 (h) of the and Cosmetic Act (the Act), 21 U.S.C. 321 (h), these products are devices because they are intended for use in the diagnosis of disease, or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) regulation found at 21 CFR Part 820. We received your response dated March 26, 2010, in addition to responses dated April 23, 2010 and May 25, 2010 from Mary C. Getz, Division Vice President Quality Assurance and Compliance, concerning our investigator's observations noted on the Form FDA 483, List of Inspectional Observations that was issued to you. We address your March 26, 2010 response below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1. Failure to adequately validate with a high degree of assurance and approve according to established procedures, a process that cannot be fully verified by subsequent inspection and test as required by 21 CFR 820.75(a). For example, section
+(b)(4)
+of Document
+(b)(4), (b)(4),
+requires a
+(b)(4)
+sample for quality control testing and inspection. Section
+(b)(4)
+of this document describes
+(b)(4)
+for each of the
+(b)(4)
+on the
+(b)(4)
+.
+For lot #s 0804427, 0804521 and 0804624 the
+(b)(4)
+sample for quality control testing and inspection was not performed as required by section
+(b)(4)
+.
+For lot #s 0811405 and 0811433 the
+(b)(4)
+were not performed as required by section
+(b)(4)
+.
+We have reviewed your response dated March 26, 2010, and have concluded that its adequacy cannot be determined at this time. You have initiated and CAPA investigation to determine the failure to follow the protocol and have acknowledged that the failure did occur. However, you have not completed the investigation and have not provided documentation of the investigation or the corrective action.
+2. Failure to verify or validate the corrective ad preventative action to ensure that such action is effective and does not adversely affect the finished device as required by 21 CFR 820.100(a)(4). For example:
+a.
+Exception Report ER
+(b)(4)
+was initiated for further action concerning empty blister packs being produced on the Noack Blister Packer at one of Abbott’s establishments. This ER referenced two additional ERs,
+(b)(4)
+and
+(b)(4)
+, that were initiated for empty blister packs. There was no corrective action or effectiveness check performed for ER
+(b)(4)
+.The firm’s CAPA procedure requires an effectiveness check be developed for each ER. This exception report did not include all actions required by the CAPA procedure to complete the effectiveness check.
+b.
+ER
+(b)(4)
+was initiated on April 8, 2008, for scratches on FreeStyle Lite strips. This ER was closed with no corrective action or effectiveness check. This ER links to ER
+(b)(4)
+which was initiated on August 3, 2007 and identifies six corrective actions. Three of these corrective actions had no effectiveness check. The firm’s CAPA procedure requires an effectiveness check be developed for each ER. This exception report did not include all actions required by the CAPA procedure to complete the effectiveness check.
+We have reviewed your response dated March 26, 2010, and have concluded that its adequacy cannot be determined at this time because you did not provide evidence of your correction or corrective action.
+3. Failure to establish and maintain adequate procedures for validating device design as required in 21 CFR 820.30(g). For example, there were four revisions of the Navigator shelf life environmental design verification protocol. The first revision was never used, the second revision was used at the start of the validation and the third revision was used at the completion of the real time aging of the units and the verification/validation of the tests. The final revision requires that the real life units be tested at
+(b)(4)
+and
+(b)(4)
+months. The testing that was done was done at
+(b)(4)
+and
+(b)(4)
+months, instead of
+(b)(4)
+and
+(b)(4)
+months. The testing report was reviewed and accepted by a design cross functional group which included the project manager, regulatory affairs, quality assurance and research and development.
+We have reviewed your response dated March 26, 2010, and have concluded that it is not adequate. Although you have updated the procedure for design control to improve the level of change to protocols, your response does not address the failure to follow the procedures that was documented in the observation.
+4. Failure to have sufficient personnel with the necessary education, background, training, and experience to assure that all activities required by 21 CFR 820 are correctly performed, as required by 21 CFR 820.25(a). For example:
+a.
+The job description for the Director of Quality Systems requires that the person have a Bachelor of Science/Technical/or Engineering discipline. The person holding the position does not have this type of degree, but rather a Business Administration degree.
+b.
+The person holding the Regulatory Affairs Manager position lacks the minimum of 5 years of regulatory experience required in the job description.
+c.
+The person holding the Quality Control Supervisor position lacks the required Bachelor degree in science or the alternative five to eight years experience in Quality Control.
+d.
+The person holding the Calibration Coordinator position lacks the required Bachelor degree and the four years of relevant experience.
+We have reviewed your response dated March 26, 2010, and have concluded that it is not adequate because the replacement Regulatory Affairs Manager does not have qualifications that meet the qualifications required in the job description. You stated that you are conducting a global review of personnel to compare qualifications and job descriptions of all individuals who have direct product impact to determine if their background and experience match the requirements of their current job description and are conducting a review of the Human Resources processes that support the development of job descriptions and the identification and selection of personnel. However, this process is ongoing and evidence of its completion and effectiveness was not provided.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the Food and Drug Administration without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Federal agencies are advised of the issuance of all Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within 15 working days from the date you receive this letter of the specific steps you have taken to correct the noted violations, which may include notification of your current and past customers. Your response should also include an explanation of how you plan to prevent these violations, or similar violations, from occurring again. Include documentation of the corrective action you have taken. If your planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective action cannot be completed within 15 working days, state the reason for the delay and the time within which the corrections will be completed.
+Your response should be sent to: Mr. Lawton W. Lum, Compliance Officer.
+If you have any questions about the content of this letter please contact: Mr. Lum at (510) 337-6792 or by fax at (510) 337-6703.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, Form FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality assurance systems. You should investigate and determine the causes of the violations, and take prompt actions to correct the violations and to bring your products into compliance. actions to correct the violations and to bring your products into compliance.
+Sincerely yours,
+/S/
+Barbara J. Cassens
+District Director
+-

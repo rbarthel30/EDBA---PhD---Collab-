@@ -1,0 +1,167 @@
+Globus Medical, Inc. 9/26/13
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+PHILADELPHIA DISTRICT
+900 U.S. Customhouse
+2nd and Chestnut Streets
+Philadelphia, PA 19106
+Telephone: 215-597-4390
+WARNING LETTER
+13-PHI-33
+September 26, 2013
+CERTIFIED MAIL
+RETURN RECEIPT REQUESTED
+Mr. David C. Paul
+President and CEO
+Globus Medical Inc.
+2560 General Armistead Ave.
+Audubon, Pennsylvania 19403
+Dear Mr. Paul,
+During an inspection of your firm located at 2560 Armistead Ave., Audubon, Pennsylvania, conducted between May 7, and June 4, 2013, an investigator from the United States Food and Drug Administration (FDA) determined that your firm manufactures Microfuse Putty. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), your MicroFuse Putty is a device because it is intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or is intended to affect the structure or any function of the body.
+Quality System Violations
+This inspection revealed that your device is adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, its manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820. We received a response from you dated June 24, 2013, concerning our investigator’s observations noted on the Form FDA 483 (FDA 483), List of Inspectional Observations, which was issued to your firm. We address this response below, in relation to each of the noted violations. These violations include, but are not limited to the following:
+Failure to document the review and evaluation of a process performed in response to changes or process deviations, as required by 21 CFR 820.75 (c).
+For example, a review of the Radiation Dose Audit: Method VDmax Final Report, dated February 22, 2013, for the 2012, Q4 QDA (Quarterly Dose Audit) for Microfuse Putty, revealed
+(b)(4)
+test samples for sterility were reported positive for growth, which confirmed the radiation dose was not substantiated, and according to
+SOP # MFG.011, REV J, dated 11/11/2011,
+(b)(4)
+required re-validation which was not performed. The report also documented that the dose audit bioburden resulted in approximately a five factor increase from the validation bioburden and stated another method should be used to establish a sterilization dose. The QDA nonconformance was not documented on a Nonconforming Material Report (NCMR), as required by
+SOP # 8.3, Rev #B, dated 2/5/2010
+(b)(4)
+. There was no assessment as to the potential effect to the sterility assurance level of
+(b)(4)
+validated for the Microfuse Putty in distribution and inventory, and what actions were necessary to remediate the risk to the end user. For example, three (3) lots (including
+(b)(4)
+,
+(b)(4)
+, and
+(b)(4)
+) were identified as being manufactured during the frequency range of the dose audit, and had either been shipped or were in the current inventory.
+Your firm’s response dated June 24, 2013, is not adequate. Your firm stated in your response that QDAs have
+historically shown low bioburden values associated with every audit, indicating a clean process. Additionally, laboratory contamination issues were found at the facility in the same time period, with the same microorganisms found in the samples. The testing laboratory investigated these issues, and concluded that the test results were still valid. Although an investigation was carried out, the QDA failure was not raised as a non-conformance, and a CAPA was not initiated within your firm’s Quality System to document the elevated bioburden and positives results until our inspection. Your firm did not meet its design specifications for SAL, which was
+(b)(4)
+, but your firm stated that a Health Hazard Evaluation (HHE) was performed by a third party consultant, and concluded that the product can be considered sterile to an SAL of
+(b)(4)
+. In addition, your firm did not follow its Sterilization Validation SOPs, which required re-validation following a dose audit failure.
+Failure to assure that products that do not conform to specifications are adequately controlled, as required by 21 CFR 820.90(a).
+For example, a review of four (4) NCMRs (including #s 12-0034, dated 1/23/2012; 12-0113, dated 3/19/2012; 13-0052, dated 1/15/2013; and 13-0353, dated 3/26/2013), for MicroFuse Putty, revealed that five (5) lots were documented as not meeting your firm’s specification for mechanical testing and were subsequently released to the marketplace. Our review of the Design History File for this product documented that mechanical testing had been conducted following the requirements of Test Report TR-0088, titled “Mechanical Testing of MicroFuse Putty”, dated 7/21/2010, which confirmed a product specification between
+(b)(4)
+as the acceptance criteria for the maximum compressive load for the putty. The report also states that the test will be used as the product specification to ensure that units of a specific lot are appropriately processed and ensure that all MicroFuse Putty production lots will have a soft, moldable consistency. This specification was also validated as part of "Process Validation for MicroFuse Putty", documented under validation report VR.0073, dated 11/29/2010, based on the results from
+(b)(4)
+post sterilization samples. Further review of the NCMRs documented that these lots were released without fully meeting the minimum specification of
+(b)(4)
+, and a decision was made to accept the failed MicroFuse Putty lots based on qualitative assessments and not the validated design specification. The values of the mechanical tests that failed are documented in the table below:
+NCMR #
+Lot Numbers
+Sample Numbers
+Value in Newtons
+12-0034
+(b)(4)
+1,3
+3.27073, 3.63305
+12-0034
+(b)(4)
+1,2
+3.48506, 3.31759
+12-0113
+(b)(4)
+2
+3.88
+13-0052
+(b)(4)
+1,2
+1.23929, 2.92313
+13-0353
+(b)(4)
+2,3
+3.33745, 3.18160
+Memos attached to NCMR 12-0113, dated 3/27/2012, and also to NCMR 13-0353, dated 4/1/2013, documented changes that had been put in place allowing the acceptance of this material by performing a handling evaluation, in lieu of the validated mechanical test. The release of the lots was entirely based on qualitative assessments and engineering rationale, which had not been validated as part of the firm’s design control requirements for assurance the change did not affect the functionality of the product. The acceptance criteria for the handling evaluation included a determination of stickiness, cohesiveness, and moldability, as part of releasing the product.
+Your response dated June 24, 2013, is not adequate. Your firm stated in its response that mechanical
+testing for the MicroFuse Putty product is not a design input (“Functional and Design Requirement”), but was included as part of lot release testing. The Design Requirement is that the product is capable of being sterilized without significantly compromising implant properties. Verification testing conducted in TP/TR.0088, included evaluation of pre and post
+‐sterilized
+products, as well as handling characteristics (soft versus hard); however in regards to the distribution of nonconforming material that did not meet the specification for mechanical testing, your firm’s decision to release the material was not justified at the time of the release. There was no investigation as part of a design change, to state and show that releasing the material based on a subjective qualitative assessment was acceptable, in lieu of a mechanical test, for maximum compressible load, and a
+change control form was not created, to document the reason for the change and if validation was required .
+Failure to establish procedures to control environmental conditions, as required by 21 CFR 820.70 (c)
+For example, there are no requirements for monitoring the pressure gauges used in the designated clean room/clean areas (including areas C, D, E, F, G, and H) which are certified to meet a classification of ISO 5, and are used to manufacture finished devices. The pressure gauge used to record the pressure maintained in Area G was found to be inoperable at the time of our inspection, and manufacturing operations were observed on-going in this area.
+Your response dated June 24, 2013, is not adequate. Your firm stated that Globus
+products that are manufactured in
+‐house
+do not require Class 100,000 (ISO 5) certification; however, pressure monitoring remains important as part of your ISO 5 certification and for maintaining assurance those original validations will continue to control the room cleanliness as designed. In addition, your firm’s performance qualification documents define specific pressure controls.
+MDR Violations
+Our inspection also revealed that your devices are misbranded under Section 502(t)(2) of the Act 21 USC 352 (t)(2), in that your firm failed or refused to furnish material or information respecting the devices that is required by or under Section 519 of the Act, 21 USC 360i, and 21 CFR Part 803 – Medical Device Reporting (MDR) Regulation. Significant deviations include, but are not limited to:
+Failure to report to FDA no later than 30 calendar days after the day that your firm received or otherwise became aware of information, from any source, that reasonably suggests that a device that your firm markets may have caused or contributed to a death or serious injury, as required by 21 CFR 803.50(a)(1).
+For example, the following MDR event associated with complaint #COM-10-0014, includes information that reasonably suggests that your firm’s device may have caused or contributed to a serious injury (i.e. paralysis).
+MDR #
+Device Name
+Initial Awareness Date
+Submission Date
+Time late
+3004142400-2012-00026
+Signature TLIF Spacer, small
+1/5/2010
+11/14/2012
+Over 2 ½ years
+Failure to report to us no later than 30 calendar days after the day that your firm received or otherwise became aware of information, from any source, that reasonably suggests that a device that your firm markets has malfunctioned and this device or a similar device that it markets would be likely to cause or contribute to a death or serious injury, if the malfunction were to recur, as required by 21 CFR 803.50(a)(2).
+For example, the following MDR events associated with complaints# COM-11-0339, COM-11-0343, COM-11-0341, COM-11-0340, COM-11-0195, COM-12-0598-01, COM-12-0584, COM-10-0204, COM-0231 and COM-10-0313 included information that reasonably suggests that your firm’s devices malfunctioned.
+MDR #
+Device Name
+Initial Awareness Date
+Submission Date
+Time late
+3004142400-2011-00021
+Unknown Globus Medical Pedicle Screw
+5/15/2011
+7/14/2011
+30 days
+3004142400-2011-00020
+Transition Polyaxial Pedicle Screw
+5/15/2011
+7/14/2011
+30 days
+3004142400-2011-00019
+Transition Polyaxial Pedicle Screw
+5/15/2011
+7/14/2011
+30 days
+3004142400-2011-00008
+Beacon Rod and Revere Screw and Locking Cap
+3/24/2011
+5/5/2011
+12 days
+The devices involved in the above complaints are long term implantable devices. The Preamble, in the Medical Devices; Medical User Facility and Manufacturer Reporting, Certification and Registration; Final Rule, 60 Fed. Reg. 63585 (Dec. 11, 1995), states that a malfunction of a long- term implant is reportable to FDA. The MDRs submitted to FDA were received beyond the 30 calendar day timeframe.
+In addition, the information included for complaint #COM-11-0340 references two separate events, the information included for complaint # COM-11-0195 describes two events where two devices where involved and the information included for complaints # COM-10-0204 and COM-0231 involves two devices. Please note that manufacturers must complete and submit a separate
+Form FDA 3500A for each event and each different suspect device. Each 3500A should be given a separate Manufacturer Report Number. Therefore, your firm must submit three additional MDRs, one for each referenced complaint and/or device.
+Failure to adequately develop, maintain, and implement written MDR procedures, as required by 21 CFR 803.17. For example, during the inspection of your firm the procedure titled “
+(b)(4)
+” was collected. The procedure states that it is intended to assist your firm with compliance of 21 CFR Part 803. After reviewing your firm’s MDR procedure titled “
+(b)(4)
+,” SOP 8.3.1, REV H, Effective Date 01/04/12, the following issues were noted:
+a)
+SOP 8.3.1, REV H does not establish internal systems that provide for timely and effective identification, communication, and evaluation of events that may be subject to MDR requirements. Specifically, there are no definitions of what your firm will consider to be a reportable event under 21 CFR Part 803. To facilitate the correct interpretation of reportable events and to assure the quality of MDR submissions, the procedure should include definitions based on 21 CFR 803.3 for the terms “become aware,” “caused or contributed,” “malfunction,” “MDR reportable event,” and “serious injury,” and definitions for the terms “reasonably known” and “reasonably suggests,” found respectively in 21 CFR 803.50(b) and 803.20(c)(1).
+b)
+SOP 8.3.1, REV H does not establish internal systems that provide for timely transmission of complete medical device reports. Specifically, the following are not addressed:
+1.
+Instructions for how to obtain and complete the FDA 3500A form.
+2.
+Circumstances under which an event must be submitted as a 5-day report.
+3.
+The procedure does not include the address for where to submit MDR reports: FDA, CDRH, Medical Device Reporting, and P. O. Box 3002, Rockville, MD 20847-3002.
+Your response dated June 24, 2013, is not adequate. Your firm noted that it conducted training of its employees about adequate MDR reporting timeframes and reporting procedures. However, your firm’s MDR procedure is not adequate as noted above. Your firm should submit a revised MDR procedure.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen (15) business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm's planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm's response should be comprehensive and address all violations included in this Warning Letter.
+Your written response should be sent to Yvette I. Johnson, Compliance Officer, U.S. Food and Drug Administration, 900 U.S. Customhouse, 200 Chestnut Street, Philadelphia, Pennsylvania 19106. If you have any questions about this letter, please contact Ms. Johnson at (215) 717-3077 or e-mail at
+Yvette.Johnson@fda.hhs.gov
+.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely,
+/S/
+Kirk D. Sooter
+District Director
+Philadelphia District
+-
+-
+Close Out Letter
+Globus Medical Inc. - Close Out Letter 3/18/14
+-

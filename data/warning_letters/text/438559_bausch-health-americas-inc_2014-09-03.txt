@@ -1,0 +1,580 @@
+Valeant Pharmaceuticals International 9/3/14
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+New
+Jersey
+District
+Office Central Region
+Waterview
+Corporate Center
+10 Waterview Blvd. 3rd Floor
+Parsippany,
+New Jersey 07054
+Telephone: (973) 331-
+4900
+FAX: (973) 331-4969
+September 3,
+2014
+UPS
+OVERNIGHT DELIVERY
+WARNING LETTER
+Mr.
+John Michael Pearson
+CEO
+Valeant
+Pharmaceuticals International
+400
+Somerset Corporate Blvd.
+Bridgewater, NJ 08807
+14-NWJ-10
+Dear
+Mr. Pearson:
+During
+an inspection of
+your
+firm
+located at 400
+Somerset Corporate Blvd., Bridgewater
+, New Jersey
+from June
+13,
+2014
+through
+June
+26,
+2014, an
+investigator
+from
+the
+United States Food
+and
+Drug
+Administration (FDA)
+reviewed
+your
+records for
+Sculptra Aesthetic injectable
+poly-L-Lactic
+aci
+d
+.
+Under
+section 201(h)
+of the Federal
+Foo
+d
+, Drug, and
+Cosmetic
+Act (the Act
+)
+, 21
+U.S.C.
+§ 321(h
+)
+, this
+product is a device because
+its intended for use in the
+diagnosis
+of disease or
+other
+conditions
+or
+in the cure, mitigation, treatment,
+or prevention
+of
+di
+seas
+e
+, or
+is intended to affect
+the structure or
+function of
+the body.
+This inspection revealed
+this device
+is
+adulterated
+within
+the meaning of
+section 50
+1
+(h) of the Act (21 U.S.
+C
+. § 351(h)
+)
+, in that the
+methods used in, or the faciliti
+e
+s or controls used fo
+r
+, manufacture, packing, storage,
+or installation
+are
+not in conformity with
+the current
+good
+manufacturing
+practice
+(CGMP) requirements
+of
+the Quality System (QS) regulation
+found at Title
+21,
+Code of Federal
+Regulations
+(CFR), Part 820. We
+received written
+responses
+from
+Stephen B
+. Haight,
+Vice Presiden
+t
+, dated
+July 14
+, 2014
+and August
+1
+4
+, 2014,
+regarding
+our investigator
+'
+s observations noted on the Form
+FDA 48
+3
+, List
+of lnspectional
+Observations that
+wa
+s issued
+on June
+26,
+2014 to Mr. Robert
+Sparadosk
+i
+, Senior Director, Quality
+A
+s
+s
+uranc
+e
+.
+We address these respo
+n
+ses below, in rel
+a
+tion
+to
+each of
+the noted
+violation
+s
+.
+Th
+e
+se violations
+includ
+e
+, but are
+not limited to the following:
+1.
+Failure to establish and maintain procedures that define the responsibility for review and the authority for the disposition of nonconforming product, as required by 21 CFR 820.90(b)(1).
+Specifically,
+your firm has failed to implement procedure GMS-143 (Third Party
+Supplier
+Deviation Reporting and Investigation), Revision 01, effective July 20,
+2012
+which requires your QA/Design Control Center to assess the potential product impact and to review /approve all deviation investigation final reports and review pertinent documents to ensure that a thorough impact assessment of the deviation incident has been made and immediate corrective actions are implemented before the deviation investigation report is approved
+.
+In
+addition, section 3.2 states that your QA/Design Control Center is responsible for ensuring that all corrective actions address all potential root cause(s) identified during the investigation and are properly documented. If a deviation is related to events during product manufacturing or is associated with quality issues with the execution of a batch record, corrective actions must be formally initiated in an existing GMP system and the deviation /investigation must be closed prior to making a batch disposition (i
+.e.
+release/reject).
+For
+exampl
+e
+:
+a.
+Deviation
+event report ANAD13E0072 (dated March 19, 2013) for Sculptra batch A3063 identified the following nonconformities during production: A
+(b)(4)
+used during production measured
+(b)(4)
+which caused an
+(b)(4)
+during the sterilization phas
+e
+; a
+defective
+(b)(4)
+caused a reduction of
+(b)(4)
+inside the
+(b)(4)
+which made it impossible to carry on with the next manufacturing step. As a result of these manufacturing nonconformities
+,
+y
+our
+supplier replaced the
+(b)(4)
+, di
+sassembled and
+repaired the
+(b)(4)
+, and stopped the manufacturing
+process
+for Sculptra batch (launched as A3063 in the order of production) A3063
+A
+; however, there
+was no review and approval conducted by your QA/Design Control Center for this deviation report that was prepared by your third party supplier.
+b.
+Deviation event r
+eport
+ANAD13E0117 (dated April 22,
+2013)
+for Sculptra batch A3066 identified the following nonconformities during production: The maximum pressure recorded during sterilization was over the maximum limit pressure of
+(b)(4)
+due to the clogging of the
+(b)(4)
+in the
+(b)(4)
+which caused an increase of
+(b)(4)
+; a def
+ective
+(b)(4)
+. As a result of these manufacturing nonconformitie
+s,
+your supplier unclogged and cleaned the
+(b)(4)
+, and stopped the
+manufacturing process of Sculptra batch (launched as
+A3066 in
+the order of production) A3066A; however, there was no review and approval conducted by
+your QA/Design Control
+Center for this deviation report that was prepared by
+your third
+party supplier
+.
+We
+reviewed your firm's written responses and conclude that they were not adequate to address these deviations because no evidence was provided to demonstrate that
+your
+firm
+will
+be able to adequately control the review and disposition process
+for nonconforming
+product. The proper review and disposition of nonconforming product is essential for ensuring the safety
+and effectiveness of
+devices.
+2.
+Failure
+to establish and maintain procedures
+for implementing corrective and
+preventive
+action,
+as required by
+21
+CFR 820.
+100(a).
+Specificall
+y
+, your
+firm has
+failed to
+implement procedure GMS-147 (Corrective
+and Preventive
+Action), Revision 01
+(dated December
+4, 2012), section 5.3, by
+not monitoring
+the effectiveness of
+a
+CAP
+A.
+For example,
+CAPA
+#
+2013-002 was
+opened
+due to an internal audit
+conducted August 14-15,
+2013
+which documented
+that complaint trending was not being
+performed, CA
+P
+A's were not opened based on complaints, and
+complaint
+trending is not
+part
+of the Management
+Review key
+performance indicators. Your
+firm's corrective action was to revise GMS-156 version
+0
+1
+, effective 1
+1
+/2
+6
+/1
+2
+, by
+updating
+se
+c
+tion 5.1 to include complaint
+trends. However,
+your firm
+failed to update
+this procedure to
+include complaint
+trending and no monitoring
+was
+performed
+by
+your
+firm to evaluate
+the effectiveness of th
+i
+s CAPA.
+We
+reviewed
+your
+firm's
+responses and
+conclude
+that
+they
+were not adequate because no
+evidence
+was provided
+to demonstrate that your firm
+will be able to investigate
+the cause
+of nonconformities
+relating to product
+, processes,
+and the quality
+system;
+verifying or validating
+the
+corrective and preventive
+action
+to ensure
+that such action is
+effective and does
+not adversely affect
+the finished
+device. For example, procedure GMS-147, Rev
+i
+si
+o
+n
+02, dated January
+24,
+2014 states
+under section 5.2
+that at a
+minimum the
+correctiv
+e
+/preventive action
+plan
+("
+(b)(4)
+") should include the issue
+identified, determine
+if
+the medical d
+evice r
+i
+sk assessment procedure has been
+completed,
+planned corrective/preventive actions,
+and
+target
+date
+for completion
+of plan
+.
+Your
+current Corrective and
+Preventative
+Action
+Plan
+form,
+se
+c
+tionI, is not
+adequate
+since the form does not
+include the
+requirements for conducting
+an
+investigation and
+verifying or
+validating
+the
+corrective
+and
+preventive
+action.
+3.
+Failure to
+establish and maintain procedures to ensure that
+all purchased
+or
+otherwise received
+product and services conform to specified requirements, as required by 21 CFR 820.50.
+Specifically,
+your firm has failed to implement procedure
+GMS-POL-002(GMP Vendor
+I
+Contractor
+Management Program Policy), dated May 25, 2011 by not performing a vendor audit of
+(b)(4)
+who provides
+your firm with a service for
+your Sculptra
+Aesthetic injectable poly-L-Lactic acid product.
+Your firm's
+responses
+to this
+observation
+appear to
+be
+adequate.
+You
+should take prompt action to
+correct the violations addressed
+in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by FDA without further notice. These actions include, but
+are not
+limited to, seizure,
+injunction, and/or civil money penalties.
+Also, federal agencies are advised
+of the issuance of
+all Warning
+Letters regarding devices
+so
+that
+they may take this information into account when considering the award of
+contracts.
+Additionally,
+premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related will
+not be
+approved
+until the
+violations have been corrected. Requests for
+Certificates to Foreign Governments will not
+be
+granted until
+the violations related to the
+subject devices
+have been
+corrected.
+Please
+notify
+this office in writing
+within fifteen (15) working
+days from the
+date
+you receive
+thi
+s letter of the specific steps
+you have taken
+to correct the
+noted
+violations, includi
+n
+g an
+explanation of how you plan to prevent
+these violations, or
+similar violations, from occurring again.
+Include
+documentation
+of the corrective
+action you
+have taken.
+If your planned corrections will occur over tim
+e
+, please
+include
+a
+timetable for implem
+entation
+of tho
+se
+corrections.
+If cor
+r
+ecti
+v
+e action cannot
+be completed
+within 15 worki
+n
+g d
+a
+ys, state
+the rea
+son
+for th
+e delay and the time
+within which the corrections
+will be completed.
+Your respo
+n
+se
+s
+hould be
+sent to: Robert
+J. Maf
+f
+ei, Compliance
+Office
+r
+, U.
+S
+. Food
+and
+Drug Admin
+i
+stration, 10 Waterview
+Boulevard
+, 3rd
+Floo
+r
+, Parsippany,
+New Jersey
+, 07054.
+If you have any questio
+n
+s about
+the content of this
+letter, please contact Mr. Maffei
+at 9
+7
+3-
+3
+31-4906.
+Finally,
+you should know that this letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observation
+s
+, Form
+FDA 483 (FDA 483), issued at the closeout of the inspection may be symptomatic of serious problems
+in your
+firm
+'s manufacturing and
+quality management systems
+.
+You
+should investigate and determine the causes of the violations, and take prompt actions to correct the violations and to bring your products into compliance.
+Sincerely yours,
+/S/
+Diana Amador-Toro
+District Director
+New Jersey District Office
+-

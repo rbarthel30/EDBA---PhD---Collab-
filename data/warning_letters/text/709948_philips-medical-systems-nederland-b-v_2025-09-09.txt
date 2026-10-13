@@ -1,0 +1,237 @@
+WARNING LETTER
+Royal Philips
+MARCS-CMS 709948 —
+September 09, 2025
+More Warning Letters
+Delivery Method:
+VIA Electronic Mail
+Product:
+Medical Devices
+Recipient:
+Recipient Name
+Roy Jakobs
+Recipient Title
+Chief Executive Officer
+Royal Philips
+Amstelplein 2
+1096 BC
+Amsterdam
+Netherlands
+(b)(6)@philips.com
+Issuing Office:
+Center for Devices and Radiological Health
+United States
+WARNING LETTER
+CMS # 709948
+September 9, 2025
+Dear Mr. Jakobs:
+The United States Food and Drug Administration (FDA) conducted the following inspections of your firm’s medical device facilities:
+Philips Ultrasound, LLC, located at 22100 Bothell Everett Highway, Bothell, WA (FEI No. 3019216) (“Bothell”), between January 13, 2025, and January 31, 2025;
+Philips Ultrasound, LLC, located at 1 Echo Drive, Reedsville, PA (FEI No. 2518586) (“Reedsville”) between January 23, 2025, and March 13, 2025; and
+Philips Medical Systems Nederland B.V., located in Eindhoven, the Netherlands (FEI No. 3000976525) (“Nederland”) between January 13, 2025, and January 17, 2025.
+During these inspections, FDA investigators determined that Philips Ultrasound and Philips Medical Systems Nederland B.V. manufacture a variety of medical devices, such as the EPIQ Elite Ultrasound system, manufactured at Bothell, Ultrasound Transducers manufactured at Reedsville, and the IntelliSpace Cardiovascular and the eCareManager, manufactured at Nederland. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+Quality System Regulation Violations
+The above-referenced inspections revealed that the devices manufactured at the Bothell, Reedsville, and Nederland facilities are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21,
+Code of Federal Regulations
+(CFR), Part 820.
+We received responses from Roxanne Ramirez, Head of Quality, Philips Ultrasound, dated February 24, 2025, March 26, 2025, and April 30, 2025, and from Ondrea Bermudez, Head of Quality, Philips Ultrasound, dated June 12, 2025, and August 14, 2025, concerning the Form FDA 483 (FDA 483), List of Inspectional Observations, that was issued to the Bothell facility on January 31, 2025. We also received responses from Ms. Ramirez dated April 3, 2025, and May 16, 2025, and from Ms. Bermudez, dated July 11, 2025, concerning the observations noted on the FDA 483 that was issued to the Reedsville facility on March 13, 2025. Finally, we received responses from Rohini Gadre, Head of Quality, Philips Patient Care Informatics, dated February 10, 2025, March 17, 2025, and May 9, 2025, concerning the observations noted on the FDA 483 that was issued to the Nederland facility on January 17, 2025.
+We address these responses below in relation to each of the noted violations. The violations observed include, but are not limited to, the following:
+1. Failure to establish and maintain procedures to ensure that all purchased or otherwise received product and services conform to specified requirements, as required by 21 CFR 820.50.
+During the Bothell inspection, the investigators observed that Philips Ultrasound outsources complaint handling and Medical Device Reporting (MDR) activities to its contractor, the Philips Corporate Global Complaint Handling Operations (GCHO) team. This team operates within Philips Quality Enterprise Services (QES), which consists of Philips employees that operate outside of Philips Ultrasound. The Service Level Agreement with GCHO, section 2.1, outlines the activities and services for which GCHO is responsible, including complaint evaluation, investigation, closure, regulatory reporting decision making, and submission. The 16.2.18 Manage Supplier Quality Procedure includes the definition of a supplier, which includes internal suppliers of services. However, the procedure titled, 16.2.18 Manage Supplier Quality, has either not been implemented or is not being followed for GCHO. For example:
+a. Philips Ultrasound does not have adequate documentation to support or demonstrate that they have evaluated GCHO on their ability to meet quality requirements, as required by 21 CFR 820.50(a)(1), nor does Philips Ultrasound have adequate documentation to support or demonstrate that they have defined the type and extent of control to be exercised over GCHO as the complaint handling and MDR contractor, as required by 21 CFR 820.50(a)(2). For example:
+i. Philips Ultrasound does not have any documentation to demonstrate that the GCHO is evaluating complaints to ensure that complaint files are accurate and complete.
+ii. Philips Ultrasound has not evaluated GCHO on their ability to adhere to their Complaint Handling Procedure 9037-0052, specifically step 5.6.1, which requires that they evaluate each complaint for risk.
+iii. The Philips Ultrasound Service Level Agreement (SLA) describes a requirement for GCHO to provide quality KPI data, market data KPIs, as well as conduct operational and performance monitoring. However, the documentation provided to demonstrate that quality data was being reviewed included only metrics related to the number of complaints being opened on a monthly basis and the status of those complaints.
+b. Philips Ultrasound has not listed GCHO as an approved or acceptable contractor on their Approved Suppliers List, as required by 21 CFR 820.50(a)(3).
+c. There is no documented agreement that the complaint handling contractor, GCHO, agrees to notify Philips Ultrasound of changes in provided services to determine whether the changes may affect the quality of a finished device, as required by 21 CFR 820.50(b).
+We reviewed Philips Ultrasound’s responses to the Bothell inspection and are able to confirm that GCHO is now listed on the Philips Ultrasound Approved Supplier List and there is now an executed agreement under which QES will notify Philips Ultrasound of any changes in provided services so that Philips Ultrasound can assess whether the changes might have an impact on the quality of a finished device. We are not able to determine the adequacy of the proposed corrective actions with respect to Philips Ultrasound’s evaluation of GCHO on its ability to meet quality requirements. We request that you provide details on how Philips Ultrasound will confirm that the GCHO organization is complying with all of Philips Ultrasound’s specified requirements, as described above, including adherence to revised complaint procedures.
+2. Failure to establish and maintain procedures for receiving, reviewing, and evaluating complaints by a formally designated unit, as required by 21 CFR 820.198(a).
+a. During the inspections of the Bothell and Reedsville facilities, the investigators reviewed Philips Ultrasound’s complaint processes. Philips Ultrasound’s management explained that GCHO is responsible for complaint intake, triage, investigation, and regulatory reporting, and assigns Bothell to perform technical complaint investigations. However, according to Section 8.2.2 of QMS 0048, the Quality Manual for Philips Ultrasound, the Bothell site is designated as the location responsible for complaint handling. Neither this document nor any of Philips Ultrasound’s complaint procedures, including Work Instruction - 16.2.8.2 Investigate Complaint, provide any delineation of responsibility of the separate locations (GCHO, Bothell) as described during the inspection.
+b. During the inspections at Bothell and Reedsville, the FDA investigators observed two examples where complaint investigations were not included as part of the complaint record. The Philips Ultrasound Work Instruction - 16.2.8.2 Investigate complaint, Step 4.5.3. states, “In cases where it is determined that additional supporting investigation or review is required, the investigator creates a child ‘Investigation’ record to support the complaint investigation/review.” Also, the Philips Ultrasound Complaint Handling Procedure, 9037-0052, step 5.2, states “When an investigation is made (including any supplier investigations), the record of the investigation is maintained by the CHU….” The complaint procedure, step 3.4 Retrieving Samples and Returned Samples, also states that “The CHU documents in the complaint record all retrieval efforts when a device/component is required for further investigation.” For example:
+i. Complaint file 3478631 was opened on June 3, 2023, for the EPIQ CVX Ultrasound system and indicated that the “System is shutting itself down during a stress echo exam - it is just rebooting over and over again.” The complaint report states in the Investigation summary that “A functional analysis was performed and identified that the system was shut itself down. Transducer was replaced, which resolved the issue” (errors in original). The complaint also noted for the transducer, X5-1c, “FAILED: HARDWARE/ MECHNICAL PROBLEM.” The complaint was closed on June 15, 2023. The complaint record did not document that there was an attempt to retrieve the device, as required by the complaint procedure. We understand from the Bothell response that the transducer was returned for repair on August 10, 2023, and information from the repair process was not fed back into the complaint record.
+ii. Complaint file 4145110 was opened for the EPIQ CVx Ultrasound system on December 5, 2023, indicating “Patient complaining about the housing for the cardiac probe X5-1C/Customer does not have probe.” Bothell indicated a duplicate complaint 4145154 was also opened for this event, which noted “During Echo Study when using x5-1c; Patient Suffered Minor Abrasion” and “Customer claims probe broke skin.” Complaint report 4145110 states, “Based on the evidence available the reported problem was confirmed. A functional analysis was performed and identified the indicating Customer claims probe broke skin. Transducer, X5-1c replaced, which resolved the issue.” The complaint also noted that the X5-1c was being returned for evaluation. The complaint was closed on December 7, 2023. The inspection at Reedsville confirmed that an investigation was not opened for complaint 4145110 or 4145154, and there was no information in the complaint record that the transducer was evaluated when returned.
+c. During the Bothell inspection, the investigators observed that a complaint was not processed as required by Philips Ultrasound’s procedure. The procedure, Manage Complaints, 16.2.8, defines a complaint as “as any written, electronic, or oral communication that alleges deficiencies related to the labeling, identity, quality, durability, reliability, usability, safety, security, effectiveness, or performance of a product after it is released for distribution.” Complaint 4957970 was opened on July 12,
+2024, and reported performance issues with the transesophageal (TEE) probe, Model X11-4t transducer, which occurred during three separate clinical exams, with three separate patients, “Unable to get trans gastric and deep trans gastric views….”
+Complaint 4957970 was closed on/around November 25, 2024, and was classified as a “Non-Complaint.” It contained the following note, “Our evaluation concluded that the device did not perform as intended, however, this malfunction does not pose a risk to health of patients, users, or bystanders and did not allege a serious injury or death.” According to Philips Ultrasound’s procedures, this should be included as a complaint in its system, as it alleged a deficiency related to the performance of its product.
+d. At the Reedsville facility, Philips Ultrasound failed to establish and maintain procedures for receiving, reviewing, and evaluating complaints by a formally designated unit, including procedures to ensure that all complaints are processed in a uniform and timely manner, as required by 21 CFR 820.198(a)(1). For example, Philips Ultrasound’s procedure, SOP MS-QMS Operating Procedure Complaint INVESTIGATION WORKFLOW PROCEDURE, step 5.2.2 describes priorities for investigations and assigns target dates to complete the investigations (critical 5 days, high 5-7 days, medium 10-15 days, and low 30 days). A review of the investigations from 2022-2025 revealed that 54 investigations did not meet the target dates, and 23 of those were 100 days past their target dates. We also noted that 32 of the 54 investigations were associated with MDRs.
+e. At the Bothell facility, Philips Ultrasound failed to establish and maintain procedures for receiving, reviewing, and evaluating complaints by a formally designated unit, to ensure that complaints are evaluated to determine whether the complaint represents an event that is required to be reported to FDA under 21 CFR part 803, as required by 21 CFR 820.198(a)(3). Procedure 16.2.8 Manage Complaints requires that all complaints be evaluated to determine if the event is potentially reportable. The procedure states that “reportable product problems include defects, labeling, malfunctions, or user errors that would be likely to cause or contribute to a death or serious injury if the problem were to recur.” The following complaint files involving transducers did not contain the information necessary to make this determination:
+i. Complaint file 3936653 was opened on October 9, 2023, and reported that the “probe broke in half during cleaning process.” However, information included in this complaint contains conflicting information noting that the “probe broke in half during routine transvaginal exam.” As such, Complaint file 3936653 is not complete and does not document that Philips Ultrasound adequately reviewed, evaluated, or investigated the event. Complaint file 3936653 also does not document an adequate evaluation of this event for MDR reportability, or a reevaluation when additional information was obtained.
+ii. Complaint file 3117374 was opened on March 9, 2023, and reported that “there are times when it works and then stops working during an exam.” Information included in this complaint report states that a customer “was talking to a rep wo definitely hang up on her and has patient in open heart surgery on the table- was trying to get hold of FSE that was onsite to get assistance due to issue still coming up” (errors in original). This complaint does not document that Philips Ultrasound obtained any additional information regarding actual use conditions, patient involvement, or related details regarding the reported open heart surgery event. It also does not document an adequate evaluation of this event for MDR reportability and was determined to be closed with no further investigation needed.
+iii. Complaint file 1440358 was opened October 20, 2021, and the complaint reported that the “transducer head separated from the body of the transducer.” Service Max Case number 0118563038, associated with this complaint, did not document that Philips Ultrasound, including the service technician(s) or complaint handler(s), documented the actual use conditions or these specific event details as part of Complaint 1440358. Information related to this complaint noted the event occurred during a patient exam. This complaint file is not complete and does not document that Philips Ultrasound adequately reviewed, evaluated, or investigated the event. Complaint 1440358 also does not document an adequate evaluation of this event for MDR reportability.
+f. We identified the following at your Nederland facility:
+i. While the procedure 16.2.8.1 “Evaluate Complaint” states that a complaint should be classified based on whether it represents a “Potentially Reportable Event (PRE),” it does not incorporate adequate instructions for determining whether a complaint represents a PRE, in that the criteria do not include malfunctions that would be likely to cause or contribute to a death or serious injury if the malfunction were to recur.
+ii. Any complaint involving the possible failure of a device to meet any of its specifications shall be reviewed, evaluated, and investigated, unless such investigation has already been performed for a similar complaint and another investigation is not necessary, per 21 CFR 820.198(c). Per the “Defect Management Operating Procedure,” Document 2005000033, dated April 2022, when a software defect is found, it is escalated to the Defect Management system, and a ticket is initiated to correct the software. However, 11 complaints involved newly identified malfunctions of the IntelliSpace Cardiovascular software product – where the cause of the failures was traced to software coding issues – and the complaints were not escalated to the Defect Management system.
+We are not able to determine the adequacy of the proposed corrective actions for your responses for the Bothell and Reedsville facilities. We understand that Philips Ultrasound has revised their complaint procedures and have updated the corresponding complaint records to include additional information and to address the inspectional findings. However, please provide a detailed description of the responsibilities of GCHO, Bothell, and Reedsville to ensure all complaints are being evaluated and investigated as required. We also request that additional details be provided to ensure that when investigations are required by Philips Ultrasound procedures, those investigations are included in the individual complaint records before closing the complaint.
+We are not able to determine the adequacy of the responses dated February 10, 2025, March 16, 2025, and May 9, 2025, for the Nederland facility. The responses include an update of the Investigate Complaint SOP to include instructions on defect escalation. The February 10 response (Table 4) includes a column for whether the software issue should be escalated, and another column with a rationale for why the issue was not escalated. The rationale for the sample defects appears adequate. In the response’s “Memo for Retrospective Review of 127 complaints Obs3b,” it states “See Attachment ‘127 complaints_Obs3b.xlsx.’ for the details of the review results,” but the additional attachment was not included in your response. Please provide this attachment.
+We understand that all three sites utilize a similar complaint procedure – 16.2.8 Manage Complaints. We will need to verify during reinspections that planned corrections to the complaint systems will be effective at preventing these deficiencies from recurring.
+3. Failure to establish and maintain procedures for control and distribution of finished devices to ensure that only those devices approved for release are distributed and that purchase orders are reviewed to ensure that ambiguities and errors are resolved before devices are released for distribution, as required by 21 CFR 820.160(a). For example:
+At the Reedsville facility, Philips Ultrasound did not maintain procedures to safeguard against the use of transducers past the expected life of the device or the distribution of the devices past their expected life. The document, Expected Service Life of Ultrasound Transducers, concludes, “the useful life of the ultrasound transducers is verified to be 3 years for all transducers…,” and includes the Endo-Cavity probe, Model 3D9-3v, and the transesophageal (TEE) probe, Model S7-3t
+During the inspection, Philips Ultrasound indicated that there are currently
+(b)(4)
+refurbished transducers in the field. We observed 7 transducers that had been refurbished, sent out past their 3-year useful life, and were associated with complaints.
+Model /
+Serial Number
+Manufacture
+date
+# of times
+refurbished
+Last Date
+refurbished
+Age
+years
+Complaint
+Date INV
+opened
+Complaint description
+S7-3t
+B34PHN
+12/23/2019
+3
+10/11/2024
+5
+INV11239
+2.28.22
+S7-3t is not angling the tip correctly
+S7-3t
+B131BH
+04/22/2014
+3
+11/16/2023
+10
+INV11578
+3.6.23
+One of the articulating knobs
+is not working. ---> need
+failure assessment of
+transducer assembly upon its
+return
+S7-3t
+B1CKJP
+05/06/2015
+2
+4/3/2024
+9
+INV12855
+4.3.24
+Customer made a formal
+complained of part quality.
+The part 453561490019 S7-
+3t early life failure happened
+in 4 months after
+replacement.
+S7-3t
+B37JHB
+06/11/2019
+2
+10/11/2024
+5
+INV12872
+4.8.24
+Heating issues, 3 times with 3
+different paed S7-3t TOE
+probes
+S7-3t
+B20ZZ0
+8/15/2017
+2
+1/31/2025
+8
+INV13223
+7.11.24
+S7-3t Compact Transducer
+B20ZZO not angulating
+properly during TEE Exam,
+issue occurred after
+transducer was inserted.
+S7-3t
+B37JGD
+07/15/2019
+2
+11/7/2024
+5
+INV13353
+8.9.24
+Transducer S7-3t short life time to failure.
+S7-3t
+B37JH5
+06/17/2019
+2
+9/9/2024
+5
+INV13387
+9.6.24
+We are reporting a short life
+S7-3t probe, please help
+create INV case for it.
+We reviewed the responses to the Reedsville inspection and are not able to determine the adequacy of the proposed corrective actions. Philips Ultrasound indicated that they immediately stopped distribution of transducers refurbished beyond their useful life and initiated a recall of transducers that are past their useful life. Philips Ultrasound also completed an update to the Instructions for Use (IFU) to require that the useful life of the transducer is considered when defining the useful life for the overall system, and trained personnel on the updated IFUs. We also understand that they developed a new procedure within the Reedsville transducer service and repair program that will require that they take into consideration the transducer useful life established through design verification testing. We will need to verify these corrective actions during a reinspection.
+4. Failure to establish and maintain procedures for implementing corrective and preventive action (CAPA), including analyzing processes, work operations, concessions, quality audit reports, quality records, service records, complaints, returned product, and other sources of quality data to identify existing and potential causes of nonconforming product, or other quality problems, as required by 21 CFR 820.100(a).
+At the Reedsville facility, we observed that CAPAs were not opened as required by the CAPA procedure, 16.2.7 Manage Product or Process Nonconformances. Page 19 of that procedure lists CAPA triggers as, among other things, “Risk to public health or safety, or to product safety and effectiveness;” “Systemic issues or systemic non-conformances;” [or] “When a trend of non-conformances has been observed that exceeds defined expectations …”
+a. Philips Ultrasound did not open a CAPA when the trigger of a “Risk to public health or safety, or to product safety and effectiveness” was met. From 2022-2025, 9 complaint investigations (INVs) were opened for ingress of fluid and/or corrosion at the handle of the transducer. Three of these INVs were associated with MDR reports. During the inspection, Reedsville management stated these individual complaint INVs did not trigger a CAPA.
+b. Philips Ultrasound did not open a CAPA when the trigger of a “Risk to public health or safety, or to product safety and effectiveness” was met. From 2022-2025, 29 INVs were opened for articulation issues. Twenty-seven of these INVs were associated with MDR reports. During the inspection your firm’s management stated these individual complaint INVs did not trigger a CAPA.
+We have reviewed the responses to the Bothell and Reedsville inspections and are not able to determine the adequacy of the proposed corrective actions. The responses acknowledged that Philips Ultrasound’s trending program did not require that trending be performed at the accessory level (i.e., transducer) and on the results of the complaint investigation, although the procedures have since been revised to require trending at the accessory level. We also understand that Philips Ultrasound initiated two CAPA requests to investigate whether a trend was observed with the two separate issues regarding fluid ingress and/or corrosion, and articulation. Based on the results of these investigations, which included additional postmarket data, no further actions were required to address potential causes of fluid ingress, or corrosion or articulation with the probes. In response to this Warning Letter, please describe how Philips Ultrasound’s current procedures will ensure an effective CAPA program is being implemented and describe how the CAPA responsibilities between Reedsville and Bothell personnel are delineated. For example, we observed that personnel at the Reedsville location did not initiate CAPAs, only CAPA requests, even though they are involved directly in complaint investigations. Also, during the inspection at Reedsville, the investigators observed that Reedsville personnel did not analyze complaints and were unable to analyze the number of times a transducer had been refurbished. During a reinspection, we will need to verify that your revised procedures establish an effective CAPA program.
+5. Failure to establish and maintain procedures for implementing corrective and preventive action, including verifying or validating the corrective and preventive action to ensure that such action is effective and does not adversely affect the finished device, as required by 21 CFR 820.100(a)(4).
+At the Bothell facility, we observed that Philips Ultrasound did not implement their CAPA procedure, 6.2.9 Manage Corrective and/or Preventive Actions, step 4.6, which requires that they “ensure the actions taken were effective in preventing recurrence and/or occurrence.” For example:
+a. CAPA 2288849, was opened on July 14, 2022, to address an “005” error message (transducer not recognized) and a software issue found in EPIQ Ultrasound Systems (9.0, 9.0.1 & 9.0.2) that could affect performance of X5-1c transducers. Philips Ultrasound installed software version 9.0.3 to address the issue. However, CAPA 2288849 was closed on/around February 14, 2023, without adequately verifying that the field correction activities were effective, such as by conducting a review of postmarket data to verify that the related device and software issues did not continue to occur during clinical use.
+b. CAPA 3921133 was opened on October 9, 2023, to address issues with Software VM10.0. and prompted a recall of 121 affected products. The correction was to release SW 10.0.02, via ECO 795005566, on February 2, 2024, to address image lag with use of the auto scan feature. This CAPA record included documentation that the image lag issue still remained in version 10.0.2 software on Affiniti systems under certain conditions and that this was to be fixed in a future release. The CAPA 3921133, which was closed November 14, 2024, did not include data to show that the release of SW10.0.02 was an effective fix. Instead, it noted that the verification of effectiveness (VoE) for the implementation of SW V11 was complete. Software V11 was considered an upgrade, and not all customers were required to upgrade to this version.
+We have reviewed Philips Ultrasound responses to the above observation made during the Bothell inspection and concluded they are adequate to address the two examples above. We acknowledge that additional effectiveness checks were conducted for the two CAPAs described above and concluded that the corrective actions were deemed effective. We will need to verify during reinspection that revisions to the CAPA procedures are effective at preventing these deficiencies from recurring.
+6. Failure to establish and maintain procedures for validating the device design, including risk analysis, where appropriate, as required by 21 CFR 820.30(g).
+At the Nederland facility, the FDA investigators observed the following deficiencies with design control processes:
+a. Release of the IntelliSpace Cardiovascular (ISCV) Version 8.0 included a new User Requirement Specification (#1490545), “Pregnancy,” to support studies of up to five fetuses within the browser environment, providing for fetal measurements and calculations, report generation, and other functionalities. The previous version of the software (ISCV 7.1) provided support for only a single fetus per mother. Review of the Product Requirements Specification (Document 0001338268, dated 27-Feb-2024) shows multiple new requirements were added to the ISCV version 8.0. However, the Nederland facility failed to include these new product requirements in the ISCV Product Safety Risk Management Matrix (Document EICI.0030026, dated 21-Nov-2024) to ensure that hazards associated with these new functions are analyzed and evaluated, and that appropriate risk control measures are implemented as needed, as required by their procedure, 16.2.12 Manage Product Safety Risk.
+We have reviewed Nederland’s responses. Within Table 1 (“Philips PCI FDA 483 Initial Response 10Feb2025”), under the risk control ID column, it states that “no safety risk [was] identified” for each of the four new requirements. However, no justification for this conclusion was provided. The responses do not include analyses or evaluations to demonstrate that the possible hazards associated with each new feature were considered. The Nederland responses also did not indicate whether a retrospective review of features that have been added since the previous clearance will be performed to ensure adequate risk analysis has been completed. While the responses state that the Nederland facility has updated the Design and Development procedure to require traceability between the product requirements and risks, and a rationale for why the product requirement would not be considered a safety risk, they have not provided sufficient guidance for what constitutes an appropriate rationale. The responses also stated that the risk management matrix has been updated to include traceability. This includes assigning a risk control ID to specific risk control measures and mapping them to the relevant product requirement specification IDs. However, an updated version of the Risk Management Matrix has not been provided to verify that traceability has been implemented for all device risks.
+b. The Product Safety Risk Management Surveillance Report, Q1 2020, for IntelliSpace Cardiovascular Product Family (dated 05-OCT-2020) documents the results of the quarterly postmarket surveillance performed for the IntelliSpace Cardiovascular (ISCV). The data sources reviewed included the FDA’s MAUDE and Recall databases to review experiences with similar or equivalent competitor devices. The risk management procedure, 16.2.12 Manage Product Safety Risk, requires a safety risk analysis and an evaluation of new risks, including changes in probability and severity. Following an MDR that was submitted regarding a competitor’s device for a “patient death due to the system being down and patient images not being accessible,” the Nederland facility failed to evaluate the increased severity (death), as required by their risk management procedure.
+The responses do not include the updated Product Safety Risk Management Matrix.
+c. The IntelliSpace Cardiovascular software product interfaces with other systems and devices within hospital cardiology departments as well as across the enterprise system (e.g., Health Information Systems and Electronic Medical Records). The Nederland facility conducted a security risk analysis to address security and privacy related vulnerabilities of the ISCV, including threat modeling. However, the software validation and risk analysis were inadequate within the Product Security Risk Management Matrix for the IntelliSpace Cardiovascular 8.0 (dated 17-Apr-2024), in that the threat modeling was incomplete. For example, it did not define countermeasures to prevent, mitigate, monitor, or respond to the effects of threats to the ISCV throughout its lifecycle to ensure that the device conforms to user needs. The facility also failed to follow the risk management procedure (16.2.12 Manage Product Safety Risk) to perform a safety risk control.
+The Nederland responses include newly created Product security threat analysis ISCV 9.1. However, the responses do not include documentation of employee training on the corrective actions, nor CAPA 5620090.
+As noted in each part of the above observation, we have reviewed the responses dated February 10, 2025, March 16, 2025, and May 9, 2025, and concluded they are not adequate.
+7. Failure to establish and maintain procedures for acceptance activities. Acceptance activities include inspections, tests, or other verification activities, as required by 21 CFR 820.80(a).
+Philips Ultrasound’s Bothell facility has no established inspection plan, requirement, or procedure for the acceptance of Ultrasound Transducers received from its internal supplier located in Reedsville, Pennsylvania. Philips Ultrasound has no established inspection plan, requirement, or procedure that documents or defines the specific requirement for inspection, testing, or verification that Ultrasound Transducers conform to specified requirements. Manufacturing and production employees verbally confirmed, on multiple occasions during walkthroughs of the manufacturing/production area of the Bothell facility, that Ultrasound Transducers received from Philips Ultrasound in Reedsville, PA, do not undergo incoming inspection, but rather are accepted into inventory via SAP.
+We have reviewed Philips Ultrasound’s responses to the Bothell inspection and are not able to determine the adequacy of the proposed corrective actions. We understand that Philips Ultrasound performed an inspection of all transducers that were in inventory and identified 7 out of 1496 transducers had packaging damage, which were returned to Reedsville for disposition. We also understand that Philips Ultrasound revised procedures for interplant inspection activities to address this issue. However, they have not provided documentation to show that corrective actions have been implemented to ensure visual inspection requirements are currently being performed as required by the revised procedures.
+Correction and Removal Violations
+Our inspection at the Nederland facility revealed that the ISCV software and EPIQ Ultrasound System devices are misbranded under section 502(t)(2) of the Act, 21 U.S.C. § 352(t)(2), in that they failed or refused to furnish material or information respecting the device that is required by or under section 519 of the Act, 21 U.S.C. § 360i, and 21 CFR Part 806 – Medical Devices; Reports of Corrections and Removals. Our inspection of the Bothell facility revealed that the EPIQ C cart ultrasound system devices are also misbranded under section 502(t)(2) of the Act, 21 U.S.C. § 352(t)(2), in the same manner. Violations include, but are not limited to, the following:
+8. Failure to submit any report required within 10 working days of initiating a correction or removal, as required by 21 CFR 806.10.
+a. In March 2023, the Nederland firm discovered a software defect affecting ISCV Version 7.0 that caused data exports from the ISCV to fail, preventing data from being archived, exported, or copied. The firm released ISCV 7.0.0.3 Service Pack Plan for customers using ISCV Ver 7.0 on September 26, 2023, sent notification letters to customers, dated March 12, 2024, and implemented a mandatory Field Change Order, FCO 83000217, IntelliSpace Cardiovascular 7.0 Archiving Delay, dated April 24, 2024. As a medical image management and processing system (classified under 21 CFR 892.2050), the device’s function is to provide capabilities relating to the review and digital processing of medical images for the purposes of interpretation by a trained practitioner of disease detection, diagnosis, or patient management. This device provides plug-in support for ultrasound, echocardiography, cardiovascular X-ray (catheterization and invasive vascular), nuclear medicine, computed tomography, magnetic resonance, and electrophysiology studies. Failure of the device results in inability to, or delay in, reviewing and comparing/correlating medical images related to cardiac disease. This results in inability to, or delay in, diagnosing disease, creating treatment plans, and comparison of sequential studies to evaluate disease progression or improvement over time. The potential clinical effects include delay in diagnosis, incorrect diagnosis, and inability to or delay in planning or evaluation of treatment. These actions meet the definition of a medical device correction or removal initiated to remedy a violation which may present a risk to health, for which you are required to submit a Report of Correction or Removal to FDA within 10 working days. The firm sent another letter to customers on January 8, 2025, and submitted a Medical Device Report of Correction or Removal to FDA for the 2024 and 2025 actions.
+We have reviewed Nederland’s responses to the FDA 483, and they appear to be adequate. The response clarified that C&R# 2023-EI-EDI-003 (FDA RES# 96129) (including the customer letters sent March 12, 2024, and FCO 83000217) was reported to the FDA under 21 CFR 806 on January 8, 2025, which is not within the 10 working-day timeframe. The May 9, 2025, response states that the firm completed a new FDA Correction or Removal Reportability Guideline to ensure field actions are reported to the FDA as required by 21 CFR 806.
+b. Philips Ultrasound issued Communication #2022-PD-US-008 on July 14, 2022, advising customers to only connect the X5-1C transducer in the right-most (port D) of the EPIQ Ultrasound System cart, which would not be subject to high voltage during a system reboot. They corrected the corresponding software defect with Version 9.0.3. These actions reduced the probability of an overvoltage condition on the X5-1C transducer that damages the transducer over time rendering the device unusable. The potential clinical effects include delay in diagnosis, incorrect diagnosis, and inability to or delay in planning or evaluation of treatment. This action meets the definition of a medical device correction or removal initiated to remedy a violation (e.g., design validation, in that the device would not conform to its intended use) which may present a risk to health, for which you are required to submit a Report of Correction or Removal to FDA. As of April 24, 2025, Philips Ultrasound did not submit a Medical Device Report of Correction or Removal to FDA for this action.
+Philips Ultrasound responses do not address submission of a Report of Correction or Removal to FDA.
+MDR Violations
+Our inspection also revealed that the Nederland’s ISCV software devices are misbranded under section 502(t)(2) of the Act, 21 U.S.C. § 352(t)(2), in that the firm failed or refused to furnish material or information respecting the device that is required by or under section 519 of the Act, 21 U.S.C. § 360i, and 21 CFR Part 803 - Medical Device Reporting. Significant violations include, but are not limited to, the following:
+9. Failure to report the information required by 21 CFR 803.52 in accordance with the requirements of 21 CFR 803.12(a), no later than 30 calendar days after the day that the firm received or otherwise became aware of information, from any source, that reasonably suggests that a device that it markets has malfunctioned and this device or a similar device that the firm markets would be likely to cause or contribute to a death or serious injury, if the malfunction were to recur, as required by 21 CFR 803.50(a)(2).
+For example, our inspection at the Nederland facility revealed that the information included for PR#5101214, 5208270, 5203623, and 5384007 reasonably suggests that ISCV software, Revision 7.0.0.0, malfunctioned during use. Specifically, a software defect (e.g., 64-character limitation in the “Reason for Study” field) resulted in failed data exports, which prevented data from being archived, copied, or exported. The Nederland facility initiated a recall (Z-1252-2025) for the referenced software malfunction. As a medical image management and processing system (classified under 21 CFR 892.2050), the device’s function is to provide capabilities relating to the review and digital processing of medical images for the purposes of interpretation by a trained practitioner of disease detection, diagnosis, or patient management. This device provides plug-in support for ultrasound, echocardiography, cardiovascular X-ray (catheterization and invasive vascular), nuclear medicine, computed tomography, magnetic resonance, and electrophysiology studies. Failure of the device results in inability to, or delay in, reviewing and comparing/correlating medical images related to cardiac disease. This results in inability to, or delay in, diagnosing disease, creating treatment plans, and comparison of sequential studies to evaluate disease progression or improvement over time. The potential clinical effects include delay in diagnosis, with progression of patient condition due to a delay in care management, incorrect diagnosis, and inability to or delay in planning or evaluation of treatment. As such, the referenced complaints represent MDR reportable malfunctions, as defined under 21 CFR 803.3, in that they describe malfunctions that are likely to cause or contribute to a death or serious injury if they were to recur. We also note that complaint files did not include information that rules out that the referenced device malfunction would not be likely to cause or contribute to a death or serious injury if it were to recur. The firm became aware of information on August 21, 2024, for PR 5101214, on September 20, 2024, for PR 5208270, on September 19, 2024, for PR 5203623 and on November 7, 2024, for PR 5384007. However, the Nederland facility failed to submit a malfunction MDR for each referenced event.
+Your above three facilities (Bothell, Reedsville and Nederland) should take prompt action to address any violations identified in this letter. Failure to adequately address this matter may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties.
+U.S. federal agencies may take the above firms’ compliance with the Act and its implementing regulations into account when considering the award of federal contracts. Additionally, should FDA determine that these firms have Quality System regulation violations that are reasonably related to premarket approval applications for Class III devices, such devices will not be approved until the violations have been addressed. Should FDA determine that your devices or facilities do not meet the requirements of the Act, requests for Certificates to Foreign Governments (CFG) may not be granted.
+To the extent that your firm’s responses to the inspectional observations have not been identified as adequate above, please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps the above facilities have taken to address the noted violations, as well as an explanation of how each facility plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions that each firm has taken. If the firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your response should be comprehensive and address any outstanding violations included in this Warning Letter. If you believe that the products manufactured at these facilities are not in violation of the Act, include your reasoning and any supporting information for our consideration as part of your response.
+Your response should be sent via email to Assistant Director Gina Brackett at CDRHEnforcement@fda.hhs.gov. Please include in the subject line
+CMS Case 709948
+when replying. If you have any questions about the contents of this letter, please contact: Karen Archdeacon, Compliance Officer, at karen.archdeacon@fda.hhs.gov.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at these facilities. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483s, issued at the close of the inspections may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of any violations and take prompt actions to address any violations and bring the products into compliance.
+Sincerely yours,
+/S/
+Matthew G. Hillebrenner
+Deputy Director
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Cc:
+Jeffrey M. Cohen
+Business Leader of Ultrasound
+22100 Bothell Everett Highway
+Bothell, Washington 98201-8431
+(b)(6)
+@philips.com
+Shiv Gopalkrishnan
+Business Lead, Philips Patient Care Informatics
+(b)(6)
+@philips.com
+Martin Pedroza
+U.S. Agent
+Philips
+100 Park Avenue, Suite 300
+Orange Village, Ohio 44122
+Martin.Pedroza@Philips.com
+Steve C. de Baca
+Chief Patient Safety and Quality Officer
+(b)(6)
+@philips.com
+Content current as of:
+10/28/2025
+Regulated Product(s)
+Medical Devices

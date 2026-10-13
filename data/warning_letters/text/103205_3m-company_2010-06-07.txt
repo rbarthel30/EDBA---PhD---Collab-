@@ -1,0 +1,104 @@
+Arizant Inc 6/7/10
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+10903 New Hampshire Avenue
+Silver Spring, MD 20993
+JUN 7 2010
+WARNING LETTER
+VIA UNITED PAREEL SERVICE and FACSIMILE
+Gary R. Maharaj
+President & CEO
+Arizant. Inc.
+10393 W. 70th Street
+Eden Prairie. Minnesota 55344
+Dear Mr. Maharaj:
+During an inspection of your firm located in Eden Prairie, Minnesota on November 30, 2009 through January 6, 2010, an investigator from the United States Food and Drug Administration (FDA) determined that your firm manufactures Bair Hugger Warming Blankets, Bair Paws Patient Adjustable Warming Systems, and Ranger Blood and Fluid Warming Systems. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or any function of the body.
+This inspection revealed that your devices are misbranded under section 502(t)(2) of the Act, 21 U.S.C. 352(t)(2), in that your firm failed or refused to furnish material or information respecting the device that is required by or under section 519 of the Act, 21 U.S.C. 360i, and 21 C.F.R. Part 806 - Reports of Corrections and Removals regulation. We received a response from David A. Westlin, Chief Compliance Officer/Senior Director of Regulatory Affairs dated January 20, 2010 concerning our investigator's observations noted on the Form FDA 483, List of lnspectional Observations that was issued to you. We address this response below. in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1. Failure to report to FDA no later than 30 calendar days after the day that you receive or otherwise become aware of information of any source, that reasonably suggests that a device that you market may have caused or contributed to a serious injury, as required by 21 CFR 803.50(a)(1).
+For example, on 04/13/06, female patient PM suffered 2nd degree burns on her breasts following treatment with the Bair Paws 84001 or 84201 OR gown, and the Bair Hugger model 505 wanning unit. Although both the hospital and the patient reported the event to Arizant, there is no documentation that Arizant notified the FDA within 30 calendar days after becoming aware of the injury by submitting a Medical Device Report (MDR).
+We have reviewed your response dated January 20, 2010 and have concluded that it appears to be adequate because Arizant filed the appropriate MDR reports with FDA on January 13, 2010. Additionally, your firm provided a copy of your updated Adverse Event/Injury Reporting Procedure (No. 140500. Revision H). The adequacy of your updated procedure will be addressed in item number 3.
+2. Failure to report to FDA no later than 30 calendar days after the day that you receive or otherwise become aware of information of any source that reasonably suggests that a device that you market has malfunctioned, and would be likely to cause or contribute to a serious injury if the malfunction were to recur, as required by 21 CFR 803.50(a)(2).
+For example. the following five malfunctions were not reported to FDA within the required time frame:
+a) Call #
+(b)(4)
+dated 09/14/06 - On 09/14/06, a Bair Hugger unit caught fire. The failure analysis traced the cause to three failures: (1) the heater wire was touching a tertiary thermostat, resulting in a short circuit; (2) a screw came loose and fell into the unit: (3) the loose screw lodged itself in the blower motor and stopped the motor.
+b) Call #
+(b)(4)
+dated 07/30/07 - On 07/30/07, a Bair Hugger unit was applied during abdominal aortic aneurysm surgery. The heater unit in the device was not functioning causing the patient to become hypothermic and inducing Disseminated Intravascular Coagulation (DIC), requiring medical intervention.
+c) Call #
+(b)(4)
+dated 01/02/08 - On 01/02/08, a patient treated with a Bair Hugger unit was found to have burns (blistering) on 17% of the body. The temperature of the unit continued to increase after the unit was shut off. The distribution of these burns was consistent with placement of the Bair Hugger blanket.
+d) Call #
+(b)(4)
+dated 07/15/08 - A Bair Hugger unit caught fire at the power cord.
+e) Call #
+(b)(4)
+dated 08/20/09 - The hose of a Bair Hugger unit partially separated from the blanket hose card resulting in a patient burn.
+We have reviewed your response dated January 20, 2010 and concluded that it appears to be adequate because Arizant filed the appropriate MDR reports with FDA on January 13, 2010. Additionally, your firm provided a copy of your updated Adverse Event/Injury Reporting Procedure (No. 140500, Revision H). The adequacy of your updated procedure will be addressed in item number 3.
+3. Failure to develop, maintain. and implement adequate written MDR procedures for determining when an event meets the criteria for reporting, as required by 21 CFR 803.17(a).
+For example, the Adverse Event/Injury Reporting procedure (# l40500, Revision G) docs not clearly define the criteria for MDR reporting. Additionally, the procedure docs not distinguish between a device that may have caused or contributed to a serious injury or death, and those devices that may have caused or contributed to a malfunction.
+We have reviewed your response dated January 20, 2010 and have concluded that it is inadequate because the revised procedure (140500, Rev. H) fails to comply with all of the requirements under 21 CFR 803.17(a) as follows:
+a) The procedure fails to include the reporting timeliness for 30-day reports or for 5-day reports;
+b) The procedure fails to describe the process to evaluate whether or not an event meets the criteria for a 5-day report, as required by 21 CFR 803.53:
+c) The procedure fails to include a process for supplemental or follow up reports:
+d) The procedure fails to include a process for file retention;
+e) Section 5.5.2 identifies 2nd degree burns treated with silvadene "or something similar" as a non-reportable event. This is inaccurate since any 2nd degree burns requiring medical treatments are considered serious injuries and are therefore, considered reportable under 803.50.
+f) Section 5.5.3 lists serious injury or death caused misuse of the product where it is determined that the misuse is the result of poor or incorrect information provided to the user as an example of a reportable event. Any serious injury or death which your device may have caused or contributed to, regardless of the cause, is a reportable event under 21 CFR 803.50;
+g) Section 5.5.3 lists a device malfunction such as fire or electric shock that could cause serious injury or death as an example of a reportable event. Any malfunction of a device that would be likely to cause or contribute to a serious injury or death if the malfunction were to recur, regardless of the cause. is a reportable event under 21 CFR 803.50.
+4. Failure to establish and maintain adequate MDR event files that include all documentation of deliberations and decision-making processes used to determine if a device-related death, serious injury, or malfunction was or was not reportable, as required by 21 CFR 803.18(b)(1).
+For example, there is no documentation of deliberations or decision-making for determining whether the following four Call Worksheets were or were not reportable as MDR events;
+a) Call #
+(b)(4)
+dated 04/16/08 - On 04/16/08, a patient using a Bair Hugger unit suffered 2nd or 3rd degree burns.
+b) Call #
+(b)(4)
+dated 11/25/08 - On 11/25/08, a patient using a Bair Hugger unit was burned on the lateral thigh after undergoing an abdominoplasty and breast augmentation.
+c) Call #
+(b)(4)
+dated 05/22/09 On 05/22/09, a 21-month old child using a Blair Hugger unit received 2nd to 3rd degree bums to the left car.
+d) Call #
+(b)(4)
+dated 11/09/09 - On 11/09/a patient using a Bair Hugger unit experienced 11 incidents of burns to the mid back during an ENT free flap procedure.
+We have reviewed your response dated January 20, 2010 and have concluded that it appears to be adequate. Section 5.5 of the Adverse Event/Injury Reporting procedure states that the Adverse Event/Injury Reporting Criteria Form (AMI173) will be used to track the decision process to determine if an event is reportable.
+5. Failure to submit a written report to FDA of a correction and removal of a device in order to reduce a risk to health, as required by 21 CFR 806.10(a).
+For example, as a result of Call Worksheet #
+(b)(4)
+dated 09/14/06, Arizant issued a Service Bulletin advising customers that a heater coil wire sags downward and could come in contact with the unit's tertiary thermal switch. This resulted in a Bair Paws model 850 warming unit catching fire while positioned on a patient's bed. Customers were advised to inspect their units and if they passed inspection. To apply an inspection label. There was no documentation that a Correction and Removal report for this event was filed with FDA.
+We have reviewed your response dated January 20, 2010 and have concluded that it appears to be adequate. Your firm filed a recall notice in December 2009 with the MIN-DO Recall Coordinator for the power cord problems, and stated in your response that you had updated your Recall and Advisory Notice procedure (140201). Section 5.8 of the procedure outlines the process for investigating problems and their resolution. If management determines that a service bulletin recall, advisory notice, or other communication is needed, the Corrective Action Procedure will be initiated and a Corrective Action Report Document (CARD) will be created.
+A follow up inspection will be required to assure that corrections are adequate.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the Food and Drug Administration without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies are advised of the issuance of all Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen (15) working days from the date you receive this letter of the specific steps you have taken to correct the noted violations, including an explanation of how you plan to prevent these violations, or similar violations, from occurring again. Include documentation of the corrective action you have taken. If your planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective action cannot be completed within 15 working days, state the reason for the delay and the time within which the corrections will be completed.
+Additionally, while some nonconforming practices or conditions with regards to section 501(h) of the Act (21 U.S.C. § 351(h)), due to deficiencies of the following Current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) regulation found at 21 CFR Part 820, were observed during the inspection, they do not appear to warrant consideration of regulatory follow up at this time. These problems were reported to you and formally discussed with the firm's management. These nonconformities include, but are not limited to, the following:
+Failure to review, evaluate, and investigate complaints involving the possible failure of a device, labeling or packaging to meet any of its specifications, unless such investigation has already been performed for a similar complaint and another investigation is not necessary, as required by 21 CFR 820.198(c).
+For example, Section 5.2 of your Complaint Management procedure (Procedure 140400, Revision L.) states your service department will (1) determine the need and extent of Failure Analysis to be performed; (2) document all findings on the failure analysis form, service form, and scrap form, or in the DHR; (3) document the completed repair; (4) enter the failure analysis findings into the complaint database; and, (5) record the findings of the complaint analysis and the actions taken to resolve the complaint. The following five "Call Worksheets" are examples that do not contain documentation of failure investigations or an analysis of findings:
+• Call
+(b)(4)
+dated 12/12/08;
+• Call
+(b)(4)
+dated 05/13/09;
+• Call
+(b)(4)
+dated 05/19/09;
+• Call
+(b)(4)
+dated 06/30/09:
+• Call
+(b)(4)
+dated 07/10/09;
+We have reviewed your response dated January 20, 2010 and have concluded that it appears to be adequate because you have provided a copy of your revised Complaint Management procedure (No. 140400, Revision M). The revised procedure now includes a proper definition of complaints, investigation documentation instructions, trending frequencies, process flow charts, delineation of responsibilities between Quality Assurance and Regulatory Affairs, and a process for product returns. The call number contains detailed descriptions of failure analysis, results of the investigation, root cause, and corrective actions.
+Your response should be sent to: LCDR Michelle E. Noonan-Smith, Acting Chief, Vascular & Circulatory Support Devices Branch, W066, Room 3652, 10993 New Hampshire Avenue, Silver Spring, Maryland 20993. If you have any questions about the content of this letter please contact: LCR Michelle Noonan-Smith, Acting Chief, Vascular & Circulatory Support Devices, Branch, Division of Enforcement B, Office of Compliance 301 796-5593 or FAX 301 847-8139.
+Finally, you should know that this letter not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, Form FDA 483 (FDA 483), issued at the closeout of the inspection may be symptomatic of serious problems in your firm's manufacturing and quality assurance systems. You should investigate and determine the causes of the violations, and take prompt actions to correct the violations and to bring your products into compliance.
+Sincerely yours,
+/s/
+Timothy A. Ulatowski
+Director
+Office of Compliance
+Center for Devices and
+Radiological Health
+-
+-
+Arizant Inc Close out letter
+Arizant Inc Close out letter
+-

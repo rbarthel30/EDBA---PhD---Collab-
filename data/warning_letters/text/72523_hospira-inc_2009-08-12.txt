@@ -1,0 +1,58 @@
+Hospira Inc
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+San Francisco District
+1431 Harbor Bay Parkway
+Alameda, CA 94502-7070
+Telephone: 510/337-6700
+WARNING LETTER
+VIA FEDERAL EXPRESS
+August 12, 2009
+Joseph A. Bellah
+General Manager, Global Electro-Mechanical Device Operations
+Hospira, Inc.
+755 Jarvis Drive
+Morgan Hill, California 95037
+Dear Mr. Bellah:
+During an inspection of your firm located in Morgan Hill, California on April 21, 2009 through May 22, 2009, an investigator from the United States Food and Drug Administration (FDA) determined that your firm manufactures infusion pumps (including the Plum Family line, LifeCare PCA3, and Symbiq). Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are, intended to affect the structure or function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act (21 U.S.C. 351(h)), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) regulation found at Title 21, Code of Federal Regulations (C.F.R.), Part 820. We received a response to the Form FDA 483, List of Inspectional Observations, that was issued to you. We address this response below. The noted violations include, but are not limited to, the following:
+Failure to identify the actions needed to correct and prevent the recurrence of nonconforming product and other quality problems, as required by 21 C.F.R. ,820.100(a)(3). Specifically, your firm created a Correct and Preventative Action report
+(b)(4)
+on
+(b)(4)
+to investigate reports of failing AC power cords. Your firm performed a risk assessment on
+(b)(4)
+and determined the Risk Priority Number (RPN) for the AC power cord to be in the category "As Low As Reasonable Practicable." Based on this risk assessment, your firm decided to phase-out the then current AC power cords while using up the remaining stock, and to begin to distribute newly designed AC power cords by
+(b)(4)
+. Although you are currently distributing the newly designed AC power cords, your firm continues to distribute the old AC power cords as replacement parts.
+Since
+(b)(4)
+your firm has received the following reports of failures involving the old AC power cords:
+• On
+(b)(4)
+a user filed a report of flames discarding from the Plum 1.6 pump, 8-12 inches in height. No injury was reported for this event. This event was to you through your internal complaint handling system,
+(b)(4)
+• On July 5, 2008, a user sustained electric stock from your Plum XLMD Pump and required medical treatment. Your firm reported this event to the FDA on October 16, 2008 under MDR Number 2921482-2008-00337.
+• On June 3, 2008, a user received electrical stock from your Plum A+ Pump and required medical treatment. Your firm reported this event to the FDA on June 30, 2008 under MDR Number 2921482-2008-00201.
+Your firm's procedure titled "Rev. W, Guideline for Risk Management"
+(b)(4)
+addresses the use of previously approved risk assessment reports for nonconformities that have already been investigated. Specifically, your procedure
+(b)(4)
+states that
+(b)(4)
+(emphasis in original). During our inspection, no documents were provided to the FDA investigator to demonstrate that a new RPN was generated based upon a re-evaluation of reported complaints associated with old AC power cords received after
+(b)(4)
+as required by your firm's procedure. By failing to generate an updated RPN for the AC power cord issue, your firm failed to determine whether additional corrective and preventive action is warranted to address the continuous shipment of the old AC power cord design.
+We have reviewed your response to the FDA-483 Inspectional Observations in which your firm states that
+(b)(4)
+will be required to assure that corrections are adequate.
+You should take prompt action to correct the violation(s) addressed in this letter. Failure to promptly correct these violation(s) may result in regulatory action being initiated by the Food and Drug Administration without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies are advised of the issuance of all Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen (15) working days from the date you receive this letter of the specific steps you have taken to correct the noted violations, including an explanation of how you plan to prevent these violation(s), Of similar violation(s), from occurring again. Include documentation of the corrective action you have taken. If your planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective action cannot be completed within 15 working days, state the reason for the delay and the time within which the corrections will be completed.
+Your response should be sent to: Lawton W. Lum, Compliance Officer, 1431 Harbor Bay Parkway, Alameda, California 94502. If you have any questions about the content of this letter please contact: Mr. Lum at 510-337-6792.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA.. The specific violation noted in this letter and in the Inspectional Observations, Form FDA 483, issued at the closeout of the inspection may be symptomatic of serious problems in your firm's manufacturing and quality assurance systems. You should investigate and determine the causes of the violations, and take prompt actions to correct the violations and to bring your products into compliance.
+Sincerely yours,
+/S/
+Barbara J. Cassens
+District Director
+-

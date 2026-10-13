@@ -1,0 +1,101 @@
+Dako Denmark A/S 8/21/13
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+10903 New Hampshire Avenue
+Silver Spring, MD 20993
+August 21, 2013
+WARNING LETTER
+VIA UNITED PARCEL SERVICE
+Mr. Lars Holmkvist
+President
+Dako Denmark A/S
+Produktionsvej 42
+DK-2600 Glostrup, Denmark
+Dear
+Mr. Holmkvist
+:
+During an inspection of your firm located in Glostrup, Denmarkon March 11-2013 through March 14, 2013, an investigator from the United States Food and Drug Administration (FDA) determined that your firm manufactures the HER2 CISH pharmDx kit as well as other FDA cleared or approved products. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+We received a response from
+Annika Berg, Corporate Vice President dated April 02, 2013 concerning our investigator’s observations noted on the Form FDA 483 (FDA 483), List of Inspectional Observations, that was issued to your firm. We address this response below, in relation to each of the noted violations.
+These violations include, but are not limited to, the following:
+Failure to establish and maintain adequate procedures for implementing corrective and preventative action, as required by 21 CFR 820.100(a). For example:
+a.
+Your firm closed 6 Corrective Actions/Preventive Actions (CAPAs) (#122, 123, 124, 125, 126, and 127) documenting the actual corrective actions taken as the effectiveness check. There was no objective evidence that these 6 CAPAs were effective. Furthermore, the effectiveness check sections state that verification will be continued through a quality plan that was not approved until after the CAPAs were closed. The six CAPAs were closed on November 23, 2011 through April 24, 2012 and the quality plan was approved on March 11, 2013. Dako management stated that your firm did not do an effectiveness check prior to closing the 6 CAPAs identified in this deficiency.
+b.
+Your firm failed to follow your firm’s CAPA procedure, TP20218/04, (page 11 of 16) which states that your firm should determine whether the corrective action taken will adversely affect the finished device (for example CAPAs #122 through 127 do not contain a decision as to whether the corrective action would adversely affect the finished devices). Dako’s management stated that these CAPAs do not contain this decision as required by your firm’s CAPA procedure.
+We reviewed your firm’s response dated April 02, 2013 and conclude that it is not adequate. Your firm did not provide a description and evidence of implementation of a corrective action to include a retrospective review of all CAPAs to determine if other CAPAs were closed without documentation of whether the corrective actions taken have introduced any adverse effects on the finished device. Additionally, your firm did not perform a retrospective review of all CAPAs to ensure effectiveness checks were completed as required.
+Failure to ensure that when the results of a process cannot be fully verified by subsequent inspection and test that the process shall be validated with a high degree of assurance and approved according to established procedure, as required by 21 CFR 820.75(a). For example:
+Your firm’s
+(b)(4)
+process validation protocol, “
+(b)(4)
+”, D05552/02, was in response to FDA’s August 2011 observations related to the original validation of the
+(b)(4)
+. The purpose of this validation is to validate parameters such as
+(b)(4)
+to ensure manufacturing of
+(b)(4)
+in this
+(b)(4)
+system.
+a.
+Your firm’s protocol, D05552/02, does not include the following information: the acceptable process parameters, whether the production runs will be consecutive or not, what batches will be included as part of the validation,
+(b)(4)
+.
+b.
+Your firm’s protocol, D05552/02, states that a process control strategy will be made post validation and there was no documentation of a process control strategy being written or implemented. Dako’s validation team indicated that the firm did not create a process control strategy as required by your firm’s protocol.
+We reviewed your firm’s response dated April 02, 2013 and conclude that it is not adequate. Your firm has not provided a description and evidence of implementation of a correction to this deficiency to include revising document, “
+(b)(4)
+”, D05552/02 to include the missing requirements listed in Observation 2(a) and documentation and implementation of the identified process control strategy. In addition, evidence of implementation of all your firm’s corrections, corrective actions, and consideration of systemic corrective actions that were undertaken to address Observations 2a and 2b of the FDA 483 was not provided.
+3.
+Failure to establish and maintain adequate procedures for receiving, reviewing, and evaluating complaints by a formally designated unit, as required by 21 CFR 820.198(a). For example:
+a.
+Your firm failed to follow your procedure (QMS17, Complaint Process) for documenting complaints with an associated data search of similar complaints, in that an
+(b)(4)
+software complaint was not associated with a data search of similar complaints. Your firm’s hardware and software complaint customer interface department manager stated that for software and hardware complaints, the department does not typically search for related complaints as required by the firm’s complaint handling procedure. Your firm’s QMS17 procedure states that complaints should be investigated in a uniform manner.
+We reviewed your firm’s response dated April 02, 2013 and conclude that it is not adequate. Your firm did not provide a justification for why the initial retrospective review of hardware-related complaints was limited to those after August 11, 2011.
+b.
+Your firm failed to document the following
+(b)(4)
+repairs as complaints when the repairs met your firm’s complaint definition:
+(b)(4)
+.
+We reviewed your firm’s response dated April 02, 2013 and conclude that it is not adequate. Your firm has not provided evidence of completion of all your firm’s corrections, and corrective actions that were undertaken to address Observation 3d of the FDA 483. In addition, your firm did not provide a description and evidence that a systemic corrective action was considered to address this deficiency to include a retrospective review of all oral, written, and electronic information received alleging deficiencies related to a device to ensure that it was appropriately determined if it is a complaint treated as such when applicable.
+c.
+Your firm failed to determine, for
+(b)(4)
+service call complaints, whether the complaint was a medical device reportable event.
+The adequacy of the response dated April 02, 2013 cannot be determined at this time because your firm has not provided evidence of completion of all of your firm’s corrections, corrective actions, and systemic corrective actions that were undertaken to address Observation 4 of the FDA 483.
+Failure to establish and maintain adequate procedures for identifying valid statistical techniques required for establishing, controlling, and verifying the acceptability of process capability and product characteristics. For example: your firm’s validation report, “
+(b)(4)
+”, D06496, states that a follow up on the validation will include a monitoring period of
+(b)(4)
+production batches of
+(b)(4)
+. Your firm did not provide a statistical rationale for why
+(b)(4)
+batches were selected for this monitoring period.
+We reviewed your firm’s response dated April 02, 2013 and conclude that it is not adequate. Your firm did not explain why the comprehensive assessment of the validated state was limited to automated/semi-automated processes and QC methods, and not to manual processes.
+U.S. federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, including an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective action (including any systemic corrective actions) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Please provide a translation of documentation not in English to facilitate our review.
+Your firm’s response should be sent to:
+Food and Drug Administration, Center for Devices and Radiological Health, Office of Compliance, Field Operations Branch, White Oak Building 66, Rm 2609, 10903 New Hampshire Ave., Silver Spring, MD 20993.
+Refer to CMS case #406109 when replying.
+If you have any questions about the contents of this letter, please contact: James L. Woods at
+(301)-796-6225.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely yours,
+/S/
+Alberto Gutierrez
+Director
+Office of In Vitro Diagnostics and
+Radiological Health
+Center for Devices and
+Radiological Health
+-
+-
+Close Out Letter
+Dako Denmark A/S - Close Out Letter 4/15/15
+-

@@ -1,0 +1,78 @@
+Steris Corporation 2/9/11
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+10903 New Hampshire Rd
+Silver Spring, MD 20903
+FEB 9 2011
+Warning Letter
+Via United Parcel Service
+Walter M. Rosebrough, Jr.
+President and Chief Executive Officer
+STERIS Corporation
+5960 Heisley Road
+Mentor, Ohio 44060-1834
+Re: Verify SixCess Class 6 Challenge Packs and Chemical Indicators
+Dear Mr. Rosebrough:
+The Center for Devices and Radiological Health (CDRH) of the Food and Drug Administration (FDA) has reviewed several brochures and other promotional materials as well as the website for STERIS Corporation’s Verify SixCess Class 6 Challenge Packs and Chemical Indicators. Chemical indicators are devices within the meaning of section 201(h) of the Federal Food, Drug and Cosmetic Act.
+The FDA granted your company marketing clearance for several chemical indicators and challenge packs which contain these indicators. The five submissions covering 11 devices are as follows:
+Chemical Indicators
+K070461: Verify 250F30; Verify 270F15; Verify 270F3-10 and Verify 240F4
+K071895: Verify 275F3
+K083643: Verify 275F3-10 and Verify 275F10
+Challenge Packs
+K070895: Verify 270F4 and Verify 275F3
+K073683: Verify 270F4 and Verify 275F3
+The cleared intended uses for the devices are summarized as follows:
+K070461
+: The Verify Steam Indicators are emulating indicators intended for use in steam sterilization. The Verify Steam Indicators change color from yellow to blue/purple when exposed to the appropriate cycle temperature, type, and duration. The clearance letter indicates the appropriate ranges of temperature, type, and duration.
+K071895
+: The Verify 275F3 Indicator is a chemical indicator intended for use by health care providers to accompany products being sterilized through a sterilization procedure. The Verify 275F3 Indicator is an emulating indicator intended for use in steam sterilization.
+The indicator changes color from yellow to blue/purple when exposed to 275°F (135°C) pre-vacuum sterilization cycles for 3 minutes. The clearance letter contains a chart that indicates the correct cycles.
+K083643
+: The Verify 275F Gravity Indicators are chemical indicators which meet ANSI/AAMI 11140-1:2005 for emulating indicators intended for use in steam sterilization. The Verify 275F Gravity Indicators change color from yellow to blue/purple when exposed to 275°F (135°C) and to the appropriate cycle type, and duration.
+K070895
+: The Verify Challenge Packs are test packs consisting of an emulating indicator surrounded by a steam penetration barrier, intended for use in steam sterilization. The Verify Challenge Packs indicators change color from yellow to blue/purple when exposed to the appropriate cycle temperature, type, and duration. The clearance letter contains a chart with the appropriate specifics.
+K073683
+: The Verify Challenge Packs -Version 2 are test packs consisting of an emulating indicator surrounded by a steam penetration barrier, intended for use in steam sterilization. The Verify Challenge Packs indicators change color from yellow to blue/purple when exposed to the appropriate cycle temperature, type, and duration. Again, the clearance letter contains a table with the appropriate specifics.
+The labeling originally submitted by Steris to the Office of Device Evaluation (ODE) in the 510(k)s for the Verify Chemical Indicators and Challenge Packs included the following claim:
+“The performance of the Verify (specific name) indicator exceeds that of biological indicator kill and meets the requirements of ANSI/AAMI/ISO 11140 for Class 6 steam indicators.”
+The records for these 510(k)s indicate that ODE advised you that chemical indicators should not replace the use of biological indicators. Our records also show that you were asked to revise the indication for use, product labels and 510(k) summary, and did in fact provide revised documents removing the comparisons to biological indicators. As such, the labeling that was cleared by FDA for the devices listed above did not contain the incorrect statement noted above in italics.
+The performance of chemical indicators is different from that of biological indicators. Biological indicators monitor the microbicidal function of sterilizer cycles and chemical indicators do not. The Steris Verify Chemical Indicators cannot be said to “exceed” the performance of biological indicators. However, our recent review of your labeling, brochures and other materials used to promote your products and your website
+http://www.steris.com/healthcare/
+finds that you are making claims that were determined to be unacceptable during the review of your 510(k) submissions. These claims represent a major modification to both the Intended Use and Indications for Use of the device. The objectionable claims include the following:
+• The Verify SixCess 270F Package Insert:
+Performance Characteristics
+“…steam sterilization cycles with an exposure time of 4 minutes and may be used to release all loads.” [emphasis added]
+• Brochure:
+“the next generation”
+•Reduce the wait; immediate release of all loads
+•Reduce the risk; eliminate “blind” release
+•Reduce the work; no readers or incubation required
+These statements imply that the Steris Verify Chemical Indicators can be used to replace the use of biological indicators, an Indication for Use that was not cleared by FDA for these devices.
+“Your goal is 100% successful sterilization…The Verify SixCess indicator products are designed to measure Sterility Success”
+Chemical indicators do not measure “Sterility Success,” they measure only that a particular sterilizer cycle met the designated physical parameters for that cycle.
+• Flyer:
+3 Myths of Class 6 Technology
+Class 6 Myth #1
+“you cannot use Class 6 emulating indicators to release loads with implants.”
+Fact
+“The FDA is very straightforward on this issue. Verify SixCess Chemical Indicators are cleared for the release of all loads & all items in the load, regardless of content.”
+The FDA did not clear the Steris Verify Chemical Indicators to be used for the release of loads with implants.
+Promoting the Verify SixCess Challenge Packs and Chemical Indicators for uses other than the monitoring of the physical parameters of the specific sterilization cycles for which they are labeled constitutes a new intended use requiring the submission of a new 510(k) as described under 21 CFR Part 807.81(a)(3)(ii). Your claims for these devices cause them to be misbranded within the meaning of section 502(o) of the Act, because information regarding the modification in the intended use of the devices were not provided to FDA as required by 21 CFR Part 807.81(a)(3)(ii) and not found to be substantially equivalent to a predicate device.
+In addition, your representation of FDA’s position as stated in the “3 Myths” flyer is misleading, as that is not FDA’s position. All language implying otherwise should be removed from all promotional materials.
+You should take prompt action to correct these violations. Failure to promptly correct these deficiencies may result in further regulatory action by FDA without additional notice. These actions include but are not limited to seizure, injunction and/or civil penalties.
+Please notify this office in writing within 15 working days of receipt of this letter of the specific steps you have taken to correct the cited violations. Your response should also include all steps taken to address the information currently in distribution and in the market place and actions to be taken to prevent similar violations in the future.
+If you cannot complete a corrective action within 15 working days, we ask that you provide the reason for the delay and timeframe for when the corrections will be completed.
+Your response should be sent to Ms. Valerie A. Flournoy, Branch Chief, General Hospital Devices Branch, Center for Device and Radiological Health, Food and Drug Administration, 10903 New Hampshire Avenue, WO66 Rm 3526, Silver Spring, MD 20993. If you have any questions concerning the contents of this letter, you may contact Ms. Flournoy at (301) 796-5770, or you may forward a facsimile to her at (301) 847-8137, or email her at
+Valerie.Flournoy@fda.hhs.gov
+.
+The violations discussed in this letter do not necessarily constitute an exhaustive list. It is your responsibility to ensure that your promotional materials for Verify SixCess Challenge Packs and Chemical Indicators comply with each applicable requirement of the Act and FDA implementing regulations.
+Sincerely yours,
+/s/
+Steven D. Silverman
+Director
+Office of Compliance
+Center for Devices and
+Radiological Health
+-

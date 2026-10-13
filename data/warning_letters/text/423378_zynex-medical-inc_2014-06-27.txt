@@ -1,0 +1,168 @@
+Zynex Medical, Inc. 6/27/14
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Denver District Office
+Building 20-Denver Federal Center
+P.O. Box 25087
+Denver, Colorado 80225-0087
+TELEPHONE: 303-236-3000
+June 27, 2014
+WARNING LETTER
+VIA UPS Overnight
+Mr. Thomas Sandgaard
+Founder, Chairman and CEO
+Zynex Medical, Inc.
+9990 Park Meadows Drive
+Lone Tree, CO 80124
+Ref: DEN-14-08-WL
+Dear
+Mr. Sandgaard:
+During an inspection of your firm located in Lone Tree, Colorado on January 6, 2014 through January 21, 2014, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures the NexWave
+multiple mode electrical stimulator and the IF8000 electrical stimulator
+. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (“the Act”), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+We received a response from
+David G. Empey, Director, Regulatory and Compliance, dated February 7, 2014, concerning our investigators’ observations noted on the Form FDA 483 (FDA 483), Inspectional Observations, which was issued to your firm. We address this response below, in relation to each of the noted violations.
+These violations include, but are not limited to, the following:
+1.
+Failure to
+establish procedures for receiving, reviewing, and evaluating complaints by a formally designated unit as required by 21 CFR 820.198(a). For example:
+a.
+Your firm’s “Complaint Handling” procedure, revision 3, does not ensure complaints are evaluated to determine if they are reportable under part 21 CFR 803 (Medical Device Reporting). For example,
+The procedure states, “The complaint coordinator will evaluate the complaint to determine if it involves any injury to the customer. If it does, an MDR report will be initiated.” This complaint procedure will not ensure that complaints representing malfunctions, as defined in 21 CFR 803.3, which may cause or contribute to, a serious injury or death if they were to recur, will be identified.
+b.
+Your firm’s “Complaint Handling” procedure, revision 3, states, “The coordinator will determine if the complaint requires an investigation…” and further identifies that this determination will be documented in the “complaint report”. The procedure also states “The investigation is documented on Complaint Evaluation Report.” However, between December 13, 2012, and December 31, 2013, your firm documented
+(b)(4)
+customer complaints in your QA log and you did not document any product complaint reports for these complaints including any investigations. For example, there are no complaint reports for the following complaints:
+1.
+Serial Number (SN)
+(b)(4)
+received 10/24/2013
+2.
+SN
+(b)(4)
+received 10/22/2013
+3.
+SN
+(b)(4)
+received 8/29/2013
+4.
+SN
+(b)(4)
+received 5/17/2013
+5.
+SN
+(b)(4)
+received 10/15/2013
+6.
+SN
+(b)(4)
+received 10/24/2013
+7.
+SN
+(b)(4)
+received 11/04/2013
+We reviewed your firm’s response and conclude that it is not adequate. Your response states, “We will modify the procedure to base this [MDR Reportability] decision on whether a device related injury caused the customer to seek medical treatment…” This initial complaint evaluation would not allow your firm to identify malfunctions that may cause or contribute to a death or serious injury if they were to recur to ensure they are evaluated under your full MDR evaluations and investigations. Further, although your response states that you will update your complaint procedure, you did not provide a copy of the updated procedure; therefore, we are unable to evaluate your corrections at this time.
+2.
+Failure to establish adequate procedures for design inputs as required by 21 CFR 820.30(c). For example:
+a.
+Your firm’s “Design Control” procedure Revisions 01 and 02 do not include requirements to ensure the design requirements relating to the device are appropriate and address the intended use. Your firm did not define appropriate significant physical requirements, safety requirements, biocompatibility requirements, and reliability requirements for your NexWave multiple mode electrical stimulator. For example, your design inputs did not include requirements for the material of the unit, biocompatibility or sterility of the electrodes, battery and electrode shelf life, and user interface requirements.
+b.
+Your firm’s “Design Control” procedure, revisions 01 and 02, do not include clear requirements identifying how your design inputs will be documented and approved.
+c.
+Your firm’s “Design Control” procedure, revisions 01 and 02, do not include a mechanism for addressing incomplete, ambiguous, or conflicting requirements.
+We have reviewed your firm’s response; however, the adequacy of the response cannot be determined at this time. Your response states that the design control procedures will be updated; however, you did not provide these procedures or sufficient information to allow for the evaluation of your response at this time.
+3.
+Failure to establish procedures for design verification as required by 21 CFR 820.30(f).
+Specifically, your firm did not conduct a complete design verification of the software requirements of your NexWave multimode electrical stimulator. Your verification testing of the software did not include verifications to ensure all your software requirements were met. For example, verification testing did not include testing of the control/reset of the treatment timer, idle shut off functionality, and the treatment data storage functionality.
+We have reviewed your response and have concluded it is inadequate. Your response states you will update the design control SOP and verify detailed software specifications. However, you did not include evidence to show a comprehensive review of the verification activities of other aspects of your NexWave device. In addition, you did not provide sufficient details of the planned corrections to your design control procedures to allow for evaluation at this time.
+4.
+Failure to establish a device master record (DMR) as required by 21 CFR 820.181.
+Specifically, your firm’s DMR consisted only of a bill of materials, which did not include or refer to the location of the device specifications, drawings, production process specifications, production methods, quality assurance procedures, and packaging specifications.
+We have reviewed your response; however, we cannot determine the adequacy of your response at this time. Your firm plans to generate a DMR that meets the requirements of 21 CFR 820.181; however, without a review of the completed records, we cannot make a determination on the adequacy of your response.
+5.
+Failure to maintain device history records (DHR) that contain all the information required by 21 CFR 820.184.
+Specifically, our inspection identified
+(b)(4)
+DHRs that did not include the primary identification label and all acceptance records for the manufactured batches of NexWave multiple mode electrical stimulators. The DHRs for the following work orders were reviewed during the inspection and found to be deficient.
+(b)(4)
+(b)(4)
+We have reviewed your response and concluded it is inadequate. You have committed to drafting a procedure for maintaining DHRs. However, you did not address how your firm will retrospectively review your DHRs to identify all the deficient DHRs and correct them where possible.
+6.
+Failure to establish procedures for corrective and preventive actions as required by 21 CFR 820.100(a).
+Specifically, your firm conducted an investigation and design changes to the
+(b)(4)
+of your NexWave device in May 2012. This investigation was conducted in response to complaints of the devices
+(b)(4)
+. This investigation and subsequent design change constitute a corrective action. Although your firm has procedures describing how corrective actions should be investigated, documented, and evaluated for effectiveness, you did not document the described activities.
+We have reviewed your response and concluded it is inadequate. You have committed to revising your CAPA procedure. However, you did not address how your firm will retrospectively review any other corrective or preventive actions to ensure they are appropriately verified for effectiveness and documented.
+7.
+Failure to establish procedures for internal audits as required by 21 CFR 820.22.
+Specifically, you did not complete your scheduled internal auditing activities as required by your 2013 auditing schedule. You did not conduct audits of your training, document control, management responsibility, CAPA, complaints, calibration, purchasing, or servicing systems during 2013.
+We have reviewed your response and have concluded that the adequacy of your response cannot be determined at this time. Your firm has committed to drafting new internal audit procedures; until you have completed internal audits and we can review these procedures, we cannot determine the adequacy of your response.
+MEDICAL DEVICE REPORTING
+Our inspection also revealed that the NexWave 400400 electrical stimulator
+is misbranded under Section 502(t)(2) of the Act, 21 U.S.C. § 352(t)(2), in that your firm failed or refused to furnish material or information regarding the devices that is required by or under Section 519 of the Act, 21 U.S.C. § 360i, and 21 CFR Part 803 - Medical Device Reporting. Significant deviations include, but are not limited to:
+1.
+Failure to report to FDA no later than 30 calendar days after the day that your firm received or otherwise became aware of information, from any source, that reasonably suggests that a device that you market malfunctioned and this device or a similar device that you market would be likely to cause or contribute to a death or serious injury, if the malfunction were to recur, as required by 21 CFR 803.50(a)(2).
+For example, the events described in Complaints
+(b)(4)
+, and an unnumbered complaint dated October 24, 2013, describe a malfunction occurring with the NexWave 400400 electrical stimulator. FDA considers a malfunction to be reportable if the following is true: (5) the manufacturer takes or would be required to take an action under sections 518 or 519(f) of the act as a result of the malfunction of the device or other similar devices. (Refer to the
+Medical Devices; Medical Device User Facility and Manufacturer Reporting, Certification and Registration Regulation, Federal Register Volume 60, Number 237, page 63585, comment 12.
+Please note that the preamble reference is section 519(f), but the appropriate designation for the section is now section 519(g) due to amendments to the FD&C Act).
+FDA determined that the 2009 field action conducted for the IF8000 electrical stimulator met the criteria for item 5 under the 1995 Preamble. The field action was conducted after you identified
+(b)(4)
+that could result in the device ceasing to operate, overheating and becoming hot to the touch. The fact that the malfunction occurred once leads to the presumption that the malfunction will recur. Accordingly, your firm should have reported the events occurring in NexWave 400400 Complaints
+(b)(4)
+, and the unnumbered complaint dated October 24, 2013, to FDA as malfunctions on the form FDA 3500A.
+2.
+Failure to adequately develop, maintain and implement written MDR procedures, as required by 21 CFR 803.17. For example, after reviewing your firm’s MDR procedure titled “SOP 40012 Zynex Medical Device Reporting and Vigilance, Rev.2”, the following issues were noted:
+a.
+There is no evidence that the procedure has been implemented. For example, there is no effective date for the procedure.
+b.
+The procedure does not establish internal systems that provide for timely and effective identification, communication, and evaluation of events that may be subject to MDR requirements. For example:
+There are no definitions of what your firm will consider to be a reportable event under 21 CFR Part 803. The exclusion of definitions from 21 CFR 803.3 for the terms “become aware,” “caused or contributed,” “malfunction,” “MDR reportable event,” and “serious injury,” and definitions for the terms “reasonably known” and “reasonably suggests,” found respectively in 21 CFR 803.50(b) and 803.20(c)(1) may lead your firm to make an incorrect reportability decision when evaluating a complaint that may meet the criteria for reporting under 21 CFR 803.50(a).
+c.
+The procedure does not establish internal systems that provide for timely transmission of complete medical device reports. Specifically, the following are not addressed:
+Instructions for how to obtain and complete the FDA 3500A form.
+The procedure does not include the address for where to submit MDR reports: FDA, CDRH, Medical Device Reporting, P.O. Box 3002, Rockville, MD 20847-3002.
+d.
+The procedure does not describe how your firm will address documentation and record-keeping requirements, including:
+Systems that ensure access to information that facilitates timely follow-up and inspection by FDA.
+Your firm’s procedure includes references to baseline reports. Baseline reports are no longer required and we recommend that all references to a Baseline Report be removed from your firm’s MDR procedure (see: 73 Federal Register Notice 53686, dated September 17, 2008).
+Your firm’s procedure also includes references to annual certifications. Annual certifications are no longer required and we recommend that all references to an Annual Certification be removed from your firm’s MDR procedure (see: Fourth Notice, Federal Register, dated March 20, 1997: Medical Device Reporting; Annual Certification; Final rule).
+The adequacy of your firm’s response, dated
+February 7, 2014 cannot be determined at this time. Your firm’s response states that corrective actions are planned. However, your firm did not include documentation or evidence of the corrections. Without this documentation in hand, FDA cannot make an assessment with respect to adequacy.
+The eMDR Final Rule requiring manufacturers and importers to submit electronic Medical Device Reports (eMDRs) to FDA was published on February 13, 2014. The requirements of this final rule will take effect on August 14, 2015. If your firm is not currently submitting reports electronically, we encourage you to visit the following web link for additional information about the electronic reporting requirements:
+http://www.fda.gov/ForIndustry/FDAeSubmitter/ucm107903.htm
+If your firm wishes to discuss MDR reportability criteria or to schedule further communications, it may contact the Reportability Review Team by email at
+ReportabilityReviewTeam@fda.hhs.gov
+CORRECTIONS AND REMOVALS
+Our inspection also revealed that your firm’s
+IF8000 electrical stimulator devices are misbranded under section 502(t)(2) of the Act, 21 U.S.C.
+§
+352(t)(2), in that your firm failed or refused to furnish material or information respecting the device that is required by or under section 519 of the Act, 21 U.S.C. § 360i, and 21 CFR Part 806 – Medical Devices; Reports of Corrections and Removals. Significant violations include, but are not limited to, the following:
+Failure to
+report a correction or removal, conducted to reduce a risk to health posed by a device, or remedy a violation caused by a device which may present a risk to health, in writing to FDA, as required by 21 CFR 806.10.
+For example,
+on June 25, 2009, your firm initiated a removal of your IF8000 electrical stimulator after identifying that
+(b)(4)
+could result in the device ceasing to operate, overheating and becoming hot to the touch. Between June 25, 2009, and July 9, 2009, your firm sent approximately 2,978 recall letters to customers notifying them of the defect and requesting they contact your company. You did not notify FDA, in writing, within ten days of initiating this removal.
+We reviewed your firm’s response and conclude that it is not adequate. Although you have submitted the subject removal to FDA, you did not address how you will verify that there were no other corrections or removals required to be reported to FDA that have not been reported.
+A follow up inspection will be required to assure that corrections and/or corrective actions are adequate.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrections) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+Your firm’s response should be sent to:
+Denver District Office, 6
+th
+& Kipling Street, PO BOX 25087, Denver, CO 80225 (Attn: Bryan Love, Acting Compliance Officer).
+If
+you have any questions about the contents of this letter, please contact:
+Mr. Love at 303-236-3059 (phone) or 303-236-3551 (fax).
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely,
+/S/
+LaTonya M. Mitchell
+District Director
+-

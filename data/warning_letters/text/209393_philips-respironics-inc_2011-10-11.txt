@@ -1,0 +1,100 @@
+Respironics, Inc. 10/11/11
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+PHILADELPHIA DISTRICT
+900 U.S. Customhouse
+2nd and Chestnut Streets
+Philadelphia, PA 19106
+Telephone: 215-597-4390
+WARNING LETTER
+12-PHI-01
+October 11, 2011
+CERTIFIED MAIL
+RETURN RECEIPT REQUESTED
+David Shafer
+CEO and GM
+Respironics, Inc.
+1001 Murry Ridge Lane
+Murrysville, PA 15668
+Dear
+Mr. Shafer:
+During an inspection of your firm located in
+Murrysville, PA,
+on
+June 1, 2011, through June 24, 2011, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures continuous ventilators, specifically the Trilogy 100, Trilogy 200, and Trilogy 202
+. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+Our inspection revealed that your firm’s Trilogy ventilators are misbranded under section 502(t)(2) of the Act, 21 U.S.C. § 352(t)(2), in that your firm failed or refused to furnish material or information respecting the devices that is required by or under section 519 of the Act, 21 U.S.C. 360i, and 21 CFR Part 803 - Medical Device Reporting.
+We received a response from Katherine dePadua, Vice President, Quality Assurance and Regulatory Affairs, dated July 15, 2011, concerning our investigator’s observations noted on the Form FDA 483 (FDA 483), List of Inspectional Observations, that was issued to your firm. We address this response below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1.
+Failure to submit a medical device report (MDR) to FDA no later than 30 calendar days after the day that your firm received or otherwise became aware of information, from any source, that reasonably suggests that a device that it markets has malfunctioned and that this device or a similar device that it markets would be likely to cause or contribute to a death or serious injury, if the malfunction were to recur, as required by 21 CFR Part 803.50(a)(2).
+For example: complaints
+(b)(4)
+refer to malfunctions of your firm’s devices. Per the
+Medical Devices; Medical User Facility and Manufacturer Reporting, Certification and Registration (preamble); Final Rule, 60 Fed. Reg. 63585, comment 12 (Dec. 11, 1995), a malfunction that involves a device that is considered to be life-supporting or life-sustaining, and thus is essential to maintaining human life, is reportable. An MDR is required to be submitted for each of the referenced complaints, but none have been submitted.
+We reviewed your firm’s response and conclude that it is not adequate. Your firm’s revised reportability criteria are limited to failure modes that result in loss of therapy. It was demonstrated that the
+(b)(4)
+mode due to
+(b)(4)
+has led to loss of therapy in some cases. Reporters do not need to assess the likelihood that malfunctions will recur. The fact that this malfunction occurred leads to the presumption that the malfunction will recur. FDA considers a malfunction that involves a device that is considered to be life-supporting or life-sustaining, and thus is essential to maintaining human life, to be reportable. Refer to the preamble; Final Rule, 60 Fed. Reg. 63585, comment 12 (Dec. 11, 1995). Therefore, your firm should submit an MDR for complaints referencing ventilator failures.
+2.
+Failure to adequately develop, maintain and implement a written MDR Procedure, as required by 21 CFR Part 803.17. For example:
+a.
+Your firm’s revised MDR Procedure titled,
+(b)(4)
+fails to establish internal systems that provide for timely and effective identification, communication, and evaluation of events that may be subject to the MDR requirements, including:
+i.
+Failing to describe how your firm will obtain information, such as patient follow-up information, and
+ii.
+Limiting the reportability criteria for ventilator failures to only include those failures that have resulted in loss of therapy. This is incorrect. A malfunction that involves a device that is considered to be life-supporting or life-sustaining, and thus is essential to maintaining human life, is reportable.
+b.
+Your firm’s revised MDR procedure
+(b)(4)
+fails to have a standardized review process or instructions for determining when an event meets the criteria for reporting events to FDA, including failing to describe a process to identify reportable events.
+c.
+Your firm’s revised MDR procedure
+(b)(4)
+fails to provide instructions for the timely transmission of complete medical device reports, including:
+i.
+Referencing terms used for other reporting authorities, which may lead to an incorrect reportability decision or may result in your firm missing required timeframes for reporting an event;
+ii.
+The types of information to be included on the FDA Form 3500A;
+iii.
+Circumstances under which an event must be submitted as a 30-day or 5-day report;
+iv.
+How your firm will submit all information reasonably known to it;
+v.
+The circumstances under which your firm must submit supplemental or follow-up reports and the requirements for such reports;
+vi.
+How to submit reports for events that occur outside the U.S. If an event involves a device that is the same or similar to a device with marketing approval in the U.S., then your firm must also evaluate these events for reportability and submit MDRs as required; and
+vii.
+The procedure does not include the address for submitting MDR reports: FDA, CDRH, Medical Device Reporting, P.O. Box 3002, Rockville, MD 20847-3002.
+d.
+Your firm’s revised MDR procedure
+(b)(4)
+does not describe how your firm will document and maintain records, including a process to permit any authorized FDA employee to access records.
+We reviewed your firm’s response and conclude that it is not adequate. Your firm’s revised reportability criteria are limited to failure modes that result in loss of therapy. It was demonstrated that the
+(b)(4)
+mode due to
+(b)(4)
+has led to loss of therapy in some cases. Reporters do not need to assess the likelihood that malfunctions will recur. The fact that this malfunction occurred leads to the presumption that the malfunction will recur. FDA considers a malfunction that involves a device that is considered to be life-supporting or life-sustaining, and thus is essential to maintaining human life, to be reportable. Refer to the preamble; Final Rule, 60 Fed. Reg. 63585, comment 12 (Dec. 11, 1995). Therefore, your firm should submit an MDR for complaints referencing ventilator failures. Additionally, your firm’s revised MDR Procedure titled:
+(b)(4).
+If your firm wishes to submit MDR reports via electronic submission it can follow the directions stated at the following URL:
+http://www.fda.gov/MedicalDevices/deviceregulationandguidance/guidancedocuments/ucm094529.htm#where
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+Your firm’s response should be sent to: U.S Food and Drug Administration, U.S. Customhouse Room 900, 200 Chestnut Street, Philadelphia, PA 19106, Attn: Kristina Donohue, Compliance Officer.
+If
+you have any questions about the contents of this letter, please contact:
+Kristina Donohue at (215) 717-3078.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely yours,
+/S/
+Kirk D. Sooter
+District Director
+Philadelphia District Office
+-
+-
+Close Out Letter
+Respironics, Inc.- Close Out Letter 4/12/12
+-

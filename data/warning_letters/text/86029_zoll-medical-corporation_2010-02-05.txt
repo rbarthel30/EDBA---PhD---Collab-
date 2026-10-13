@@ -1,0 +1,104 @@
+Cardiac Science Corportation 2/5/10
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Seattle District
+Pacific Region
+22201 23rd Drive SE
+Bothell, WA 98021-4421
+Telephone: 425-486-8788
+FAX: 425-483-4996
+February 5, 2010
+VIA CERTIFIED MAIL
+RETURN RECEIPT REQUESTED
+In reply refer to Warning Letter SEA 10-10
+David L. Marver
+President/Chief Executive Officer
+Cardiac Science Corporation
+3303 Monte Villa Parkway
+Bothell, Washington 98021-8969
+WARNING LETTER
+During an inspection of your firm located at 3303 Monte Villa Parkway, Bothell, Washington, on September 1, 2009, through October 1, 2009, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures Automatic External Defibrillators (AEDs) and cardiac stress testing equipment. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501 (h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) regulation found at Title 21, Code of Federal Regulations (CFR), Part 820. We received a response from you, dated October 16, 2009, concerning our investigator's observations noted on the Form FDA 483, Inspectional Observations, issued to you at the conclusion of the inspection. We address this response below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1. Failure to establish and maintain adequate procedures to identify all the action(s) needed to correct and prevent the recurrence of nonconforming products and other quality problems, as required by 21 CFR 820.100(a)(3). For example:
+a. No corrective actions have been identified and initiated with respect to distributed Powerheart AEDs that contain suspect
+(b)(4)
+resistors. On April 16, 2008, CAPA CA-815 was opened with the following identified issues:
+i. "AED will continuously say 'do not touch patient, analyzing rhythm' after the lid is opened as if the pads have already been placed on the patient,"
+ii. "AED will continuously say 'peel second pad and place on lower chest as shown' after the second pad has been placed," or
+iii. "[n]oise on ECG that could prevent therapy delivery on a shockable rhythm."
+CAPA CA-815 indicated that failed resistors are not always detected during unit self-testing, and can result in a failure to deliver the therapy. A short term corrective action of using screened resistors for new production was implemented on August 17, 2009. However, no correction was identified and implemented for distributed AEDs. Sixteen (16) additional complaints were received after CAPA CA-815 was opened. As of September 1, 2009, CAPA CA-815 was still open.
+We have reviewed your response and have concluded that it is inadequate because you have not demonstrated that your corrective and preventive action (CAPA) procedures ensure that all actions needed to correct and prevent recurrence of a nonconforming product are identified. You have decided to issue a software update as a corrective measure for resistor related issues. However, our review indicates that the latest software update is only a method of detection and will not prevent resistor failures.
+b. No corrective actions have been identified and initiated with respect to distributed Powerheart AEDs that contain suspect
+(b)(4)
+relays. On February 25, 2009 CAPA CA-922 was opened to address the issue of failed contact resistance in
+(b)(4)
+relays. CAPA CA-922 identified the following issue: "Failed contact resistance is causing 'analyzing rhythm' and 'check pads' voice prompts when the lid is opened before placing the pads on a patient." According to CAPA CA-922, on April 15, 2009, a 100% component screen using
+(b)(4)
+after assembly was implemented along with changes in the final test system for new production. However, no correction was identified and implemented for distributed AEDs. Thirty-eight (38) additional complaints related to suspect
+(b)(4)
+relays were received after April 2009.
+We have reviewed your response and have concluded that it is inadequate because you have not demonstrated that your CAPA procedures ensure that all actions needed to correct and prevent recurrence of a nonconforming product are identified. You have decided to issue a software update as a corrective measure for relay related issues. However, our review indicates that the latest software update is only a method of detection and will not prevent the failures.
+c. On May 29, 2007, CAPA CA-698 was opened to address Powerheart AEDs prompting "service required." The root cause was determined to be a capacitor, identified as
+(b)(4)
+on the high end of tolerance. Short term software mitigation was implemented on February 28, 2007. The short term mitigation was revised on August 22, 2007, due to a subsequent complaint, I073630. A field correction was initiated in October 2008 following receipt of an additional complaint, I088338 and CAPA CA-698 was closed on December 2, 2008. However, complaint I109945, dated January 22, 2009, indicates that a customer was experiencing the same "service required" prompt during field representative visit that was subsequently attributed to a capacitor
+(b)(4)
+failure.
+We have reviewed your' response and have concluded that the adequacy of your response cannot be determined at this time. The response indicates that a separate CAPA, CA-831, was opened to track the field implementation of the software update and is currently in the effectiveness check phase. Therefore, we have not received any evidence of implementation of your corrective action.
+2. Failure to review and evaluate all complaints to determine whether an investigation is necessary and maintain a record that includes the reason when no investigation was made, as required by 21 CFR 820.198(b). For example:
+a. Complaint I067162, dated November 29, 2006, indicates that the customer connected the AED to a simulator and put the simulator in Ventricular Fibrillation (VF) mode. During simulation, the AED prompted repeatedly "check for breathing, analysing rhythm, start CPR; analysis interrupted" but the AED did not go into defibrillation mode. The customer used another simulator but the same problem was observed. According to service report SRO #S066923, your firm was able to duplicate the problem upon receipt of the device and replaced the
+(b)(4)
+resistor on the main PCBA. However neither a failure investigation was documented which determined that resistor
+(b)(4)
+was faulty, nor was a rationale documented indicating that an investigation was not necessary.
+We have reviewed your response and have concluded that it is inadequate. You indicated that a formal failure investigation process was not in place at the time of the above occurrences. A formal Failure Investigation Process, DI-00039-01, was put in place during January 2008. However, DI-00039-01 does not discuss when a failure investigation should be initiated or when a rationale for no investigation should be documented.
+b. Complaint I066907, dated November 22, 2006, indicates that the AED had a
+(b)(4)
+error code. According to your firm's notes recorded for I066907, a potential problem within the software was suspected, specifically
+(b)(4)
+" You had no documented investigation into the apparent software issue or a rationale that an investigation was not necessary.
+We have reviewed your response and have concluded that it is inadequate. Failure Investigation Process, DI-00039-01, which was implemented in January 2008, does not discuss when a failure investigation should be initiated or when a rationale for no investigation should be documented.
+3. Failure to establish and maintain adequate procedures to verify or validate the corrective and preventive action to ensure that such action is effective and does not adversely affect the finished device, as required by 21 CFR 820.100(a)(4). For example:
+a. On May 29, 2007, CAPA CA-698 was opened to address Powerheart AEDs prompting "service required." The root cause was identified to be a capacitor, identified as
+(b)(4)
+on the high end of tolerance. A short term mitigation involving a software update was implemented on February 28, 2007. On August 31, 2008, a long term mitigation involving a change in capacitor specification was implemented. Subsequently, CAPA CA-698 was closed on December 2, 2008. However, no verification or validation activities were performed related to the short term software update and long term capacitor specification changes before implementation.
+We have reviewed your response and have concluded that it is inadequate. You indicated that an engineering analysis was performed to verify the change in the capacitance and that a retrospective verification of the changes to the software was performed. Your CAPA procedure, SOP-00016-01, however, does not indicate that short-term and long-term actions should be verified and/or validated before implementation and that such activities should be documented. In addition, you have not provided a systemic corrective action to address this issue.
+b. On April 16, 2008, CAPA CA-815 was opened to address resistor
+(b)(4)
+related issues. Additional testing was implemented as part of the short term corrective action. Document #90-00437-01,
+(b)(4)
+Resistor Screening Specification, indicated that the fixture needed to be approved by your firm or your authorized designate prior to performing screening. However, there was no documented approval of the fixture before its implementation.
+We have reviewed your response and have concluded that the adequacy of your response cannot be determined at this time. You have indicated that approval of the resistor screening fixture should have been completed by November 20, 2009. You have not, however, provided any evidence of implementation of this corrective action.
+4. Failure to establish and maintain adequate procedures to ensure that the design requirements relating to a device are appropriate and address the intended use of the device, and include a mechanism for addressing incomplete, ambiguous, or conflicting requirements, as required by 21 CFR 820.30(c). For example:
+a. Section 16.3.2 of the document 102-0083 Rev A, Product Requirements Document PH AED 2 (G3), states that the battery shall be designed to have adequate capacity for a guaranteed three year operating life under normal use conditions. However, the document does not define what constitutes the "operating life under normal conditions."
+We have reviewed your response and have concluded that the adequacy of your response cannot be determined at this time. You indicated that by November 13, 2009, you would update the design input requirements to eliminate conflicting and/or ambiguous language and the battery will be reverified against the revised input documents. You have not, however, provided any evidence of implementation of this corrective action.
+b. Section 5.3 of the document DHF-00048-01, G3 AED
+(b)(4)
+Battery Product Design Inputs, lists the physical specifications of the battery. According to the specification, operating ambient temperature is specified as 0°C to 50°C. However, the electrical specifications, listed in section 5.4 of the document, lists the operating temperature as 25°C.
+We have reviewed your response and have concluded that the adequacy of your response cannot be determined at this time. You indicated that by November 13, 2009, you would update the design input requirements to eliminate conflicting and/or ambiguous language and the battery will be reverified against the revised input documents. You have not, however, provided any evidence of implementation of this corrective action.
+5. Failure to establish and maintain adequate procedures to confirm that design output meets the design input requirements, as required by 21 CFR 820.30(f). For example, section 16.3.1 of the document 102-0083 Rev A, Product Requirements Document PH AED 2 (G3), states that the battery shall be designed to have adequate capacity for 300 shocks (typical). However, no documented verification was performed to ensure such capacity.
+We have reviewed your response and have concluded that the adequacy of your response cannot be determined at this time. You indicated that by November 13, 2009, you would update the design input requirements to eliminate conflicting and/or ambiguous language and that as a result you will also reverify the battery against the revised input documents. You have not, however, provided any evidence of implementation of this corrective action.
+Our inspection also revealed that your automated external defibrillator devices are misbranded under section 502(t)(2) of the Act, 21 U.S.C. § 352(t)(2), in that your firm failed or refused to furnish material or information respecting the device that is required by or under section 519 of the Act, 21 U.S.C. § 360i, and 21 C.F.R. Part 803 - Medical Device Reporting (MDR) regulation. Significant deviations include, but are not limited to, the following:
+Failure to submit reports of individual adverse events no later than 30 calendar days after the day that your firm become aware of reportable events, as required by 21 CFR 803.10(b)(1).
+For example, incident I087725 pertains to two devices that failed during an attempted rescue. Your firm became aware of the incident on December 27, 2007, and filed an MDR on January 31, 2008. The reporting of the MDR took 35 days which is beyond the thirty day timeframe. The FDA notified your firm in June, 2008, that two MDRs were required to be filed, one for each device noted in incident I087725. Your firm filed a second MDR in June, 2008.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the Food and Drug Administration without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies are advised of the issuance of all Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen (15) working days from the date you receive this letter of the specific steps you have taken to correct the noted violations, including an explanation of how you plan to prevent these violation(s), or similar violations, from occurring again. Include documentation of the corrective action you have taken. If your planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective action cannot be completed within 15 working days, state the reason for the delay and the time within which the corrections will be completed.
+Your response should be sent to Lisa M. Althar, Compliance Officer, Food and Drug Administration, 22201 23rd Drive Southeast, Bothell, Washington 98021. If you have any questions about the content of this letter please contact Ms. Althar at (425) 483-4940.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, Form FDA 483 (FDA 483), issued at the closeout of the inspection may be symptomatic of serious problems in your firm's manufacturing and quality assurance systems. You should investigate and determine the causes of the violations, and take prompt actions to correct the violations and to bring your products into compliance.
+Sincerely,
+/S/
+Charles M. Breen
+District Director
+-
+-
+Response Letter
+Cardiac Science Corp. Response Letter
+-
+-
+Response Summary
+Cardiac Science Corp. Response Summary
+-
+-
+Response Attachment
+Cardiac Science Corp. Response Attachment
+-

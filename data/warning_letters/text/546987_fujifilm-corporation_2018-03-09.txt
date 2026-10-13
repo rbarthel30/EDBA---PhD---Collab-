@@ -1,0 +1,110 @@
+WARNING LETTER
+Fujifilm
+MARCS-CMS 546987 — Mar 09, 2018
+Share
+Tweet
+Linkedin
+Email
+Print
+Fujifilm - 546987 - 03/09/2018
+Recipient:
+Recipient Name
+Takaaki Ueda
+Fujifilm
+419 West Avenue
+Stamford
+,
+CT
+06902
+United States
+Issuing Office:
+Center for Devices and Radiological Health
+United States
+10903 New Hampshire Avenue
+Silver Spring, MD 20993
+WARNING LETTER
+VIA UNITED PARCEL SERVICE
+March 9, 2018
+Takaaki Ueda
+President and CEO
+Fujifilm Medical Systems U.S.A., Inc.
+419 West Avenue
+Stamford, Connecticut 06902
+Dear Mr. Ueda:
+The United States Food and Drug Administration (FDA) is issuing this Warning Letter to inform you of Fujifilm Medical System U.S.A., Inc.’s failure to comply with requirements under section 522 of the Federal Food, Drug and Cosmetic Act (the Act) (21 U.S.C. § 360l), and Title 21 of the Code of Federal Regulations (CFR) Part 822. On October 5, 2015, FDA ordered your firm to conduct postmarket surveillance on duodenoscope model ED-530XT.
+FDA issued a postmarket surveillance order (PS150002) (“522 Order”) because failure of these devices would be reasonably likely to cause infection and possibly death in patients undergoing endoscopic retrograde cholangiopancreatography procedures, which would meet the definition of “serious adverse health consequences” at 21 C.F.R. § 822.3(k). Specifically, your firm was ordered to conduct postmarket surveillance to address three questions regarding how duodenoscopes are reprocessed in real-world settings, as follows:
+1.
+Are the user materials that are included in your firm’s duodenoscope labeling and instructions for use sufficient to ensure user adherence to your firm’s reprocessing instructions? (Note: User materials include user manuals, brochures, and quick reference guides from the manufacturer that are provided to the reprocessing staff) (Human Factor Study)
+2.
+After use of your labeled reprocessing instructions, what percentage of clinically used duodenoscopes remain contaminated with viable microorganisms? (Sampling and Culturing Study)
+3.
+For devices that remain contaminated after use of your firm’s labeled reprocessing instructions, what factors contribute to microbial contamination and what steps are necessary to adequately decontaminate the device? (Sampling and Culturing Study)
+FDA has communicated the data requirement for these studies to your firm separately in advisories included in the decision letters for the interim reports.
+The 522 Order recommends that your firm conducts the Sampling and Culturing Study in two phases, starting with a pilot phase during which your firm starts collecting culturing samples from clinically used and reprocessed duodenoscopes for continued sample collection in the second phase of the study. The 522 Order states that “FDA expects you [your firm] will commence data collection for Phase 2 within 15 months of the date of the Postmarket Surveillance order.” Section 522 of the Act requires a firm to “commence surveillance . . . not later than 15 months after the day on which the Secretary issues an order under this section.” However, your firm has failed to provide sufficient data with commencement of data collection within 15 months after issuance of the 522 Order.
+A study plan for the Sampling and Culturing Study was approved on December 21, 2016. Per the approved study plan, your firm is required to conduct a Phase 1 and 2 study that collects a total of 826 samples. Under the Phase 1 study, your firm was required to enroll one to three (1-3) sites and collect 85 samples by February 2017. However, as of January 16, 2018, only 17 samples have been collected and analyzed from two (2) sites. On November 27, 2017, FDA held a teleconference meeting with your firm outlining that your firm had not fulfilled the requirements of the 522 Order, the established timeline for enrollment of sites and collection of samples, and that your firm’s study status would be changed to “Noncompliant.” FDA issued decision letters to your firm on February 22, 2017, April 20, 2017, June 14, 2017, November 15, 2017, and February 5, 2018 with advisories stating that your firm was not meeting the milestones per the agreed study plan and timeline.
+A study plan for the Human Factors Study was approved on July 31, 2017. As of the interim report dated January 26, 2018, 16 test participants have completed human factors testing and study completion (with all 30 test participants) is expected by March 2018. Your firm’s study is progressing in accordance with the approved study timeline, based on which we expect to see human factors testing completed in all 30 test participants by March 31, 2018.
+Failure of a manufacturer to comply with requirements under section 522 of the Act, which includes requirements specified under 21 CFR Part 822, is a prohibited act under section 301(q)(1)(C) of the Act, 21 U.S.C. § 331(q)(1)(C). Further, failure to comply with a requirement under section 522 of the Act renders a device misbranded under section 502(t)(3) of the Act (21 U.S.C. § 352(t)(3)).
+Your firm has committed a prohibited act under section 301(q)(1)(C) of the Act by failing to comply with requirements under section 522 of the Act, and your duodenoscope model ED-530XT
+is currently misbranded under section 502(t)(3) of the Act.
+Your firm should take prompt action to correct this violation. Failure to promptly correct this violation may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Please note that Federal agencies are advised of the issuance of all Warning Letters about devices so that they may take this information into account when considering the award of contracts.
+Within fifteen (15) calendar days from the date you receive this letter, please submit a plan that outlines how the milestones below will be achieved:
+Sampling and Culturing Study
+Process 50% of all samples by August 31, 2018
+Process 100% of all samples by December 31, 2018
+Your firm should notify this office in writing of the specific steps your firm has taken to correct the noted violations. Include documentation of the corrective actions your firm has taken. If your firm’s planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective actions cannot be completed within fifteen (15) calendar days, state the reason for the delay and the time within which the corrections will be completed.
+Your firm’s response to this letter should be sent to:
+522 Postmarket Surveillance Studies Program
+Food and Drug Administration
+Center for Devices and Radiological Health
+10903 New Hampshire Avenue
+Building 66, Room 2252
+Silver Spring, Maryland 20993-0002
+If you have any questions about the content of this letter, please contact:
+Attention: LCDR Cesar Perez
+Chief, Surveillance and Enforcement Branch I
+Food and Drug Administration
+Center for Devices and Radiological Health
+Office of Compliance
+Division of Premarket and Labeling Compliance
+10903 New Hampshire Avenue
+Building 66, Room 3626
+Silver Spring, Maryland 20993-0002
+Finally, you should understand that there are many FDA requirements pertaining to the manufacture and marketing of devices. This letter pertains only to the issue of postmarket surveillance requirements for the device subject to the 522 Order dated October 5, 2015 and does not necessarily address other obligations your firm has under the law.
+Sincerely,
+/S/
+William H. Maisel, MD, MPH
+Acting Director
+Office of Compliance
+Center for Devices and Radiological Health
+Cc:
+Randy Vader
+Vice President, Quality and Regulatory Affairs and Corporate Compliance Officer
+Fujifilm Medical Systems U.S.A., Inc.
+419 West Avenue
+Stamford, Connecticut 06902
+Keith Nelson
+Director of Infection Control and Quality Assurance
+10 Highpoint Drive
+Wayne, New Jersey 07470
+Mr. Teiichi Goto
+Corporate Vice President
+General Manager
+Medical System Business Division
+Research & Development Management Headquarters
+Fujifilm Corporation
+798, Miyanodai Kaisei-Machi
+Ashigarakami-Gun
+Kanagawa 258-8538 Japan
+Jennifer Henderson
+Partner, Hogan Lovells US LLP
+Columbia Square
+555 Thirteenth Street, NW
+Washington, DC 20004
+John J. Smith, MD, JD
+Legal Counsel at Hogan Lovells US LLP
+Columbia Square
+555 Thirteenth Street, NW
+Washington, DC 20004
+Content current as of:
+03/09/2018
+More Warning Letters

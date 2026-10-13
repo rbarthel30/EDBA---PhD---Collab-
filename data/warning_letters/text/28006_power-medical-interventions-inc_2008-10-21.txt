@@ -1,0 +1,103 @@
+Power Medical Interventions Incorporation 21-Oct-08
+Department
+of Health and Human Services
+Public Health Service
+Food and Drug Administration
+PHILADELPHIA DISTRICT
+900 U.S. Customhouse
+2nd and Chestnut Streets
+Philadelphia, PA 19106
+Telephone: 215-597-4390
+WARNING LETTER
+09-PHI-01
+CERTIFIED MAIL
+RETURN RECEIPT REEOUESTED
+October 21, 2008
+Mr. Michael P. Whitman, President and CEO
+Power Medical Interventions Incorporated
+2021 Cabot Boulevard West
+Langhorne, PA 19047-1810
+Dear Mr. Whitman:
+On April 7 through May 21, 2008, a United States Food and Drug Administration (FDA) investigator inspected your firm, located at 2021 Cabot Boulevard West, Langhorne, Pennsylvania. Our inspection determined that your firm is the manufacturer (specification developer) of surgical cutting and stapling devices, including the (SurgAssist™ System (staplers, cutters and reloads), and Intelligent Surgical Instruments i60™, i60S Linear™ and iDrive C™). Under section 201(h) of the Federal Food, Drug and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+Our inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, paclci.ng, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+We received responses from you dated May 23, May 30, June 18, and September 25, 2008, concerning our investigator's observations noted on the Form FDA-483, List of Inspectional Observations that was issued to you. We address the responses below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1. Failure to establish and maintain procedures for receiving, reviewing, and evaluating complaints by a formally designated unit, as required by 21 CFR §820.198(a). [Reference: Form FDA 483, Observation(s) 6 & 10, respectively].
+a. Your Medical Device Complaint Handling procedure
+[(b)(4)]
+lacks a requirement for investigating events associated with the use of your devices in clinical surgical procedures when patient information is missing.
+b. The Marketing Department conducted the Limited Market Release of the Power Linear Cutter 60 (PLC60) and the Power Linear Cutter Reload 60B (PLCR60B) in 2006, and the associated complaint files failed to contain the source document data table for [
+(b)(4)]
+complaint files.
+[(b)(4)]
+were not included.
+We acknowledge your response to this observation and we will verify compliance at a future inspection.
+2. Failure to review, evaluate and investigate any complaints involving the possible failure of a device to meet any of its specifications, as required by 21.CFR § 820.198(c). [Reference: Form. FDA 483, Observation 7].
+> Specifically, a review of
+[(b)(4)]
+complaint files
+[(b)(4)]
+generated from the Limited Market Release for the Power Linear Cutter 60 (PLC60) and Power Linear Cutter Reload 60B (PLCR60B), revealed one or more "short cuts". No documented follow-up was conducted to determine the status of patients on whom the defective devices were used: what intervention, if any, was necessary to correct the reported failure of your firm's device; and whether the events were MDR reportable.
+We acknowledge your response to this observation and we will verify compliance at a future inspection.
+3. Your complaint handling procedures have not been implemented to ensure that all complaints are processed in a uniform and timely manner as required by 21 CFR § 820.198(a)(1). [Reference: Form. FDA 483, Observation 8].
+> Product complaint data/product quality data are not always reported within one to two working days from the time that such an event became known as required by your
+[(b)(4)]
+titled
+[(b)(4)]
+. Specifically, review of
+[(b)(4)]
+complaints [
+(b)(4)]
+associated with the Limited Market Release of the Green Reload for the PLC60 (PLCR60G), revealed that the complaint data was not in the complaint log at the conclusion of the 2008 inspection.
+We acknowledge your response to this observation and we will verify compliance at a future inspection.
+4. Management failed to ensure that the Quality System requirements are effectively established and maintained as required by 21 CFR §820.20(b)(3)(i). [Reference: Form FDA 483, Observation 1].
+> Changes in the QA complaint handling system revealed that MDR reportable events were deemed not reportable specifically if the surgeon was able to complete a surgical procedure by utilizing another device in place of the malfunctioning device, or performing another form of intervention. Therefore, no MDR's were reported for the months of January through April of 2008.
+We acknowledge your response to this observation and we will verify compliance at a future inspection.
+5. Design validation did not ensure that devices conform to defined user/patient needs and intended uses as required by 21 CFR § 820.30(g). [Reference: Form FDA 483, Observation 9].
+> Specifically, no successful design validation studies have been conducted for the
+[(b)(4)]
+We acknowledge your response to this observation and we will verify compliance at a future inspection.
+Furthermore, our inspection also revealed that your devices are misbranded within the meaning of section 502(t)(2) of the Act, 21 U.S.C. § 352(t)(2), in that your firm failed or refused to furnish material or information with respect to the device that is required by or under section 519 of the Act, 21 U.S.C. § 360i, and 21 CFR, Part 803, Medical Device Reporting (MDR) regulations. Significant deviations include, but are not limited to the following:
+1. Failure to report within 30 days of receiving or otherwise becoming aware of information that a marketed device may have caused or contributed to a death or serious injury, as required by 21 CFR §803.50(a)(1). [Reference: Form FDA 483, Observation 2]. Specifically, MDR reports were not submitted for
+[(b)(4)]
+events
+[(b)(4)]
+that occurred during surgical procedures that subsequently resulted in
+[(b)(4)]
+death and
+[(b)(4)]
+serious injuries.
+We acknowledge your response to this observation and we will verify compliance at a future inspection.
+2. Failure to submit an MDR to FDA within 30 days of receiving information that reasonably suggest that your marketed device has malfunctioned and would be likely to cause or contribute to a death or serious injury if the malfunction were to recur, as required by 21 CFR §803.50(a)(2). [Reference: Form FDA 483, Observation 3 Specifically, MDR reports were not submitted for
+[(b)(4)]
+events
+[(b)(4)]
+in which your devices malfunctioned during surgical procedures and a competitor's device or a manual suture procedure was applied.
+We acknowledge your response to this observation and we will verify compliance at a future inspection.
+3. MDR event files failed to contain or reference complete event information in the possession of the reporting entity, including documentation of the deliberations and decision making process to determine if a device related death, serious injury or malfunction was or was not reportable as required by 21 CFR §803.18(b)(1)(i). [Reference: Form FDA 483, Observation 4]. For example:
+a. Complaint file
+[(b)(4)]
+in which a patient expired following a procedure using your firm's device, failed to contain the distributed internal e-mail and failed to document the investigation of the event with the surgeon of record to provide the reason for not reporting this event.
+b. Complaint files
+[(b)(4)]
+incomplete. Specifically, the medical consultant stated in an e-mail, that the event did not meet the threshold for reporting. However, the complaint file failed to document the details or results of deliberations on MDR reportability.
+We acknowledge your response to this observation and we will verify compliance at a future inspection.
+4. Failure to develop, maintain and implement written procedures for internal systems which provides for the timely and effective communication of events that may be subject to medical device reporting requirements, as required by 21 CFR §803.17(a)(1). [Reference: Form FDA 483, Observation 5]. Specifically, complaint file
+[(b)(4)]
+revealed that a decision was made to file an MDR; however, a copy of the MedWatch form was not in the complaint file, and the MDR has not been submitted to the FDA.
+We acknowledge your response to this observation and we will verify compliance at a future inspection.
+5. Failure to conduct a complete investigation of each event and evaluate the cause of the event, as required by 21 CFR 803.50(b)(3). Specifically, Power Medical Interventions failed to submit
+[(b)(4)
+] death and
+[(b)(4)]
+serious injury reports within 30 calendar days as required by 21 CFR 803.50(a)(1). The firm also failed to submit one malfunction as required by 21 CFR 803.50(a)(2).
+We acknowledge your response to this observation and we will verify compliance at a future inspection.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the Food and Drug Administration without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies are advised of the issuance of all Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen (15) working days from the date you receive this letter of the specific steps you have taken to correct the noted violations, including an explanation of how you plan to prevent these violations, or similar violations, from occurring again. Include documentation of the corrective action you have taken. If your planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective action cannot be completed within 15 working days, state the reason for the delay and the time within which the corrections will be completed.
+Your response to this letter should be directed to the Food and Drug Administration, Attention: Robin M. Rivers, Compliance Officer, at the address noted in the letterhead.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your facility. It is, your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, Form FDA 483, issued at the closeout of the referenced inspection may be symptomatic of serious problems in your firm's manufacturing and quality assurance systems. You should investigate and determine the causes of the violations, and take prompt actions to correct the violations and to bring your products into compliance.
+Sincerely,
+/S/
+Thomas D. Gardine
+District Director
+Philadelphia District Office
+-

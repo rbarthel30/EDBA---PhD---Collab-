@@ -1,0 +1,61 @@
+Cutera Inc. 7/9/12
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+10903 New Hampshire Avenue
+Silver Spring, MD 20993
+July 9, 2012
+Warning Letter
+Kevin Connors
+President and Chief Executive Officer
+Cutera, Inc.
+3240 Bayshore Blvd
+Brisbane, CA 94005
+Re: Cutera GenesisPlus Laser System
+Refer to CPT1200217 when replying to this letter.
+Dear Mr. Connors:
+The Food and Drug Administration (FDA) has learned that your firm is marketing the Cutera GenesisPlus Laser System (GenesisPlus) in the United States. This product is a device within the meaning of section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), because it is intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+As explained below, this device is being marketed without required clearance or approval in violation of the Act.
+Your firm obtained clearance of the GenesisPlus (K103626) under section 510(k) of the Act, 21 U.S.C. § 360(k), for the following indications:
+Dermatology:
+The Cutera GenesisPlus laser is intended for the coagulation and hemostasis of benign vascular lesions such as, but not limited to, rosacea, poikiloderma of civatte, and treatment of benign cutaneous lesions, such as warts, scars, and straie. The laser is also intended for the treatment of benign pigmented lesions.
+The Cutera GenesisPlus laser is also indicated for the treatment of wrinkles such as, but not limited to periocular and perioral wrinkles.
+Podiatry:
+Podiatry (ablation, vaporization, incision, excision, and coagulation of soft tissue) including:
+Matrixectomy
+Periungual and subungual warts
+Plantar warts
+Radical nail excision
+Neuromas
+The Cutera GenesisPlus laser is indicated for use in the temporary increase of clear nail in patients with onychomycosis (e.g. dermatophytes, Trichophyton rubrum and T. mentagrophytes, and/or yeast Candida Albicans, etc.)
+The Office of Compliance, in FDA’s Center for Devices and Radiological Health, recently reviewed your firm’s website, www.cutera.com, and found the following claims for GenesisPlus:
+“Cutera’s 1064 nm laser, with patented microsecond technology is an established and recognized treatment for skin rejuvenation. GenesisPlus targets microvasculature, stimulates collagen production and protects the epidermis.”
+“GenesisPlus is a Nd:YAG 1064 nm laser that has been cleared by the FDA to be both a safe and effective solution for the treatment of nail infection (onychomycosis), more commonly known as toenail fungus.”
+New indications such as skin rejuvenation and collagen stimulation represent a major change in the intended use of the device. Additionally, your firm’s cleared indication for the temporary increase of clear nail in patients with onychomycosis only addresses the appearance of the nail. Promotion of the GenesisPlus for the treatment of onychomycosis – which involves factors including microbiological evaluation and prevention of recurrence – not only comprises a major change in the device’s intended use, but could also affect its safety and effectiveness.
+In light of the above claims, the
+GenesisPlus is adulterated under section 501(f)(1)(B) of the Act, 21 U.S.C. § 351(f)(1)(B), because your firm does not have an approved application for premarket approval (PMA) in effect pursuant to section 515(a) of the Act, 21 U.S.C. § 360e(a), or an approved application for an investigational device exemption under section 520(g) of the Act, 21 U.S.C. § 360j(g).
+The device is also misbranded under section 502(o) of the Act, 21 U.S.C. § 352(o), because your firm did not notify the agency of its intent to introduce the device into commercial distribution, as required by section 510(k) of the Act, 21 U.S.C. § 360(k). For a device requiring premarket approval, the notification required by section 510(k) of the Act is deemed satisfied when a PMA is pending before the agency, 21 CFR § 807.81(b). The kind of information that your firm needs to submit in order to obtain approval or clearance for the device is described on the Internet at
+http://www.fda.gov/cdrh/devadvice/3122.html
+. The FDA will evaluate the information that your firm submits and decide whether the product may be legally marketed.
+The Office of Compliance requests that Cutera, Inc., immediately cease the dissemination of promotional materials for the GenesisPlus the same as or similar to those described above.
+The FDA has also learned that your firm has modified the treatment spot size for the
+GenesisPlus. Specifically, the spot size cleared under K103626 is 1 mm for podiatry use. However, the product specifications listed on your firm’s website are 1.5 and 5 mm for podiatry. This represents a significant technological change in the treatment parameters, which could affect the safety and effectiveness of the device. Therefore, the GenesisPlus is further misbranded under section 502(o) the Act, 21 U.S.C. § 352(o), because a notice or other information respecting the modification to the device was not provided to the FDA as required by section 510(k), 21 U.S.C. § 360(k), and 21 CFR 807.81(a)(3)(i).
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+Your firm’s response should be sent to:
+Food and Drug Administration
+Center for Devices and Radiological Health
+Office of Compliance
+Field Operations Branch
+10903 New Hampshire Avenue
+WO66-2609
+Silver Spring, MD 20993
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the product into compliance.
+Sincerely yours,
+/S/
+Steven D. Silverman
+Director
+Office of Compliance
+Center for Devices and
+Radiological Health
+-

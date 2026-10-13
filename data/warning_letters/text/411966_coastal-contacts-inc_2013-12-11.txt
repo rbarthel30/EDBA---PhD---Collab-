@@ -1,0 +1,104 @@
+Coastal Contacts Inc. 12/11/13
+Share
+Tweet
+Linkedin
+Pin it
+More sharing options
+Linkedin
+Pin it
+Email
+Print
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+10903 New Hampshire Avenue
+Silver Spring, MD 20993
+December 11, 2013
+WARNING LETTER
+VIA UNITED PARCEL SERVICE
+Gary Michael Collins
+President
+Coastal Contacts, Inc.
+2985 Virtual Way, Suite 320
+Vancouver, BC, Canada
+V5M 4X7
+Dear
+Mr. Collins:
+During an inspection of your firm located in Vancouver, Canada, on
+July 29, 2013, through July 31, 2013, an investigator from the United States Food and Drug Administration (FDA) determined that your firm manufactures prescription eyeglasses. Under Section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), this product is a device because it is intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+The inspection revealed that the device is adulterated within the meaning of section 501(h) of the Act [21 U.S.C. § 351(h)] in that the methods used in, or the facilities or controls used for, its manufacture, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (cGMP) requirements of the Quality System (QS) regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+We received your response, dated August 21, 2013, concerning our investigator’s observations noted on the Form FDA 483 (FDA 483), List of Inspectional Observations, which was issued to your firm on July 31, 2013. We address this response below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1.
+Failure to establish and maintain procedures for implementing corrective and preventive action, as required by 21 CFR 820.100(a). For example, your firm’s procedure for Corrective and Preventive Action described in Sections 9.7.2 and 9.7.3 of your firm’s Quality Management System Manual, Version 2.0, dated July 19, 2013, requires the identification and determination of nonconformities, the evaluation of the need for action and determination of steps necessary to ensure that the non-conformity does not recur, the determination and implementation of corrective and/or preventive actions, the recording of results of actions taken, and the review and evaluation of corrective or preventive actions taken to assess effectiveness. However;
+a.
+Your firm’s Frame Corrective and Preventive Action forms #001, dated September 20, 2012; #002, dated January 20, 2013; and the Lens Corrective and Preventive Action forms #001 and #005 did not include the identification of the non-conformity, root cause and investigation, and the corrective/preventive action taken to assess effectiveness.
+b.
+Emails sent by the Quality Assurance Manager to several Shift Supervisors and/or Production Managers, dated April 20, 2013, and January 11, 2013, indicated that there were
+(b)(4)
+jobs rejected and that
+(b)(4)
+of
+(b)(4)
+jobs have failed Quality Assurance Audit, respectively. No evidence was documented demonstrating that your firm investigated and resolved each of these issues.
+We reviewed your firm’s response and conclude that is not adequate. Your firm noted that it will revise its Corrective Action and Preventive Action procedure to include concepts of identification of non-conformity or potential non-conformity, determination of cause of non-conformity, evaluation of need for action and determination of steps necessary to ensure that non-conformity does not recur, determination and implementation of corrective and/or preventive actions, recording results of actions taken, and review and evaluation of corrective or preventive actions taken to assess effectiveness. Your firm included a copy of the draft procedure. However, your firm did not provide a corrective action plan or evidence of implementation, including whether a retroactive review of other CAPA reports was conducted.
+2.
+Failure to maintain complaint files and establish and maintain procedures for receiving, reviewing, and evaluating complaints by a formally designated unit, as required by 21 CFR 820.198(a). For example, your firm’s Monitoring and Measurement procedure, contained in Section 9.1 of your firm’s Quality System Manual, Version 2.0, dated July 19, 2013, describes how to evaluate a complaint, proper documentation, and the correct course of action for resolutions. However, the procedure does not include any provision for evaluation of customer complaints by a formally designated unit in order to determine if they constitute events which are reportable to the FDA as a Medical Device Report (MDR).
+The adequacy of your firm’s response cannot be determined at this time. Your firm noted that it has established a formally designated customer complaint unit that will revise its Customer Complaint SOP. Also, your firm noted that, once the revised procedure is established, it will conduct a retrospective review of complaint records in order to identify and report any MDR reportable events. Your firm expects to complete the process by September 30, 2013.
+3.
+Failure to establish and maintain procedures to ensure that all purchased or otherwise received product and services conform to specified requirements, as required by 21 CFR 820.50. For example, your firm’s Supplier Evaluation procedure, described in Chapter 6 of your firm’s Purchasing Procedure Manual-2013, describes the steps for the assessment of potential suppliers, assignment of a risk status for the supplier, quality assurance testing and quality assessment, and adding a supplier to the Approved Supplier List (ASL). However, your firm’s current ASL did not contain your firm’s contractor,
+(b)(4)
+, which is currently assisting your firm in maintaining compliance with FDA regulations regarding Lens Impact Testing. Additionally, your firm did not have a file for the contractor or any other documentation to show that it has been evaluated as per your firm’s procedure.
+We reviewed your firm’s response and conclude that is not adequate. Your firm noted that it failed to enter
+(b)(4)
+, name on its ASL. Your firm added the supplier to the ASL and the responsible person was retrained on the procedure. However, your firm did not provide a plan or evidence of the corrective action, including review of the ASL for any additional deficiency.
+4.
+Failure to establish and maintain procedures for quality audits and conduct such audits to assure that the quality system is in compliance with the established quality system requirements and to determine the effectiveness of the quality system. These quality audits shall be conducted by individuals who do not have direct responsibility for the matters being audited, as required by 21 CFR 820.22. For example, your firm’s Quality System Manual, Version 2.0, dated July 19, 2013, Section 9.2, “Internal Auditing,” describes performance of audits conducted across all functional business groups. However, the procedure does not specify that audits cannot be conducted by individuals who have direct responsibility for the area being audited. Specifically, the chart, included in the procedure, states that audits should be conducted by managers or supervisors from each audited area.
+The adequacy of your firm’s response cannot be determined at this time. Your firm noted that it will revise its “Internal Auditing” procedure in order to assure the independence of internal audits. The revised procedure will include annual audits conducted by independent outside QSR consultants. However, your firm did not include documentation of the corrections and/or corrective actions and your firm did not provide evidence of implementation. Therefore, FDA cannot make an assessment with respect to adequacy.
+5.
+Failure to use calibration standards for inspection, measuring, and test equipment that are traceable to national or international standards, or if national or international standards are not practical or available, to independently reproducible standards or established and maintained in-house standards, as required by 21 CFR 820.72(b)(1). For example, your firm’s calibration certificates, “Center Thickness Gauge, Digital Gauge S/N
+(b)(4)
+,” and “Combination Lens Thickness Gage, S/N
+(b)(4)
+,” did not document that the measurement equipment were calibrated with equipment, instruments, or standards that are traceable to a national or international standard.
+We reviewed your firm’s response and conclude that is not adequate. Your firm noted that it has contacted the calibration service provider,
+(b)(4)
+, to recalibrate our firm’s equipment to an appropriate and current national or international standard. Also, your firm noted that it will ensure that all outside calibration houses used by your firm are qualified to the appropriate standard as part of your firm’s supplier qualification process. However, your firm did not provide a corrective action plan or evidence of implementation.
+6.
+Failure to designate an individual(s) to review for adequacy and approve prior to issuance all documents established to meet the requirements of this part, as required by 21 CFR 820.40(a). Your firm’s standard operating procedure for the “
+(b)(4)
+," 0-21-10-00, dated February 09, 2004, is not signed or dated to indicate approval.
+The adequacy of your response cannot be determined at this time. Your firm noted that it will revise its document control system to ensure that third party SOPs are current and approved before integrating them into your firm’s document control system. However, your firm did not include documentation
+of the corrective actions. Therefore, FDA cannot make an assessment with respect to adequacy.
+Our inspection also revealed that your firm’s prescription eyeglasses are misbranded under section 502(t)(2) of the Act, 21 USC § 352(t)(2), in that your firm failed or refused to furnish material or information respecting the devices that is required by or under section 519 of the Act, 21 USC 360i, and 21 CFR Part 803 – Medical Device Reporting (MDR) Regulation. Significant deviations include, but are not limited to:
+1.
+Failure to develop, maintain and implement written MDR procedures, as required by 21 CFR 803.17. For example, during the inspection at your firm, it was determined that your firm has not established an MDR procedure.
+We reviewed your firm’s response, dated August 21, 2013, and conclude that it is not adequate. Your firm developed an MDR procedure titled, “Coastal Contracts Inc. – Adverse Event Reporting,” SOP Version 1.0, Revision Date:
+August 1, 2013. However, there is no evidence that your firm’s procedure has been implemented. For example, there is no effective date.
+If your firm wishes to submit MDR reports via electronic submission it can follow the directions stated at the following URL:
+http://www.fda.gov/ForIndustry/FDAeSubmitter/ucm107903.htm
+If your firm wishes to discuss MDR reportability criteria or to schedule further communications, it may contact the Reportability Review Team by email at
+ReportabilityReviewTeam@fda.hhs.gov
+U.S. federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the awarding of contracts.
+Additionally, premarket approval applications for Class III devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (which must address systemic problems) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Please provide a translation of documentation not in English to facilitate our review.
+Your firm’s response should be sent to:
+Food and Drug Administration, Center for Devices and Radiological Health, Office of Compliance, Field Operations Branch, White Oak Building 66, Rm 2609, 10903 New Hampshire Ave., Silver Spring, MD 20993.
+Refer to CMS case #411966 when replying.
+If you have any questions about the contents of this letter, please contact:
+Ronald L. Swann at 301-796-5770.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely yours,
+/S/
+Steven D. Silverman
+Director
+Office of Compliance
+Center for Devices and
+Radiological Health
+Cc:
+U.S. Agent
+David Lennarz
+Registrar Corporation
+144 Research Drive
+Hampton, Virginia 23666
+Close Out Letter
+Coastal Contacts Inc. - Close Out Letter 7/16/15

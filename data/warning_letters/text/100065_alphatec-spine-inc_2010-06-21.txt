@@ -1,0 +1,111 @@
+Alphatec Spine, Inc. 6/21/10
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Los Angeles District
+Pacific Region
+19701 Fairchild
+Irvine, CA 92612-2506
+Telephone: 949-608-2900
+FAX: 949-608-4415
+WARNING LETTER
+CERTIFIED MAIL
+RETURN RECEIPT REQUESTED
+W/L 27-10
+June 21, 2010
+Dirk Kuyper
+President and Chief Executive Officer
+Alphatec Spine, Inc.
+5818 El Camino Real
+Carlsbad, California 92008
+Dear Mr. Kuyper:
+During an inspection of your firm, Alphatec Spine, Inc. located in Carlsbad, California on January 20, 2010 through February 11, 2010, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures the Solanas Posterior Stabilization System, Zodiac Polyaxial Spinal Fixation System, Illico MIS Posterior Fixation System, Illico MIS Retractor Posterior Thoracolumbar Access System, Deltaloc Reveal Anterior Cervical Plate System, Solanas Posterior Cervico Thoracic Fixation System, Trestle Anterior Cervical Plating System, Core Lumbar Fixation System, OsseoFix Spinal Fracture Reduction System, OsseoScrew, Novel Interbody/VBR-Cervical-Novel XS & Novel CIS, Novel Corpectomy, Anterior Lumbar Interbody Fusion (ALIF)-Novel ALS, Posterior Lumbar Interbody Fusion (PLIF)-Novel SD & LCC, and Transforaminal Lumbar Interbody Fusion (TLIF)-Novel TL & SD which are finished device spinal implants and their associated installation instrumentation. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. §321 (h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act (21 U.S.C. § 351(h)), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) regulation found at Title 21, Code of Federal Regulations (C.F.R.), Part 820. We received a response from Dirk Kuyper, President and CEO, dated February 22, 2010, concerning our investigator's observations noted on the Form FDA 483, List of Inspectional Observations that was issued to you. We address this response below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1. Failure to establish and maintain adequate procedures to perform design validation that ensures that devices conform to defined user needs and intended uses and include testing of production units under actual or simulated use conditions, as required by 21 CFR 820.30(g). For example, the Zodiac Polyaxial Spinal Fixation System, mico MIS Posterior Fixation System, Trestle Anterior Cervical Plating System, Deltaloc Reveal Anterior Cervical Plate System, and the Solanas Posterior Stabilization System labeling include instructions for sterilization and/or resterlization to be performed by the user facility. Test Report (TR)-493 - Report on Evaluation of Effects of
+(b)(4)
+Sterilization, Revision A, dated 8/11/2009, used the Zodiac Implant Sets (Set No.
+(b)(4)
+and Instrument Set
+(b)(4)
+to evaluate the effect of
+(b)(4)
+sterilization. The Zodiac Implant family has a steam sterilization cycle of 4 minutes. However, the Solanas family's steam cycle time is
+(b)(4)
+the Deltaloc implant family's steam cycle time is
+(b)(4)
+and the Illico and Trestle implant families' cycle time is
+(b)(4)
+but these longer, additional steam sterilization cycles were not included in the TR-493
+(b)(4)
+validation challenge.
+We have reviewed your response and have concluded that its adequacy cannot be determined at this time. It was stated that the evaluation of
+(b)(4)
+effects on products with longer sterilization cycles (Solanas, Deltaloc, Trestle, and Illico implant families) will be completed and forwarded to FDA for review prior to the promised correction date of 4/11/2010, but no documentation was provided for review.
+2. Failure to implement procedures for implementing corrective and preventive actions, as required by 21 CFR 820.100(a). Specifically, a Corrective and Preventive Action (CAPA), either a Low Level CAPA (LLCAPA) or a High Level CAPA (HLCAPA), was not initiated per procedure number POL-016 - Corrective and Preventive Action System (Revision E) for the Solanas Set Screw and Instruments whereby changes from the original
+(b)(4)
+shape to the new
+(b)(4)
+shape were implemented. CAPA report #08-016 was initiated for complaints associated with the
+(b)(4)
+'. The investigator was
+told by the Senior Director, Quality Control that CAPA report #08-016 extended to the Solanas family of implants but there was no documented statement in the CAPA that it included the Solanas family of implants.
+We have reviewed your response and have concluded that it is inadequate. You revised procedure number POL-016 - Corrective and Preventive Action System (Revision F) to include the requirement that a CAPA be initiated when, "More than 3 Complaints or NCMR's for the same issue for the same product with a one month period" and the "Greater than 2-sigma increase in the rate of Complaints or NCMRs during any trend review." However, this procedure does not include a valid statistical rationale for this trend identification method.
+3. Failure to establish and maintain procedures for implementing corrective and preventive action, which shall include requirements for identifying the action(s) needed to correct and prevent recurrence of nonconforming product and other quality problems, as required by 21 CFR 820.100(a)(3). For example:
+a. The design output, i.e., Drawing No.
+(b)(4)
+for the Solanas Posterior Thoracic Screw Body, Revision B, was released on 12/15/2005. In 5/2009, after its manufacture was brought back in-house, 6 lots of PN
+(b)(4)
+were manufactured with the incorrect
+(b)(4)
+degree of angulation instead of the correct
+(b)(4)
+degree of angulation. You have since revised Drawing No.
+(b)(4)
+on 7/27/2009) to include the critical dimensions/specifications/features of the
+(b)(4)
+that were found to be missing, and Quality Processing Inspection Report (QIR) on 2/4/2010, to provide a call-out so that the
+(b)(4)
+are verified for location during the manufacturing. However, you have not extended review to other implant families to ensure no other drawings/design outputs are missing their critical dimensions/specifications.
+We have reviewed your response and have concluded that it is inadequate. The review of all products released prior to Alphatec Engineering Specification AES-205, Revision C (9/2009) implementation and for determining adherence to the requirements in Alphatec Spine Inc Quality Processing Inspection Report (QIR) for PN:
+(b)(4)
+(Revision D) dated 2/4/2010 has not been completed. The anticipated correction date is 8/11/2010. In addition, it does not address the Alphatec Spine Inc. QIR requirements which were included and approved on 2/4/2010 as a result of the addition of the critical dimensions/specifications to engineering drawing PN
+(b)(4)
+(RevisionD) dated 7/27/2009.
+b. CAPA Report No. 08-018 was generated in response to a Return Materials Authorization report inspection, which indicated torque handle values below the specification of
+(b)(4)
+or
+(b)(4)
+in. lbs. The associated engineering drawing and QIR were amended to include the correct torque value specification and inspection step to check for the correct torque value, but the associated CAPA activities did not include preventive actions.
+This observation was corrected and verified as during the inspection closing meeting on 2/11/2010. Procedure No. ENG-001-Design Control Procedure, Revision I, was revised to require that for off-the-shelf purchased items, the specification from the original equipment manufacturer is to be used to document specification/design inputs for ASI. Training records on the revised SOP were provided. Lastly, you reviewed other product lines to ensured that there were no similar incomplete design outputs/DMRs associated with "off the shelf items".
+4. Failure to establish and maintain procedures for receiving, reviewing, and evaluating complaints by a formally designated unit and to ensure that all complaints are processed in a uniform and timely manner, as required by 21 CFR 820.198(a)(1). For example, Procedure No. REG-002 - Complaint Handling Procedure, Revision 002, dated 1/25/2010, does not provide instructions to ensure that non-MDR complaint reports in which the implant/instrument is returned to the firm are closed within a uniform and timely manner, nor does it include a requirement for documenting a justification when complaints are not closed in a timely manner.
+We have reviewed your response and have concluded that it is inadequate. You state in your response that you included requirements to improve the timeliness and closures of complaint investigations under section 8.11.3, procedure REG-002 -Complaint Handling Procedure (Revision I) but it is unclear what actions are to be performed by the Vice President of R&D, President and Chief Executive Officer (CEO) when additional investigations exceed the specified timeframes.
+5. Failure to establish and maintain adequate maintenance schedules for the adjustment, cleaning, and other maintenance of equipment to ensure that manufacturing specifications are met, as required by 21 CFR 820.70(g)(1). For example, Procedure No.: SET-003 contains weekly cleaning and documentation requirements for the firm's washers. However, the weekly preventative maintenance check for Washer No. 2/SN:
+(b)(4)
+was not conducted the week of 10/9/2009.
+This observation was corrected and verified as corrected during the inspection closing meeting on 2/11/2010. You reviewed all company cleaning logs to ensure there were no other omissions and the washer printouts for the week of 10/912009 to ensure that there was no adverse effect on the unit or the decontamination cycles if the cleaning were not conducted. You also trained personnel on conducting and documenting the weekly cleaning as per Procedure SET-003 Cleaning & Disinfection of Returned Materials, Revision A, dated 10/28/2009, which requires weekly cleaning of the washers.
+Our inspection also revealed that Solanas Posterior Stabilization System and Trestle Anterior Cervical Plating System devices are misbranded under section 502(t)(2) of the Act, 21 U.S.C. § 352(t)(2), in that your firm failed or refused to furnish material or information respecting the device that is required by or under section 519 of the Act, 21 U.S.C. § 360i, and 21 C.F.R. Part 803, the Medical Device Reporting (MDR) regulation. Significant deviations include, but are not limited to, the following:
+1. Failure to submit MDR reports to FDA within 30 days of receiving or otherwise becoming aware of information that reasonably suggests a marketed device has malfunctioned and would be likely to cause or contribute to a death or serious injury if the malfunction were to recur, as required by 21 CFR § 803.50(a)(2). Specifically, you became aware of Medical Device Report #2027467-2009-0009 on June 17, 2009 (Ref. Complaint file #9168). However, the event was not reported to the FDA until July 20, 2009. Specifically, you became aware of Medical Device Report # 2027467-2009-0005 on November 13, 2008. However, the event was not reported to the FDA until May 19, 2009.
+We have reviewed your response and have concluded that it is inadequate. You state in your response that you have implemented a review committee and MDR training, and have defined MDR filing responsibilities. Your MDR & Vigilance Report Processing of Complaints #REG008 procedure, Revision H (undated,) was revised to require submission of MDRs within 15 days regardless of missing information. It is not clear why you are instituting a revised review process that may result in the submission of incomplete MDRs to FDA. If you cannot submit complete information in your MDR, you must provide a statement explaining why this information was incomplete and the steps you took to obtain the information as required by 21 CFR Part 803.50(b)(3). Your response does not indicate how you will account for this missing information in your initial MDRs, or how you will provide the missing information to FDA at a later date in the form of a supplemental report as required by 21 CFR Part 803.56. In addition, your procedure lacks key definitions, such as "caused or contributed", "manufacturer report number" and "permanent", and full definitions such as "MDR reportable events" and "serious injury". Due to these deficiencies, we are concerned that you will not be able to accurately assess reportability and submit reports as required by 21 CFR §803.
+Lastly, MDRs must be submitted to FDA's PO Box address, as required by 21 CFR §803.12(a). It is not clear from your response whether you intend to follow the requirement to submit MDRs to the PO Box as required. Please note that your use of certified mail to a PO Box may result in a return of future MDRs. Although we will accept MDRs submitted to FDA by FedEx at the following address: FDA, Center for Devices and Radiological Health, Medical Device Reporting, 16071 Industrial Drive, Room 258, Gaithersburg, MD 20877-1462, it is still your responsibility to ensure that MDRs are submitted to FDA appropriately and within the required timeframe.
+You may contact the Reporting Systems Monitoring Branch at (301) 796-6670 for guidance about the requirements of the Medical Device Reporting regulation, 21 CFR 803.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the Food and Drug Administration without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies are advised of the issuance of all Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen (15) working days from the date you receive this letter of the specific steps you have taken to correct the noted violations, including an explanation of how you plan to prevent these violations, or similar violations, from occurring again. Include documentation of the corrective action you have taken. If your planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective action cannot be completed within 15 working days, state the reason for the delay and the time within which the corrections will be completed.
+Your response should be sent to:
+Blake Bevill
+Director, Compliance Branch
+U.S. Food and Drug Administration
+19701 Fairchild
+Irvine, CA 92612-2506
+If you have any questions about the content of this letter please contact Ms. Mariza Jafary, Compliance Officer at 949-608-2977.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, Form FDA 483 (FDA 483), issued at the closeout of the inspection may be symptomatic of serious problems in your film's manufacturing and quality assurance systems. You should investigate and determine the causes of the violations, and take prompt actions to correct the violations and to bring your products into compliance.
+Sincerely,
+/S/
+Alonza E. Cruse
+District Director
+Los Angeles District
+-
+-
+Close Out Letter
+Alphatec Spine, Inc - Close Out Letter 9/28/11
+[ARCHIVED]
+-

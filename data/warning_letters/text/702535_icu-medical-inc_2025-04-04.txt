@@ -1,0 +1,65 @@
+WARNING LETTER
+ICU Medical
+MARCS-CMS 702535 —
+April 04, 2025
+More Warning Letters
+Delivery Method:
+VIA UNITED PARCEL SERVICE
+Product:
+Medical Devices
+Recipient:
+Recipient Name
+Vivek Jain
+Recipient Title
+CEO
+ICU Medical
+951 Calle Amanecer
+San Clemente
+,
+CA
+92673
+United States
+(b)(6), (b)(7)(C)
+Issuing Office:
+Center for Devices and Radiological Health
+United States
+WARNING LETTER
+CMS 702535
+April 04, 2025
+Dear Mr. Jain:
+During an inspection of Smiths Medical ASD (acquired by your firm ICU Medical in January 2022) FEI: 3012307300 located at 6000 Nathan Lane N., Minneapolis, Minnesota on July 23, 2024, through August 9, 2024, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures the Medfusion® Model 4000 Syringe Infusion Pump and CADD® Solis VIP Ambulatory Infusion Pump. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), each of these products is a device because it is an instrument, apparatus, implement, machine, contrivance, implant, in vitro reagent, or other similar or related article, which is intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+Our inspection revealed that the Medfusion® Model 4000 Syringe Infusion Pump and CADD® Solis VIP Ambulatory Infusion Pump are adulterated under section 501(f)(1)(B) of the Act, 21 U.S.C. § 351(f)(1)(B), because your firm does not for these devices have an approved application for premarket approval (PMA) in effect pursuant to section 515(a) of the Act, 21 U.S.C. § 360e(a), or an approved application for an investigational device exemption under section 520(g) of the Act, 21 U.S.C. § 360j(g). These devices are also misbranded under section 502(o) the Act, 21 U.S.C. § 352(o), because your firm did not timely notify the agency of its intent to begin the introduction or delivery for introduction into interstate commerce for commercial distribution of the devices, as required by section 510(k) of the Act, 21 U.S.C. § 360(k). For a device requiring premarket approval, the notification required by section 510(k) is deemed satisfied when a PMA is pending before the agency. [21 CFR 807.81(b)]. The kind of information that your firm needs to submit in order to obtain approval or clearance for the device is described on the Internet at
+http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/HowtoMarketYourDevice/default.htm. The FDA will evaluate the information that your firm submits and decide whether the product may be legally marketed.
+You currently have clearance, dated August 29, 2011, for a version of the Medfusion® Model 4000 Syringe Infusion Pump which was cleared under K111386 as a Class II device under 21 CFR 880.5725. You also currently have clearance, dated February 1, 2013, for a version of the CADD® Solis VIP Ambulatory Infusion Pump which was cleared under K111275 as a Class II device under 21 CFR 880.5725. However, your firm has failed to submit a premarket notification submission to FDA for significant changes or modifications that could significantly affect the safety or effectiveness of these devices, as required by 21 CFR 807.81(a)(3)(i).
+In particular, since their last respective clearances, you made multiple changes to the Medfusion® Model 4000 Syringe Infusion Pump and CADD® Solis VIP Ambulatory Infusion Pump that could significantly affect the safety or effectiveness of these devices, including the
+(b)(4)
+for the Medfusion® Model 4000 Syringe Infusion Pump as well as
+(b)(4)
+changes for both the Medfusion® Model 4000 Syringe Infusion Pump and CADD® Solis VIP Ambulatory Infusion Pump. Specifically, these modifications included
+(b)(4)
+changes to address
+(b)(4)
+identified via adverse event reports and
+(b)(4)
+changes to
+(b)(4)
+and
+(b)(4)
+. Such modifications can significantly impact the functionality of the device with respect to the infusion pumps delivery profile, alarm functionality, etc., and affect the device’s risk profile for risks related to under- or over-infusion, delay in therapy, incomplete therapy, or false alarms leading to adverse health effects for patients such as overdose, volume overload, or cardiorespiratory compromise. Your documentation collected during the recent inspection describing the 510(k) risk-benefit analysis for the Medfusion® Model 4000 Syringe Infusion Pump and CADD® Solis VIP Ambulatory Infusion Pump indicates that these changes were implemented after the most recent clearances of the devices as noted above. Further, you have disseminated updated software
+(b)(4)
+, which includes the changes described above, in response to a Class I recall intended to remediate the cause(s) of the recall impacting delivery of fluids, false alarms, therapy interruption, etc. However, you have not yet submitted 510(k)s as required by 21 CFR 807.81(a)(3)(i). Adding a statement to your labeling that the device software has not undergone FDA review is not sufficient.
+Furthermore, in the regulatory change impact assessment for the Medfusion® Model 4000 Syringe Infusion Pump software update dated April 28, 2023, you identified that a risk-based assessment of the changed device identified new risks or significantly modified risks. Further, you identified that the change either creates or necessitates a new risk control measure or modification of an existing risk control measure for a hazardous situation that could result in significant harm. The changes that you made to the risk control measures in an effort to mitigate the hazards that were the basis for a Class I recall were not submitted to FDA in a required 510(k) even though your own procedure indicates that submission of a 510(k) would be required in this situation. However, you only documented to the file that you had made the change and did not submit the required 510(k).
+Your firm should take prompt action to address the violations identified in this letter. Failure to adequately address this matter may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to address the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (which should address systemic problems) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address any violations included in this Warning Letter. If you believe that your products are not in violation of the FD&C Act, include your reasoning and any supporting information for our consideration as part of your response.
+Your firm’s response should be sent to: Melissa Michurski, Assistant Director at CDRHenforcement@fda.hhs.gov. Please include in the subject line, CMS case # 702535 when replying. If you have any questions about the contents of this letter, please contact: Demetria Lueneburg, Compliance Officer at Demetria.Lueneburg@fda.hhs.gov.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility or associated with your firm’s devices. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of any violations and take prompt actions to address any violations and bring the products into compliance.
+Sincerely,
+/S/
+Matthew G. Hillebrenner
+Deputy Director
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Content current as of:
+04/22/2025
+Regulated Product(s)
+Medical Devices

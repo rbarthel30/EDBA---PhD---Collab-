@@ -1,0 +1,79 @@
+CooperVision, Inc. 12/5/11
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+New York District
+158-15 Liberty Avenue
+Jamaica, NY 11433
+December 5, 2011
+WARNING LETTER NYK-2012-4
+VIA UNITED PARCEL SERVICE
+Mr. John Weber
+President
+CooperVision, Inc.
+6140 Stoneridge Mall Road
+Pleasanton, CA 94588
+Dear Mr. Weber:
+During an inspection of your firm located in West Henrietta, New York conducted October 14,2011 through October 24,2011, an investigator from the United States Food and Drug Administration (FDA)determined that your firm is a medical device labeler, packer and distributer of daily soft wear contact lenses and extended wear soft contact lenses, Class II and Class III medical devices respectively, under the Biomedics, Proclear, Frequency, Biofinity, Avaira & Hydron names. Under Section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+This inspection revealed that these devices are adulterated within the meaning of Section 501 (h) of the Act (21 U.S.C. § 351 (h)), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System(QS) regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+We received a response from Bonnie Tsymbal, Director of Regulatory Affairs and Quality Assurance, dated November 3, 2011, concerning our investigator's observations noted on the Form FDA 483 (FDA 483), List of lnspectional Observations, which was issued to Mr. James Della Valle, Vice President of Distribution. We address this response below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1. Failure to adequately validate a process according to established procedures whose results cannot be fully verified by subsequent inspection as required by 21 C.F.R. § 820.75(a). For example:
+• Your firm relies on equipment
+(b)(4)
+packaging lines) to perform quality checks to determine if the label information was printed correctly on the blisters. During performance qualification (PQ) testing your firm did not open up the cartons to ensure the blisters inside had the correct label information or if the label information printed on the blisters matched the label information printed on the cartons.
+• Your PQ procedure did not define the number of runs or the number of units per run. In addition, your procedure did not define the statistical analysis methods that would be used, or the number of data points that would be needed, for the statistical analysis. In practice, this equipment on average labels and packs
+(b)(4)
+cartons per month and each run (lot) is typically
+(b)(4)
+units. During PQ your firm tested six runs with
+(b)(4)
+units per run.
+• During the PQ your firm did not document the type of errors you obtained even though these errors are defined in the procedure.
+• The results for the testing performed during the installation qualification (IQ) were not adequately documented.
+• Your firm does not follow the preventive maintenance (PM) schedule that is outlined in the owners manual for the
+(b)(4)
+and
+(b)(4)
+packaging lines calling for daily or weekly cleaning of the sensors that are used to read the bar code on the silver stock (unlabeled blisters). In practice, your firm cleans these sensors once every 15 weeks and your firm did not perform any testing to determine if this deviation affects the functionality of the sensors.
+The adequacy of your firm's response cannot be determined at this time. Your firm's response states that your firm will be re-validating
+(b)(4)
+and
+(b)(4)
+by April 1, 2012, and reviewing other packaging lines located at the facility. Your firm's response also states that a full review of the
+(b)(4)
+preventative maintenance program will be completed by December 1, 2011. In addition, your firm's response states that formal training on Process Validation will be completed by April 1, 2012. Furthermore, your firm's response does not indicate what immediate actions have been taken to ensure that products are not being adulterated in this interim time period until proposed corrections are completed and implemented; nor does your firm address what type of retrospective review will be performed to determine if previously manufactured products utilizing the aforementioned equipment have been adversely affected.
+2. Failure to establish procedures for finished device acceptance as required by 21 C.F.R. § 820.80(d). Specifically, your firm has not established procedures for finished device acceptance for labeling operations for any of your products.
+The adequacy of your firm's response cannot be determined at this time. Your firm's response states that your firm will be updating all Quality Assurance procedures affected by this observation by December 15, 2011. Your firm's response also states that Quality Assurance Auditor training will be completed by December 31, 2011. Furthermore, your firm's response does not indicate what immediate actions have been taken to ensure that products are not being adulterated in the interim time period until proposed corrections are completed and implemented; nor does it address what type of retrospective review will be performed to determine if products already released by your Quality Assurance Auditors have been affected.
+3. Failure to establish procedures for device history records (DHR's) as required by 21 C.F.R. § 820.184. Specifically, your firm has not established and maintained procedures to ensure that DHR's for each batch, lot, or unit are maintained to demonstrate that the device is manufactured in accordance with the Device Master Record (DMR) and the requirements of this part (21 C.F.R. § 820.184).
+The adequacy of your firm's response cannot be determined at this time. Your firm's response states that your firm will be developing a new procedure for Device History Records by December 1, 2011. Your firm's response also states that employee training will be completed by December 15, 2011. Furthermore, your firm's response does not indicate what immediate actions have been taken to ensure that products are not being adulterated in the interim time period until proposed corrections are completed and implemented.
+4. Failure to establish and maintain adequate procedures for implementing corrective and preventive action, including failure to adequately identify the actions needed to correct and prevent recurrence of nonconforming product an other quality problems, as required by 21 C.F.R. § 820.100(a)(3). Your firm did not implement its procedure, Corrective and Preventive Action, SOP Number QAP082, Revision Number 11, for initiating a CAPA when required by its Risk Assessment Matrix. If the Risk Assessment number falls into the Red categories on the Risk Assessment Matrix, a CAPA must be raised. For its labeling operations, if a complaint or non-conforming report is categorized as a P5-mislabeled for the following reasons, then it falls into the Red category and a CAPA must be opened: incorrect human readable information on the primary packaging label, incomplete/illegible information on secondary packaging or no insert included in the secondary packaging. For example the following complaints and non conforming reports should have had a CAPA initiated:
+• Complaint CC136149 -Category: P5-Mislabeled, Product: Proclear Toric,
+Description: box does not match blisters.
+• Complaint CC144253 -Category: P5-Mislabled, Product: MINI, Description: lens label states tinted and this product is not tinted.
+• Complaint CC161176 -Category: P5-Mislabled, Product: Hydrasoft Toric, Description: last vial in box was incorrect. Outside of package marked 8.3/14.2 10-25-1.75x50. Last vial in box is 8.9/15.0 500-2.50x170.
+• Complaint CC161446 -Category: P5-Mislabeled, Product: Biomedics Toric, Description: carton is labeled -4.00-1.75x120 and blisters are labeled -2.501.75X50.
+• Non-Conforming Report NCR83768 -Category: Secondary packaging process, Description: QA -3 cartons that were opened by an auditor did not have inserts in them.
+The adequacy of your firm's response cannot be determined at this time. Your firm's response states that your firm will be re-opening the four complaints and the non-conformance report indicated in the observation and that a re-investigation will be completed by January 1, 2012. Your firm's response also states that training for applicable Quality Assurance personnel will be completed by November 15, 2011. Furthermore, your firm's response does not indicate that your firm will be performing any type of retrospective review of non-conformance reports to determine if any type of re-investigation should be performed in response to this observation. It was noted that the response received by your firm as a result of observation #5 included a promise to perform a retrospective review of complaints received from January 1, 2010 through October 24, 2011.
+5. Failure to investigate complaints involving the possible failure of labeling to meet any of its specifications as required by 21 C.F.R. § 820.198(c). Specifically, your firm did not investigate several complaints to determine a root cause for the complaint and/or the determination whether the issues described in the complaint(s) extended to other lot(s) of product. For example your firm did not perform a root cause investigation for the following complaints that dealt with mislabeling;
+• Complaint CC136149 -Category: P5-Mislabeled, Product: Proclear Toric, Description: box does not match blisters.
+• Complaint CC144253 -Category: P5-Mislabled, Product: MINI, Description: lens label states tinted and this product is not actually tinted.
+• Complaint CC161176 -Category: P5-Mislabled, Product: Hydrasoft Torie, Description: last vial in box was incorrect. Outside of package marked 8.3/14.2 10-25-1.75x50. Last vial in box is 8.9/15.0 500-2.50x 170.
+• Complaint CC161446 -Category: P5-Mislabeled, Product: Biomedies Torie, Description: carton is labeled -4.00-1.75x120 and blisters are labeled -2.501.75X50.
+Also your firm did not perform a root cause investigation nor did they determine whether the issues extended to other lots for the following unconfirmed complaints;
+• Complaint CC143835 -Product: Biomedics 55 UV, Description: Box is labeled 3.75 and two lenses inside the box are +3.25.
+• Complaint CC146840 -Product: Proclear Toric, Description: Patient claims that 2 +475 -1.75 10 lenses were in a box that was labeled +5.75 -1.75 60.
+The adequacy of your firm's response cannot be determined at this time. Your firm's response states that your firm will be re-opening the four complaints and the two unconfirmed complaints indicated in the observation and that a re-investigation will be completed by January 1, 2012. Your firm's response also states that a review of complaints received from January 1, 2010 through October 24, 2011 will be completed by February 1, 2012. In addition, your firm's response states that training for applicable Quality Assurance personnel will be completed by November 15,2011. As of November 29,2011 we have not received any confirmation and/or documentation of the completion of this training.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen (15) working days from the date you receive this letter of the specific steps you have taken to correct the noted violations, including an explanation of how you plan to prevent these violations, or similar violations, from occurring again. Include documentation of the corrective actions you have taken. If your planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective actions cannot be completed within 15 working days, state the reason for the delay and the time within which the corrections will be completed.
+Your response should be sent the Food and Drug Administration; Attention: Frank Verni, Compliance Officer; 158-15 Liberty Avenue, Room 4050; Jamaica, NY 11433. If you have any questions about the content of this letter please contact Mr. Verni at (718) 662-5702.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, Form FDA 483 (FDA 483), issued at the closeout of the inspection may be symptomatic of serious problems in your firm's manufacturing and quality assurance systems. You should investigate and determine the causes of the violations, and take prompt actions to correct the violations and to bring your products into compliance.
+Sincerely,
+/S/
+Ronald M. Pace
+District Director
+New York District
+-
+-
+Close Out Letter
+CooperVision, Inc. - Close Out Letter 7/5/12
+-

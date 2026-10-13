@@ -1,0 +1,72 @@
+CHG Hospital Beds, Inc. 8/29/11
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+10903 New Hampsbire Avenue
+Silver Spring, MD 20993
+AUG 29 2011
+WARNING LETTER
+VIA UNITED PARCEL SERVICE
+Mr. Don Roussy
+Chairman and CEO
+CHG Hospital Beds, Inc.
+153 Towerline Place
+London, Ontario
+Canada N6E 213
+Dear Mr. Roussy:
+During an inspection of your firm located in London, Ontario, on April 26, 2011, through April 29, 2011, an investigator from the United States Food and Drug Administration (FDA) determined that your firm manufactures the Spirit hospital bed. Under section 201 (h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321 (h), this product is a device because it is intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or it is intended to affect the structure or function of the body.
+Our inspection revealed that your firm's hospital beds are misbranded under section 502(t)(2) of the Act, 21 U.S.C. 352(t)(2), in that your firm failed or refused to furnish material or information respecting the device that is required by or under section 519 of the Act, 21 U.S.C. 360i, and 21 CFR Part 803 - Medical Device Reporting (MDR) regulation. Significant violations include, but are not limited to, the following:
+1. Failure to submit an MDR within 30 days of receiving or otherwise becoming aware of information that reasonably suggests that a marketed device may have caused or contributed to a death or serious injury, as required by 21 CFR 803.50(a)(1).
+For example, your firm received information through its Service Report SR0134A, dated October 5, 2010, of a patient that fell over the side rails of your firm's bed and sustained a broken hip. When the nurse reentered the room, the nurse call alarm was not sounding at the bed or the nurse call station. It was indicated that the nurse call outlet was damaged and had loose connections. Your firm reported this event in its complaint file as CA-007, dated October 8, 2010. Your firm's MDR evaluation determined, "Serious injury not caused/contributed by product," and no report was submitted to FDA.
+A broken hip meets the definition of a serious injury in that it represents a permanent impairment of a body structure and would necessitate medical intervention to preclude permanent impairment of a body structure.
+Your response dated May 11, 2011, appears to be adequate because you submitted an MDR to FDA regarding the event.
+2. Failure to develop, maintain, and implement written MDR procedures, as required by 21 CFR Part 803.17.
+a. For example, your firm's MDR procedure does not contain a standardized process or instructions for determining when an event meets the criteria for a MDR. Specifically:
+• There are no definitions of what your firm considers to be a reportable event under 21 CFR Part 803.17. To facilitate the correct interpretation of reportable events and to assure the quality of MDR submissions, the procedure should include definitions, based on Part 803.3, of: "become aware"; "caused or contributed"; "malfunction"; "serious injury"; as well as definitions of "reasonably known," based on Part 803.50(b), and "reasonably suggests," based on Part 803.20(c)(1).
+• The definition of a
+(b)(4)
+Product Complaint in section 6.3 of your firm's MDR procedure excludes events that do not meet this definition, but that still may meet the criteria for reportability under Part 803. It does not address situations in which the device may have caused or contributed to a death, or has malfunctioned and a recurrence of the malfunction would be likely to cause or contribute to a death or serious injury.
+• Section 8.1 of your firm's MDR procedure does not include the phrase, "caused or contributed to" when discussing how an event will be evaluated for reportability.
+• There are no instructions how to conduct an investigation to determine the cause of an event.
+• It is not clear to whom your firm's MOR procedure is referring in section 8.13, when it references "manufacturer/developer." CHG is considered to be the manufacturer of the Spirit Hospital Beds for MDR requirements.
+• There are no instructions how to submit reports for events that occur outside the U.S. If an event involves a device that is the same or similar to a device with marketing approval in the U. S., then your firm must also evaluate these events for reportability and submit MDRs as required.
+b. Your firm's MDR procedure does not describe its documentation and record keeping process. For example:
+• There are no instructions for documenting information that was evaluated for reportability determinations or for establishing and maintaining MDR files.
+• There is no description how your firm will ensure access to information that facilitates timely follow-up and inspection by FDA.
+c. Your firm's MDR procedure fails to provide instructions for the timely submission of complete medical device reports. For example:
+• Section 8.6 is misleading. It does not include instructions to submit an MDR within 30 days of becoming aware of information that reasonably suggests that a device your firm markets may have caused or contributed to a reportable event, despite any lack of follow-up information received. If additional information is obtained at a later date that was required or could not be provided when the initial report was submitted, then your firm is required to submit a supplemental report within one month of the day it receives this information.
+• An address indicating where to submit MDR reports is not included. The correct address to submit MDRs is: FDA, CDRH, Medical Device Reporting, P. O. Box 3002, Rockville, MD 20847-3002.
+• There are no instructions regarding when your firm must submit 30-day, 5-day, and supplemental or follow-up reports.
+• The procedure does not describe the types of information to be included in the FDA Form 3500A.
+• There are no instructions requiring your firm to submit all information reasonably known regarding a reportable event.
+d. Your firm's MDR procedure does not contain a standardized process for determining when an event meets the criteria for a MDR. For example there are no instructions on how your firm will evaluate information about an event to make timely MDR reportability determinations.
+e. Your firm's MDR procedure does not describe its documentation and record keeping process. For example:
+• There are no instructions for documenting information that was evaluated for reportability determinations or for establishing and maintaining MDR files.
+• There is no description of how your firm will ensure access to information that facilitates timely follow-up and inspection by FDA.
+Please note that your firm's MDR procedure contains reporting requirements for other regulatory or competent authorities. To ensure that your firm meets its regulatory obligations for 21 CFR Part 803, we recommend that it develops a MDR procedure as a separate document or, if necessary, as a clearly defined section of a larger document.
+We reviewed your firm's response dated May 11, 2011, and the revised document 230-012,
+(b)(4)
+" Complaints: and determined that it is not adequate. It addresses when to submit 30-day, 5-day, and supplemental reports, but does not address the other deficiencies listed above.
+If your firm wishes to submit MDR reports via electronic submission staff can follow the directions stated at the following URL:
+http://www.fda.gov/MedicaIDevices/deviceregulationandguidance/guidancedocuments/ucm094529.htm#Where
+If you wish to discuss MDR reportability criteria or to schedule further communications, you may contact the MDR Policy Branch at 301-796-6670 or by email at
+MDRPolicy@fda.hhs.gov
+.
+A follow-up inspection will be required to assure that corrections and/or corrective actions are adequate.
+U.S. federal agencies may be advised of the issuance of all Warning Letters about devices so that they may take this information into account when considering the award of contracts. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen working days from the date you receive this letter of the specific steps you have taken to correct the noted violations, including an explanation of how you plan to prevent these violations, or similar violations, from occurring again. Include documentation of the corrective action you have taken. If your planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective action cannot be cornpleted within fifteen working days, state the reason for the delay and the time within which the corrections will be completed. Please provide a translation of documentation not in English to facilitate our review.
+Your response should be sent to: Field Operations Branch/DRMO/OC/CDRH. Refer to CMS case #204934 when replying. If you have any questions about the content of this letter please contact: Valerie A. Flournoy at 301-796-5770 or 301-847-8137 (fax).
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, Form FDA 483 (FDA 483), issued at the closeout of the inspection may be symptomatic of serious problems in your firm's quality assurance systems.
+You should investigate and determine the causes of the violations, and take prompt actions to correct the violations and to bring your products into compliance.
+Sincerely yours,
+/S/
+Steven D. Silverman
+Director
+Office of Compliance
+Center for Devices and
+Radiological Health
+-
+-
+Close Out Letter
+CHG Hospital Beds Inc - Close Out Letter 11/2/11
+-

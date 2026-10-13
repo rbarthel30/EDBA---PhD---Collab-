@@ -1,0 +1,229 @@
+CLOSEOUT LETTER
+Staar Surgical Co.
+MARCS-CMS 424426 —
+May 21, 2014
+Share
+Tweet
+Linkedin
+Email
+Print
+Product:
+Medical Devices
+Recipient:
+Recipient Name
+Ms. Caren Mason
+Staar Surgical Co.
+1911 Walker Avenue
+Monrovia
+,
+CA
+91016
+United States
+Issuing Office:
+Los Angeles District Office
+United States
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Los Angeles District
+Pacific Region
+19701 Fairchild
+Irvine, CA 92612-2506
+Telephone: 949-608-2900
+FAX: 949-608-4415
+WARNING LETTER
+VIA UNITED PARCEL SERVICE
+SIGNATURE REQUIRED
+May 21
+st
+, 2014
+W/L 20-14
+Barry Caldwell, President and CEO
+Staar Surgical Company
+1911 Walker Avenue
+Monrovia, California 91016-4846
+Dear Mr. Caldwell:
+During an inspection of your firm, Staar Surgical Company, Monrovia, California, an investigator from the United States Food and Drug Administration (FDA) conducted an inspection from February 10, 2014 to March 21, 2014 and determined that your firm manufactures, designs, develops and distributes class III foldable implantable lenses for the eye such as the Visian Myopic ICL Phakic Intraocular Lens (Visian ICL and MICL) and Affinity Collamer IOL, lens insertions accessories, and a collamer glaucoma drainage device. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 321(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+We received a response from Mr. John Santos the Vice President of Regulatory dated April 11, 2014 concerning our investigator’s observations noted on the Form FDA 483 (FDA 483), List of Inspectional Observations that was issued to your firm on March 21, 2014. We addressed this response below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1. Failure to establish procedures for design controls, as required by 21 CFR § 820.30(a). Specifically, your Design Control Procedures, QSSOP 2005 and QSSOP 7.3 were not followed and have not been implemented for the design of the Visian ICL/MICL Implantable Collamer Phakic (refractive) Intraocular Lenses (ICL models MICL 12.1 mm, MICL 12.6 mm, MICL 13.2 mm, MICL 13.7 mm). Our FDA investigator was told by your firm’s management that your firm did not have, and were unable to locate the design files for the Visian ICL/MICL. On February 21, 2014, after 8 days at your firm, and numerous requests your firm provided DP #05-001, dated March 10, 2005 but this document was incomplete, and failed to include the referenced attachments and supporting reports.
+We reviewed your firm’s response and concluded that it is not adequate. Your response failed to provide the subsidiary procedures pertaining to the design control Standard Operating Procedures (SOP) series for review. In addition, please explain why the ICL/MICL design control records were not transferred from the Staar Nidau Switzerland facility to the Staar Monrovia, California facility on or about October 2013 when your firm started manufacturing the ICL/MICL at your Staar Monrovia, California manufacturing facility.
+In addition, you provided the design control documentation and activities for the ICL/MICL in your response but you state that you plan on correcting any gaps found during your review of these documents. Please submit these “gaps” and the corrective actions you plan to implement.
+Also, your response does not include any information regarding a systemic corrective action to include a retrospective review of other products to ensure that design controls were documented and completed as required.
+2. Failure to establish and maintain a Design History File (DHF) for each type of device to demonstrate that the design was developed in accordance with the approved design plan and the requirements of 21 CFR § 820, as required by 21 CFR § 820.30(j). For example, your firm failed to implement your Design History File QSSOP 7.3.9 procedure to establish DHF of each type of product, that it is maintained within Research and Development, and transferred to Document Control upon completion. The Staar Surgical Monrovia, California site is the designer and manufacturer of the MICL lenses, however, your document control department was unable to locate the MICL Lens DHFfor the Visian ICL/MICL Lenses (ICL models MICL 12.1 mm, MICL 12.6 mm, MICL 13.2 mm, MICL 13.7 mm).
+We reviewed your firm’s response and concluded that it is not adequate. Your response failed to provide the subsidiary procedures pertaining to the design control Standard Operating Procedures (SOP) series for review. In addition, please explain why the ICL/MICL design control records were not transferred from the Staar Nidau Switzerland facility to the Staar Monrovia, California facility on or about October 2013 when your firm started manufacturing the ICL/MICL at your Staar Monrovia, California manufacturing facility.
+In addition, you provided the design control documentation and activities for the ICL/MICL in your response but you state that you plan on correcting any gaps found during your review of these documents. Please submit these “gaps” and the corrective actions you plan to implement.
+Also, your response does not include any information regarding a systemic corrective action to include a retrospective review of other products to ensure that design controls were documented and completed as required.
+3. Failure to establish a procedure for design transfer, as required by 21 CFR § 820.30(h). Specifically, your firm failed to demonstrate that the device design for the Visian ICL/MICL Lenses (ICL models MICL 12.1 mm, MICL 12.6 mm, MICL 13.2 mm, MICL 13.7 mm) was correctly transferred into production specifications at both the Staar Surgical Monrovia and Nidau (Switzerland) manufacturing sites. Your firm was unable to provide a DHF for the MICL lenses. Without a DHF, you failed to provide an audit trail to demonstrate that the procedures and specifications, set forth in the Device Master Record (DMR), transferred to manufacturing were for the device that was designed.
+In addition, your firm approved the Quality Plan for the manufacturing transfer of the MICL lenses from Staar Surgical Nidau (Switzerland) to Staar Surgical Monrovia (California)on September 23, 2013. In October 2013, the Staar Surgical Monrovia site began manufacturing MICL lenses and this site released the MICL lenses for U.S. commercial distribution in December 2013. The models released were MICL 12.1 mm, MICL 12.6 mm, MICL 13.2 mm, MICL 13.7 mm.
+We reviewed your firm’s response and concluded that it is not adequate. We reviewed the DHF for the MICL lenses for document “Manufacturing Transfer to Monrovia”, “Product Number IP02-000, Revision: F” and “Effective Date: 2014/01/09”. Please provide an explanation into why this document was signed after you manufactured on or about October 2013 and released product into U.S. commercial distribution in December 2013.
+Also, your response does not include any information regarding a systemic corrective action to include a retrospective review of other products to ensure that design controls were documented and completed as required.
+4. Failure to establish design plans that describe or reference the design and development activities and define responsibility for implementation, as required by 21 CFR § 820.30(b). Specifically, your firm’s design plans that describe the design and development activities for the Visian ICL/MICL Lenses, prior to July 2005, do not exist, or could not be located by your firm.
+In addition, Gantt charts used to document design team activities for the Visian ICL/MICL Lenses from July 2005 forward, were not provided to show that the design plan was reviewed, updated, and approved as design and development evolved.
+We reviewed your firm’s response and concluded that it is not adequate. The Gantt charts you mentioned in your response (DHF pages 238-243) do not define responsibility for implementation and does not indicate that the Gantt charts have been reviewed and approved.
+In addition, DHF pages 241-243, “Attachment 6: Gantt Chart 2005, Revision 0 and Revision 1” titled “MICL Gantt Chart 2005 (on-going)” and dated “Tue 6/28/2005” appears to be still “on-going". Please explain why this Gantt chart was not updated, revised, reviewed and approved as the design and development of the MICL evolved.
+Also, your response does not include any information regarding a systemic corrective action to include a retrospective review of other products to ensure that design controls were documented and completed as required.
+5. Failure to adequately document design input requirements, as required by 21 CFR § 820.30(c). Specifically,
+A. You firm failed to provide the design inputs requirements and design input changes as they evolved for the Visian ICL/MICL design.
+B. Your firm failed to define, document or establish the design inputs for your web based MICL calculation software used by the user to determine patient lens length and power.
+We reviewed your firm’s response and concluded that it is not adequate.
+In your response, your firm stated that by May 15, 2014 Staar will integrate the MICL calculation software for use in determining lens length and power into the ICL/MICL DHF. Please explain in detail what MICL calculation software is being used in determining lens length and power from March 21, 2014 to the present. Provide a list of all consignee information, lens sizes, finished product lot numbers, shipment date and total number of lenses distributed from March 21, 2014 to the present.
+Also, y
+our response does not include any information regarding a systemic corrective action to include a retrospective review of other products to ensure that design controls were documented and completed as required.
+6. Failure to document in the Design History File the design verification results, including the identification of the design, method(s), the date, and the individual performing the verification, as required by 21 CFR § 820.30(f). Specifically,
+A. Your firm failed to demonstrate that the Visian ICL/MICL lens design outputs adequately conformed to design input requirements and to ensure the design satisfies the requirements for the intended use of the device and the needs of the user prior to release. Our FDA investigator was unable to compare the design outputs to the design inputs because they did not exist, or could not be located by your firm.
+B. Your firm failed to adequately provide the Visian ICL/MICL lens design verification results, including identification of the design, method(s), the date, and the individual(s) performing the verification.
+We reviewed your firm’s response and concluded that it is not adequate. We reviewed your document “Master Validation & Verification Plan Nidau, MVVP N02”, approval date “05.03.31” and found no data for design outputs, design verification results, including identification of the design, method(s) the date, and the individual(s) performing the verification. For example, change summary report, DP#05-11 – “ICL Change of Packaging Solution from
+(
+b)(4)
+to
+(
+b)(4)
+” lacks the necessary attachments, references and reports necessary to compare the design inputs with the design outputs and determine the adequacy of the verification.
+Also, your response does not include any information regarding a systemic corrective action to include a retrospective review of other products to ensure that design controls were documented and completed as required.
+7. Failure to establish procedures for design review, as required by 21 CFR § 820.30(e). Specifically, your firm failed to implement your Design Review procedures QSSOP 2005.3 and QSSOP 7.3.4, which require a documented, comprehensive, systematic examination of a design to evaluate the adequacy to design specifications, judge the capability of the design to meet these requirements and identify problems, and be reviewed by senior management as identified in the design and development plan. Your design reviews for the Visian ICL/MICL prior to July 2005 do not exist or could not be located by your firm. In addition, your firm’s Management Review team failed to approve Phase-4 (transfer of a design change) for the ICL/MICL design change DP#05-001 (Change of Packaging Solution).
+We reviewed your firm’s response and concluded that it is not adequate. Your firm failed to provide the Management Review approval document for document titled “ICL Change of Packaging Solution From
+(
+b)(4)
+to
+(
+b)(4)
+”; “Design Transfer”; “Phase 4”; “DP #05-001, Phase 4 / Revision 1”.
+Also, your response does not include any information regarding a systemic corrective action to include a retrospective review of other products to ensure that design controls were documented and completed as required.
+8. Failure to perform validation of device software, as required by 21 CFR § 820.30(g). Specifically, your firm failed to validate the software calculator for the STAAR Visian MICL Lens (ICL models MICL 12.1 mm, MICL 12.6 mm, MICL 13.2 mm, MICL 13.7 mm).
+We reviewed your firm’s response and concluded that it is not adequate. We acknowledge that your firm has disabled the STAARVision software calculator from
+(
+b)(4)
+website called
+(
+b)(4)
+as of April 18, 2014. In addition, your firm stated that the
+(
+b)(4)
+was submitted to FDA on or about
+(
+b)(4)
+. Therefore, please explain in detail which MICL software calculator was being used by Staar Surgical to calculate the proper lenses for customers from April 18, 2014 to the present. Also, please provide a list of consignees, finished product lot numbers and shipment dates and method of shipment in your response.
+In addition, you did not provide objective evidence such as the
+(
+b)(4)
+approved protocol and approved validation summary report.
+Also, your response does not include any information regarding a systemic corrective action to include a retrospective review of other products to ensure that design controls were documented and completed as required.
+9. Failure to document, in the design history file, the results of design validation, including identification of the design, method(s), the date, and the individual(s) performing validation, as required by 21 CFR § 820.30(g). Specifically, your firm failed to provide MICL design validation reports that define operating conditions and using initial production units, lots or batches or their equivalents to ensure that the device conforms to defined user needs and intended uses.
+We reviewed your firm’s response and concluded that it is not adequate. Your firm’s response states on “Part 4, Phase 5 pages 2137-2157of the DHF contains the 2005 validation report “ICL Change of Packaging Solution from
+(
+b)(4)
+to
+(
+b)(4)
+Design Validation and Launch Readiness,” and signed by all approvers but your firm failed to provide the MICL design validation reports that define the operating conditions, using initial production units, lots or batches or their equivalents.
+Also, your response does not include any information regarding a systemic corrective action to include a retrospective review of other products to ensure that design controls were documented and completed as required.
+10. Failure to document results of the design risk analysis, as required by 21 CFR § 820.30(g). Specifically, your firm failed to provide the results of risk analysis that identified possible hazards associated with the designs in normal and fault conditions for the Visian ICL/MICL lenses.
+We reviewed your firm’s response and concluded that it is not adequate. Your firm mentioned, in your response, that various risk analysis have been generated from various phases of the design project but, for each referenced Phases (2-5), you did not provide the appropriate Attachments.
+Also, your response does not include any information regarding a systemic corrective action to include a retrospective review of other products to ensure that design controls were documented and completed as required.
+11. Failure to establish procedures for receiving, reviewing, and evaluating complaints by a formally designated unit, as required by 21 CFR § 820.198(a). Specifically your firm failed to implement Complaint Handling procedure QSSOP 8.2.1, which requires an investigation and trending of complaints. Your firm failed to investigate and analyze data from
+(
+b)(4)
+complaints for lens lengths different from those calculated by using the table (white to white, and ACD) in the directions for use (DFU) for Implantable collamer intraocular lenses (ICL models MICL 12.1 mm, MICL 12.6 mm, MICL 13.2 mm, MICL 13.7 mm). Both the Staar Surgical Certification training course and Staarvision website calculator indicates an
+(
+b)(4)
+MICL lens different from those described in the directions for use (DFU). Your management at Staar Surgical estimated that at least
+(
+b)(4)
+of the MICL lenses are ordered in lengths other than those calculated by using MICL directions for use (DFU). Your firm has no data collected or trended for complaints related to these other lengths.
+We reviewed your firm’s response and concluded that it is not adequate. Your firm’s planned actions does not address the need to include relevant data mentioned in your response such as tracking complaints by serial numbers of the lenses and the method used by a surgeon to determine lens length. In addition, your firm’s response does not address the
+(
+b)(4)
+MICL lens length different from those described in the directions for use (DFU). Please explain.
+Also, your response does not include any information regarding a systemic corrective action to include a retrospective review of other products to ensure that design controls were documented and completed as required.
+12. Failure to revalidate a validated process when changes or process deviations occurred, as required by 21 CFR § 820.75(c). Specifically, your firm has not established a real-time stability protocol or conducted a stability study supporting the two year shelf-life placed on the Implantable Collamer Phakic (refractive) Intraocular Lenses (ICL models MICL 12.1 mm, MICL 12.6 mm, MICL 13.2 mm, MICL 13.7 mm). In addition, there are no documents and control methods and data, the date performed and the individual performing the process for the MICL shelf-life. Your firm management reported that they do not have a procedure and do not monitor production samples for MICL lenses for shelf-life and your management stated they do not retain production MICL lenses that could be used to monitor shelf-life.
+We reviewed your firm’s response and concluded that it is not adequate. Your firm’s Technical Study, document number TR14-012-R, Revision A dated “2014/14/10”, to assess the functional performance of the ICL at the end of labeled shelf life, failed to indicate the finished product approval date and lens size(s) of the sample lenses used for this study. Also, your response states your firm used “
+(
+b)(4)
+lenses” for this study instead of MICL lenses. Please identify which lens serial numbers listed in the technical study are
+(
+b)(4)
+lenses. Also, please submit objective evidence demonstrating that the
+(
+b)(4)
+lenses manufacturing process, from beginning to end, is identical to the MICL.
+Also, explain why sterility testing is not performed during interval testing and at expiration (2 years) for your firm’s document number V14-008-P, Revision A, “Shelf-Life Study Protocol” titled “Real-Time and Accelerated Aging Shelf-Life Study for the Implantable Collamer Lens in a 2ml Vial” dated “2014/04/10”.
+Also, your response does not include any information regarding a systemic corrective action to include a retrospective review of other products to ensure that design controls were documented and completed as required.
+13. Failure to establish procedures for finished device acceptance, as required by 21 CFR § 820.80(d). Specifically, the device history record does not include complete acceptance records that demonstrate the device is manufactured in accordance with the device master record in that 3 of the 3 reviewed ICL lens device history records for work orders MICL Parent#1294036/child #197293&1297294, MICL Parent #1299273/child#1300665
+and 1300660, and VICMO Parent #1294031/child #295615&129516 revealed the following deficiencies:
+A. The actual process cycle times in
+(
+b)(4)
+and
+(
+b)(4)
+MSOP 1020 were incorrectly entered.
+B. Parent#1294031/child#295615&129516 (VICMO) did not meet the minimum required
+(
+b)(4)
+process cycle times (MSOP 1020).
+C.
+(
+b)(4)
+work instruction MSOP1105 was incorrectly identified on the work order as
+(
+b)(4)
+MSOP1019.
+D. The actual process cycle times in
+(
+b)(4)
+were incorrectly entered.
+E. The incorrect cycle times were not discovered during the review of the Device History Records by QA (QCSOP 561) and the product was released for distribution. These errors were not discovered until the DHRs were requested by the FDA investigator.
+The Quality Review of Lot & Device History Records QCSOP 561 states in-process documentation such as HFR 205
+(
+b)(4)
+as “not part of the Device History File”.
+This is a repeat observation.
+We reviewed your firm’s response and concluded that it is not adequate because your response does not include any information regarding a systemic corrective action to include a retrospective review of other products to ensure that design controls were documented and completed as required.
+14. Failure to establish procedures to ensure that all purchased or otherwise received product and services conform to specified requirements, as required by 21 CFR § 820.50. Specifically, your firm did not adequately implement your Supplier Qualification QSSOP 7.4.1 procedure in that 2 of the 11 reviewed critical supplies/contractors/consultants qualification files revealed the following deficiencies:
+A. Although,
+(
+b)(4)
+a critical supplier, contractor, and consultant of software, shows a pending supplier status since 2007, this supplier has never been audited, provided a supplier questionnaire, or a Curriculum Vitae.
+B.
+(
+b)(4)
+and Staar Nidau, both critical suppliers of the BSS, are not on the Staar Monrovia supplier list.
+We reviewed your firm’s response and concluded that it is not adequate because your response does not include any information regarding a systemic corrective action to include a retrospective review of other products to ensure that design controls were documented and completed as required.
+15. Failure to have required records, as required by 21 CFR § 820.180. Specifically,
+A. Your firm was unable to locate records, such as design history files for the ICL/MICL Implantable Collamer Phakic intraocular lenses (ICL models MICL 12.1 mm, MICL 12.6 mm, MICL 13.2 mm, MICL 13.7 mm). The request was made repeatedly during the inspection. The ICL/MICL design history file and design documents were never received.
+B. The ICL/MICL design change DP#105-001 that was reported by your management to be “the ICL/MICL design file” was provided to the FDA on 2/21/2014. DP#105-001 contained summary information of the change in the lens packaging solution. The DP#105-001 attachments and supporting data/reports were not provided.
+C. Your firm was unable to locate the validation for the web based software calculator for the Visian MICL Implantable Collamer Phakic intraocular lenses (ICL models MICL 12.1 mm, MICL 12.6 mm MICL 13.2 mm MICL 13.7 mm). The calculator is a password protected Staar web based tool that is used by the user (surgeons) to enter patient information to determine the lens length and power.
+D. Repeated requests were made for the validation and multiple firm management were interviewed during the inspection concerning the software, its use, and its source. A software development plan/specification and validation for a MICL calculator was provided, finally, on day seven of the inspection. The firm stated that they provided this software to their subcontractor (
+(
+b)(4)
+), but do not know which code/algorithms from this plan were incorporated into the current Staar website calculator. Moreover, this software calculator was never submitted in the PMA filing to the FDA.
+We reviewed your firm’s response and concluded that it is not adequate because your response does not include any information regarding a systemic corrective action to include a retrospective review of other products to ensure that design controls were documented and completed as required. In addition, other violations to Part 820, Quality System Regulations were cited in this letter for the specific examples above.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, a premarket approval application for Class III devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected. Request for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, form occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+Your response should be sent to:
+Mr. Blake Bevill
+Director, Compliance Branch
+U.S. Food & Drug Administration
+19701 Fairchild
+Irvine, CA 92612-2506
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt action to correct the violations and bring the products into compliance.
+If you have any questions about the content of this letter please contact: Ms. Mariza M. Jafary, Compliance Officer, at (949) 608-2977.
+Sincerely,
+/S/
+Steven E. Porter, Acting District Director
+Los Angeles
+Cc:
+Hugo Cornejo, Acting Chief
+California Department of Public Health
+Food and Drug Branch
+1500 Capitol Avenue MS 7602
+PO Box 997435
+Sacramento, California 95899-7435
+Close Out Letter
+Staar Surgical Co. - Close Out Letter 6/15/18
+Content current as of:
+06/30/2014
+Regulated Product(s)
+Medical Devices
+More Warning Letters

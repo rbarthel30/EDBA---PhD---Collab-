@@ -1,0 +1,87 @@
+Baxter Healthcare SA/dba Baxter Healthcare of Puerto Rico 7/17/14
+Share
+Tweet
+Linkedin
+Pin it
+More sharing options
+Linkedin
+Pin it
+Email
+Print
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+San Juan District
+Compliance Branch
+466 Fernandez Juncos Avenue
+San Juan, PR 00901-3223
+TEL (787) 474-9500
+FAX (787) 729-6658
+WARNING LETTER
+14-SJN-WL-10
+July 17, 2014
+CERTIFIED MAIL
+RETURN RECEIPT REQUESTED
+Mr. Robert L. Parkinson
+Chairman, President and CEO
+Baxter Healthcare Corporation
+One Baxter Parkway
+Deerfield, IL, 60015-4633
+Dear
+Mr. Parkinson:
+During an inspection conductedfrom 03/10/14 through 05/12/14 of Baxter Healthcare of Puerto Rico, located at Rd. #721, Km 0.3, Aibonito, Puerto Rico, we found that your firm manufactures multiple configurations of sterile fluid path IV sets and containers, and PVC and non-PVC parental bags
+.
+Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions; or in the cure, mitigation, treatment, or prevention of disease; or are intended to affect the structure or function of the body.
+The inspection found that your device products are adulterated within the meaning of section 501(h) of the Act (21 U.S.C. § 351(h)), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System Regulation (QSR) found at Title 21, Code of Federal Regulations (C.F.R.), Part 820.
+We received a written response signed by Mr. Enrique Moran, Plant Manager, and Ms. Teri Martinez, Quality Director, dated 06/03/14
+, concerning the observations noted on Form FDA 483, List of Inspectional Observations, which was issued to your firm on 05/12/14. Your response is addressed below in relation to each of the noted violations.
+These violations include, but are not limited to, the following:
+1.
+Failure to develop, conduct, control, and monitor production processes to ensure that a device conforms to its specifications, as required by 21 CFR 820.70(a).
+Specifically, your current established procedures for the detection and control of particle matter inside the fluid path of your nutritional sterile containers rely on the use of visual inspection during in-process operations and during final assembly. Our inspection disclosed that your firm does not have a valid test method and/or scientific evidence to show that your current visual inspection is capable of detecting particulate matter inside fluid path. We also noted that your employee certification program in support of the visual inspection failed to include an assessment of the employee’s visual capabilities to determine if they were able of detecting particulate matter without any visual enhancement tools. In addition, your certification program does not contemplate challenging the employees’ visual capabilities during on-the-job-training to ensure that the training given was effective.
+Since 2010 to present, you have confirmed the presence of particle matter in about
+(b)(4)
+of “All–In-One” and “Intrivia” products returned to your firm by consumers. All these units were manufactured, assembled, and released by Baxter Aibonito after
+(b)(4)
+100% visual inspections.
+Please be aware that the inadequacy of your visual inspections is also applicable to visual inspections conducted for empty solutions bags manufactured in your Plastic cell manufacturing area. Since 2010, you have been receiving complaints from Baxter Jayuya, PR and Baxter Alliston, Canada about the presence of particulate matter inside bags, such as red cotton particles, colorless fibers, and PVC particles. We find objectionable that it was not until 06/19/13 that your firm opened an investigation to determine the root cause of this issue. We acknowledge that on 06/20/13 you placed on hold
+(b)(4)
+of released components, later rejected on 09/2014 because the amount of defective units was too high. There is no assurance that the components and finished devices manufactured at Baxter Aibonito are free from particulate matter because you continue to rely on visual inspection which you have not demonstrated that it is an effective test.
+We evaluated your response addressing this issue and we found it inadequate. We acknowledge that you are in the process of implementing several corrective actions that should be completed by 10/31/14. The adequacy of your proposed corrective actions, including their effectiveness, will be verified during the next scheduled inspection. Your response failed to address how you intend to handle potentially defective products manufactured at your facility prior to the implementation of your proposed corrective actions. Also, you are encouraged to conduct a retrospective assessment of components and finished device products released for distribution from your Baxter Aibonito facility with a potential defect that was undetected due to the use of a non-validated visual inspection test. Please indicate in your response to this letter all actions to be taken if you confirm that adulterated products were distributed to the market place.
+2.
+Failure to properly implement your CAPA procedure for investigating the cause of nonconformities relating to product, processes, and the quality system, and identifying the actions needed to correct and prevent recurrence of non-conforming product as required by
+21 C.F.R. § 820.100(a).
+Specifically, our review of NCR #
+(b)(4)
+opened on 05/11/11 to investigate an increase of complaints observed since 11/2010 due to the presence of particulate matter within the fluid path of your “All-In-One” empty EVA containers disclosed to be inadequate, untimely, and ineffective. The investigation was opened
+(b)(4)
+you became aware of the issue, failed to include all product codes affected, and
+(b)(4)
+without identifying the root cause of the problem. Our inspection disclosed that your CAPA investigation failed to address that your current visual inspections, used during in-process and prior to the final release of your components and finished devices, have not demonstrated to be effective for its intended use.
+A preliminary medical assessment conducted in 2010 concluded that the defect was associated to a malfunction that could cause or contribute to death or serious injury. You failed to take immediate action with products under your control and in commercial distribution. Process monitoring activities, to mitigate the distribution of defective products, were not increased.
+It was not until
+(b)(4)
+because you continued receiving additional complaints corresponding to products manufactured and/or assembled in the Nutrition and Plastic Cell department. On 03/07/13 you determined that a field corrective action was not required since the overall assessment was determined as of low risk.
+We reviewed your Medical Risk Assessment (MRA) and the Field Corrective Action (FCA) Decision Record which supports your decision of not conducting a field action. Our evaluation disclosed that the information was inaccurate because it failed to include all product codes affected. The data used to calculate the Probability of Defect, Malfunction, or Error in Use (PODME) was inadequate, and the FCA evaluation was solely based on data related to confirmed complaints. In addition, you concluded that risk was mitigated because the particles were found by the user during incoming inspections. We find objectionable the distribution of potentially adulterated products with known catastrophic defects relying on the users to detect particulate matter before they are used for parenteral nutritional infusions.
+The adequacy of your written response addressing this issue cannot be determined at this time. You are in the process of implementing multiple corrective actions to address this deficiency including the use of qualified consultants to conduct CAPA investigations for all currently opened CAPAs, classified as medium and high risk. In your response to this letter, please provide information about the outcome of your retrospective reviews of pertinent CAPA investigations including any field action associated to each review.
+We have reviewed records collected during the inspection associated to multiple consumer complaints related to a “leak defect” that your firm has received from 2010 to present. The leak defect is associated to your empty bag manufacturing process, including other products such as multiple IV extension sets. As part of your corrective actions addressing the particulate matter issue, your assessment should be expanded to include an investigation of the leak defect issue which affects your components and finished device products. In your response to this letter, please provide detailed information about the status of your investigation and implemented corrective actions addressing this critical quality defect.
+You should take prompt actions to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the Food and Drug Administration without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies are advised of the issuance of all Warning Letters so that they may take this information into account when considering the award of contracts.
+Additionally, premarket approval applications for Class III devices, to which the QSR deviations are related, will not be approved until the violations have been corrected. Any requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+This letter is not intended to be an all-inclusive list of the violations found at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the FDA 483 issued at the closeout of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality assurance systems. You should investigate and determine the causes of the violations, and take prompt actions to correct the violations to bring your products into compliance.
+Please notify this office in writing within fifteen (15) working days from the date you receive this letter of the specific steps you have taken to correct the noted violations, including an explanation of how you plan to prevent these or similar violations from recurrence. Please include documentation of the corrective actions you have taken to address the deficiencies found during the inspection. If your planned corrections will take place over time, please include a timetable for the implementation of these corrections. If corrective actions cannot be completed within 15 working days, state the reason for the delay and the time within which the corrections will be completed.
+Your response should be sent to Ms.
+Maridalia Torres, District Director to the address provided in the letterhead.
+If you have any questions about the content of this letter please contact Ms. Margarita Santiago, Compliance Officer, at 787-729-8702 or margarita.santiago@fda.hhs.gov
+Sincerely,
+/S/
+Maridalia Torres
+District Director
+San Juan District
+CC:
+Mr. Enrique Moran
+General Plant Manager
+Baxter Healthcare of Puerto Rico
+P.O. Box 1389
+Aibonito, PR 00705
+Close Out Letter
+Baxter Healthcare SA/dba Baxter Healthcare of Puerto Rico - Close Out Letter 10/2/15

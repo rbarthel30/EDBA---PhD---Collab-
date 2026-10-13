@@ -1,0 +1,159 @@
+WARNING LETTER
+Abbott (St Jude Medical Inc.)
+MARCS-CMS 519686 — Apr 12, 2017
+Share
+Tweet
+Linkedin
+Email
+Print
+Abbott (St Jude Medical Inc.) - 519686 - 04/12/2017
+Recipient:
+Abbott (St Jude Medical Inc.)
+United States
+Issuing Office:
+Center for Devices and Radiological Health
+United States
+10903 New Hampshire Avenue
+Silver Spring, MD 20993
+WARNING LETTER
+VIA UNITED PARCEL SERVICE
+April 12, 2017
+Mike Rousseau
+President
+Abbott
+Cardiovascular and Neuromodulation
+15900 Valley View Court
+Sylmar, California 91342-3577
+Dear Mr. Rousseau:
+During an inspection of your firm located in Sylmar, CA,on February 7 through February 17, 2017, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures the Fortify, Unify, Assura (including Quadra) implantable cardioverter defibrillators and cardiac resynchronization therapy defibrillators, and the Merlin@home monitor. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System (QS) regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+We received a response from Vishnu Charan, Vice President of Operations, dated March 13, 2017, concerning our investigator’s observations noted on the Form FDA 483 (FDA 483), List of Inspectional Observations that was issued to your firm. We address this response below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1.
+Failure to establish and maintain procedures for implementing corrective and preventive actions, as required by 21 CFR 820.100(a). For example:
+a.
+FDA reviewed 42 of your firm’s Product Analysis Reports, produced between 2011 and 2014. These reports showed, in instances when your supplier’s analysis provided evidence that lithium cluster bridging had prematurely drained the battery, your firm repeatedly concluded that the cause of premature depletion of Greatbatch QHR2850 batteries “could not be determined.” Your firm later categorized these as “unconfirmed” lithium bridges. Your firm’s
+Corrective Action and Preventive Action (CAPA) Procedure,
+(b)(4)
+, Revision AA
+states, in Section 2.0, the level of corrective action and preventive action shall be commensurate with the significance and risk of the nonconformance. Further, Section 5.0 states the risk evaluation of nonconformances is based on three factors: severity, probability, and detectability.
+By basing your firm’s risk evaluation on “confirmed” cases and not considering the potential for “unconfirmed” cases to have been shorts, your firm underestimated the occurrence of the hazardous situation. This delayed initiation of
+CAPA #13-017 Titled: Lithium Clusters Shorts in M2850 Cells
+, until December 18, 2013, and your firm continued to distribute devices containing this battery until October 2016.
+The adequacy of your firm’s response cannot be determined at this time. Your firm provided a summary of, and implementation dates for, several corrections, corrective actions, and systemic corrective actions. However, in your firm’s response, you failed to provide evidence of implementation for your firm’s corrections, corrective actions, and systemic corrective actions.
+b.
+Section 5 of both your
+SJM Corrective and Preventive Action (CAPA) SOP,
+(b)(4)
+, Revision D
+, and
+SJM Corrective and Preventive Action WI,
+(b)(4)
+, Revision C
+, defines your firm’s CAPA process and the supporting procedures and forms associated with activities performed within your firm’s CAPA process. Additionally, Figure 2 in your firm’s
+SJM Corrective and Preventive Action WI,
+(b)(4)
+, Revision C
+, describes the CAPA Risk Assessment and Resolution Process that proceeds after a CAPA file is opened. Your firm failed to follow its CAPA procedures when evaluating a third party report, dated August 25, 2016, in that your firm released
+Merlin@home Cybersecurity Risk Assessment
+(b)(4)
+, , Revision G
+, an updated risk assessment and its corresponding corrective action,
+Merlin@home EX2000 v.8.2.2
+, (pilot release on December 7, 2016 with full release on January 9, 2017), before approving the CAPA request for this issue,
+CAPA#17012 Titled: CRM Product Cybersecurity
+, on February 7, 2017. Your firm conducted a risk assessment and a corrective action outside of your CAPA system. Your firm did not confirm all required corrective and preventive actions were completed, including a full root cause investigation and the identification of actions to correct and prevent recurrence of potential cybersecurity vulnerabilities, as required by your CAPA procedures. Additionally, your firm did not confirm that verification or validation activities for the corrective actions had been completed, to ensure the corrective actions were effective and did not adversely affect the finished device.
+We have reviewed your response and conclude that it is not adequate. Your firm provided a summary of and implementation dates for several corrections, and corrective actions. However, in your firm’s response, you failed to consider systemic corrective actions and the necessary information to include evidence of implementation for your firm’s corrections, corrective actions, and systemic corrective actions.
+c.
+Your management review and medical advisory boards did not receive relevant and complete information concerning the premature battery depletion issue, as required by Section 5.3 your firm’s procedure,
+Quality Management Review SOP
+(b)(4)
+, Revision R
+. On November 11 and November 12, 2014, two separate presentations were provided for management review and to your MAB for review concerning premature battery depletions. The presentation to your firm’s MAB included rates of occurrence of premature battery depletions caused by “confirmed” lithium cluster formations. The presentation did not include information on the potential for “unconfirmed” cases to be shorts, despite possessing evidence provided by your supplier regarding premature battery depletion caused by lithium bridges. This resulted in significant underestimations of the probability of occurrence of the hazardous situation. Additionally, both presentations stated there were no serious injury or death directly related to lithium cluster formations. However, the first related death to this issue occurred on
+(b)(6)
+(MDR#2938836-2014-13599). Your firm completed its returned device analysis, related to this death, on August 27, 2014. The analysis concluded the cause of premature battery depletion “could not be determined” despite evidence of lithium bridges, provided by your supplier. This death was not disclosed in these presentations for management or MAB review.
+We have reviewed your response and conclude that it is not adequate. Your firm provided a summary of and implementation dates for several corrections, and corrective actions. However, in your firm’s response, you failed to consider systemic corrective actions and the necessary information to include evidence of implementation for your firm’s corrections, corrective actions, and systemic corrective actions.
+2.
+Failure to establish and maintain procedures to control product that does not conform to specified requirements, as required by 21 CFR 820.90(a).
+For example: On October 11, 2016, your firm initiated a recall for your firm’s Fortify, Unify, and Assura Implantable Cardioverter Defibrillators (ICDs) and Cardiac Resynchronization Therapy Defibrillators (CRT-Ds) due to premature battery depletion. Subsequently, ten implantable cardiac defibrillators (ICDs), subject to this recall, were shipped from your firm’s distribution centers to St. Jude US Field Representatives. Between October 14 and October 26, 2016, an additional seven ICDs, also subject to this recall and in the control of St. Jude US Field Representatives, were implanted into patients.
+The adequacy of your firm’s response cannot be determined at this time. Your firm provided a summary of, and implementation dates for, several corrections, corrective actions, and systemic corrective actions. However, in your firm’s response, you failed to provide evidence of implementation for your firm’s corrections, corrective actions, and systemic corrective actions.
+3.
+Failure to ensure that design verification shall confirm that the design output meets the design input requirements, as required by 21 CFR 820.30(f). For example: Your firm has a design input,
+(b)(4)
+,
+of “the Remote Monitoring device shall only open network ports to authorized interfaces” which is documented in Merlin@home EX2000
+(b)(4)
+Software System Requirements Specification, Document
+(b)(4)
+.
+This is implemented as a design output in your firm’s
+Merlin@home Software Requirements Specification Uploads
+(b)(4)
+.
+This design output was not fully verified during your firm’s design verification activities. According to your firm’s testing procedures,
+(b)(4)
+, Final Configuration Test Procedures,
+(b)(4)
+and
+Final Configuration Test Procedures Document
+(b)(4)
+,
+the requirement was only partially verified by testing that the network ports opened with an authorized interface. Your testing procedures did not require full verification to ensure the network ports would not open with an unauthorized interface.
+The adequacy of your firm’s response cannot be determined at this time. Your firm provided a summary of, and implementation dates for, several corrections, corrective actions, and systemic corrective actions. However, in your firm’s response, you failed to provide evidence of implementation for your firm’s corrections, corrective actions, and systemic corrective actions.
+4.
+Failure to ensure that design validation shall include risk analysis, where appropriate, as required by 21 CFR 820.30(g).
+For example:
+a.
+Your firm failed to accurately incorporate the findings of a third-party assessment you commissioned,
+dated April 2, 2014
+, into your firm’s updated cybersecurity risk assessments for your high voltage and peripheral devices. Specifically:
+1.
+Your firm’s updated Cybersecurity Risk Assessments,
+(b)(4)
+Cybersecurity Risk Assessment,
+(b)(4)
+, , Revision A, April 2, 2015
+and
+Merlin@home Product Security Risk Assessment,
+(b)(4)
+, Revision B
+,
+May 21, 2014
+failed to accurately incorporate the third party report’s findings into its security risk ratings, causing your post-mitigation risk estimations to be acceptable, when, according to the report, several risks were not adequately controlled.
+2.
+The same report identified the hardcoded universal unlock code as an exploitable hazard for your firm’s High Voltage devices. Your firm’s
+Global Risk Management Procedure, SOP
+(b)(4)
+,
+Section 5.3.3 of Revision T
+,
+Released November 2, 2012
+, and
+Section 5.1.3 of Revision X, Released November 8, 2016
+, requires your firm to assess if new hazards are introduced, or previously identified hazardous situations are affected, by risk control measures. Your firm identified the hardcoded universal unlock code as a risk control measure for emergent communication. However, you failed to identify this risk control also as a hazard. Therefore, you failed to properly estimate and evaluate the risk associated with the hardcoded universal lock code in the design of your High Voltage devices.
+The adequacy of your firm’s response cannot be determined at this time. Your firm provided a summary of, and implementation dates for, several corrections, corrective actions, and systemic corrective actions. However, in your firm’s response, you failed to provide evidence of implementation for your firm’s corrections, corrective actions and systemic corrective actions.
+b.
+Section 5.1 of your firm’s
+Global Risk Management Procedure, SOP
+(b)(4)
+, Revision T
+, outlines your firm’s risk management policy, which states that “risk management shall be integrated into all product life cycle stages, in order to assure early identification and timely mitigation of risks that could impact patient safety.” Your firm’s
+Returned Product Analysis Record for
+(b)(4)
+was completed by your firm on September 12, 2011, for a device that was explanted on July 1, 2011, due to premature battery depletion. This analysis included evidence of lithium ion cluster formation. However, your firm failed to identify lithium clusters as a hazardous situation and a potential cause of premature battery depletion, through its risk management process. This process is used for batteries that are used in the Unify, Fortify, Assura, and Quadra ICDs and CRT-Ds.
+We have reviewed your response and conclude that it is not adequate. In your firm’s response, you failed to provide a description and evidence of implementation for corrections and corrective actions, to include consideration of systemic corrective actions.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing, within fifteen business days from the date you receive this letter, of the specific steps you have taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrective action (which must address systemic problems) you your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective action cannot be completed within 15 business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+Your response should be sent to: Food and Drug Administration, Center for Devices and Radiological Health, Office of Compliance, Field Inspections Support Branch, White Oak Building 66, Rm 3540, 10903 New Hampshire Ave., Silver Spring, MD 20993.
+Refer to the Unique Identification Number (519686) when replying. If you have any questions about the content of this letter, please contact: Lorie Erikson at
+lorie.erikson@fda.hhs.gov
+or (301)796-7511.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely yours,
+/S/
+CAPT Sean M. Boyd, MPH, USPHS
+Deputy Director for Regulatory Affairs
+Office of Compliance
+Center for Devices and Radiological Health
+Content current as of:
+04/12/2017
+More Warning Letters

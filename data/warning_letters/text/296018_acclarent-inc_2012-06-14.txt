@@ -1,0 +1,52 @@
+Acclarent, Inc. 6/14/12
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+San Francisco District
+1431 Harbor Bay Parkway
+Alameda, CA 94501-7070
+Telephone: (510) 337-6700
+WARNING LETTER
+VIA UNITED PARCEL SERVICE
+June 14, 2012
+Bridget Ross
+President
+Acclarent, Inc.
+1525-B O'brien Dr.
+Menlo Park, California 94025-1463
+Dear Ms. Ross:
+During an inspection of your firm located in Menlo Park, California, on December 20, 2011, through February 24, 2012, an investigator from the United States Food and Drug Administration (FDA) determined that your firm manufactures devices affecting the ear, nose, and throat including the lnspira AIR Balloon Dilation System and the Cyclops Multi-angle Endoscope. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820. We received a response from you dated March 15, 2012, concerning our investigator's observations noted on the Form FDA 483 (FDA 483), List of lnspectional Observations that was issued to your firm. We address this response below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1. Failure to ensure that devices conform to defined user needs and intended uses and to include an adequate risk analysis in the design validation, as required by 21 CFR 820.30(g). For example:
+a. According to the customer requirements found in the firm's Patient Applicability, Design Inputs/Outputs trace Matrix (10M), "the device must be designed for patients who require procedures involving balloon dilation of the airway tree .... " Your firm's test protocol, Design Validation, Airway Plus Balloon Catheter and Stylet, VPR005136, states that design validation will be conducted using a simulated airway model,
+(b)(4)
+. This test model reportedly simulates true human dimensions of the trachea and bronchi anatomy of a healthy, well~developed adult. However, the validation protocol does not show that design validation that ensures that devices conform to defined user needs and intended uses under actual or simulated use conditions was conducted. Specifically, your firm's validation using the
+(b)(4)
+test model did not address the following:
+i. Treated medical conditions including, but not limited to, partial or complete narrowing of the subglottic airway (subglottis stenosis);
+ii. Simulated variety of sizes of human anatomy, including child-population and premature infants;
+iii. Simulation of clinical deflation environment, which could affect safety;
+iv. Assessment of the effect of the stylet including, but not limited to, effect on deflation time.
+The response dated March 15, 2012, is not adequate. Your firm noted that it plans to revise the Design Validation Reports for the lnspira AIR family (VRP005067 and VRP005140) to include the results of literature/anatomic research. In addition, your firm plans to update the design validation work instruction, WRK005076, to include a requirement for a documented validation plan and to require that all validation activities are summarized in the validation report. Your firm stated that the corrections will be completed by April 16, 2012. However, your firm did not include the revised validation reports or the revised design validation work instruction for review. In addition, your firm did not include a plan and evidence of implementation of the corrective action, evidence of training on the new documents, and consideration of a systemic corrective action including reviewing other products' design validation reports.
+b. Your firm stated during the inspection that there is no age restriction for use of the lnspira AIR devices. In addition, your firm's risk analysis documents, Risk Management, RMF005027, revision 1, effective 10/27/10, and RMF005010, revision M, effective January 18, 2012, identifies the risks and mitigating factors associated with the use of your firm's Airway Balloon Catheters and Stylet. However, the risk analysis does not account for potential risks associated with the use of the lnspira AIR devices on children and premature infants.
+The response dated March 15, 2012, is not adequate. Your firm plans to update RMF00501 0 to include an analysis of the equivalence of pediatric and adult risks in the use of lnspira AIR. Also, it plans to update the 10M, (Customer Requirements/Design Input), IOM005015, revision to clarify patient applicability as including patients of all ages and to provide the missing justifications for the specifications found in section 4.2, 4.3, and 4.7 of Table 7. However, your firm did not provide the revised documents and stated that all corrections will be made from April 16, 2012, to July 31, 2012. Nor did your firm provide evidence of training on the revised documents or a plan and evidence of implementation of a systemic corrective action including review of risk analysis in the design validation of other medical devices developed by your firm.
+2. Failure to establish and maintain adequate procedures for receiving, reviewing, and evaluating complaints by a formally designated unit, as required by 21 CFR 820.198(a). For example, your firm's procedure "Complaint Handling," SOP00010, Revision N, effective 6/5/10, page 3, section 5.1, requires that complaint information be documented upon receipt and processed. However, several complaint records were not documented upon receipt and processed by your firm as required by the procedure. For example:
+a. Complaint #10-0148-C098 was received on March 10, 2010, and entered into your firm's complaint handling system on June 09, 2010.
+b. Complaint#11-0261-C183 was received on July 27, 2011, and entered into your firm's complaint handling system on August 22, 2011.
+c. Complaint #11-0304-C215 was received on September 01, 2011, and entered into your firm's complaint handling system on September 20, 2011.
+The response dated March 15, 2012, is not adequate. Your firm conducted a comprehensive training focused on complaint reporting to all field and in-house employees. In addition, your firm plans to increase focus on timely complaint reporting within the annual mandatory all-employees GMP training by May 30, 2012. Also, your firm plans to develop complaint handling work instructions specific to field personnel and implement the training by April 30, 2012. Finally, your firm plans to trend and report timeliness of complaint handling to Senior Management in monthly metrics and Management Reviews, which will be completed by April 30, 2012. However, your firm did not provide documentation to demonstrate that all corrective actions were implemented. Finally, your firm did not include a plan and evidence of implementation of a systemic corrective action including a retrospective review of other complaints received by your firm.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class Ill devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm's planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm's response should be comprehensive and address all violations included in this Warning Letter.
+Your firm's response should be sent to: Lawton W. Lum, Director of Compliance. Refer to CMS case #296018 when replying. If you have any questions about the contents of this letter, please contact: Sergio Chavez at (510) 337-6886.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm's facility. It is your firm's responsibility to ensure compliance with applicable laws and regulations administered by FDA.
+The specific violations noted in this letter and in the lnspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm's manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely yours,
+/S/
+Barbara Cassens
+District Director
+San Francisco District Office
+-
+-
+Close Out Letter
+Acclarent, Inc. - Close Out Letter 1/22/14
+-

@@ -1,0 +1,139 @@
+bioMerieux, Inc. 8/23/12
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Atlanta District Office
+60 Eighth Street N.E.
+Atlanta, GA 30309
+Telephone: 404-253-1161
+FAX: 404-253-1202
+August 23, 2012
+VIA UPS
+Jean-Luc Belingard, CEO
+Chemin de l'Orme
+Marcy l'Etoile,
+Rhône-Alpes
+F-69280
+France
+WARNING LETTER
+(12-ATL-17)
+Dear Mr. Jean-Luc Belingard:
+During an inspection of bioMerieux conducted at 100 Rodolphe Street, Durham, NC on January 24 – March 06, 2012, investigators from the U.S. Food and Drug Administration (FDA) determined that your firm manufactures various
+in vitro
+diagnostic devices. These products are devices within the meaning of Section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act) [21 United States Code (U.S.C.) § 321(h)] in that they are intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+This inspection revealed that these devices are adulterated within the meaning of Section 501(h) of the Act [21 U.S.C. § 351(h)] in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) regulations found at Title 21 of the Code of Federal Regulations Part 820 (21CFR Part 820).
+A Form FDA 483, Inspectional Observations, was issued to Marc Mackowiak, President and CEO, at the close of the inspection (copy enclosed). We have received your firm’s response letters dated March 20, 2012; May 9, 2012; and July 25, 2012, concerning our investigators’ observations identified on the FDA 483. We address these responses below, in relation to each of the noted violations. The violations documented on the FDA 483 issued include, but are not limited to, the following:
+1.
+Failure to establish and maintain adequate procedures for implementing corrective and preventive action, as required by 21 CFR 820.100(a), in that:
+At least twenty-five (25) non-conformances have been written and seven CAPAs have been opened for BacT/ALERT production lots that failed to meet
+(b)(4)
+requirements due to low
+(b)(4)
+in finished bottles. Adequate corrective and/or preventive actions have not been implemented within the manufacturing process.
+We agree with your proposal in your March 20
+th
+letter to establish additional in-process specifications which can significantly control the process and reduce the number of production lots that subsequently require rework. This action will require further evaluation and verification.
+A non-conformance for faulty seams in plastic bottles was discovered in December 2009. CAPA 2270 was opened 12/2009 and the investigation concluded that a molding tool correction was needed at the supplier. The faulty bottles were continually used in production throughout Feb-Mar 2010 and no corrective or preventative measures were implemented at the firm after becoming aware of the non-conforming materials.
+We agree with your proposal to add workmanship standards to incoming QC which should minimize the potential of using faulty bottles prior to beginning production. This action will require further evaluation and verification.
+Approximately thirty two (32) customer complaints have been documented on BacT/ALERT FA bottles indicating initial value false positives in 2010. CAPA 2704 was opened in January 2011. No corrective or preventative actions were implemented and the CAPA was closed several months later (August 2011). In 2011, approximately thirty two (32) customer complaints were received and in Dec 2011, a second CAPA (483555) was opened to evaluate BacT/ALERT FA initial value false positive complaints on 12/1/11.
+We have evaluated your firm’s responses pertaining to this observation; however additional information is needed to determine the adequacy of your proposed corrective actions. For example, we request additional details concerning your proposal to revise the BacT/ALERT FA Package Insert, as described in your July 25
+th
+response letter.
+CAPA 2612 was initiated on 9/20/2010 due to an increase in frequency of filter replacements as a result of increased filter pressure readings noted during manufacturing. The "most likely root cause" for the increase in pH failures was due to the creation of conditions within the filter trains. However, the failure mode was noted in March and April 2011, and the CAPA was reopened. The root cause for the pH shift was determined "most likely due to an increase in microbial buildup on the prefilter". Several additional actions, including new
+(b)(4)
+, revising cleaning process, and decontaminating
+(b)(4)
+tank have been added to the PM schedule.
+Your responses to this observation are inadequate. Your response letters do not adequately describe the actions your firm has taken to address CAPAs which have been open an extended amount of time.
+2.
+Failure to adequately validate and approve according to established procedures a process whose results cannot be fully verified by subsequent inspection and test, as required by 21 CFR 820.75(a). Additionally, your firm failed to adequately document process validation activities and results, as required by 21 CFR 820.75(a).
+Specifically, the Line 1B BacT/ALERT validation activities are incomplete and the available data does not demonstrate the repeatability of manufacturing resulting in acceptable product.
+We have evaluated your firm’s responses pertaining to this observation; however additional information is needed to determine the adequacy of your proposed corrective actions.
+3.
+Failure to establish and maintain adequate procedures to control product that does not conform to specified requirements including the identification, documentation, evaluation, segregation and disposition of non-conforming product as required by 21 CFR 820.90(a). Specifically, there was no documentation showing Stack
+(b)(4)
+, consisting of approx.
+(b)(4)
+units, from BacT/ALERT SN Lot 1030140 being reworked for
+(b)(4)
+seepage.
+Your responses to this observation are inadequate. Your response fails to explain how meeting AQL Accept/Reject acceptance criteria for the Complete Bottle Inspection, Rack Inspection, and Final QC AQL indicates that 100% visual inspection for
+(b)(4)
+seepage was not necessary.
+4.
+Failure to establish and maintain procedures that set forth the review and disposition process of nonconforming product including documenting the disposition of nonconforming product, as required by 21 CFR 820.90(b)(1). There were no written records showing an investigation being initiated for BacT/ALERT SN Lot 1028441 and BacT/ALERT SA Lot 1028407 when the amounts destroyed due to low pH was less than the starting amount on the Invert Pallet to Finished Good Pallet Worksheet.
+Your responses to this observation are inadequate. Your response stated that it implemented changes to its Labeling and Packaging Operating Procedures #009189 to enhance documentation of material and segregation traceability of nonconforming product. However, neither the response nor the procedure identified how you would ensure reconciliation and disposition of nonconforming product including those destroyed, sampled, or reworked.
+5.
+Failure to establish and maintain procedures for rework, to include retesting and reevaluation of the nonconforming product after rework, to ensure that the product meets its current approved specifications as per 21 CFR 820.90(b)(2).
+A.
+The releasing of reworked BacT/ALERT batches due to low
+(b)(4)
+was based on new acceptance criteria that did not meet current
+(b)(4)
+finished product specifications.
+We have evaluated your firm’s responses pertaining to this observation; however additional information is needed to determine the adequacy of your proposed corrective actions. Specifically, your responses do not appear to identify the root cause of the nonconforming products failing to meet Release C specifications.
+B.
+BacT/ALERT lots that were reworked due to
+(b)(4)
+failures were not being evaluated for stability, for example, BacT/ALERT PF Lot 1029155, BacT/ALERT FA Lot 1027384, & BacT/ALERT MB Lots 1027090.
+We have evaluated your firm’s responses pertaining to this observation; however additional information is needed to determine the adequacy of your proposed corrective actions.
+Additionally, rework and reevaluation activities have not been fully documented in the device history record as required by 21 CFR 820.90(b)(2).
+Specifically, verifications of start up procedures / settings and line clearance prior to the reworking of BacT/ALERT batches on the
+(b)(4)
+System,
+(b)(4)
+System, and
+(b)(4)
+were not being documented.
+Your response to this observation is inadequate.
+6.
+Failure to establish and maintain procedures for verifying the device design as required by 21 CFR 820.30(f). In addition, design verification activities failed to confirm that design output meets the design input requirements as required by 21 CFR 820.30(f).
+A.
+Specifically, stability tests involving BacT/ALERT PF Lot 1026693, BacT/ALERT SA Lot 1025619, and BacT/ALERT FA Lot 1025702 were accepted based on stability specifications that did not meet
+(b)(4)
+finished product specifications.
+Your response to this observation is inadequate. Your response indicates that the BacT/ALERT bottles go through some degradation and would not meet the current Release C finished product specifications, due to aging. However, your response failed to show that the changed pH criteria in stability testing have been validated to meet cleared device performance specifications.
+B.
+Specifically, some of the
+(b)(4)
+finished product testing requirements were not part of the stability testing program for BacT/ALERT products. For example:
+(b)(4)
+and
+(b)(4)
+testing were not being performed during the stability testing of BacT/ALERT PF Lot 1026693 and BacT/ALERT FA Lot 1025702;
+(b)(4)
+, and
+(b)(4)
+were not being performed during the stability testing of BacT/ALERT MB Lot 1025090.
+Your response to this observation is inadequate. Your response indicates you agree to incorporate biochemical parameters into your stability monitoring program. However, it appears that you have not revised TR 50.143 (LLDC 011180) Product Stability Program to include these parameters and only provided 2012 stability protocols for three of your products which included the referenced protocols.
+7.
+Failure to establish and maintain procedures for changes to a specification, method, process, or procedure, as required by 21 CFR 820.70(b). Changes were made to the recipe specification for 'final
+(b)(4)
+in the
+(b)(4)
+, which was established at validation at
+(b)(4)
+. The current operational setting is 8 seconds. There was no documentation for the change.
+Your responses to this observation are inadequate. Our review of change control document, CC03400, revealed that the change control was done on the change of
+(b)(4)
+setting from
+(b)(4)
+seconds to
+(b)(4)
+seconds.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts.
+Please notify our office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+Your firm’s response should be sent to: Derek Price, Compliance Officer, Atlanta District Office, 60 Eighth Street NE, Atlanta, Georgia, 30309.
+If you have any questions about the contents of this letter, please contact: Compliance Officer Price by phone at (404) 253-2277 or by fax at (404) 253-1205.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely,
+/S/
+John R. Gridley
+District Director
+Atlanta District Office
+Cc:
+Marc Mackowiak, President & Chief Executive Officer
+bioMerieux, Inc.
+100 Rodolphe Street
+Durham, NC 27712
+-

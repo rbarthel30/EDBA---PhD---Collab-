@@ -1,0 +1,1135 @@
+Baxter Healthcare Corporation 12/19/13
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Los Angeles District
+Pacific Region
+19701 Fairchild
+Irvine, CA 92612-2506
+Telephone: 949-608-2900
+FAX: 949-608-4415
+WARNING LETTER
+VIA UNITED PARCEL SERVICE
+SIGNATURE REQUIRED
+December 19, 2013
+WL # 07-14
+Dale V. Cowart, Plant Manager
+Baxter Healthcare Corporation
+17511 Armstrong Avenue
+Irvine, California 92614
+Mr. Mark Jackson
+Vice President of Quality, Medical Products
+Baxter Healthcare Corporation
+25212 W. Illinois Rt. 120
+Round Lake, Illinois 60073
+Dear Mr. Cowart:
+During an inspection of your firm, Baxter Healthcare Corporation located in Irvine, California, investigators from the United States Food and Drug Administration (FDA) conducted an inspection from December 10, 2012 to June 4, 2013 and determined that your firm manufactures elastomeric infusion pumps and your firm contract manufactures/repacks elastomeric infusion pumps and specialty medical devices as well. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conductions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 321(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+We received a response from Mr. Mark Jackson, Vice President of Quality, Medical Products, from Baxter Healthcare Corporation Round Lake, Illinois on June 26, 2013 concerning our investigator’s observations noted on the Form FDA 483 (FDA 483), List of Inspectional Observations that was issued to your firm. In addition, we requested additional information on July 9, 2013 regarding your firm’s decision to
+(
+b)(4)
+of your elastomeric infusion pumps and any associated accessories by
+(
+b)(4)
+. A response to our correspondence was received from Mr. Mark Jackson on July 18, 2013. We addressed these responses below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1. Failure to establish procedures for corrective and preventive action, as required by 21 CFR § 820.100(a). Specifically,
+A.
+IM-CAPA-007 was opened in 2005 for bladder ruptures and remained open for
+(
+b)(4)
+days. The root causes identify
+(
+b)(4)
+;
+(
+b)(4)
+; and
+(
+b)(4)
+of the
+(
+b)(4)
+. The corrective actions include implementing an
+(
+b)(4)
+and adding preventive maintenance on the
+(
+b)(4)
+. Your effectiveness verification after three months was performed with a review of complaints which determined that the corrective actions were effective. The effective summary opened on August 5, 2005 for the Intermate and Infusor bladder ruptures states the validation document number V07-055 demonstrated that the
+(
+b)(4)
+of the bladders improved by
+(
+b)(4)
+%. Protocol document number V07-055 validated the new compounding rubber process using
+(
+b)(4)
+equipment with water-cooling system. A review of the documentation (protocol and records) revealed:
+1.
+The protocol only specifies that the
+(
+b)(4)
+test is for information only and it does not specify a
+(
+b)(4)
+acceptance criterion for bladders.
+2.
+There is no record showing 50 samples were pulled from three production lots,
+3.
+There are inconsistencies with the production lot numbers in the protocol and final report.
+B.
+IDC-CAPA-0002 was entered on 2/26/2010 for the bladder rupture complaints with
+(
+b)(4)
+incidents under complaint number 000682556. The CAPA remained open for
+(
+b)(4)
+days. The root causes identified
+(
+b)(4)
+(
+(
+b)(4)
+), the
+(
+b)(4)
+removal (
+(
+b)(4)
+),
+(
+b)(4)
+(
+(
+b)(4)
+) and manufacturing procedures and practices not always clearly defined or followed (no storage specification for
+(
+b)(4)
+). The corrective actions implemented for
+(
+b)(4)
+for the
+(
+b)(4)
+which was modified to include a
+(
+b)(4)
+] and
+(
+b)(4)
+]; new thermocouples were purchased and installed in the salt bath; addition of a storage specification for
+(
+b)(4)
+; retraining of operators in
+(
+b)(4)
+and installation of
+(
+b)(4)
+on the
+(
+b)(4)
+equipment. Your effectiveness verification after six months of complaint trending concluded the CAPA being effective. Your effectiveness plan from 4/15/11 to 10/14/11 for IDC-CAPA-0002 was closed on 10/30/11. The Action Plan, QTS Record number 245220 states no effectiveness monitoring plan is needed. However, your firm documented a CAPA to explore opportunities to establish a test method to minimize ruptures to be performed under IDC-CAPA-004. IDC-CAPA-004 was then closed-cancelled on 8/16/12.
+C.
+IM-CAPA-0025 was entered in 7/24/2009 for increased rupture complaints with the 100 mL JD Coil Infusor products and remained opened for
+(
+b)(4)
+days. The root causes identified
+(
+b)(4)
+in the compounding process for lot number IV093008B and an
+(
+b)(4)
+storage period of
+(
+b)(4)
+. A spreadsheet, attached to this CAPA lists approximately 13 production lots in which compounding lot number IV093008B was used to manufacturer finished product but no assessment was made by your firm into the impact of
+(
+b)(4)
+on the finished product. Also, your firm received complaint number 000745087 5/21/10, lot number 09A003, product code J2C1976J, Basal/Bolus Infusor 2ML X 2ML 6 Pack with expiration date 12/31/13 reported a problem ruptured - "
+(
+b)(4)
+". Your firm’s corrective action included documenting the
+(
+b)(4)
+between the
+(
+b)(4)
+changes from bladder to reservoir;
+(
+b)(4)
+to differentiate bladder and reservoir;
+(
+b)(4)
+storage time; and use of different “
+(
+b)(4)
+” for bladder and reservoir
+(
+b)(4)
+and screening. IM-CAPA-025 was closed after your firm identified that the corrective actions were found to be ineffective, however, your firm opened IM-CAPA-0039.
+D.
+IDC-CAPA-0004 was entered on 3/31/11 to investigate elastomeric infusion pump product ruptures. Your firm initiated several studies to identify the root cause of ruptures, however, evidence of
+(
+b)(4)
+and
+(
+b)(4)
+was the conclusion but the report found no association between ruptured bladder and
+(
+b)(4)
+and
+(
+b)(4)
+. This CAPA was cancelled 8/16/12 with a statement that there is no technology to identify the rupture and it is beyond the scope of this CAPA. Then NCR number 12015PR was initiated on 02/22/12 following a
+(
+b)(4)
+test failure that resulted in bladder rupture in “[b4]” unit of Infusor LV 2 mL 2C1008KP, production lot numbers 12B066. The corrective action was to re-inspect under
+(
+b)(4)
+on 3/17/12. The NCR was closed on 3/22/12 with no preventive action taken because it made reference to IDC-CAPA-0004. Additional complaints were received after your firm’s decision regarding this CAPA and NCR: Complaint number 001494951 (rupture) was received in 9/21/12 and complaint number 001515722 (rupture) was received 9/30/12.
+E.
+IM-CAPA-0039 was entered on 8/17/2011 for increased
+(
+b)(4)
+ruptures complaints for the Coiled Tube lnfusors and has been opened for
+(
+b)(4)
+days. There are two CAPA’s associated with reservoir ruptures: CAPAs IM-0025 (closed ineffective) and CAPA-0013 is referenced in this CAPA. Your firm identified root causes to be the
+(
+b)(4)
+and
+(
+b)(4)
+of two components on the
+(
+b)(4)
+and the
+(
+b)(4)
+with the reservoir component causing ruptures. The
+(
+b)(4)
+measurement and
+(
+b)(4)
+were found to be "out of tolerance." Your firm identified that the in-process weld of the
+(
+b)(4)
+caused internal damage. Also, your firm confirmed that the
+(
+b)(4)
+,
+(
+b)(4)
+and amount of
+(
+b)(4)
+used, and were
+(
+b)(4)
+during assembly causing the ruptures. The corrections/scope detail description states on a biweekly basis any lot identified with
+(
+b)(4)
+complaint incidents to be placed on hold. Your computer-generated complaint logs for dates 2010-2012 and 12/2012-1/2013 identified complaints. Lot numbers 12F039, 12F020 and 12F001 exceeded the
+(
+b)(4)
+lot criteria stated in IM-CAPA-0039 but as of 5/10/13 these lots were not placed on hold.
+F.
+IM-CAPA-0026 was entered on 6/25/09 to address increasing number of complaints for leakage in the distal end (between the luer body and winged luer cap) for the lnfusor product family. Your firm received complaints of winged luer leakage after this CAPA was closed on 12/13/10. Samples sent to BRL (Baxter Regional Laboratory) identified
+(
+b)(4)
+on the luer body. Your investigation revealed
+(
+b)(4)
+on the luer body
+(
+b)(4)
+which was not under preventive maintenance at BC supplier. Your firm's corrective action required an inspection/sort to remove all suspect products, enhance the
+(
+b)(4)
+, initiate preventive maintenance practices and
+(
+b)(4)
+the luer body
+(
+b)(4)
+at the supplier; initiate and
+(
+b)(4)
+; and enhance the
+(
+b)(4)
+design for launch on 10/30/09. IM-CAPA-0026 documents the launch of the new winged luers starting with lots lnfusor/Folfusor (10A032/2C1009KP). The CAPA was closed on 12/13/10 but several complaints were received for leaks with the enhanced designed luer cap (complaint number 001396666 for lot number 12B010; complaint number 001554396 for lot number 12K076; complaint number 001424365 for lot number 12B018 and complaint number 001505516 for lot number 12D033.
+G.
+IM-CAPA-0027 was entered on 2/4/2010 and was opened for
+(
+b)(4)
+days. This CAPA was opened because of out of tolerance (OOT) for the
+(
+b)(4)
+welders, two pieces of equipment (asset # 02-421: PRD691 and 02-646: PRD 871) on the Infusor line were identified on December 16, 2009. Your contract calibration vendor notified the firm that the equipment was out of tolerance on December 22, 2009. This welder had been used to weld the
+(
+b)(4)
+of the Infusors. Your firm’s risk analysis for this CAPA mentioned the potential risk to be the leak and opening of the sterile pathway resulting in potential contamination, causing serious injury to the patient. Therefore, your firm documented a risk as “major”. Approximately 361 device lots had been manufactured from Dec. 2008 (welder calibrated) to Dec. 2009 (when the welder was found “OOT” during the annual calibration). The CAPA referenced NCR QI# 09-076, opened on 12/22/09. The NCR stated “Rationale for no product impact” as 100% testing is in place to detect the leaks. The correction included the Calibration vendor to adjust the
+(
+b)(4)
+within the manufacturer’s tolerance. The product impact assessment, IM-10-0010 stated, “no hold, no FCA and that the correction was performed per QI-09-076. IM-CAPA-0027 was opened”. CAPA, IM-CAPA-0027 corrective actions included (a) Rework of lot # 09K042; (b)
+(
+b)(4)
+Welders were placed back within tolerance; (c) Calibration frequency was reduced from annual to six months; and (d) “A clear procedure for ‘OOT’ notification required from the vendor”. The investigation included testing
+(
+b)(4)
+at
+(
+b)(4)
+, which resulted “
+(
+b)(4)
+” device leaks (reported as
+(
+b)(4)
+% confidence with
+(
+b)(4)
+% defect) as an acceptable, based on “0” accept, AQL criteria. IM-CAPA-0027 did not address the corrective actions for lots manufactured between December 2008 and December 2009 using the Out of Tolerance welders. IM-CAPA-0027 was closed effective.
+H.
+IM-CAPA-0013 was entered on 10/18/2006 for an increased CIPM (Complaint Incidents Per Million) for JD Coiled Tube Infusors in the first two quarters of 2006, the complaints of ruptures increased to 859. This CAPA was closed effective on 03/18/2008. Your firm’s corrective actions only included training employees and complaint monitoring.
+The adequacy of your firm’s responses for 1A to 1H cannot be determined at this time because you state in your response that your firm intends to deploy a re-engineered CAPA system at your Irvine facility by August 30, 2013.
+We reviewed your firm’s response for 1A and concluded that it is not adequate. Your firm states Baxter will be conducting a process validation remediation plan, but you did not provide any further details such as when this would occur and, you did not provide a copy of the process validation plan.
+Also, we reviewed your firm’s response for item 1C and concluded that is not adequate. You failed to address approximately 13 product lots that were compounded with lot number IV093008B which your firm identified to have
+(
+b)(4)
+.
+2. Failure to establish adequate procedures for design output, as required by 21 CFR § 820.30(d). Specifically,the Irvine Expiration Testing Program IR-02-05-001 and Irvine Expiration Testing Program (20-01-01-017) have not been adequately established. Your procedures specify testing: functional, bioburden, pyrogen, and packaging and requires investigating out of specification.
+A review of the procedure, protocol and relating documentation from year 2003 to 2011 revealed the following:
+A.
+Your procedure IR-02-05-001 Rev B (effective date 8/15/11) and 20-01-01-017(effective 10/31/07) contained mathematical errors that resulted in insufficient sample units pulled for functional testing (e. g. number of sample for yearly
+(
+b)(4)
+for Intermate,
+(
+b)(4)
+, Regional Analgesia; Infusor XLV; PCM is 54 not 48) and substituted production lot units were used to continue yearly testing when the original sample units were exhausted. IR-03-05-001 states product shall be stored at a temperature less than
+(
+b)(4)
+degrees F (
+(
+b)(4)
+degrees C) in accordance with applicable direction insert and the protocol requires storage condition normal room temperature and humidity for products. The source and environment for the substituted production lots are not documented.
+B.
+You do not maintain records documenting order/receipt of production units for expiration testing.
+C.
+You did not perform and maintain expiration testing/documentation for year 2010.
+D.
+You did not perform expiration testing for year 2012.
+E.
+Your memorandum dated 3/2/05 specifies changes made to test data and Table 2.4 of Test Stats for lots tested. Not all changes stated in the memorandum were made to the table (e.g. lowest
+(
+b)(4)
+for lot #991070 and 01N911) and the other lowest
+(
+b)(4)
+in the table are inconsistent with raw data.
+F.
+Your Final Report 2004 Expiration Data Testing concluded as successful and met performance criteria even though four (4) of twenty-four (24) units tested of the Coiled Tube Infusor lot number 99K036 failed the
+(
+b)(4)
+and no investigation was conducted because the production lot had expired.
+G.
+An untitled document given to the inspectional team on 3/15/13 containing a year, protocol number, family, product code, batch, interval, specify production lot number 02M050 under families Intermate and Jackson Device.
+H.
+There were only two (2) test results recorded for lot number 03H049 in document number V04-074.
+I.
+The raw data for lot numbers 02M050, 031021 and 04M042 is dated 12/21/08 and in the Final Report document number V07-044 is dated 2/20/08.
+We reviewed your firm’s response and concluded that it is not adequate because your firm did not address the observation related to the examples noted above.
+3. Failure to establish procedures to control product that does not conform to specified requirements, as required by 21 CFR § 820.90(a). Specifically, the Irvine Tier 1 Nonconformance Management Procedure, IR-02-07-015 describes the process for identifying, segregating, investigating, correcting, documenting and disposition of product, material, processes or quality systems that do not conform to specified requirements. The procedure requires NCRs to be initiated within 3 business days from the nonconformance detection; requires documenting actions to eliminate the cause of the nonconformance to prevent recurrence; confirming effectiveness of the corrective action; and risk assessment of major, moderate or minor to determine whether the nonconformance should be escalating to a Tier II CAPA. A review of Nonconformance records (NCRs) revealed they are not opened within three (3) business days as required by the procedure. Also, the NCRs procedure IR-02-07-015 does not define a process to cancel NCRs and appropriate actions were not taken to control product that is not in conformance to specified requirements.
+A.
+Non-Conformance report number 12074 specifies complaint number 001438468 but describes an adverse event of cartilage damage of a patient reported in complaint number 001478750. The event date for complaint number 001478750 is 09/26/2007. The non-conformance report was opened on 09/28/12 and was canceled. NCR procedure IR-02-07-015 does not define a process to cancel NCRs.
+B.
+NCR number 12060 was opened to address a complaint investigation of a patient who was over-infused with Morphine (complaint number 001451748, lot number 12A081, MDR reported the patient was unrousable) on July 6, 2012 and assigned on July 16, 2012. The NCR was not assigned within 3 business days as required by your firm’s procedure. Also, the NCR risk assessment was documented as "Minor" and the reason for the cancellation was “evidence of tampering and review of PMDA over the last two years found no similar complaints”. The NCR was cancelled on 8/3/12. NCR procedure IR-02-07-015 does not define a process for canceling NCRs.
+C.
+NCR number 10-014 was opened on 2/17/2010 due to approximately 138 bladder rupture complaints. Also, NCR addressed approximately 89 bladder ruptures finished lot number 09M010. The NCR was closed on 1/28/2011 with a reference to IDC-CAPA-002 (Refer to Warning Letter Item number 1.B).
+D.
+NCR number 12080 was opened on 10/18/12, but not assigned within 3 business days and was not escalated to a CAPA II. The NCR was opened due to 4 complaints of ruptures reported also as MDR events for complaint numbers 001362398, 001385794, 001385797, and 001385801 for production lot number 11M058. Your risk assessment classified this as "Minor". A memorandum dated 11/20/12 by the Quality Engineering Manager indicates a total of 18 rupture complaints for this lot.
+E.
+NCR number 12025 opened 3/13/12 following complaint #001369400 for ruptured bladder. The product is identified as LV250, Intermate (lot number 10K056). The NCR was assigned on 3/28/12, however, it was not assigned within 3 business days. The NCR product impact was selected as "No", with an explanation that “This is an incident of a type, an LV250 rupture that occurs with some frequency: in the 24 months ending February 29, 2012, there was 13/month. Only two were classified as serious.” There is no corrective and preventive action indicated and the NCR was marked "No", no related past events. However, three complaints numbers 001513291 and 001367678 reported ruptures and complaint number 001369400 reported a separated component.
+F.
+NCR number 12001PR, Intermate LV 250, lot number 12A012 was opened on 1/5/12 for a ruptured bladder during
+(
+b)(4)
+test. The failure was attributed to
+(
+b)(4)
+determined by technology resources in Baxter Round Lake. The lot initially was reworked on 2/18/12. NCR has a checked boxed for no corrective action taken and preventive action was limited to retraining on the importance of the application of
+(
+b)(4)
+to the bladder and how to inspect for missing
+(
+b)(4)
+. Two complaints for bladder ruptures (complaint numbers 001466085 and 001450974) were received for this lot.
+G.
+NCR number 12-048, LV250, was opened for rupture complaint number 001438468 for lot number 11N017. An additional 10 complaints of ruptures for this same production lot have been reported. The NCR is classified "Minor" and was canceled due to no history of similar complaints and the risk to the patient is low-interruption of antibiotic therapy at home. The complaint investigation reports that the
+(
+b)(4)
+used was
+(
+b)(4)
+and was part of Tier II CAPA-IDC-0002. Further, the
+(
+b)(4)
+was identified as one of the potential root causes of the ruptured bladder.
+(
+b)(4)
+was changed and placed into production on April 2012. This information is not consistent with IDC-CAPA-0002 which states the drawing of
+(
+b)(4)
+is aligned to the part being manufactured and no changes are required to the drawing. Your Action Summary states the activity on
+(
+b)(4)
+was not necessary and was removed from the change package.
+H.
+NCR number 11031PR was opened 3/9/11 and closed on 4/3/11 for out of specification (USL 1.518) for lot 118086. Three complaints (CMPLNT-001021900, CMPLNT-001262869 and CMPLNT-001395477) for leakage were received on 7/21/11, 12/6/11 and 4/7112.
+The adequacy of your firm’s responses for 3A to 3H cannot be determined at this time because you state in your response that your firm intents to deploy a re-engineered CAPA system at your Irvine facility by August 30, 2013. Also, you made no effort to address each of the items above and therefore, your response is inadequate.
+4. Failure to record a description of changes, as required by 21 CFR § 820.40(b). Specifically, your firm failed to document a reason for removing the
+(
+b)(4)
+measurement performed under your procedure document IR-09-07-002 Attachment B Reservoir Test Data (effective dates 8/17/12) in change control document CP0557280.
+Our FDA investigators reviewed your Device History Records for reservoir lot numbers IV21230312 and IV2130100 and found your firm did not have
+(
+b)(4)
+measurement data.
+The adequacy of your firm’s responses cannot be determined at this time because you state in your response that your firm intends to deploy a re-engineered CAPA system at your Irvine facility by August 30, 2013. Also, you made no effort to address each of the items above and therefore, your response is inadequate.
+5. Failure to establish procedures for acceptance activities, as required by 21 CFR § 820.80(a). Specifically,
+A.
+Procedures have not been established for specifications:
+(
+b)(4)
+,
+(
+b)(4)
+,
+(
+b)(4)
+,
+(
+b)(4)
+tests listed on Product Certification KMI Registration No. 16300BZY00986. Review of the following available Product Certificates from 2006-2012 approved and signed by quality representative states "Conforms" and the final disposition as "Acceptable".
+Product Code
+Lot Number
+Mfg. Date
+Exp. Date
+Product Code
+Lot Number
+Mfg. Date
+Exp. Date
+J2C1704
+06D057
+4/24/2006
+12/31/2008
+J2C1976J
+12J066
+9/27/2012
+9/1/2017
+2JC1976J
+08N009
+12/15/2008
+12/31/2013
+J2C1954J
+12F023
+6/11/2012
+6/1/2017
+J2C1976J
+09A003
+1/12/2009
+12/31/2013
+J2C1082J
+12M002
+11/5/2012
+11/1/2017
+J2C1976J
+O9E051
+5/27/2009
+12/31/2013
+J2C1702
+13A028
+1/9/2013
+1/1/2016
+J2C1075J
+09N064
+12/16/2009
+12/31/2014
+J2C1067
+13A016
+1/8/2013
+1/1/2016
+J2C1075J
+10H067
+8/18/2010
+6/30/2015
+J2C9960
+13A021
+1/9/2013
+1/1/2016
+J2C9960
+13A021
+1/9/2013
+1/1/2016
+We reviewed your firm’s response and concluded that it is not adequate. Your firm did not provide an established procedure in your response. Also, your firm did not provide a timeline as to when the Baxter audit team plans to audit the Baxter Irvine facility.
+B.
+The following device history records revealed that production lots did not meet the acceptance criteria required:
+1.
+Part
+number 033118021, batch
+#sIV012813A,
+IV103112A, the process inspection data for PM, “
+(
+b)(4)
+” defect
+(Accept
+(
+b)(4)
+, Reject
+(
+b)(4)
+). The batch was accepted.
+2.
+Batch
+IV041912A1 and Part Number: 03318021,
+(
+b)(4)
+Vision Inspection
+(
+b)(4)
+Machine Parameter checks cut length verification
+(
+b)(4)
+defect on 4
+/2
+3
+/12.
+The acceptance criteria are to accept at “
+(
+b)(4)
+” and reject at “
+(
+b)(4)
+”.
+The batch
+was not rejected (DHR production lot
+#12F023).
+3.
+Batch
+IV041912A1 and Part Number: 03318021,
+(
+b)(4)
+Inspection
+(
+b)(4)
+Machine Parameter Checks cut length verification 3 defects (“
+(
+b)(4)
+”@
+10:30, “
+(
+b)(4)
+”@12:30, and “
+(
+b)(4)
+”
+@14
+:
+10)
+on 4
+/24/12.
+The acceptance criteria are accept
+(
+b)(4)
+and reject
+(
+b)(4)
+.
+The
+batch was not rejected (DHR production lot
+#12F023).
+4.
+Batch
+IV103112A2 and Part Number: 03318021,
+(
+b)(4)
+Inspection
+(
+b)(4)
+Machine Parameter PM, Checks cut length verification
+1
+defect
+on 11
+111
+1
+2.
+The acceptance criteria are accept “
+(
+b)(4)
+” and reject “
+(
+b)(4)
+”
+. The batch was not rejected (DHR production lot
+#12M047).
+5.
+Batch
+IV012813A and Part Number: 03318021,
+(
+b)(4)
+Inspection
+(
+b)(4)
+Machine Parameter PM, Checks cut length verification
+1
+defect
+on
+112
+9
+/13.
+The acceptance criteria accept [
+b4]
+and reject “
+(
+b)(4)
+”. The batch was not rejected.
+6.
+Batch
+IV081110A and Part Number: 032418093,
+(
+b)(4)
+Vision Inspection
+(
+b)(4)
+Machine Parameter PM, Checks cut length verification 3 defects (“
+(
+b)(4)
+”@9:00, “
+(
+b)(4)
+”@ 11:00, “
+(
+b)(4)
+”@13:00)on
+8
+/11110.
+The acceptance criteria accept
+(
+b)(4)
+and reject
+(
+b)(4)
+.
+The
+batch was not rejected (DHR production lot
+#10H067).
+We reviewed your firm’s response and concluded that it is not adequate. Your firm failed to explain why the specified batches above were not rejected because they did not meet your firm’s acceptance criteria.
+C.
+The
+following device history records revealed that
+(
+b)(4)
+verification is not always
+performed
+as required by Irvine Procedure for
+(
+b)(4)
+, IR-09-07-002 and Irvine Procedure for
+(
+b)(4)
+of
+(
+b)(4)
+, IR-09-07-00
+1.
+1.
+(
+b)(4)
+Data, Batch Number IV-062511B, date performed 6
+/25/11
+. Instant
+/Final
+(
+b)(4)
+states “Manual" and
+(
+b)(4)
+value states "Manual".
+2.
+(
+b)(4)
+Data, Batch Number IV-062511A, date performed 6
+/2
+5
+/11. Instan
+t
+/Final
+(
+b)(4)
+states “Manual" and
+(
+b)(4)
+value states "Manual".
+3.
+(
+b)(4)
+Data, Batch IV-072012A, Stock Number 03-02-07-408,date performed
+6/2
+5
+/11.
+Instant
+/Final
+(
+b)(4)
+states “Manual" and
+(
+b)(4)
+value states "Manual".
+4.
+(
+b)(4)
+Data, Batch IV-041312A, Stock Number 03-02-07-408, date performed
+6/2
+5
+/11.
+Instant
+/Final
+(
+b)(4)
+states “Manual" and
+(
+b)(4)
+value states "Manual".
+5.
+(
+b)(4)
+data, Attachment # B batch number IV0807A1,
+(
+b)(4)
+data incomplete or missing, with notation “n/a” for the tests, ID,
+(
+b)(4)
+,
+(
+b)(4)
+,
+(
+b)(4)
+,
+(
+b)(4)
+and Visual Observations of 3 samples out of 5 samples.
+We reviewed your firm’s response and concluded that it is not adequate. Your firm provided no explanation into why operators do not follow the Irvine procedures noted above.
+6. Failure to validate according to established procedures a process whose results cannot be fully verified by subsequent inspection and test, as required by
+21 CFR § 820.75(e). For example,
+A.
+Validation Protocol VP-12-004 “Performance Qualification (PQ) of
+(
+b)(4)
+and
+(
+b)(4)
+” approved on 1/16/12 list the acceptance criteria for the
+(
+b)(4)
+at
+(
+b)(4)
+% under section 10.2.2. However, Report Number VR12-004 titled “Final Report ForThe Performance Qualification (PQ) Protocol for
+(
+b)(4)
+and
+(
+b)(4)
+(Asset No. 02-795)” (Approved on 2/16/12) under section 4.1.2 documents a deviation to the
+(
+b)(4)
+data. The
+(
+b)(4)
+result for the third lot was at
+(
+b)(4)
+%. Your firm did not meet the acceptance criterion for the
+(
+b)(4)
+at less than
+(
+b)(4)
+% but you stated in the overall conclusion that all exceptions and deviations were resolved and all acceptance criteria were met.
+B.
+Your firm failed to follow the protocol for Validation study #V09-086 conducted on 7/28/09,
+(
+b)(4)
+and
+(
+b)(4)
+(02-795). The raw data, Response #209 states "good" and "yes" on Attachment 1 and the “Good” and “Bad”(numbers of samples per protocol) were not used in the study. There were more “Good” samples used than the "bad" samples. In addition, the source for the samples (e.g. batch numbers, size of reservoir); and
+(
+b)(4)
+had not been not documented and Test Case Purpose: message and Alarms contains markings of "yes" and "no" for test case numbers156-158 and test case #47 and 183 indicates "N/A", and there is no documentation for test case entries #47 and 183 post entered on 5/11/11. The executive summary/conclusion states system was successfully executed and met all the design qualification, installation qualification and operational qualification acceptance criterion outlined within the phases of the validation.
+C.
+Validation study report V08-044R,
+(
+b)(4)
+for Infusor 2 ml/hr x 100 ml: (i) The test data and the test report do not specify lots and description of Group 1, Group 2 and Group 3 samples; (ii) six out of limits; (iii) 1 rupture and 3 blockages were not addressed in the report; and (iv) 5 omits stated on
+(
+b)(4)
+Results with New
+(
+b)(4)
+and
+(
+b)(4)
+,
+(
+b)(4)
+lower score result does not meet the acceptance criteria.
+D.
+(
+b)(4)
+process for bladder formulation R603-5 and reservoirs formulation R603-8, validated under V07-017 on 04/02/2007 included qualification of
+(
+b)(4)
+with
+(
+b)(4)
+, asset no: 02-747. The feed rate of rubber was validated as
+(
+b)(4)
+. A
+(
+b)(4)
+was purchased and placed onto the production line between
+(
+b)(4)
+and
+(
+b)(4)
+. The Equipment Maintenance Work Order (EMWO) procedure was implemented in lieu of equipment validation which is checked "yes" for validation required on EMWO 369. EMWO 369 does not include (a) part number, batch record or lot number identification; (b)
+(
+b)(4)
+formulation
+(
+b)(4)
+was not included and (c)
+(
+b)(4)
+and
+(
+b)(4)
+installed and “maint” verified was check marked as “Pass” and accepted even though the summary of results, states
+(
+b)(4)
+were used instead of
+(
+b)(4)
+.
+E.
+Change in the
+(
+b)(4)
+equipment from
+(
+b)(4)
+to
+(
+b)(4)
+used for rubber compounding was validated under Protocol V07-017. The Protocol required an equipment
+(
+b)(4)
+]. The
+(
+b)(4)
+parameter
+(
+b)(4)
+is listed in the Irvine Procedure for
+(
+b)(4)
+Process 16-03-11-172. The protocol required sampling at every
+(
+b)(4)
+per sample for
+(
+b)(4)
+. Raw data dated 4/12/07 does not state the
+(
+b)(4)
+of the equipment and there is notation on the raw data record indicating samples were collected every
+(
+b)(4)
+instead every
+(
+b)(4)
+. The validation report V07-17R concluded the equipment met the validation criteria for IQ and OQ.
+F.
+Protocol for Validation Study VP 11-067: 603-8, the Protocol Report VR11- 067 and Irvine Procedure for
+(
+b)(4)
+of Reservoirs IR-09-07-002 are inconsistent in the required
+(
+b)(4)
+range. The protocol lists the acceptance specification for
+(
+b)(4)
+. Attachment B of IR-09-07-002, rev C lists an
+(
+b)(4)
+and the same procedure lists
+(
+b)(4)
+. Further, the validation status concluded that all acceptance criteria were met. Further, the protocol does not specify the number of production lots and sample size required. Only one production lot (no lot number listed) is specified in the Report as being used during the validation.
+G.
+Validation study V07-055, V07-055R, PQ-Irvine New
+(
+b)(4)
+System: The lot numbers and the test results listed in the report and of raw data did not match. Out of three test data of three models of reservoir, the lot number of one model test data did not match with the results listed on the report and one test data was reported on the final report but the
+(
+b)(4)
+raw data was missing. Further, the sample traceability of 50 samples, used in the
+(
+b)(4)
+of each lot was not included in the validation. For example: The raw data of the flow test of the reservoir, listed lot # IV 20724100, model : 2C1073KJP (lot number was crossed out and changed to IV 20724101), with the
+(
+b)(4)
+of 3.565 and -3.299 but the final report, V07-055R for model 2C1073KJP listed lot number 07J042 and the
+(
+b)(4)
+of -3.05 and 3.00. The protocol report listed
+(
+b)(4)
+of model 2C1082KJP as -2.95 and 3.10. However, the raw data did not include any
+(
+b)(4)
+, of model 2C1082KJP. The conclusion described that the new compounding process met all acceptance criterion of the [b4].
+We reviewed your firm’s response and concluded that it is not adequate because your firm did not address each item above.
+7. Failure to validate for its intended use according to an established protocol software used as part of production and the quality system, as required by 21 CFR § 820.70(i).
+A. There is no protocol and documentation of validation for
+(
+b)(4)
+used in
+(
+b)(4)
+prior to 2011 in your Expiration (Shelf-life) Testing Program.
+We reviewed your firm’s response and conclude that it is not adequate.
+B. Compounding formulation for
+(
+b)(4)
+,
+(
+b)(4)
+,
+(
+b)(4)
+and
+(
+b)(4)
+used for all infusion pump bladders and reservoirs were changed and programmed into the
+(
+b)(4)
+equipment. There is no documented validation conducted for changes to the software.
+We reviewed your firm’s response and concluded that it is not adequate. For item 7A above, your firm did not address conducting software validation for the software used for
+(
+b)(4)
+. For 7B above, your firm stated that the software will be revalidated. However, your firm has not validated the newly programmed “
+(
+b)(4)
+” software.
+8. Failure to establish requirements that must be met by suppliers, contractors and consultants, as required by 21 CFR § 820.50(a). For example, your suppliers of
+(
+b)(4)
+and
+(
+b)(4)
+have not been evaluated per Corporate Quality Procedure titled “Evaluation and Selection of Suppliers”, document number CQP0303002 (Effective date June 28 2010). The Irvine Plant Manager stated that these two suppliers
+(
+b)(4)
+by Baxter and these two suppliers
+(
+b)(4)
+any Baxter supplier agreements. Your firm performs a scan of the rubber,
+(
+b)(4)
+per procedure specification titled “
+(
+b)(4)
+2205 02-01-18-034” and a Certificate of Analysis (COA) is provided by the supplier. Your firm noticed the COA’s provided by the supplier contained similar test values on different batches for the following tests:
+(
+b)(4)
+,
+(
+b)(4)
+,
+(
+b)(4)
+,
+(
+b)(4)
+,
+(
+b)(4)
+,
+(
+b)(4)
+and etc… from years 2005 to 2011. COA’s dated “23 JUN 2005”, “11 July 2005”, 16 FEB 2009”, “22 FEB 2010”, “21 MAY 2010”, and “27 FEB 2011” demonstrated similar test values. Your firm provided no documentation that the COA’s provided by your suppliers are reviewed at incoming inspection. Also, your procedure CQP0303002 does not require COA’s to be reviewed at incoming inspection.
+We reviewed your firm’s response and concluded that it is not adequate. Your firm did not provide a statement that the COA’s were reviewed, however, it appears in your response that you conducted a recent review of these COA’s.
+9. Failure to establish document control procedures, as required by 21 CFR § 820.40. Specifically, your firm’s change request number CP0178070, titled “Irvine Procedure for
+(
+b)(4)
+Process” document number 16-03-11-172, issue date “7/10/07” (Effective date 7-13-07) describes
+(
+b)(4)
+into
+(
+b)(4)
+and feeding the product into
+(
+b)(4)
+. This production change was not implemented for all production lots produced from years 2007 to 2012. The following production batch records indicate operators documented that the “
+(
+b)(4)
+” and “
+(
+b)(4)
+”
+(
+b)(4)
+were used instead of the
+(
+b)(4)
+.
+A.
+CEMTP
+(
+b)(4)
+batch record IV-092911A, R693-5, Part Number 032553435, Attachment A dated 9/29/11.
+B.
+Batch record IV-092811A, R603-5, Part Number 032553435, Attachment A dated 9/28/11.
+C.
+Batch record IV-100511A, R603-5, Part Number 032553435, Attachment A dated 10/5/11 (D) and R603-5; Part Number 032553434, Attachment A dated 5/11/10.
+The adequacy of your firm’s responses to 9A to 9C cannot be determined at this time because you state in your response that your firm intents to deploy a re-engineered Change Control Management System at your Irvine facility by August 30, 2013.
+10. Failure to establish procedures to ensure equipment is routinely calibrated, inspected, checked and maintained, as required by
+21 CFR § 820.72(a). For example,
+A.
+Your firm’s Irvine procedure for Calibration of
+(
+b)(4)
+document number IR-04-02-009 (Effective dates 3/5/2009 to effective date 5/31/12) required
+(
+b)(4)
+at
+(
+b)(4)
+%,
+(
+b)(4)
+%,
+(
+b)(4)
+%,
+(
+b)(4)
+% and
+(
+b)(4)
+% but were not taken for PRD-1202 on calibration dates: 9/10/10, 9/9/11 and 9/6/12.
+B.
+Your firm’s Irvine procedure for calibration of
+(
+b)(4)
+,
+(
+b)(4)
+,
+(
+b)(4)
+and
+(
+b)(4)
+, IR-04-02-045, effective 01/09/2009, 31 May 2011, 08 March 2012 and 01 March 2013 were not implemented. Your procedure requires:
+1.
+The use of weight that is at least
+(
+b)(4)
+% of the scale range. The
+(
+b)(4)
+,
+(
+b)(4)
+and
+(
+b)(4)
+, dated revealed the weight readings taken from 2.2 lbs to 20 lbs on 1/14/12 but only 2.2 lbs. to 5.0 lbs. on 7/3/12 and on 12/31/12.
+2.
+The procedure IR-04-02-045 included calculation and verification of
+(
+b)(4)
+. Your firm does not document this in your calibration records.
+We reviewed your firm’s response and concluded that it is not adequate. Your firm provided no objective evidence that there is no product impact because of the deficiencies above.
+11. Failure to demonstrate in the device history record that the device was manufactured in accordance with the device master record, as required by 21 CFR § 820.184. Specifically,
+A. Part number containing component build for the infusor and bill of material was changed per Change Order CP0142131 dated 9/26/06, from Part Number (P/N) 032418069 to 032418070. Then a subsequent change order CP0285734 (issue date on 9/10/2009) was to replaced Part Number 032418070 to 032460228. The following device history records references Part Numbers 032418069, 032418070 and 032460228. For example,
+1.
+Device History Record for the 2ML/Hr, 100 ML, Two day coiled tube infusor:
+a.
+Device IV21001811, Finished device lot number 10A080, dated 1110/10
+b.
+Device IV20934304, Finished device lot number 09N064 dated 12112/09
+c.
+Device IV21022500, Finished device lot number 10H067
+2.
+Device History Record for lot 10H067, subassembly lot number IV08110A did not include Attachments D (
+(
+b)(4)
+) , E (
+(
+b)(4)
+) and G (
+(
+b)(4)
+) as required per your procedures IR-09-07-002 (effective dates 08/27/2008, 03/31/2011, 08/172012).
+3.
+Device History, Part Number 03-02-07-40, lot number IV40612A, Attachment B, Reservoir Test Data listed “Out of specification” test results (1.5000 and 1.6000) for the
+(
+b)(4)
+diameter on April 6, 2012 and reviewed and approved on April 9, 2012. Then on July 26, 2012, the initial Out of Specification were crossed out and replaced 1.05 and 1.06 (Specification is
+(
+b)(4)
+) and with a notation “Entry Error”. Your firm had no documented data to support the new replaced results.
+4.
+Programming requirement in your firm’s Irvine Procedure IR-09-01-002 (Revision C) for the Operating
+(
+b)(4)
+has not been implemented for sections 7.2 and 7.4).
+We reviewed your firm’s response and concluded that it is not adequate because you did not address the incorrect part number for each Device History Record above and attachments E and G were not provided in your response.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, a premarket approval application for Class III devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected. Request for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, form occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+Your response should be sent to:
+Mr. Blake Bevill
+Director, Compliance Branch
+U.S. Food & Drug Administration
+19701 Fairchild
+Irvine, CA 92612-2506
+Finally, you should know that this letter is no intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt action to correct the violations and bring the products into compliance.
+If you have any questions about the content of this letter please contact: Ms. Mariza M. Jafary, Compliance Officer, at (949) 608-2977.
+Sincerely,
+/S/
+Steven Porter, Acting Director
+Los AngelesDistrict
+Cc:
+Hugo Cornejo, Acting Chief
+California Department of Public Health
+Food and Drug Branch
+1500 Capitol Avenue MS 7602
+PO Box 997435
+Sacramento, California 95899-7435
+-
+-
+Close Out Letter
+Baxter Healthcare Corporation - Close Out Letter 5/12/17
+-

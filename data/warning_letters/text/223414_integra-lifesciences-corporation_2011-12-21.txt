@@ -1,0 +1,173 @@
+Integra LifeSciences Corporation 12/21/11
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Waterview Corporate Center
+10 Waterview Blvd., 3rd Floor
+Parsippany, NJ 07054
+Telephone
+(973)331-4900
+December 21, 2011
+WARNING LETTER
+12-NWJ-04
+VIA UNITED PARCEL SERVICE
+Stuart M. Essig
+President and Chief Executive Officer
+Integra LifeSciences Corporation
+311 Enterprise Drive
+Plainsboro, NJ 08536
+Dear Mr. Essig:
+During an inspection of your firm located at 105 Morgan Lane, Plainsboro, New Jersey, on July 22, 2011 through August 25, 2011, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures the Duragen XS Dural Regeneration Matrix, TenoGlide Tendon Protector, NeuraGen Nerve Guide, Integra Artificial Skin Dermal Regeneration Template, Helistat Absorbable Collagen Hemostatic Agent, and Collastat Absorbable Collagen Hemostatic Sponge. Your firm also contract manufactures the MasterGraft Matrix. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+The inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act (21 U.S.C. § 351(h)), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice (CGMP) requirements of the Quality System (QS) regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+We received your firm's response dated September 15, 2011, concerning our investigators observations noted on the Form FDA 483 (FDA 483), lnspectional Observations, that was issued to your firm. We address this response below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1. Failure to establish and maintain adequate procedures to control environmental conditions where environmental conditions could reasonably be expected to have an adverse effect on product quality, as required by 21 CFR 820.
+For example:
+a. On June 15, 2009, your firm identified visible mold in the equipment storage area (Room
+(b)(4)
+) and the closet
+housing your Deionized Ultra-filtered Water system (Room
+(b)(4)
+) directly
+adjacent to the ISO Class 7 Clean. The mold was also visibly identified in the Mechanical Room (Room
+(b)(4)
+) that houses the Water for Injection (WFI) water system.
+The third-party environmental company, which was hired by your firm to remediate the mold in these areas, identified several mold types in an Industrial Hygiene Report for Mold Exposure dated July 2009. Mold types identified in the results of this report include Aspergillus/Penicillium-like, Ascospores, Basidiospores, Stachybotrys, Ulocladium and other/unidentified. This report stated that the presence of mold could compromise the integrity of the final product manufactured at the facility.
+Your firm continued to identify mold throughout its manufacturing facility from June 15, 2009 to the present. The mold assessment and remediation activities were documented by your firm in Quality Plans (QP), and led to the generation of seventeen QPs to date. During that time, your firm continued to manufacture, release and distribute approximately
+(b)(4)
+lots of various Integra products and products contract manufactured for your customers.
+Your firm performed a risk analysis for products manufactured in the Medical Manufacturing Area and the Integra Suite. However, in spite of the third-party report indicated above, your firm evaluated the risk analyses, environmental testing data, product release data, post-market data and determined that the building was of suitable design to perform operations.
+The adequacy of your firm's response cannot be determined at this time as systemic corrective actions are ongoing - i.e. replacement of the manufacturing facility's roof and addressing high temperature and humidity in Mechanical Room
+(b)(4)
+.
+Your firm's root cause analysis identified the primary source of moisture and mold as roof leaks and high humidity. Your firm stated that CAPA 50659 was opened to address this observation, investigate and determine root cause, and develop, if necessary, effective Corrective and Preventive Actions.
+b. Your firm's environmental control procedures as written allow for an unclear amount of re-sampling to be conducted when an Out of Specification (OOS) result is received.
+For example:
+1. SOP G-631, Rev. 16, Microbiological and Chemical Analysis of Process Water, under section 5.5.3, states that any OOS result is to be re-sampled. The procedure goes on to state that a
+(b)(4)
+is required to confirm the first re-sampling results, and that an Out of Specification investigation is to be opened
+under SOP MB-026, Rev. 7, Microbiology Out of Specification Investigation Procedure. Attachment 3 of MB-026, Rev. 7 is the flow chart to follow for LAL-Water OOS, which states that
+(b)(4)
+more re-samples are to be collected.
+2. SOP MB-001, Rev. 23, Microbiological Analysis of WFI and Pure Steam, states that an alert level result is to be
+(b)(4)
+re-sampled, and that an OOS investigation is then initiated under MB-026, Rev. 7. The procedure goes on to require a re-sample of the affected port for
+(b)(4)
+, followed by an OOS investigation per SOP MB-026, Rev. 7. Attachment 1 of MB-026, Rev. 7, is the flow chart for Environmental Monitoring which states to "Resample as per SOP."
+3. SOP 601, Rev. 20, Environmental Monitoring Plan for the Integra Manufacturing Area, states that when results exceed alert levels, then the site is to be re-sampled
+(b)(4)
+. Then an investigation is to be opened per SOP MB-026, Rev. 7. Attachment 1 of MB-026, Rev. 7, is the flow chart for Environmental Monitoring which states to "Resample as per SOP."
+4. G-523, Rev. 30, Microbiological Monitoring of the Medical Products Manufacturing Clean Areas, states that results exceeding alert levels are to be documented on an Alert/Action Notification form
+which is Attachment 9 of MB-026, Rev. 7. The form allows for
+(b)(4)
+re-sampling results. The procedure then states to resample the site
+(b)(4)
+if the re-samples exceed alert levels, then an investigation is to be opened under MB-026, Rev. 7. Attachment 1 of MB-026, Rev. 7, is the flow chart for Environmental Monitoring, which states to "Resample as per SOP."
+We reviewed your firm's response and conclude that it is not adequate because, although your firm eliminated ambiguous language in its SOPs, placed the resampling guidance in the OOS procedure, and conducted a retrospective review of all Microbiology OOS reports dating from December 2009 through August 31, 2011, to confirm that no more than the required number of confirmatory samples was collected, your firm's retrospective review of Microbiological OOS Reports did not include a review of the OOS Air results (No. M-184, M209, and M210) for room
+(b)(4)
+where mold was previously identified in phase 6B, of Quality Plan 100. These OOS results were investigated using MB-026, Rev. 6, which was the SOP in effect at the time of the investigation and this SOP's flowchart allowed for
+(b)(4)
+resamplings
+(b)(4)
+.
+c. Your firm's Cleanroom Maintenance Procedure (SOP
+#823 Rev. 3) requires a HEPA filter velocity verification to be done
+(b)(4)
+for the Integra Suite, the site of the final manufacturing steps of the Integra artificial skin products. This requirement became effective May 4, 2011. Although your Integra Suite was operating in May 2011 and June 2011, the HEPA filter velocity verification was not performed. The Integra Suite was shutdown in July 2011 for remediation/renovation.
+The adequacy of your firm's response cannot be determined at this time because implementation of the corrective actions will not be performed until the Integra Suite is restarted. Your firm initially stated that the intent of the HEPA filter velocity verification was to verify that there was flow across the HEPA filters between the
+(b)(4)
+month Integra suite cleanroom recertification. However, your firm later stated that no velocity specification should have been added in SOP #823, Rev. 3, and that the revised procedure, Rev. 4, deleted this specification. Your firm's root cause analysis determined that the procedure was implemented prematurely and without adequate training of the responsible operators.
+2. Failure to ensure that a process whose results cannot be verified by subsequent inspection and test is validated with a high degree of assurance and approved according to established procedure, as required by 21 CFR 820.75(a).
+For example:
+a. An external review of your firm's cleaning validations found that the cleaning validation for Integra Artificial Skin Manufacturing Area Mixing
+tanks
+(b)(4)
+was not adequately completed. Your firm's cleaning validation states, "the cleaning procedures utilize a
+(b)(4)
+" however, no
+(b)(4)
+coverage test was performed. Your firm was made aware of this cleaning validation deficiency by an external consultant in April 2010; yet, no additional cleaning validation addressing this deficiency has been completed prior to the temporary closure of the Integra Manufacturing suite in July 2011.
+Additionally, your firm continued to use this equipment for manufacturing Integra skin products including, but not limited to,
+(b)(4)
+Lot #1 05000210455, manufactured on February 23, 2011, and used in: Integra Bilayer Matrix Wound Dressing (Lot #105A00212334, #105B00212334, #105A00212335, #105B00212335); Integra Meshed Bilayer Matrix Wound Dressing (Lot #1 05A00212336, #105A00212337) and
+(b)(4)
+Lot #105000209549, manufactured on February 14, 2011, and used in: Integra Matrix Wound Dressing (Lot #105A0021 0458, #105B00210458,#105A00210652,#105B00210652,#105A00210653, #105B00210653) and Integra Meshed Bilayer Matrix Wound Dressing (Lot #105A00210459).
+We reviewed your firm's response and conclude that it is not adequate because your firm did not provide a systemic corrective action to include performing a retrospective review of its cleaning validation process. Your firm was made aware of cleaning validation deficiencies in April 2010 and hired an additional consultant to evaluate the recommendations of the original consultant; however, the cleaning validation recommendations were not implemented in a timely manner and equipment was in continuous use while these cleaning validation deficiencies existed.
+b. Your firm's validation for the "WFI Distribution System
+(b)(4)
+and
+(b)(4)
+Sensor," which is used to monitor Total Organic Carbon (TOC), pH, flow and conductivity on the WFI water system, does not include a Performance Qualification (PQ). Your firm explained that PQ was not completed because the full function of the instrument is to transmit information to a
+(b)(4)
+recorder. The validation for the
+(b)(4)
+recorder has not been executed to date. Data from this unvalidated recorder was collected and analyzed from January 2011 to April 2011, in a memo dated April 21, 2011, to support the investigation and release of quarantined products in Non-Conforming Report #0126.
+The adequacy of your firm's response cannot be determined at this time because information from the engineering study ES-2011-118, Rev. 0, Integra SFI TOC Monitoring and Trending study, to confirm the accurate recording of data transfer to the TOC and Conductivity sensors, has not been submitted for review as the firm stated that it would not be completed until September 30, 2011. Your firm stated that the test results to confirm product release were the
+(b)(4)
+Total Organic Carbon and Conductivity testing on WFI water samples performed by your firm's approved contract laboratory. Your firm states that, at the time of NCR# 2011-0126, data was obtained by the unvalidated
+(b)(4)
+Recorder as additional information to support the conclusion that analyst error was the cause of the Too Numerous To Count result, which led to NCR # 2011-0126.
+3. Failure to establish and maintain adequate procedures to control product that does not conform to specified requirements, which shall address the identification, documentation, evaluation, segregation, and disposition of nonconforming product, as required by 21 CFR 820.90(a). For example:
+a. Your procedure, SOP-G-539, Rev. 15, 16, 17, 18, 19, and 20, Nonconforming Material and Processes, states that an investigation and root cause analysis is to be conducted to determine the root cause of the problem. Your procedure goes on to reference SOP-QA-041, Rev. 1, Root Cause Analysis Investigation. Section 5.1 of SOP QA-041 states that information should be collected consisting of conditions before, during, and after the occurrence, including environmental factors. Your firm identified mold contamination in several areas of the facility beginning in June, 2009, to the present; however, this existing environmental condition is not considered in the investigation documentation of the Non Conforming Reports (NCR) #2218 dated November 1, 2010, #2014 dated March 23, 2010, and #0126 dated April 19, 2011, which were initiated hen environmental monitoring results exceeded alert/action limits for mold.
+b. NCR #2044 refers to the Water for Injection (WFI) water system sanitization loop failure. The dates listed on the NCR are April 30, 2010, May 1, 2010, and May 2, 2010. The investigation of the occurrence does not include any supporting documentation as required in procedure SOP G-539, Rev. 15, Section 5.3.2.2. Review of the chart paper from the temperature recorder on the WFI system for the time frame revealed that the chart paper became jammed and did not record the sanitization loop on April 28, 2010. Another paper jam occurred on April 29, 2010, and a third paper jam and a possible power outage occurred on April 30, 2010, during the sanitization loop. Due to the incorrect dates recorded on the NCR, not all lots were adequately quarantined. For example, the quarantine lots listed in the NCR do not include Finished Good Lot #B00179881, Master Graft Matrix, which was made from
+(b)(4)
+Lot
+#105000177800, manufactured on April 30, 2010.
+The adequacy of your response dated September 15, 2011, cannot be determined at this time because your firm stated that an independent Quality Consultant would perform a
+(b)(4)
+month retrospective review of all NCRs that pertain to products (i.e., potential impact to safety, quality, identity, potency, and purity of product) and determine if all potentially affected products were captured and documented.
+c. NCR #2044 refers to the WFI water system sanitization loop failures on April 30, 2010, May 1, 2010, and May 2, 2010. NCR #2084 refers to the WFI water system sanitization loop failures on June 8, 2010, June 9, 2010, and June 10, 2010. Though the investigation was assigned to the same individual, and the NCRs share the exact same background information, investigation information, and Product/Process disposition and justification, they are written in two different hands and have two different root causes, neither of which contains supporting documentation as required in SOP-539, Rev. 15 and 16.
+Your firm's response dated September 15, 2011, appears adequate, as a review of NCR #2044 and 2084 found that the root cause was essentially the same, but worded differently. NCR #2084 was authored by the manager and signed by both the investigator and the manager.
+d. SOP-539, Rev. 20, in section 4.6 states that NCRs are to be completed within
+(b)(4)
+business days of initiation. According to the NCR index provided by your firm, over
+(b)(4)
+NCRs are currently overdue.
+The adequacy of your response dated September 15, 2011, cannot be determined at this time as the agency has not received documentation of the findings of an investigation into the issue by the firm. Your firm stated that it retained an independent Quality Systems consultant to review all overdue nonconformance files to determine that root causes were adequately supported, all required aspects of the investigation were completed, and all potentially affected products were captured. This corrective action should have been completed by October 31, 2011.
+4. Failure to establish and maintain adequate procedures for implementing corrective and preventive action, as require by 21 CFR 820.100(a). For example:
+a. The investigation performed for CAPA 12498 did not consider the mold discovered in the facility as a possible cause of the viable environmental excursions in the Integra Suite.
+Your firm's response dated September 15, 2011, appears adequate, as your firm added an assessment of the mold contamination as a potential cause of the viable environmental excursions. Your assessment concluded that "After inclusion of all environmental factors, the root causes and corrective actions implemented within CAPA 12498 remain valid and supportable. The manufacturing environment remained in a state of control during this excursion."
+b. Your firm's CAPA procedure requires an interim report for an extension of a CAPA. However, the interim report was not done for CAPA 26087 and CAPA 21280 prior to the due date. Specifically, CAPA 26087 was due on November 8, 2010, but the interim report seeking approval to extend the due date was not filed and approved until November 11, 2010. CAPA 21280 was due on August 16, 2010, but interim report #1 seeking approval to extend the due date was not filed and approved until September 22, 2010, and interim report #2 seeking approval to extend the due date from March 30, 2011, was not filed until April 5, 2011. Additionally, CAPA 12498, after 3 extensions, was due on April 1, 2011, but was not closed until mid-April 2011.
+The adequacy of your response dated September 15, 2011, cannot be determined at this time because the agency has not received documentation of the implementation of SOP QA-051, Rev. 9, and the required personnel training that was to be completed by September 30, 2011. Your firm's root cause analysis determined that the
+(b)(4)
+CAPAs that were the subject of Observation 8 were opened prior to implementation of Revision 8 of SOP QA-051, which improved your firm's CAPA program. A review by your firm of CAPA files 26087, 21280, and 12498 on September 12, 2011, found that the interim reports and extension requests were filed with the CAPAs. QA-051 Rev. 9 includes processes to require that CAPA activity owners are notified when interim reports are due.
+5. Failure to establish and maintain adequate schedules for adjustment, cleaning, and other maintenance of equipment to ensure that manufacturing specifications are met, as required by 21 CFR 820.70(g)(1). For example:
+Although your current Preventive Maintenance Schedule for Equipment and Systems procedure (#432, Rev. 19, Effective April 3, 2011) identifies a grace period for
+(b)(4)
+preventive maintenance (PM) activities, it does not identify any grace period for
+(b)(4)
+activities. The Cleanroom Maintenance Procedure in effect at the initiation of the inspection (#823 Rev. 3) requires a
+(b)(4)
+PM for the Medical Manufacturing area
+(b)(4)
+inspections were due on May 25, 2011, June 8, 2011, and August 4, 2011, but were not done until May 31, 2011 (6 days beyond due date), June 19, 2011, (11 days beyond due date), and August 8, 2011, (4 days beyond due date), respectively.
+The adequacy of your response dated September 15, 2011, cannot be determined at this time because your firm did not submit documentation of training on SOP 423 Preventive Maintenance Schedule for Equipment and Systems, Rev. 20. Your firm performed a root cause analysis, product safety impact analysis for the late PMs which found no impact, and resulted in the following corrective actions: a revised SOP 423 to allow a grace period for
+(b)(4)
+inspections; monitoring compliance with these procedures through their internal audit program; and employee retraining on the updated SOPs.
+Our inspection also revealed that your firm's Integra Dermal Regeneration Template devices are misbranded under section 502(t)(2) of the Act, 21 U.S.C. §352(t)(2), in that your firm failed or refused to furnish material or information respecting the device that is required by or under section 519 of the Act, 21 U.S.C. § 360i, and 21 CFR Part 803- Medical Device Reporting. Significant violations include, but are not limited to, the following:
+6. Failure to report to the FDA no later than 30 calendar days after the day your firm received or otherwise became aware of information from any source that reasonably suggests that a device marketed by your firm has malfunctioned and that this device or a similar device it markets would be likely to cause or contribute to a death or serious injury if the malfunction were to recur, as required by 21 CFR Part 803.50(a)(2).
+For example, the timeframe for submitting Medical Device Reports (MDRs) was exceeded for the following reportable events:
+a. Your firm became aware of Complaint PR ID 22089 on April 22, 2010, and MDR 1121308-2010-00013 was received by FDA on May 27, 2010.
+b. Your firm became aware of Complaint PR ID 24121 on May 31, 2010, and MDR 1121308-2010-00016 was received by FDA on July 28, 2010.
+c. Your firm became aware of Complaint PR ID 45844 on May 24, 2011, and MDR 1121308-2011-00026 was received by FDA on July 5, 2011.
+Please note that failure to submit MDR reportable malfunction events to the FDA within thirty days was also observed in the previous inspection in November 2009.
+We reviewed your firm's response dated September 15, 2011, regarding its failure to report within the timeframes required under 21 CFR Part 803.50(a)(2). As part of the response, your firm included its revised MDR procedure, GSOP-902 Medical Device Reporting Procedure, Rev. #6, Effective Date: TBD. The adequacy of your firm's response dated September 15, 2011, cannot be determined at this time because the root causes for your firm's failure to report within 30 calendar days after the day it received or otherwise became aware of a reportable event have yet to be determined under Corrective and Preventative Action (CAPA) #50656. Page 39 of your firm's response dated September 15 states, in part, "In response to the CAPA findings, additional actions will be taken." Page 41 states, in part, "Integra has investigated the observations identified and initiated both immediate and long term corrective actions. Updates will be provided in future responses."
+In addition, if your firm's CAPA findings result in further changes to its MDR procedure and your firm submits a revised MDR procedure, then the effective date of your firm's revised MDR procedure must be included.
+The adequacy of your firm's response dated October 13, 2011, cannot be determined at this time because there was no new information regarding changes to your firm's MDR procedure since the version submitted with its response dated September 15, 2011. In addition, the root causes for your firm's failure to report within 30 calendar days after the day it received or otherwise became aware of a reportable event based on the outcome of CAPA #50656 remain undetermined. Your firm's response states, in part, on page 27, that the completion of the investigation of root cause under the CAPA is "on-going and on-schedule" for completion by October 31, 2011, and that the final draft of the revisions will be routed for review, approval, and implementation.
+If your firm wishes to submit MDR reports via electronic submission, it can follow the directions stated at the following URL:
+http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/guidancedocuments/ucm094529.htm#where
+If your firm wishes to discuss MDR reportability criteria or to schedule further communications, it may contact the MDR Policy Branch at 301-796-6670, or by email at
+MDRPolicy@fda.hhs.gov
+.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm's planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm's response should be comprehensive and address all violations included in this Warning Letter.Your firm's response should be sent to: Food and Drug Administration, 10 Waterview Blvd, 3rd Floor, Parsippany, NJ 07054. If you have any questions about the contents of this letter, please contact: Stephanie Durso, Compliance Officer at 1-973-331-4911.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm's facility. It is your firm's responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the lnspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm's manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely yours,
+/s/
+Diana Amador-Toro
+District Director
+New Jersey District
+-
+-
+Close Out Letter
+Integra LifeSciences Corporation - Close Out Letter 9/24/13
+-

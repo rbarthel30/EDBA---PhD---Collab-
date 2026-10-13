@@ -1,0 +1,268 @@
+Medtronic Puerto Rico Operations Company
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+San Juan District
+Compliance Branch
+466 Fernandez Juncos Avenue
+San Juan Puerto Rico 00901-3223
+Telephone: 787-474-9500
+FAX: 787-729-6658
+June 1, 2009
+WARNING LETTER
+SJN-2009-08
+Certified Mail
+Return Receipt Requested
+Mr. William A. Hawkins
+CEO and President
+Medtronic Inc.
+710 Medtronic Parkway
+Minneapolis, MN 55432-5604
+Dear Mr. Hawkins:
+Food and Drug Administration
+During an inspection of your firm located at Road 31 Km 24 Ceiba Norte Industrial Park Juncos, Puerto Rico, on November 12, 2008, through December 15, 2008, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures Synchromed® II Pumps and MiniMed Paradigm® Insulin Pumps. Under section 201(h) of the Federal Food, Drug and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+This inspection revealed that the Synchromed® II Pumps are adulterated within the meaning of section 501 (h) of the Act (21 U.S.C. §351 (h)), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) regulation found at Title 21, Code of Federal Regulations (C.F.R.), Part 820. We received written responses from Mr. Manuel Santiago, Vice President of Medtronic Puerto Rico Operations Company (MPROC), dated January 20, 2009, and March 31,2009, concerning our investigators' observations noted on the form FDA 483, List of Inspectional Observations that was issued to your firm. We address these responses below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1) Failure to establish and maintain process control procedures that describe any process controls necessary to ensure conformance to specifications, which shall include monitoring and control of process parameters and component and device characteristics during production, as required by 21 CFR 820.70(a).
+For example:
+a) Multiple Synchromed® II Pumps were released for distribution and implanted in patients even though they were not filled with propellant as required by your Process Operation Description (POD)
+(b) (4)
+Your firm's investigation, Nonconformance Report (NCR)
+(b) (4)
+which started in
+(b) (4)
+found that several implantable pumps, including serial numbers NGV300069H, NGV301133H, NGP302823H, NGV300225H, NGV401554H, NGV4022253H, NGP307091H, NGP301055H, and NGP304851H, were released to the market without being filled with propellant and this was not discovered in the propellant weight check during manufacturing. Your firm's manufacturing step requires a
+(b) (4)
+after the propellant is added to the pump. The 100% mass check was ineffective to identify that devices lacked the propellant. You became aware of this situation after confirming two complaints receive on
+(b) (4)
+(Product Comment Report (PCR)
+(b) (4)
+and
+(b) (4)
+(PCR
+(b) (4)
+PCR
+(b) (4)
+states that the product had to be explanted because of issues related to the lack of propellant. PCR
+(b) (4)
+created in
+(b) (4)
+also documented that two pumps had to be explanted on
+(b) (4)
+and
+(b) (4)
+due to lack of propellant.
+b) On June 23, 2008, at the
+(b) (4)
+one Synchromed® II Pump was found that did not show evidence of a perforated septum. The
+(b) (4)
+is performed at this station. The
+(b) (4)
+is performed to detect obstruction in the
+(b) (4)
+early in the manufacturing process.
+(b) (4)
+As part of your firm's assessment (Nonconformance Evaluation Request (NCER)
+(b) (4)
+that were at this manufacturing stage were visually inspected. This inspection revealed that
+(b) (4)
+of the
+(b) (4)
+Synchromed® II Pumps did not contain the
+(b) (4)
+indicating that the
+(b) (4)
+was not conducted on these
+(b) (4)
+Synchromed® II Pumps.
+c) On June 25, 2008, at the
+(b) (4)
+one Synchromed® II Pump was found without a
+(b) (4)
+at the
+(b) (4)
+The
+(b) (4)
+needs to be perforated to test the
+(b) (4)
+The
+(b) (4)
+is a safety mechanism that serves to assure that the pump is never overfilled. As part of your firm's assessment (NCER
+(b) (4)
+,the Synchromed® II Pumps in the firm's existing inventory at MPROC were visually inspected.
+(b) (4)
+were found without the
+(b) (4)
+However, the electronic device history record for these devices showed entries indicating that the
+(b) (4)
+was conducted. Your firm expanded the scope of the investigation (NCR
+(b) (4)
+and found
+(b) (4)
+additional Synchromed® II Pumps where the
+(b) (4)
+pressure was not conducted and
+(b) (4)
+devices with testing discrepancies. Your firm's investigation further determined that a total of
+(b) (4)
+Synchromed® II Pumps had records that indicated that the
+(b) (4)
+was performed, when the test was not actually conducted. Of these affected devices,
+(b) (4)
+pumps were distributed to customers.
+We have reviewed your responses dated January 20, 2009, and March 31, 2009, and our conclusions follow:
+a) Regarding the corrective actions that your firm has taken to address the Synchromed® II Pumps with the missing propellant, you initially identified this problem in May 2006. You initiated a corrective and preventive action (CAPA) investigation in January 2007, determined the root cause to be related to the
+(b) (4)
+failing to properly fill propellant into the Synchromed® II Pump reservoir, and failure of
+(b) (4)
+to verify the fill weight of devices after being processed through the filling equipment. Your firm conducted a Health Hazard Assessment in March 2008. In May 2008, your firm conducted a voluntary recall of the Synchromed® II Pumps that did not contain any propellant, and notified the FDA. Your firm's response indicates that MPROC has confirmed that the corrective actions regarding the Synchromed® II Pumps with the missing propellant were completed and effective. FDA is concerned with your failure to initiate a recall for devices affected by the propellant problem in a timely manner. Based on the chronology identified in your response, it took almost 2 years from when the missing propellant was initially identified to conduct a recall. The adequacy of your response cannot be determined at this time. FDA will assess the effectiveness of your firm's recall procedures and CAPA's during the next inspection.
+b) Regarding the actions that your firm has taken to prevent recurrence of Synchromed® II Pumps from being distributed without propellant, you conducted process validation for the manufacturing process changes between April and May 2007. Subsequently, you updated your procedures and re-trained your personnel on these procedures. The adequacy of your response cannot be determined at this time. FDA will assess the effectiveness of your CAPA's during the next inspection.
+c) Regarding the failure to conduct the and the
+(b) (4)
+and
+(b) (4)
+the
+adequacy of the response cannot be determined at this time. Based on your response, the root cause was determined to be related to
+(b) (4)
+manufacturing instructions for the Synchromed® II Pumps. MPROC has performed detailed Health Hazard Analyses for these two problems. Your firm has established additional checkpoints in the manufacturing process to verify the
+(b) (4)
+and
+(b) (4)
+are being completed; reviewed the manufacturing process to ensure that the steps were correct and specific; retrained employees in performing the manufacturing steps; and established additional oversight by increasing the internal process audits of the Synchromed® II Pump manufacturing operation. Your firm identified other improvement actions that will be implemented within the next year, as identified by the timetable in your responses. The adequacy of your corrective and preventive actions will be determined during the next inspection.
+2) Failure to establish and maintain procedures for implementing corrective and preventive action that include identifying the action(s) needed to correct and prevent recurrence of nonconforming product and other quality problems, as required by 21 CFR 820.100(a).
+For example:
+On October 5, 2008, your firm performed a
+(b) (4)
+of data from the
+(b) (4)
+records (which stores the results of in-process testing) and the
+(b) (4)
+manufacturing records (which controls the manufacturing process for the Synchromed® II Pump). The intent of the
+(b) (4)
+was to provide another level of oversight to ensure that in-process tests were actually being performed on devices, as they progressed through manufacturing. This report, however, revealed that another step,
+(b) (4)
+for each Synchromed® II Pump, was not performed during manufacturing.
+(b) (4)
+are unique to each device and have values that vary from
+(b) (4)
+This constant is used by the device in critical internal functions such as calculating drug reservoir levels and drug dispensing rates. Our investigators found over
+(b) (4)
+complaints in your firm's complaint handling system related to accuracy rates. The
+(b) (4)
+, report did not reference any NCR or other type of investigation into this problem.
+We have reviewed your responses dated January 20, 2009, and March 31, 2009, and our conclusions follow:
+Your responses state that a comprehensive review of the CAPA procedures at MPROC will be conducted by July 31, 2009. The adequacy of your response cannot be determined at this time. The adequacy of your firm's corrective actions will be determined during the next inspection.
+3) Failure to establish and maintain procedures to ensure that Device History Records (DHR's) for each batch, lot, or unit are maintained to demonstrate that the device is manufactured in accordance with the Device Master Record (DMR), as required by 21 CFR 820.184.
+Specifically, a review of thirteen (13) DHR's for the Synchromed® II Pumps revealed that your firm's procedure entitled
+(b) (4)
+(Procedure POD
+(b) (4)
+Revision
+(b) (4)
+is not always followed. For example:
+a) A comparison between DHR's for the Synchromed® II Pump serial numbers NGP319205H and NGV416698H, and the respective
+(b) (4)
+revealed that these two devices were dispatched into the sterilizer after the
+(b) (4)
+Your procedures require that the devices be placed into the
+(b) (4)
+b) DHR's for Synchromed® II Pump serial numbers NGV416743H, NGV404480H, NGV417063H, NGP306174H, NGV416451H, NGV416578H, NGV418943H, and NGP305847H show that the verification of the
+(b) (4)
+and
+(b) (4)
+and
+(b) (4)
+were recorded after the steam sterilization cycle had completed, and not prior to initiating the cycle, as required by Procedure POD
+(b) (4)
+We have reviewed your responses dated January 20,2009, and March 31, 2009, and our conclusions follow:
+Your responses states that the devices described above went through the complete sterilization process, and were determined to be sterile at the conclusion of the cycle. However, your firm acknowledges that the sterilization process was not performed in the order specified by your procedures. The adequacy of your response cannot be determined at this time. The adequacy of your firm's corrective and preventive actions will be determined during the next inspection.
+4) Failure to review, evaluate, and investigate complaints involving the possible failure of a device, labeling, or packaging to meet any of its specifications, as required by 21 CFR 820.198(c).
+For example:
+(b) (4)
+received on
+(b) (4)
+and
+(b) (4)
+received on
+(b) (4)
+both describe events where patients who were implanted with the Synchromed® II Pump developed infections. A review of the DHR's for the devices identified in the PCR's Synchromed® II Pump serial numbers NGP319205H and NGV416698H, respectively) show that the devices were dispatched into the sterilizer after the
+(b) (4)
+had already started. The complaint records stated that an investigation had been opened to assess these complaints. However, a copy of this investigation was not included as part of the complaint record, there was no reference to a specific investigation report number, and there was no documentation whether the investigation was successfully closed. Also, there was no record in the complaint file that Medical Device Reports were filed by your firm with FDA for this complaint.
+Your responses dated January 20, 2009 and March 31, 2009, did not address this charge because it was not included in the FDA 483 issued to you on December 15, 2008. The adequacy of your corrective and preventive actions will be determined during the next inspection.
+Our inspection also revealed that your MiniMed Paradigm® Insulin Pumps are misbranded under section 502(t)(2) of the Act [21 U.S.C. 352(t)(2)], in that your firm failed or refused to furnish material or information respecting the device that is required by or under section 519 of the Act, 21 U.S.C. 360i, and 21 C.F.R. Part 803 - Medical Device Reporting (MDR) regulation. Significant deviations include, but are not limited to, the following:
+5) Failure to report to FDA no later than 30 calendar days after the day that you receive or otherwise become aware of information, from any source, that reasonably suggests that a device that you market: (1) may have caused or contributed to a death or serious injury; or (2) has malfunctioned and this device or a similar device that you market would be likely to cause or contribute to a death or serious injury, if the malfunction were to recur, as required by 21 CFR 803.50(a).
+For example:
+a) Complaint No.
+(b) (4)
+states that the reported complaint was not reportable as an MDR to the FDA based on testing of the returned MiniMed Paradigm® Insulin Pump. Information in the complaint indicated that the patient was hospitalized for diabetic ketoacidosis allegedly following battery problems with the pump. The complaint file states that analysis of the pump did not find a battery problem. Your firm concluded that although "information does suggest that a device malfunction occurred," the malfunction was unlikely to result in death or injury if it were to recur.
+However, a review of the MDRs submitted by your firm to the FDA through MedWatch shows that your firm has submitted serious injury MDRs with a diagnosis of diabetic ketoacidosis resulting from the use of the MiniMed Paradigm® Insulin Pump. Since your firm has previously reported these MDRs where a patient had been hospitalized for diabetic ketoacidosis from the use of the MiniMed Paradigm® Insulin Pump and your firm received a complaint of a similar nature, this device malfunction, if it were to recur, would be likely to cause or contribute to the same serious injury. Furthermore, under 21 CFR 803.3, "
+Caused or contributed
+means that a death or serious injury was or may have been attributed to a medical device, or that a medical device was or may have been a factor in a death or serious injury...."
+Based on the information in the complaint file, device failure or malfunction may have contributed to or caused the user's hospitalization and the device's malfunction would be likely to cause or contribute to a death or serious injury, if the malfunction were to recur. As a result, this serious injury is a reportable MDR event under 21 CFR 803.50(a). Your firm did submit MDR
+(b) (4)
+for this complaint. The "Date of Event" and the "Date of Report" are listed as May 30, 2007. Your firm reported this as a serious injury on the Mandatory Reporting Form, FDA-3500A, on November 14, 2008, which is 18 months after the day that your firm received information of an MDR reportable event.
+b) Complaint
+(b) (4)
+states that the reported complaint was not reportable as an MDR to the FDA based on testing of the returned MiniMed Paradigm® Insulin Pump. The information in the complaint indicated that the user contacted your firm because the user had a blood glucose level of 456, and that the user's MiniMed Paradigm® Insulin Pump had failed to alarm when it stopped delivering insulin. The user was subsequently hospitalized and diagnosed with diabetic ketoacidosis. Follow-up revealed that the user had trouble keeping the user's blood glucose level down, and when the user replaced infusion sets, the cannulas were bent. The complaint record states that,
+(b) (4)
+Under 21
+CFR 803.3, "
+Caused or contributed
+means that a death or serious injury was or may have been attributed to a medical device, or that a medical device was or may have been a factor in a death or serious injury...." In this instance, the patient had complained of a potential device failure, and the patient was subsequently hospitalized for diabetic ketoacidosis. Based on the information in the complaint file, because your firm was aware of information that reasonably suggested that the user's MiniMed Paradigm® Insulin Pump may have caused or contributed to a serious injury, you were required to report this event to FDA as an MDR within 30 calendar days of receiving or otherwise
+becoming aware of this information, under 21 CFR 803.50(a).
+We have reviewed your responses dated January 20,2009, and March 31, 2009, and our conclusions follow:
+Your responses state that MDR reports were submitted for the complaints identified above. Your firm has also updated your procedure
+(b) (4)
+Medical Device Report (Effective Date: December 17, 2008)
+, to reflect new criteria for MDR reporting, and re-trained your employees on the new procedure on December 16, 2008. The adequacy of your corrective and preventive actions will be determined during the next inspection.
+6) Failure to have a person who is qualified to make a medical judgment reasonably conclude that a device did not cause or contribute to a death or serious injury, or that a malfunction would not be likely to cause or contribute to a death or serious injury if it were to recur, as required by 21 CFR 803.20(c)(2). Persons qualified to make a medical judgment include physicians, nurses, risk managers, and biomedical engineers, under 21 CFR 803.20(c)(2).
+For example:
+Our investigators determined that a product reporting specialist was making decisions about MDR reportability for the MiniMed Paradigm® Insulin Pumps. The training record for this particular employee showed that this person only had a high school diploma with some additional in-house training.
+Your responses dated January 20,2009 and March 31, 2009, did not address this charge because it was not included in the FDA 483 issued to you on December 15, 2008. The adequacy of your corrective and preventive actions will be determined during the next inspection.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the Food and Drug Administration without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies are advised of the issuance of all Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen (15) working days from the date you receive this letter of the specific steps you have taken to correct the noted violations, including an explanation of how you plan to prevent these violations, or similar violations, from occurring again. Include documentation of the corrective action you have taken. If your planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective action cannot be completed within 15 working days, state the reason for the delay and the time within which the corrections will be completed.
+Your response should be sent to:
+U.S. Food and Drug Administration
+Attn: Mrs. Maridalia Torres
+District Director
+466 Fernandez Juncos Avenue
+San Juan, PR 00901-3223
+If you have any questions about the content of this letter please contact Ms. Margarita Santiago, Compliance Officer, at (787) 474-4789.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, Form FDA 483 (FDA 483), issued at the closeout of the inspection may be symptomatic of serious problems in your firm's manufacturing and quality assurance systems. You should investigate and determine the causes of the violations, and take prompt actions to correct the violations and to bring your products into compliance.
+Regarding your firm's CAPA's for the Synchromed® II Pumps that did not have the
+(b) (4)
+test performed on them, your firm has not indicated how it will address product that is currently distributed to customers. FDA's review of your firm's investigation report(NCR
+(b) (4)
+did not reveal any evidence to demonstrate that
+(b) (4) w
+as tested in subsequent manufacturing steps to verify that the safety mechanism performed as intended. As stated in the charges above,
+(b) (4)
+Synchromed® II Pumps on which the
+(b) (4)
+was not performed were distributed to customers. Should your firm undertake a voluntary correction or removal for the Synchromed® II Pumps where
+(b) (4)
+the was not performed, it must submit a written report to FDA within 10 working days of initiating such an action, as specified by 21 CFR 806.10(a) & (b). See 21 CFR part 806 for additional information about correctives and removals.
+In addition to the above charges, our inspection revealed that your firm uses one manufacturing process system for both the Synchromed® II Pumps and the MiniMed Paradigm® Insulin Pumps. To the extent that any of the above CGMP violations for the Synchromed® II Pumps also implicate the MiniMed Paradigm® Insulin Pumps, your corrective actions should address and extend to the manufacturing procedures of the MiniMed Paradigm® Insulin Pumps.
+Sincerely,
+/S/
+Maridalia Torres Irizarry
+District Director
+San Juan District
+Enclosure: Form FDA 483
+cc: Mr. Manuel Santiago
+Vice President
+Medtronic Puerto Rico Operations Company
+Call Box 4070
+Juncos, PR 00777
+cc: HFC-210 (electronic via CMS)
+HFZ-333 Nikhil Thakur, CDRH
+HFI-35 (redacted via CMS)
+HFR-SE1
+DD (MTI)
+DIB (VM)
+CSO (Marilyn Santiago)
+EF (3004369318)
+CBRF
+CB WL File
+MS/meb: 06-01-2009
+H:\Compliance Branch\Compliance Officers\Santiago\medtronic\Medtronic WL 2009-08 dated 06-01-2009.doc
+-

@@ -1,0 +1,139 @@
+Hill-Rom, Inc. 3/2/12
+Share
+Tweet
+Linkedin
+Pin it
+More sharing options
+Linkedin
+Pin it
+Email
+Print
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Detroit District
+300 River Place
+Suite 5900
+Detroit, Ml 48207
+Telephone: 313-393-8100
+FAX: 313-393-8139
+WARNING LETTER
+2012-DET-08
+VIA UPS
+March 2, 2012
+Mr. John Greisch
+President
+Hill-Rom, Inc.
+1069 State Route 46 East
+Batesville, Indiana 47006
+Dear Mr. Greisch:
+During an inspection of your firm located in Batesville, Indiana, on September 20, 2011, through October 11, 2011, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures AC-Powered Patient Lifts and AC-Powered Adjustable Hospital Beds. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or they are intended to affect the structure or function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act (21 U.S.C. § 351(h)), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+We received a response from Michael J. Murphy, Vice President of Quality Assurance and Regulatory Affairs dated November 01, 2011, concerning our investigator's observations noted on the Form FDA 483 (FDA 483), Inspectional Observations, which was issued to your firm. We address this response below, in relation to each of the noted violations. We have also received your updates to your FDA 483 response dated 12/1/2011, 1/2/2012, 2/1/2012 and 3/1/2012. These updates will be collectively considered as, in part, to this warning letter.
+The violations found during the inspection and subsequent review, include, but are not limited to, the following:
+1. Failure to establish and maintain adequate procedures for verifying the device design, as required by 21 CFR 820.30(f). For example:
+A. Your firm's design verification activities for the patient lift and the adjustable bed did not confirm that the design output meets the design input requirement.
+B. The traceability summary for the design verification activities fail to include test results for
+(b)(4)
+. The "Traceability Summary" was reviewed by three different members of your firm's management, who approved the document without ensuring that all of the documentation was in order.
+C. Your firm's
+(b)(4)
+to show the Design which requires
+(b)(4)
+criteria measurements to show the Design Requirement Specification, is inadequate in that:
+a. There was no objective evidence that the bed
+(b)(4)
+met all
+(b)(4)
+of the required criteria measurements.
+b. Your firm approved the verification testing, which lacked numerical data to prove that your firm meets its specifications and a determination that the criteria were met per your firm's testing protocol. The
+(b)(4)
+was not completed, but the protocols for both beds were approved by upper management.
+Your firm's response dated November 01, 2011, is not adequate. Your firm did not include documentation or evidence of the corrections, corrective actions, or consideration of systemic corrective actions with the response.
+2. Failure to establish and maintain adequate procedures for implementing corrective and preventive actions, as required by 21 CFR 820.100(a). For example, your firm's CAPA system is inadequate in that:
+A. 336 VersaCare beds had field battery failures in that the batteries failed to meet your firm's device specification, during the period June 01, 2010, to October 11, 2011. A corrective or preventative action to investigate these failures was not opened as required by your firm's CAP A procedure.
+B. Your firm includes discontinued components in its "NCMR Scrap-Fabrication Department" trending. Your firm's corrective and preventive action inputs and measurements work instruction (Document QS00096, Rev. 7), the "Nonconformity records," section 7.1.2.3, is not being utilized in a manner that is consistent with your firm's definition of Nonconforming Material/Product found in Section 6.8 of the Control of Nonconforming Material Procedure.
+Your firm's response dated November 01, 2011, is not adequate. Your firm did not include documentation or evidence of the corrections, corrective actions, or consideration of systemic corrective actions in the response to FDA, including opening CAP As for the failed batteries, as required by your firm's procedure.
+3. Failure to adequately ensure that, where the results of a process cannot be fully verified by subsequent inspection and test, the process shall be validated with a high degree of assurance and approved according to established procedures, as required by 21 CFR 820.75(a). For example:
+A. Your firm produced medical device components for its VersaCare hospital beds on
+(b)(4)
+automated and/or the semi-automated processes that were not fully validated using the following equipment
+(b)(4)
+B. Your firm's validation procedure, Process Validation QS00032, is inadequate in that it only allows for automated processes to be monitored through periodic inspection and measuring, rather than performing a full process validation.
+C. Your firm's process validation was
+(b)(4)
+inadequate and only included installation qualifications.
+Your firm's response dated November 01, 2011, is not adequate. Your firm stated that it will complete the procedural changes to the documented process governing Process Validation (QS00032) and address associated training requirements by November 30, 2011. Your firm did not include documentation or evidence of the corrections, corrective actions, or consideration of systemic corrective actions in the response to FDA, including completion of all validation activities for the processes, according to your firm's procedure.
+4. Failure to establish and maintain adequate procedures to control product that does not conform to specified requirements, as required by 21 CFR 820.90(a). For example, your firm's documentation of the nonconformance investigation is inadequate. Your firm documented 1 06 out of 449 production failures as "bad parts" and did not investigate or document the cause of each nonconformance to determine if your firm's processes were in control. Additionally, your firm documented discontinued components as nonconforming product, even though the components met their internal specifications.
+Your firm's response dated November 01, 2011, is not adequate. Your firm stated that it will complete the procedural changes to the documented process and address associated training requirements by November 15, 2011. Your firm did not provided supportive documentation in the response.
+5. Failure to establish and maintain adequate procedures for acceptance of incoming product, as required by 21 CFR 820.80(b). For example, your firm's receiving acceptance activities are inadequate in that:
+A. Your firm's acceptance activities in-process and finished device procedure (Document QS00026) does not have acceptance activities for critical parts in the procedure.
+B. Product released by the Receiving Department is neither quarantined nor identified visually.
+Your firm's response dated November 01, 2011, is not adequate. Your firm did not include documentation or evidence of the corrections, corrective actions, or consideration of systemic corrective actions in the response to FDA, including completion of acceptance activities.
+6. Failure to establish and maintain adequate procedures for receiving, reviewing, and evaluating complaints by a formally designated unit, as required by 21 CFR 820.198(a). For example, your firm's global complaint management procedures fail to accurately define responsibilities and instructions between Liko Franklin (Massachusetts), Liko AB (Sweden), and Hill-Rom corporate headquarters. Your firm acknowledges that there is no specific work instruction or procedure that defines the specific responsibilities of complaint handling.
+The adequacy of your firm's response dated November 01, 2011, cannot be determined at this time. Your firm stated that it will complete the procedural changes to the global corporate Complaint Handling procedure (QS00097) and address associated training requirements by November 30, 2011.
+7. Failure to adequately review and evaluate all complaints to determine whether an investigation is necessary, as required by 21 CFR 820.198(b). For example, your firm's complaint handling is inadequate in that 336 VersaCare beds, from June 01, 2010, to October 11, 2011, had field battery failures and did not meet your firm's device specifications. Your firm indicated that an investigation for these failures was not opened. A justification for why an investigation was not opened was not documented and, upon request by the investigator, was not provided by your firm.
+Your firm's response dated November 01, 2011, is not adequate. The response stated that the procedural changes to the documented process governing global Complaint Handling activities (QS00097) and addressing associated training requirements will be completed by January 31, 2012. Your firm did not include documentation or evidence of the corrections, corrective actions, or consideration of systemic corrective actions in the response to FDA, including evidence of completed investigations for the failed VersaCare batteries or justification as to why an investigation was not required.
+8. Failure to develop, conduct, control, and monitor production processes to ensure that a device conforms to its specifications, as required by 21 CFR 820.70(a). For example, your firm's documented work instruction does not dictate that the calibration can be re-performed if the original test fails to meet specification for accuracy. Your firm had 327 scale calibration failures from June 01, 2011, to the present, and currently re-tests the hospital bed until it passes the scale calibration process. Your firm's work instruction does not define a retesting method.
+Your
+firm's response dated November 01, 2011, is not adequate. Your firm provided a copy of the job instruction
+(b)(4)
+, but did not provide copies of its corrective action (CAPA01438), revised procedure (QS010669 Rev. 1, Monitoring of Production Quality), and revised work instruction
+(b)(4)
+for review. Your firm did not include documentation or evidence of the corrections, corrective actions, or consideration of systemic corrective actions in the response to FDA, including determination of the cause of this deficiency and the documented action taken to ensure that it does not recur.
+Your firm's response dated November 01 ,2011, is not adequate. Your firm provided a copy of the job instruction
+(b)(4)
+, but did not provide copies of its corrective action (CAPA01438), revised procedure (QS010669 Rev. 1, Monitoring of Production Quality), and revised work instruction
+(b)(4)
+, for review. Your firm did not include documentation or evidence of the corrections, corrective actions, or consideration of systemic corrective actions in the response to FDA, including determination of the cause of this deficiency and the documented action taken to ensure that it does not recur.
+9. Failure to identify by suitable means the acceptance status of product, to indicate the conformance or nonconformance of product with acceptance criteria, as required by 21 CFR 820.86. For example, your firm's product quantity in the bins cannot be verified with the total quantity shown in the software component tracking system. For item number
+(b)(4)
+and work order
+(b)(4)
+, the bin quantity located in the top right hand side of the ticket is
+(b)(4)
+and the bin quantity documented by the employee is
+(b)(4)
+. Another item number
+(b)(4)
+and work number
+(b)(4)
+has the bin quantity as
+(b)(4)
+and the bin quantity documented by the employee as
+(b)(4)
+.
+Your firm's response dated November 01, 2011, is not adequate. Your firm did not include documentation or evidence of the corrections, corrective actions or consideration of systemic corrective actions in the response to FDA.
+10. Failure to designate an individual to review for adequacy and approve prior to issuance all documents established to meet the requirements of this part and to document the approval, including the date and signature of the individual approving the document, as required by 21 CFR 820.40(a). For example, your firm's Scale Accuracy and Repeatability Protocol,
+(b)(4)
+did not have signatures of approval for use. In addition, your firm's Strata Product Verification Protocol Inspection Protocol,
+(b)(4)
+coversheet was not signed. Your firm was unable to determine if personnel who conducted the activities were aware if the protocols were approved or not.
+Your firm's response dated November 01, 2011, is not adequate. Your firm did not include documentation or evidence of the corrections in the response.
+11. Failure to establish and maintain adequate procedures to control all documents that are required by 21 CFR 820, as required by 21 CFR 820.40. For example, your firm's Master Validation List for automated and semi-automated processes has not been reviewed and updated to include all processing equipment in your firm's manufacturing facility. Your firm does not have appropriate controls in place to ensure that existing documents are updated regularly so that they are accurate.
+We are unable to determine the adequacy of your firm's response dated November 01, 2011. Your firm stated that it will complete the procedural changes to the Process Validation (QS00032) and address associated training requirements by November 30, 2011. Your firm also stated that the Master Validation List will be reviewed and updated by December 30, 2011.
+12. Failure to establish and maintain statistical techniques required by 21 CFR 820.250. For example, your firm has no statistical rationale for choosing the sample size for design verification activities conducted to ensure that all design requirement specifications were met.
+Your firm's response dated November 01, 2011, is not adequate. Your firm did not include documentation or evidence of the corrections, corrective actions, or consideration of systemic corrective actions in the response to FDA, including completed verification activities using statistically-based sampling plans.
+13. Failure to establish and maintain adequate procedures to ensure that device history records for each batch, lot, or unit are maintained to demonstrate that the device is manufactured in accordance with the Device Master Record and the requirements of 21 CFR 820, as required by 21 CFR 820.184. For example, your firm's device history record for VersaCare is inadequate in that the routers which accompany components throughout manufacturing are thrown away.
+We are unable to determine the adequacy of your firm's response dated November 01, 2011. The response did not include copies of your corrective action (CAPA01441), revised procedure (QS02220 Rev 2, Fabrication In-Ticket Process), and Employee Training Records for QS02220 Rev. 2 for review. Your firm stated that it completed the short-term corrective action on September 27, 2011, and that it will complete the long-term evaluation of its corrective action plans by December 15, 2011.
+14. Failure to establish and maintain adequate procedures for identifying product during all stages of receipt, production, distribution, and installation to prevent mix-ups, as required by 21 CFR 820.60. For example, your firm's material identification tag that identifies component parts and quantities during processing is inadequate. In several cases, manual and pre-printed quantities do not match.
+We are unable to determine the adequacy of your firm's response dated November 01, 2011, at this time. Your firm did not include documentation or evidence of the corrections, corrective actions, or consideration of systemic corrective actions in the response to FDA, including corrected bin numbers according to your firm's internal procedures.
+Our inspection also revealed that the VersaCare beds are adulterated under Section 501(f)(1)(B) of the Act, 21 U.S.C. § 351(f)(1)(B), because your firm does not have an approved application for premarket approval (PMA) in effect pursuant to Section 515(a) of the Act, 21 U.S.C. § 360e(a), or an approved application for an investigational device exemption under section 520(g) of the Act, 21 U.S.C. § 360j(g). The VersaCare beds are also misbranded under Section 502(o) the Act, 21 U.S.C. § 352(o), because your firm did not notify the agency of its intent to introduce the device into commercial distribution, as required by Section 510(k) of the Act, 21 U.S.C. § 360(k).
+These devices are normally exempt from premarket notification under 21 CFR 880.5100 and 21 CFR 880.5150 Your firm's brochure promotes the VersaCare Bed System to: "Help Reduce Patient Falls In Your Hospital," "Help Reduce Your Hospital's Caregiver Injuries," "Help Keep Your Patient's Lungs Clear," and states that, "Smart beds can give you visibility to your patient even when you are not in the room by automating documentation to reduce steps and time spent charting, providing numerous clinical data points including patient weight, head of bed angle and frequency of turns." These claims exceed the exemptions in sections 880.5100 and 880.5150, triggering the requirement for clearance under section 510(k).
+Our inspection also revealed that the TotalCare beds are adulterated under Section 501(f)(1)(B) of the Act, 21 U.S.C. § 351(f)(1)(B), because your firm does not have an approved application for premarket approval (PMA) in effect pursuant to Section 515(a) of the Act, 21 U.S.C. § 360e(a), or an approved application for an investigational device exemption (IDE) under Section 520(g) of the Act, 21 U.S.C. § 360j(g). The TotalCare bed is also misbranded under Section 502(o) the Act, 21 U.S.C. 352(o), because your firm did not notify the agency of its intent to introduce the device into commercial distribution in that a notice or other information respecting the new intended use of the device was not provided to the FDA as required by Section 510(k), 21 U.S.C. § 360(k), and 21 C.F.R 807.81(a)(3)(ii). Specifically, your firm is marketing the device for indications that are outside the 510(k) cleared intended uses including: "The Total Care Connect bed can help decrease adverse events while helping to improve both patient and caregiver safety and satisfaction," "Clear Lungs Program," "The TotalCare Connect bed: as easy choice to help you reduce VAP (Ventilator Associated Pneumonia)," and "No Falls Program, Helping prevent patient falls in the ICU."
+For a device requiring premarket approval, the notification required by Section 510(k) is deemed satisfied when a PMA is pending before the agency. [21 CFR 807.81(b)] The kind of information that your firm needs to submit in order to obtain approval or clearance for the device is described on the Internet at http://www.fda.gov/cdrh/devadvice/3122.html. The FDA will evaluate the information that your firm submits and decide whether the product may be legally marketed.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class ill devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+We are requesting that you submit to this office, on the schedule below, certification by an outside expert consultant that he/she has conducted an audit of your establishment's manufacturing and quality assurance systems relative to the requirements of the device QS regulation (21 CFR, Part 820). You should also submit a copy of the consultant's report, and certification by your establishment's Chief Executive Officer (if other than yourself) that he or she has reviewed the consultant's report and that your establishment has initiated or completed all corrections called for in the report.
+The initial certifications of audit and corrections and subsequent certifications of updated audits and corrections (if required) should be submitted to this office the dates:
+(b)(4)
+;
+(b)(5)
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm's planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm's response should be comprehensive and address all violations included in this Warning Letter.
+Your firm's response should be sent to: CDR Kimberly Y. Martin, Compliance Officer, Detroit District Office, Food and Drug Administration, HFR-CE7560, 101 W. Ohio Street, Suite 500, Indianapolis, Indiana 46204. Refer to the Unique Identification Number CMS case # 234154 when replying. If you have any questions about the contents of this letter, please contact: Mr. Keith J. Jasukaitis at 313-393-8141 or 313-393-8139/8140.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm's facility. It is your firm's responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm's manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely yours,
+/s/
+Glenn T. Bass
+Director, Detroit District
+Close Out Letter
+Hill-Rom, Inc. - Close Out Letter 9/10/15

@@ -1,0 +1,90 @@
+Smith & Nephew, Inc. 6/11/14
+Share
+Tweet
+Linkedin
+Pin it
+More sharing options
+Linkedin
+Pin it
+Email
+Print
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Florida District
+555 Winderley Place, Suite 200
+Maitland, Florida 32751
+Telephone: 407-475-4700
+FAX: 407-475-4770
+VIA UPS NEXT DAY AIR
+w/ DELIVERY CONFIRMATION
+WARNING LETTER
+FLA-14-15
+June 11, 2014
+Mr. Robin C. Carlstein
+President of Wound Management – North America
+Smith & Nephew, Inc.
+970 Lake Carillon Drive, Suite 110
+Saint Petersburg, FL 33716-1130
+Dear
+Mr. Carlstein:
+During an inspection of your firm located in Saint Petersburg, Floridaon November 12, 2013, through November 26, 2013, an investigator from the United States Food and Drug Administration (FDA) determined that your firm manufactures the Renasys line of Negative Pressure Wound Treatment (NPWT) devices. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+We received responses from Robin C. Carlstein, Sr. Vice President, Advanced Wound Devices and Interim President, North America, dated December 16, 2013, January 16, 2014, January 22, 2014, February 14, 2014, and May 16, 2014, concerning our investigator’s observations noted on the Form FDA 483 (FDA 483), List of Inspectional Observations, which was issued to your firm. We address these responses below, in relation to each of the noted violations, however the response dated May 16, 2014
+,
+was not reviewed and will be reviewed along with responses to this Warning Letter.
+These violations include, but are not limited to the following
+:
+1.
+Failure to establish and maintain procedures for validating the device design, as required by 21 CFR 820.30(g). For example:
+a.
+Your firm’s validation procedure, User Evaluation Procedure, PDG-06, does not ensure that testing is conducted under actual or simulated use conditions. Specifically, individuals who represent actual potential users were not selected to perform testing under validation protocol PDG-13-056, covering evaluation of a change to the canister filter and an updated version of the instructions for installation of the canister filter.
+b.
+Your firm has not established and maintained Section 5.3 of the Risk Management of Medical Devices procedure, C-61, which requires an individual, risk-benefit assessment to support final review and approval of any hazards identified to have a final residual risk of Medium or High. A risk-benefit assessment for the individual hazard of exsanguination for the Negative Pressure Wound Treatment (NPWT) devices was not performed, although the exsanguination is listed in the Risk Assessment record for these devices, URA-03-03, with a final residual risk of Medium.
+The adequacy of your firm’s responses cannot be determined at this time. Documentation of the completion of the retrospective reviews has not been provided for FDA review. Additionally, your firm did not provide documentation of personnel training on the new procedures.
+2.
+Failure to establish and maintain procedures for identification, documentation, validation or where appropriate verification, review, and approval of design changes before their implementation, as required by 21 CFR 820.30(i). For example:
+a.
+Your firm has not established and maintained its procedure, PDG-02, Section 6.3.6 of the Change Control Process, which requires verification or validation testing of proposed design changes and an evaluation of the potential impact of such changes on the Risk Assessment records (RMF/URA). Specifically, your firm has not evaluated the decreasing of the sensitivity of the Leak Alarm for the Renasys Go Pump device, implemented under ECO# 12-0182, in order to ensure that the change would not adversely affect the finished device. Additionally, your firm has not evaluated the impact of this change on the Risk Assessment records for this device.
+b.
+Your firm has not established and maintained its User Evaluation Procedure, PDG-06, Section 6.1.1, which requires that the product built for the User Evaluation testing be “under a controlled build and GMPs”. The User Evaluation testing conducted under validation protocol PDG-13-056, executed under ECO# 13-0074, did not use the canister filter installation instructions that were listed in the current Renasys EZ and EZ Plus Pump instructions for use.
+The adequacy of your firm’s responses cannot be determined at this time. Your firm has not provided retrospective review documentation, which was expected to be completed by February 26, 2014. Additionally, no documentation was provided to support that personnel have been trained on the new procedure.
+3.
+Failure to establish and maintain procedures for implementing corrective and preventive action, as required by 21 CFR 820.100(a). For example:
+a.
+Your firm’s procedure, Complaint Handling Procedure, C-10, does not require an appropriate statistical methodology to detect recurring quality problems in the Complaint Data Analysis section.
+b.
+Your firm’s procedure, Post Market Surveillance Procedure, R-18, does not establish and maintain a procedure that ensures that require quality data to be analyzed and evaluated under the Post Market Surveillance process.
+c.
+Under Corrective Action Request (CAR) # 02346, your firm determined that the alarm function may be adversely affected by small amounts of air leakage. To prevent recurrence, your firm changed the instructions for inserting the Renasys EZ and EZ Plus Pumps canister filter, under ECO# 12-0238. Additionally, your firm changed the maintenance instructions for the O-ring of the Rensasys Go Pump under ECO#12-0170. Your firm was unable to provide documentation that effectiveness checks were performed for these corrective and preventive actions.
+d.
+Your firm’s procedure, Corrective Action Procedure, C-42, does not establish and maintain the requirement to verify or validate the corrective and preventive action to ensure that such action is effective and does not adversely affect the finished device. Specifically, the procedure lists examples of actions which may not require verification/validation in Section 5.3.6.5.
+The adequacy of your firm’s responses cannot be determined at this time. Your firm updated its procedures and description of a plan to perform a retrospective review. However, your firm did not provide documentation of the updated procedures. Your firm did not provide documentation for the retrospective review or documentation that supports that its employees have been trained on the new procedures.
+4.
+Failure to evaluate and investigate any complaint involving the possible failure of a device, labeling, or packaging to meet any of its specifications, unless such investigation has already been performed for a similar complaint and another investigation is not necessary, as required by 21 CFR 820.198(c). For example:
+a.
+Your firm has not established and maintained Section 7.1 of its Complaint Handling Procedure, C-10, which requires follow up with the complainant in order to collect any additional information required for the evaluation. Required information was not documented for complaint records 0044295, 0042726, 0042673, 0033199, 0047858 and 0047825. The complaint records do not document an attempt to collect the additional information.
+b.
+Your firm has not established and maintained Section 9.2.3 of its Complaint Handling Procedure, C-10, which requires a Risk Assessment Review for complaints that are adverse events or lead to a potential hazard. Seventeen complaint records were observed that covered alleged pooling and/or lack of alarm function for the Renasys EZ/EZ Plus device in which your firm documented known hazards. However, ten of the seventeen records did not document review of the risk assessment for the device.
+c.
+Your firm has not established and maintained Section 9.2.3.2 of its Complaint Handling Procedure, C-10, which requires notification of the Risk Management Group of any hazard or harm not previously evaluated, or when there has been an increase in the risk residual rating established. Your firm was unable to provide documentation that supports the Risk Management Group was notified of the increase in the risk residual rating for the Maceration hazard from a loss of vacuum pressure at the wound site described in complaint 0047164.
+The adequacy of your firm’s responses cannot be determined at this time. Your firm did not provide documentation to support completion of the retrospective review, or documentation that supports employees have been trained on the new procedures.
+Our inspection also revealed that your firm’s Renasys Negative Pressure Wound Treatment EZ/EZ Plus/GO devices are misbranded under section 502(t)(2) of the Act, 21 U.S.C. § 352(t)(2), in that your firm failed or refused to furnish material or information respecting the device that is required by or under section 519 of the Act, 21 U.S.C. § 360i, and 21 CFR Part 806 – Medical Devices; Reports of Corrections and Removals. Significant violations include, but are not limited to, the following:
+Failure to submit any report required within 10-working days of initiating such correction or removal, as required by 21 CFR 806.10.
+For example: On March 14, 2013, your firm distributed a customer bulletin entitled “Product bulletin-RENSYS Soft Port Enhancements” notifying users of changes to the design of the RENASYS Soft Port Dressing also for use with the RENASYS line of devices. This design change was made after discovering that improper installation of the filter could potentially result in the device not activating the Full/Blockage Alarm. Affected products have been distributed to Smith & Nephew customers in the U.S. Your firm did not notify FDA of the recall or provide written justification for not notifying FDA.
+We reviewed your firm’s response, dated December 16, 2013, and conclude that it is not adequate. Your firm initiated nine corrective and preventative actions to include submitting an 806 report to FDA on November 14, 2013, and issuing a Supplemental Field Corrections notice. Your firm also revised and added procedures related to changes to existing products. Additionally, your revised and added procedures do not appear to include all of the requirements specified in 21 CFR Part 806, Medical Devices; Reports of Corrections and Removals, and the guidance provided by 21 CFR Part 7, Enforcement Policy, to ensure that all required information is reported.
+Our inspection revealed that the Renasys GO pump, the Renasys EZ pump, the Renasys EZ Plus pump, and the Renasys EZ Max pump are adulterated under section 501(f)(1)(B) of the Act, 21 U.S.C. § 351(f)(1)(B), because you do not have an approved application for premarket approval (PMA) in effect pursuant to section 515(a) of the Act, 21 U.S.C. § 360e(a), or an approved application for an investigational device exemption (IDE) under section 520(g) of the Act, 21 U.S.C. § 360j(g). The Renasys GO pump, the Renasys EZ pump, the Renasys EZ Plus pump, and the Renasys EZ Max pump are also misbranded under section 502(o) the Act, 21 U.S.C. § 352(o), because you did not notify the agency of your intent to introduce the device into commercial distribution in that a notice or other information respecting the modification to the device was not provided to the FDA as required by section 510(k), 21 U.S.C. § 360(k), and 21 C.F.R. 807.81(a)(3)(i).
+Specifically, your firm modified the design of the antimicrobial filter, a component of the canister kits which are used in conjunction with the Renasys EZ (K091470), EZ Plus (K102001), and EZ Max (K132446 and K132299) pumps. This modification was implemented to address adverse events related to inadequate insertion of the in-line antibacterial overflow guard, which resulted in low vacuum conditions and potential alarm failure. The new design of the antimicrobial filter, which included the incorporation of a softer material to allow for easier insertion into the Renasys pump, creates new questions of safety and effectiveness. For instance, the material and design of the new antimicrobial filter may affect how securely and correctly users are able to position it. Additionally, improper positioning of the antimicrobial filter may impact the ability of the device to remove fluid from the wound, which can result in pooling of the fluid at the wound and maceration of the skin, which may negatively impact healing. For these reasons, the design modification to the antimicrobial filter as described above requires a new 510(k) submission.
+Your firm also modified the design of the Soft Port pad by increasing the size of the aperture to the Soft Port pad to address reports of fluid pooling at the dressing site. The Soft Port pad is intended to deliver the desired negative pressure in order to remove wound fluid at the desired rate and is used in conjunction with all versions of the Renasys Negative Pressure Wound Therapy System. The change to the size of the aperture creates new questions of safety and effectiveness, including but not limited to, the ability of the Soft Port pad to deliver the desired negative pressure in order to remove wound fluid at the desired rate. Therefore, the design modification to the Soft Port pad as described above requires a new 510(k) submission.
+For a device requiring premarket approval, the notification required by section 510(k) of the Act, 21 U.S.C. § 360(k), is deemed satisfied when a PMA is pending before the agency, 21 CFR 807.81(b). The kind of information you need to submit in order to obtain approval or clearance for your device is described on the Internet at
+http://www.fda.gov/cdrh/devadvice/3122.html
+. The FDA will evaluate the information you submit and decide whether your product may be legally marketed.
+Our office requests that Smith and Nephew immediately cease activities that result in the misbranding or adulteration of the Renasys Negative Pressure Wound Therapy System devices as listed above, such as the commercial distribution of the device for the uses discussed above.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (which must address systemic problems) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+Please send your written reply to the Food and Drug Administration, Attention: Carla Norris, Compliance Officer, 555 Winderley Place, Suite 200, Maitland, Florida, 32751. If you have any questions regarding this letter, please contact Ms. Norris at (407) 475-4730.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely,
+/S/
+Elizabeth W. Ormond
+Acting Director, Florida District

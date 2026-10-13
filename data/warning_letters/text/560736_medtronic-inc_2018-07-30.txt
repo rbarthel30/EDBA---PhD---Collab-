@@ -1,0 +1,92 @@
+WARNING LETTER
+Medtronic Inc., Cardiac Rhythm and Heart Failure (CRHF)
+MARCS-CMS 560736 — Jul 30, 2018
+Share
+Tweet
+Linkedin
+Email
+Print
+Medtronic Inc., Cardiac Rhythm and Heart Failure (CRHF) - 560736 - 07/30/2018
+Recipient:
+Recipient Name
+Omar Ishrak
+Medtronic Inc., Cardiac Rhythm and Heart Failure (CRHF)
+710 Medtronic Parkway NE
+Minneapolis
+,
+MN
+55432
+United States
+Issuing Office:
+Florida District Office
+United States
+Office of Medical Device and Radiological Health Operations (OMDRHO)
+Division 2 Central
+SSS Winderley Pl # 200
+Maitland, FL 32751
+Telephone: (407) 47S-4700
+WARNING LETTER
+CMS #
+560736
+UNITED PARCEL SERVICE
+w/ DELIVERY CONFIRMATION
+July 30, 2018
+Omar Ishrak
+Chairman & CEO
+Medtronic Inc.
+710 Medtronic Parkway NE
+Minneapolis, MN 55432
+Dear Mr.
+Ishrak:
+During an inspection of Medtronic’s Cardiac Rhythm and Heart Failure (CRHF) business, located at 8200 Coral Sea Street NE, Mounds View, Minnesota, on April 23 through May 14, 2018, investigators from the United States Food and Drug Administration (FDA) determined that Medtronic CRHF manufactures implantable pacemakers, implantable cardioverter defibrillators, cardiac resynchronization devices, cardiac ablation catheter systems, cardiac monitoring and diagnostic devices, and other related products. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820. You may find the Act and FDA’s regulations through links in FDA’s home page at
+www.fda.gov
+.
+We received your firm’s responses dated June 5 and July 13, 2018, concerning our investigators’ observations noted on the Form FDA 483 (FDA 483), Inspectional Observations, issued to your firm on May 14, 2018. We address these responses below in relation to the cited violations, which include:
+1.
+Failure to establish adequate procedures for design transfer, as required by 21 CFR 820.30(h). Specifically, design transfer was approved for Blackwell implantable cardiac defibrillators (ICDs) prior to qualification of
+(b)(4)
+processes. Even though a qualification was never conducted,
+(b)(4)
+process
+(b)(4)
+was implemented at the Medtronic Juncos Campus (MJC) manufacturing facility. The
+(b)(4)
+process
+(b)(4)
+in ICDs that failed due to high voltage arcing. This led to your firm’s recall Z-0582/9-2018.
+We reviewed your firm’s responses to the FDA 483 and acknowledge your commitment to: (a) review all Blackwell manufacturing processes to identify any other
+(b)(4)
+processes and ensure they were appropriately qualified or validated, (b) assess
+(b)(4)
+processes for all current implantable therapy and diagnostic devices to evaluate the validation status of any
+(b)(4)
+processes that are not 100% verified, (c) conduct a comprehensive review of CRHF design transfer procedures to identify whether any improvements are needed, and take other steps to address the deficiencies cited. Your responses appear to be adequate; however, several of your firm’s actions are still in progress, and a follow-up inspection by FDA will be necessary to verify compliance.
+2.
+Failure to establish adequate procedures for changes to a production process, which is required by 21 CFR 820.70(b). Specifically, a change to
+(b)(4)
+process
+(b)(4)
+was completed by MJC without approval of Medtronic CRHF as required by your procedures. In addition, the change was made without regulatory review (at CRHF) because MJC failed to notify CRHF of the process change.
+We reviewed your firm’s response and acknowledge your commitment to: (a) review corrective actions from Corrective and Preventive Action (CAPAs) in the last year related to CRHF products in the field, to determine whether changes were appropriately escalated to CRHF for review, (b) review a statistically significant sample of CRHF product change control worksheets from internal supplier facilities that resulted in a decision that business unit review and approval was not necessary, (c) revise the procedures for change control to simplify and clarify the notification requirements, and take other steps to address the deficiencies cited. Your responses appear to be adequate; however, several of your firm’s actions are still in progress, and a follow-up inspection by FDA will be necessary to verify compliance.
+Your firm should take prompt action to correct the violations cited in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen (15) business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (which must address systemic problems) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen (15) business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+Additionally, in FDA 483 observation #3, our investigators noted that your firm’s actions concerning CAPA 358912
+(b)(4)
+were not commensurate with risk or conducted as required by CRHF’s CAPA procedure. We reviewed your firm’s response and acknowledge your commitment to improve oversight of CAPA investigations and facilitate timely field corrective action decisions commensurate with the associated risk. Implementation of effectiveness of your corrective actions will be evaluated during a follow-up inspection.
+If you have questions regarding this letter, please contact Timothy G. Philips, Compliance Officer, by telephone at 612-758-7133, or by e-mail at
+Timothy.Philips@fda.hhs.gov
+. Please send your reply to this Warning Letter to Blake Bevill, Program Division Director, using the electronic mailbox
+ORADevices2FirmResponse@fda.hhs.gov
+. Any attachments should be labeled and/or identified for ease of review. Documentation should be submitted as a single pdf file, with bookmarks to easily identify table of contents, memos, attachments, etc.
+If a single pdf file exceeds the 100MB size limit, please submit multiple pdf files, as appropriate. Refer to CMS Case #560736 when replying.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely,
+/S/
+Blake Bevill, MS
+Program Division Director
+Office of Medical Device and Radiological Health
+Division 2 – Central
+Content current as of:
+09/11/2018
+More Warning Letters

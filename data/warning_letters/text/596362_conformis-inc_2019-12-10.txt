@@ -1,0 +1,75 @@
+WARNING LETTER
+Conformis Inc.
+MARCS-CMS 596362 —
+December 10, 2019
+Share
+Tweet
+Linkedin
+Email
+Print
+Delivery Method:
+VIA UNITED PARCEL SERVICE
+Product:
+Medical Devices
+Recipient:
+Recipient Name
+Mark A. Augusti
+Recipient Title
+President, CEO
+Conformis Inc.
+600 Technology Park Dr.
+Billerica
+,
+MA
+01821
+United States
+Issuing Office:
+Office of Medical Device and Radiological Health Operations
+United States
+WARNING LETTER
+CMS # 596362
+December 10, 2019
+Dear Mr. Augusti:
+The United States Food and Drug Administration (FDA) conducted an inspection of your firm’s medical device operations at 600 Research Dr., Wilmington, MA 01887, from September 16 through September 20 and November 14 through 15, 2019. During the inspection, FDA investigators determined that your firm is a manufacturer of Class II sterile orthopedic implants such as the iTotal posterior stabilized (PS) and iTotal cruciate retaining (CR) Knee Replacement Systems and iTotal Hip Replacement Systems. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820. We received responses, dated October 8 and November 25, 2019 from Emmanuel O. Nyakako, Senior Vice President of Quality and Regulatory Affairs, concerning our investigator’s observations noted on the Form FDA 483, List of Inspectional Observations (FDA 483) that was issued on September 20, 2019. We address the response below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1. Failure to establish and maintain procedures for implementing corrective and preventive actions identifying the actions(s) needed to correct and prevent recurrence of nonconforming product and other quality problems, as required by 21 CFR Part 820.100(a)(3).
+Specifically, your firm has not identified the actions needed to correct and prevent recurrence of the
+(b)(4)
+your Class II Knee Implants. For example, the identified corrective action to utilize your supplier for preventative maintenance and for repair of
+(b)(4)
+to reduce the incidents of
+(b)(4)
+initiated October 26, 2018 under CAPA 18-032 has not resolved the issue as your firm continues to experience
+(b)(4)
+as recently as June 5, 2019.
+Your response dated October 8, 2019 describes the long term corrective action for this issue as replacement of the
+(b)(4)
+510(k) approval from the FDA. Your response dated November 25, 2019 states your firm submitted an application for approval of the
+(b)(4)
+to the FDA on November 6, 2019 under 510(k) K193105. However, these responses do not address the immediate concern that your firm continues to rely
+(b)(4)
+to assure sterility for product release instead of ensuring the process is operating under a validated state. Moreover, there is no objective evidence to support that
+(b)(4)
+are operating in a validated stated as the
+(b)(4)
+. It is expected your firm has objective evidence your sterilization process ensures products consistently meet the established sterility assurance level under routine operating conditions.
+In response to this Warning Letter, you should address how you plan to (1) prevent recurrence of the current,
+(b)(4)
+510(k) approval and (2) provide objective evidence these sterilizers are capable of passing a validation under routine operating conditions.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected. Also, requests for Certificates to Foreign Governments (CFG) may not be granted. More information on processes for persons denied a CFG can be found at
+https://www.fda.gov/regulatory-information/search-fda-guidance-documents/process-requestreview-fdas-decision-not-issue-certain-export-certificates-devices
+.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (which must address systemic problems) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+If you have questions regarding any issues in this letter, please contact Compliance Officer, Sargum C. Morgan at 313-393-8253 or at sargum.morgan@fda.hhs.gov. Please send your reply electronically to Gina Brackett, Director of Compliance Branch, at oradevices1firmresponse@fda.hhs.gov.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely,
+/S/
+Joseph Matrisciano, Jr.
+Program Division Director
+Office of Medical Device and Radiological Health
+Division 1
+Content current as of:
+12/17/2019
+Regulated Product(s)
+Medical Devices
+More Warning Letters

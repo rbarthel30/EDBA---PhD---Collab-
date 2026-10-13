@@ -1,0 +1,120 @@
+Beckman Coulter, Inc. 8/9/11
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Los Angeles District
+Pacific Region
+19701 Fairchild
+Irvine, CA 92612-2506
+Telephone: 949-608-2900
+FAX: 949-608-4415
+WARNING LETTER
+VIA HAND DELIVERY
+August 09, 2011
+Mr. James Robert Hurley, President and CEO
+Beckman Coulter, Inc.
+250 S. Kraemer Blvd
+Brea, CA 92821
+W/L 48-11
+Dear Mr. Hurley:
+During an inspection of your establishment located in Brea, California on March 01, 2011 - May 12, 2011, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures Class II diagnostic chemistry analyzers, reagents, calibrators and controls. Under section 201 (h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501 (h) of the Act (21 U.S.C. § 351 (h)), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice (CGMP) requirements of the Quality System (QS) regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+These violations include, but are not limited to, the following:
+1. Failure to establish and maintain adequate procedures for the identification, documentation, validation or where appropriate verification, review, and approval of design changes before their implementation, as required by 21 CFR 820.30(i).
+Specifically, your firm was unable to demonstrate that the validation study for the photometer boards redesign project (transferred to production in March 2010) was validated using initial production units or their equivalents as evidenced by the following:
+A. Your firm was unable to provide records documenting production of re-designed photometer boards used in validation studies conducted in December 2008. Further, the verification study for the conformal coating which is applied to the pre-amp board was conducted after the validation study was completed.
+Additionally, your firm's design records failed to establish the conformal coating application method and the minimal thickness required on the pre-amp assembly board.
+(b)(6)
+stated that the conformal coating is intended to protect the board against contamination by moisture
+(b)(6)
+stated that if the conformal coating is not thick enough, it could result in a shortened life of the product.
+B. When assembled, the redesigned photometer components (consisting of the redesigned pre-amp board and controller board encased in a metal housing) are referred to as the smart module. Documents provided by your firm failed to demonstrate bench testing of the three smart modules had been completed, prior to their installation into chemistry analyzers for design validation studies. The test records provided are ambiguous in that the three test results for the "Production Bench Test Data for the Three PN A58880 DxC/LX Photometer Assay" reveals the old smart module part numbers PN 476378 were tested rather than the current part number PN A58880.
+Your firm failed to establish acceptance specifications for the controller and pre-amp photometer boards prior to conducting verification and validation studies in accordance with test plan titled "Systems Validation Synchron LX and UniCel DxC Systems Photometer Boards (Controller and Pre-Amp Boards) Performance Verification and Validation Test Plan", Revision B, dated 4-29-08.
+Your firm's risk analysis conducted for the "Photometer Boards Redesign" project dated October 19, 2007 was inadequate in that your firm failed to document specific actions taken to reduce risk (e.g. addition of label warnings, validation studies performed, design modifications, etc.) and failed to assess residual risk after completion of design activities intended to reduce risk as required by Object Name 17-0102, titled "Product Development Risk Management Procedure" effective 8-1308.
+The redesigned photometer was transferred to production via Change Order No. 109798 effective March 16, 2010.
+2. Failure to establish and maintain adequate design validation procedures to ensure that devices conform to defined user needs and intended uses; to ensure proper risk analysis is completed; and to ensure the results of the design validation, including identification of the design, method(s), the date, and the individual(s) performing the validation are documented in the design history file, as required by 21 CFR 820.30(g).
+Specifically,
+Validation of device software was not performed. Specifically, the Integrated UniCel DxC analyzers in commercial clinical use have either a VME Motorola ICS board or a PowerPC board running the software. When validating the software version change to
+(b)(4)
+your firm did not do system integration testing on the VME board. Neither did it conduct a code review of the software change for the VME board. Version
+(b)(4)
+was released to the field in late 2009. It was subsequently determined that the
+(b)(4)
+software running on the VME board had a bug introduced by the change and a recall (Z-2590-2010) was necessary in February 2010.
+3. Failure to ensure that design plans were reviewed, updated, and approved as design and development evolves as required by 21 CFR 820.30(b).
+Specifically,
+Your firm's design plan for the project titled "Photometer Boards Redesign", dated October 19, 2007 with effective date October 29, 2007 was not updated, reviewed and approved as the design and development project evolved.
+4. Failure to ensure that all personnel are trained to adequately perform their assigned responsibilities and to document the training as required by 21 CFR 820.25(b).
+Specifically, your firm's training records for the Vice President Medical Director
+(b)(6)
+failed to document the employees training in your firm's procedure titled "Medical Device Report Submission Procedure".
+5. Failure to establish and maintain adequate procedures for implementing corrective and preventive action, as required by 21 CFR 820.100(a). For example:
+A. Your firm's CAPA investigation for CAPA number 15014 did not adequately control the hemolysate used in studies for the investigation of customer findings that cartridge glucose (GLU) on UniCel DxC and Synchron LX instruments may give falsely high results for moderately hemolyzed samples, thus failing to meet your firm's hemolysis interference claims. The hemolysate was not controlled in that:
+i. Your firm developed a protocol providing directions for preparation of the hemolysate, however employee
+(b)(6)
+stated your firm has no records documenting preparation of the hemolysate.
+ii. As of 3-31-11, your firm confirmed they failed to establish procedures defining appropriate storage conditions (including temperature, time, and shelf-life stability) for the hemolysate.
+iii. When asked where the hemolysate had been stored, your firm management provided a temperature graph with readings from Probe
+(b)(4)
+These records established temperature only but failed to establish that this hemolysate had ever been stored at this location as confirmed by your firm's management.
+B. CAPAs 7879 (dated 4-2-08) and 9971 (dated 1-4-09) were initiated to investigate root causes and recommend corrective/preventive actions for erroneous electrolyte results {Ion Specific Electrode (ISE) chemistry performance issues} obtained when using the UniCel DxC Platform.
+i. There was no documented rationale for the number of study sites (and instruments) selected for this market surveillance program in relation to your firm's
+(b)(4)
+instruments in domestic distribution. Your firm established investigational plan titled "Market Surveillance Study Protocol" on 5-14-2010 which called for a minimum of ten customer sites to perform ISE methods comparison studies using normal and abnormal patient samples after implementation of the twice weekly mandatory cleaning corrective action per CAPA 7879. Each of the study sites was required to have two DxC systems for use in this sodium (Na) performance study. Collected data was to then be examined for sodium (Na) potassium (K), chloride (CI), carbon dioxide (C02) and calcium (Calc) precision.
+ii. Your firm's effectiveness check involving daily monitoring of customer complaints was inadequate in that there were no established parameters against which your firm would assess adequacy of the action taken e.g. reduction in number of complaints.
+iii. The "Market Surveillance Program, ISE Recall No. Z-0863-2010, Synchron Electrolyte Assays, UniCel DxC Platform" dated 11-2-2010 specifies a three-prong program for CAPA effectiveness checks. Prong
+(b)(4)
+required your firm to survey
+(b)(4)
+customers who had their ratio pump replace during 10-2010. These customers were to be surveyed at
+(b)(4)
+weeks after replacement of the ratio pump to determine if there had been any erroneous measurements including those that are inconsistent with clinical outcome or presentation for the patients whose samples were tested. Your firm failed to establish any complaint/erroneous measurement threshold which, if exceeded, would result in a conclusion that corrective action taken was ineffective.
+6. Failure to adequately document corrective and preventive action activities and/or results as required by 21 CFR 820.100(b).
+Specifically,
+In April 2010, your firm formed an Ion Specific Electrode (ISE) improvement team to address ISE performance and provide oversight and management of CAPAs related to ISE performance. CAPA 7879 was opened on 4-2-08 to address "drift" and "shift" of Na, K, CI, Ca and C02 assays due to system contamination while CAPA 9971 was opened on 1-4-09 to address "fliers" for these same assays.
+Your firm failed to perform a "Root Cause Investigation: Risk Assessment" to determine the impact, severity and safety concerns resulting from the verified root causes of product failure identified in CAPA Plan Worksheet 9971. This assessment is indicated per the CAPA Plan Worksheet and your firm's procedure BCP0046, effective 7-1-10. The risk assessment was subsequently performed during the inspection on 3-5-11 after lack of a risk assessment was uncovered by the inspection team. CAPA Plan Worksheet 9971 was updated to include the risk assessment on 3-6-11.
+Our inspection also revealed that the UniCel DxC 600, 600i, 600 Pro, 800, and 800 Pro chemistry analyzers and the troponin, sodium, potassium, chloride, calcium, and glucose reagents used on these analyzers are misbranded under section 502(t)(2) of the Act 21 USC 352 (t)(2), in that your firm failed or refused to furnish material or information respecting the devices that is required by and under section 519 of the Act, 21 USC 360i, and 21 CFR Part 803 - Medical Device Reporting (MDR) Regulation.
+Significant deviations include, but are not limited to:
+1. Failure to report to the FDA no later than 30 calendar days after the day your firm received or otherwise became aware of information that reasonably suggests that a device marketed by your firm has malfunctioned and would be likely to cause or contribute to a death or serious injury if the malfunction were to recur, as required by 21 CFR Part 803.50(a)(2).
+For example:
+Complaint CF 100427-057 describes 3 incidents of falsely elevated troponin I. The patient samples were run on the UniCel DxC 600i Synchron Access Clinical System on three separate days: 3/25,4/15, and 4/26/2010. As the samples were tested on three different days, the occurrences constitute three separate events and each event should have been reported to the FDA as separate Form 3500A malfunctions. Your firm submitted only one MDR for the three events.
+2. Failure to submit all information reasonably known to your firm as required by 21 CFR Part 803.50(b).
+For example:
+Complaint CF 100202-064 indicates there were erroneous results obtained for chloride (CI). However, MDR 2050012-2010-00067 reports "an erroneously high sodium (Na) result generated by the UniCel DxC 600 Pro" and fails to report the problem with the chloride result.
+3. Failure to develop, maintain and implement written MDR procedures as required by 21 CFR Part 803.17.
+• Your firm failed to implement its written MDR procedure by not preparing individual reports for multiple MDR reportable events. Section 6.10.1 states in part, "MDR Reports must be prepared individually. Multiple reports must be submitted on individual MedWatch forms." Complaint CF #100427-057 describes three distinct and separate events, yet your firm submitted a single MDR #2050012-2010-00292 to cover all three events.
+• Your procedure does not contain a standardized process for determining when an event meets the criteria for MDR. For example there are no instructions for how your firm will evaluate information about an event to make MDR reportability determinations in a timely manner.
+• The procedure does not describe your firm's documentation and record keeping process. For example:
+• There are no instructions for documenting information that was evaluated for reportability determinations, or for establishing and maintaining MDR
+files.
+• There is no description of how your firm will ensure access to information that facilitates timely follow-up and inspection by FDA.
+4. Failure to include information required by 21 CFR 803.52(f)(7) that a remedial action was taken and the type of action taken; and by 21 CFR 803.52(f)(9) whether a remedial action was reported as a removal or correction under section 519(f) of the Act, and if it was, to provide the correction/removal report number.
+5. Failure to include information required by 21 CFR Part 803.52(e)(3) to indicate in Block G the report source. For example the foreign sources were missing for MDRs #2050012-2010-00550, #2050012-2010-00442, and #2050012-2010-00489.
+Our inspection also revealed that your Synchron®Systems LX®20/Unicel DxC ISE Reference Reagent device is misbranded under section 502(t)(2) of the Act, 21 U.S.C. 352(t)(2), in that your firm failed or refused to furnish material or information respecting the device that is required by or under section 519 of the Act, 21 U.S.C. 360i, and 21 CFR Part 806 - Reports of Corrections and Removals regulation. Significant violations include, but are not limited to, the following:
+Failure to submit a written report to FDA of a correction or removal of a device. 21 CFR 806.10(a)(1).
+Specifically:
+The correction and removal of your firm's Synchron®Systems LX®20/Unicel DxC ISE Reference Reagent on September 22,2010 was not reported to the FDA.
+Your response to the FDA 483, dated June 13, 2011, was reviewed and found to be inadequate.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the Food and Drug Administration without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies are advised of the issuance of all Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until
+the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps you have taken to correct the noted violations, as well as an explanation of how you plan to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions you have taken. If your planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of these activities. If corrections and/or corrective actions cannot be completed within 15 business days, state the reason for the delay and the time within which these activities will be completed. Your response should be comprehensive and address all violations included in this WL.
+Your response should be sent to:
+Blake Bevill,
+Director, Compliance Branch
+Food and Drug Administration
+19701 Fairchild
+Irvine, CA 92612-2506
+If you have any questions about the content of this letter, please contact Dr. Raymond W. Brullo, Compliance Officer at (949) 608-2918.
+If you wish to discuss MDR reportability criteria or to schedule further communications, you may contact the MDR Policy Branch at 301-796-6670 or by email at
+MDRPolicy@fda.hhs.gov
+.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violation(s) noted in this letter and in the Inspectional Observations, Form FDA 483 (FDA 483), issued at the closeout of the inspection may be symptomatic of serious problems in your firm's manufacturing and quality management systems. You should investigate and determine the causes of the violation(s), and take prompt actions to correct the violation(s) and to bring your products into compliance.
+Sincerely,
+/S/
+Alonza E. Cruse
+District Director
+-
+-
+Close Out Letter
+Beckman Coulter Inc - Close Out Letter 8/15/12
+-

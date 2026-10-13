@@ -1,0 +1,91 @@
+Siemens Healthcare Diagnostics 5/29/12
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+New York District
+158-15 Liberty Avenue
+Jamaica, NY 11433
+May 29, 2012
+WARNING LETTER NYK-2012-19
+VIA UNITED PARCEL SERVICE
+David Hickey, CEO- Chemistry, Immunoassay Automation & IT Business Unit
+Siemens Healthcare Diagnostics
+511 Benedict A venue
+Tarrytown, New York 10591
+Dear Mr. Hickey:
+During an inspection of your firm located in Tarrytown, New York, on October 24, 2011, through December 29, 2011, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures AD VIA Centaur iPTH immunoassay. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or any function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act (21 U.S.C. § 351(h)), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+Your firm's response to the Form FDA 483 (FDA 483) was received by New York District via email in an unsigned document after the close of business on the fifteenth business day after the FDA 483 was issued. The email did not provide attachments related to your response. However, the email indicated a signed response as well as attachments were available for the FDA by logging onto a Siemens File Exchange. The District did not and does not plan to logon to your firm's File Exchange to obtain responses or other information. In addition, the email indicated a hardcopy response was being sent to the District Office. The District received your hard copy response on January 23, 2012.
+These violations include, but are not limited to, the following:
+1. Failure to establish and maintain adequate procedures to ensure that the design requirements relating to a device are appropriate and address the intended use of the device, including the needs of the user and patient, as required by 21 CFR 820.30(c). For example, the Design Development Project named
+(b)(4)
+having the Project Number:
+(b)(4)
+dated 6 June 2010, has no documentation to demonstrate that formal design review was held at the R 1 Phase (acceptance and approval of the project inputs) for this project. In fact it was documented in the design history that the Rl Review scheduled in May 2010 was "N/ A (Waived)." The first documented formal design review for this project was at the R4 (development and verification) phase review which was held in June 2010.
+2. Failure to establish and maintain adequate procedures to ensure that formal documented reviews of design results are planned and conducted at appropriate stages of the device's design development, as required by 21 CFR 820.30(e). For example, the Global Procedures governing the Product Development Process (PDP), GP-O 12 Version: 1.0, dated as Effective 29 July 2008, as well as those procedures specific to PDP Design Review, GP-094 Version: 1.0 which were in effect at that time allowed for different design reviews to be combined and or eliminated during PDP, which does not ensure that formal documented reviews of the design results are planned and conducted at appropriate stages of the device's design development as required by regulation.
+3. Failure to establish and maintain adequate procedures for the identification, documentation, validation, review, and approval of design changes before their implementation, as required by 210 CFR 820.30(i). Specifically, your firm's procedure (Manufacturing Design Change Control at the East Walpole Facility procedure, document #80838, version 01, dated 8/26/08, and version 04, dated 8/26/08, section 5.3) required your firm to perform a regulatory assessment to determine if a new pre-market submission is required for a device change. Your firm performed these regulatory assessments prior to collecting sufficient information to determine if there was a change in the device's performance, even though a change in performance could require a new pre-market submission. Your firm failed to conduct regulatory assessments of design changes as required by its procedure prior to implementing the change. For example:
+A. Your firm provided the Premarket Notification 510(k) Review, form #80563, version 03, dated 12/7/2010, for project
+(b)(4)
+as evidence of the regulatory assessment required by the Manufacturing Design Change Control at the East Walpole Facility procedure for
+(b)(4)
+. This regulatory assessment was made in December 2010, five months before validation report,
+(b)(4)
+was completed in May 2011, and eight months before validation report,
+(b)(4)
+project, was completed in August 2011. The effect of the device changes on performance was not documented until these reports were completed, but your firm's assessment claims that there was no change in performance requiring a pre-market submission.
+B. Your firm provided the Premarket Notification 510(k) Review, form #80563, version 03, dated 9/17/09, for the non-PDP project
+(b)(4)
+. However, this regulatory assessment was made in September 2009, nine months before validation report
+(b)(4)
+, was completed in June 2010. The effect of the device changes on performance was not documented until these reports were completed, but your firm's assessment claimed that there was no change in performance requiring a pre-market submission.
+1 . Failure to establish and maintain adequate plans that describe or reference the design and development activities and define responsibility for implementation, as required by 21 CFR 820.30(b ). Specifically, review of two design projects indicates that your firm did not follow the procedure for regulatory assessment as indicated in the Global Regulatory Submission Planning, Tarrytown LTS (laboratory testing segment) procedure, document #93-31-3032, version 1.0, approval date February 3, 2003. This procedure states that a Global Regulatory PreRegistration Worksheet will be prepared by the Product Development Core Team and reviewed by Regulatory Affairs. However, your firm failed to prepare and review the Global Regulatory Pre-Registration Worksheet as required by its procedure. For example:
+A. Project plan number
+(b)(4)
+approved on October 8, 2010, indicates in section 6 that
+(b)(4).
+However, your firm did not complete a Global Regulatory Pre-Registration Worksheet as required in its procedure, document #93-31-3032.
+B. In section 11 of the
+(b)(4)
+Assay Product Development Plan, Revision 2.0, dated November 2006, your firm concluded that a new 510(k) was not needed for the introduction of the new
+(b)(4)
+instrument. However, your firm did not complete a Global Regulatory Pre-Registration Worksheet as required in its procedure, document #93-31-3032.
+2. Failure to establish and maintain adequate procedures for verifying the device design, as required by 21 CFR 820.30(f). Specifically, design outputs were not always evaluated to demonstrate that the outputs met design inputs. For example:
+A. The Design Inputs Requirements for the ADVIA Centaur systems iPTH (product enhancement), Revision 01, dated 12/16/2010 has design specifications (on pages 8-9 section 2.8) for the iPTH and iPTH2 assay versions on the Centaur/XP/CP for method comparisons between plasma and serum (patient correlation testing). However, the report for project VR-1093 for implementation of a
+(b)(4)
+version 00 dated 05/26/11 does not include the results from a comparison study between
+(b)(4)
+in order to demonstrate that design specifications have been met.
+B. The reports for design projects
+(b)(4)
+(2010) and
+(b)(4)
+(2011) show that the design input specification for the cross-reactivity of fragment
+(b)(4)
+was consistently not met as documented in the
+(b)(4)
+report dated September 2010 (iPTH2 PD Report R5.2 Review Revision B) and the VR-1093 report dated May 2011 (Document
+(b)(4)
+).
+3. Failure to adequately review and evaluate all complaints to determine whether an investigation is necessary, as required by 21 CFR 820.198(b). For example, during review of the databases which contain the customer contact information pertaining to allegations of product nonconformity and other customer issues relating to the ADVIA Centaur "Classic" IXP/&CP Platforms and/or iPTWiPTH2 Reagents it was noted that:
+A. Customer Notifications including, but not limited to: Notification #400 103805058, received on 01/07/2011; Notification #400103866787, received on 02114/2011; Notification #400103974712, received on 04/06/2011; Notification #400103807721, received on 0111112011; and Notification #400103807722, received on 01/1112011, did not have sufficient information documented in the Notification Text Field to show that an investigation had been performed or to explain why no investigation had been performed.
+B. Customer Notifications including, but not limited to: Notification #400 103678693, received on 10/05/2010; Notification #400103427801, received on 04/16/2010; Notification #400103622858, received on 08/27/2010; Notification #400 104216252, received on 08/04/2011; Notification #400104313689, received on 09/21/2011; and Notification #400 103344132, received on 02/22/2010, contain information in the Customer Notifications Text alleging product/systems non-conformities. These Notifications contain no documentation to demonstrate that these issues were further reviewed or investigated and did not explain why no investigation was required.
+Our inspection also revealed that the AD VIA Centaur iPTH immunoassay is adulterated under section 501(f)(1)(B) of the Act, 21 U.S.C. § 351(f)(1)(B), because your firm does not have an approved application for premarket approval (PMA) in effect pursuant to section 515(a) of the Act, 21 U.S.C. § 360e(a), or an approved application for an investigational device exemption under section 520(g) of the Act, 21 U.S.C. § 360j(g). The device is also misbranded under section 502(o) the Act, 21 U.S.C. § 352(o), because your firm did not notify the agency of its intent to introduce the device into commercial distribution, as required by section 510(k) of the Act, 21 U.S.C. § 360(k). For a device requiring premarket approval, the notification required by section 510(k) is deemed satisfied when a PMA is pending before the agency. [21 CFR 807.81 (b)] The kind of information that your firm needs to submit in order to obtain approval or clearance for the device is described on the Internet at
+http://www.fda.gov/cdrh/devadvice/3122.html
+. The FDA will evaluate the information that your firm submits and decide whether the product may be legally marketed.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm's planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm's response should be comprehensive and address all violations included in this Warning Letter, or if applicable, you may wish to refer to information provided in your first and/or second periodic update responses.
+Your firm's response should be sent to: Dean R. Rugnetta, Compliance Officer, U.S. Food and Drug Administration, 300 Pearl Street, Suite 100, Buffalo, New York 14202. Refer to Warning Letter NYK-2012-19 when replying. If you have any questions about this letter, please contact Compliance Officer Dean Rugnetta at (716) 541-0324 or E-mail at
+dean.rugnetta@fda.hhs.gov
+.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm 's facility. It is your firm's responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm 's manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely,
+/S/
+Ronald M. Pace
+District Director
+New York District
+-
+-
+Close Out Letter
+Siemens Healthcare Diagnostics - Close Out Letter 7/17/13
+-

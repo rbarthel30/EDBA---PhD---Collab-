@@ -1,0 +1,57 @@
+Zimmer Manufacturing B.V. 9/19/12
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+San Juan District
+Compliance Branch
+466 Fernandez Juncos Avenue
+San Juan, PR 00901-3223
+TEL (787) 474-9500
+FAX (787) 729-6658
+SEP 19 2012
+WARNING LETTER
+12-SJN-WL-10
+CERTIFIED MAIL
+RETURN RECEIPT REQUESTED
+Mr. David Dvorak
+President and CEO
+Zimmer Inc.
+P.O.Box 708
+Warsaw, IN 46581
+Dear Mr. Dvorak:
+During an inspection of your manufacturing facility of implantable orthopedic devices located at Turpeaux Industrial Park, Rd 1 Km 123.4, Mercedita, Ponce, Puerto Rico conducted on 06/05-22/12, our investigator found that your Trilogy / Acetabular Cup products and the Trilogy Spike Cup products, which are artificial implantable hip replacements, class II devices, are adulterated within the meaning of section 501(h) of the Act (21 U.S.C. § 351(h)), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) regulation found at Title 21, Code of Federal Regulations (C.F.R.), Part 820.
+Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+We received a written response signed by Mr. Eduardo Jacobo, General Manager, dated 07/13/12, concerning the observations noted on Form FDA 483, List of Inspectional Observations that was issued to your firm on 06/22/2012. Your response is addressed below in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1. Failure to validate with a high degree of assurance and approve according to established procedures a process that cannot be fully verified by subsequent inspection and test as required by 21 C.F.R. § 820.75(a).
+Specifically, the current manufacturing processes for your Trilogy Acetabular Cup product families lack a mechanism to demonstrate that these devices are meeting a pre-determined specification for pore size and porosity. Your firm determined that the volume on the porous membrane (porosity) and pore size of the metal membrane that cover these devices are critical parameters to achieve the biological fixation to the bone without the use of bone cement. As of today, you have not implemented a test to measure these parameters. Our inspection disclosed that on 03/24/09, your firm developed a specification for the specifications for
+(b)(4)
+the specifications for pore size and porosity for these devices. At the time of our inspection of 06/22/12, you have not implemented any release testing that could demonstrate that these devices are meeting pre-determined criteria for pore size and porosity.
+In addition, one of the finished devices included within the Trilogy Acetabular Cup product's family incorporate
+(b)(4)
+in its design. On 08/30/11, you realized that the
+(b)(4)
+executed after the
+(b)(4)
+contained on these devices are
+(b)(4)
+has not been validated to determine the effect of temperature and exposure time in the bond integrity of these devices. We find objectionable that at the time of our inspection of 06/22/12, which took place 10 months after this finding, you were still releasing to the market this specific model without completing the validation exercise.
+Your written response indicates that on 06/12/12, you placed on hold the distribution of your Trilogy Acetabular Cup and Trilogy Acetabular Spike products until these have been verified or the associated processes have been validated. You also indicated that you started an assessment to identify other manufacturing processes that might have been affected by lack of appropriate challenge and/or verification of specifications of products manufactured at your site. Please provide updated information regarding the outcome of your assessment. Please indicate when you incorporated the design change for the Acetabular Spike product models and which 510k submission covers these products.
+In 2011 your firm opened two CAPAs to address the above mentioned deficiencies. Our review of these CAPAs found that these were not in accordance to 21 CFR 820.100. For CAPA
+(b)(4)
+dated 09/23/11, related to the porosity and pore size issue, we have concluded that it was unjustifiably delayed and was terminated prematurely without implementing the appropriate corrective actions to prevent recurrence. Your firm indicated that the revision surgery rates described on scientific journals are indicative of your product's effectiveness for sustained lifetime. This analysis was conducted in comparison to other hip replacement systems available from commercial competitors. Please make reference to the product's specifications, developmental and historical data such as product's complaints and other quality indicators to sustain that your Trilogy Acetabular Cup family products are consistently meeting predetermined specifications. In addition, please include information regarding the significance of the product specifications and design output not monitored as part of the intended use of these devices and also include an analysis of the impact on distributed products.
+Regarding CAPA
+(b)(4)
+dated 09/23/11, which was still open at the time of our inspection of 06/22/12, we find objectionable that although you originally ceased distribution of the affected devices, you later decided to continue with the distribution of our Trilogy Acetabular Spike products without completing the validation process of the
+(b)(4)
+.
+Please indicate how you will ensure that your Corrective and Preventive Actions (CAPA) system is adequately maintained to assure the timely implementation of corrective actions.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the Food and Drug Administration without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies are advised of the issuance of all Warning Letters regarding devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related will not be approved until the violations have been corrected, and requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+This letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the FDA 483 issued at the closeout of the inspection may be indicative of serious problems in your firm's manufacturing and quality assurance systems. You should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring your products into compliance.
+Please notify this office in writing within fifteen (15) working days from the date you receive this letter of the specific steps you have taken to correct the noted violations, including an explanation of how you plan to prevent the recurrence of these or similar violations. Please include documentation of the corrective actions you have taken. If your planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective actions cannot be completed within 15 working days, state the reason for the delay and the time within which each correction will be completed.
+Your response should be sent to Ms. Maridalia Torres, San Juan District Director, to the address provided in the letterhead. If you have any questions about the content of this letter, please contact Ms. Margarita Santiago, Compliance Officer, at 787-474-4789.
+Sincerely,
+/S/
+Maridalia Torres
+District Director
+San Juan District
+-

@@ -1,0 +1,71 @@
+Hospira, Inc. 3/7/14
+Share
+Tweet
+Linkedin
+Pin it
+More sharing options
+Linkedin
+Pin it
+Email
+Print
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Atlanta District Office
+60 Eighth Street N.E.
+Atlanta, GA 30309
+Telephone: 404-253-1161
+FAX: 404-253-1202
+March 07, 2014
+VIA UPS
+F. Michael Ball, CEO
+Hospira, Inc.
+275 North Field Dr.
+Lake Forest, IL 60045
+WARNING LETTER
+(14-ATL-05)
+Dear Mr. Ball:
+During an inspection of Hospira conducted at Hwy 301 N. + 4285 North Wesleyan Blvd., Rocky Mount, NC on September 30 – November 15, 2013, investigators from the U.S. Food and Drug Administration (FDA) determined that your firm manufactures various medical devices such as the Sterile Empty PCA vial and Injector. These products are devices within the meaning of Section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act) [21 United States Code (U.S.C.) § 321(h)] in that they are intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+This inspection revealed that these devices are adulterated within the meaning of Section 501(h) of the Act [21 U.S.C. § 351(h)] in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) regulations found at Title 21 of the Code of Federal Regulations Part 820 (21CFR Part 820).
+A FORM FDA 483, Inspectional Observations, was issued to Marty R. Nealey, Vice President of Operations at the close of the inspection (copy enclosed). We have received your firm’s response letter dated December 10, 2013, concerning our investigators’ observations identified on the FDA 483. We address these responses below, in relation to each of the noted violations. The violations documented on the FDA 483 issued include, but are not limited to, the following:
+1. Complaints involving the possible failure to meet any of its specifications were not reviewed and evaluated where necessary in accordance with 21 CFR 820.198(c). Specifically, PCA injector and vial, LOT
+(b)(4)
+is identified as a non-conforming lot on 10/30/12 after a unit failed post-ETO leak testing prior to distribution.
+Although the unit failed the air leak testing, the test conclusion qualified the confirmed air leaks as unrepresentative and the lot was subsequently deemed acceptable for release. At least one malfunction has occurred in the field (MDR 1021343-2012-00181) for this lot.
+In your firm’s response letter dated December 10, 2013, pg. 27, your firm acknowledges that the lot was evaluated using scientific methods including a water leak test of the specific sample that failed the enhanced sampling plan. Your response also indicates that the water leak test simulated the actual worse case of the product, with detailed justification provided in memo with subject: “Justification of liquid pressure test of PCA injectors” dated October 18, 2012. The rationale for the decision to release was based on the following: the data from the water test; the mitigation provided as part of the Field Action Letter issued August 2, 2012; the commitment to prevent risks to the field by maintaining supply continuity during critical product shortage.
+In order for us to evaluate the adequacy of your response, we request that you submit to us a copy of the memo with subject: “Justification of liquid pressure test of PCA injectors” dated October 18, 2012 and the data from the water test.
+2. There is no documentation of monitoring and control methods and data for a validated process in accordance with 21 CFR 820.75(b)(2). Specifically, your firm does not have controls in place to monitor the product bioburden of the devices that are included in the EO sterilization process.
+In your firm’s response letter dated December 10, 2013, pg. 40 – 42, you acknowledge that your firm does not have bioburden history for your Sterile Empty PCA vial and injector devices. In addition your response indicates that an investigation, conducted in response to this observation, determined that there was no product impact based on the following: The EO sterilized medical device manufactured by Hospira Rocky Mount is the Sterile Empty PCA vial and Injector, List number 6021; the glass vial and stopper are pre-sterilized and then aseptically assembled in the existing aseptic filling suite; and the assembled vial/stopper combination is then tested for sterility. Additionally, your response also indicates that “the assembly bioburden would not be expected to be high due to the controlled manufacturing process”.
+In order to evaluate your response, we request that you provide additional information concerning the adequacy of the aseptic area where these products are assembled.
+3. Records of complaint investigations do not include required information in accordance with 21 CFR 820.198(e). Specifically, Sterile Empty Vial lot
+(b)(4)
+was manufactured from the same parent lot found to contain embedded particulates, which resulted in a product recall. Prior to the current inspection, the firm has not reviewed Lot
+(b)(4)
+to determine if there is any quality impact to the distributed Sterile Empty Vials (medical devices).
+In your response letter, your firm indicates that no quality impact was determined during your investigation regarding this observation. However, your response fails to address the use of a component (which resulted in a recall in your drug product) in your Sterile Empty Vial lot
+(b)(4)
+.
+4. Procedures for receiving, reviewing, and evaluating complaints by a formally designated unit have not been adequately established in accordance with 21 CFR 820.198(a). Specifically, Complaint PR 1613935 awareness date 2/21/13, PCA Empty Sterile Lot
+(b)(4)
+, is currently open and there are no extension requests or status reports for the complaint.
+Your response fails to adequately provide justifications form complaint PR 1613935 remaining open. Please provide an update on the status of this complaint.
+5. Procedures for corrective and preventive action have not been adequately established in accordance with 21 CFR 820.100(a). Specifically,
+1.
+Your firm has several CAPAs with extended due dates and there is no indication that controls are in place to prevent recurrences of the non-conformances while the CAPAs remain open.
+2.
+Procedures for CAPA extensions, Exception Report (ER) and CAPA Management Procedure dated 8/23/2013, QCP.05.001 are not followed.
+In addition, several corrective and preventive action activities and/or results have not been adequately documented. During our inspection, several CAPAs were observed to be closed without any effectiveness checks.
+We have reviewed your responses in regard to the above observation, and acknowledge that they appear to be adequate but will require verification during our next inspection. We request that your firm continue to provide us updates regarding the status of your commitments for this observation.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts.
+Please notify our office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+Your firm’s response should be sent to: Derek Price, Compliance Officer, Atlanta District Office, 60 Eighth Street NE, Atlanta, Georgia, 30309.
+If you have any questions about the contents of this letter, please contact: Compliance Officer Price by phone at (404) 253-2277 or by fax at (404) 253-1201.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely,
+/S/
+Laurie Farmer
+Acting District Director
+Atlanta District Office
+Cc: Marty R. Nealey, Vice President of Operations
+Hwy. 301 N. + 4285 North Wesleyan Blvd
+Rocky Mount, NC 27804

@@ -1,0 +1,98 @@
+WARNING LETTER
+Medtronic Puerto Rico Operations Co.
+MARCS-CMS 562437 — Aug 23, 2018
+Share
+Tweet
+Linkedin
+Email
+Print
+Medtronic Puerto Rico Operations Co. - 562437 - 08/23/2018
+Recipient:
+Recipient Name
+Omar Ishrak
+Medtronic Puerto Rico Operations Co.
+710 Medtronic Parkway NE
+Minneapolis
+,
+MN
+55432
+United States
+Issuing Office:
+Florida District Office
+United States
+Office of Medical Device and Radiological Health Operations (OMDRHO)
+Division 2 Central
+555 Winderley Pl # 200
+Maitland, FL 32751
+Telephone: (407) 475-4700
+WARNING LETTER
+CMS #
+562437
+UNITED PARCEL SERVICE
+w/ DELIVERY CONFIRMATION
+August 23, 2018
+Omar Ishrak
+Chairman & CEO
+Medtronic Inc.
+710 Medtronic Parkway NE
+Minneapolis, MN 55432
+Dear Mr.
+Ishrak:
+During an inspection of Medtronic Puerto Rico Operations Company (MPROC), located at Ceiba Norte Industrial Park, 50 Road 31, Km 24.4, Juncos, Puerto Rico, on April 23 through May 15, 2018, investigators from the United States Food and Drug Administration (FDA) determined that Medtronic MPROC Juncos manufactures implantable pacemakers, implantable cardioverter defibrillators, cardiac resynchronization devices, and other related products. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820. You may find the Act and FDA’s regulations through links in FDA’s home page at
+www.fda.gov
+.
+We received your firm’s responses dated June 6 and July 13, 2018, concerning our investigators’ observations noted on the Form FDA 483 (FDA 483), Inspectional Observations, issued to your firm on May 15, 2018. We address these responses below in relation to violations observed during the inspection, which include:
+1.
+Failure to validate a process whose results cannot be fully verified by subsequent inspection and test according to established procedures, which is required by 21 CFR 820.75(a). Specifically,
+(b)(4)
+processes
+(b)(4)
+were not validated on Blackwell implantable cardiac defibrillators (ICDs). These
+(b)(4)
+processes
+(b)(4)
+in ICDs that failed due to high voltage arcing. This led to your firm’s recall Z-0582/9-2018.
+We reviewed your firm’s responses to the FDA 483 and acknowledge your commitment to: (a)
+(b)(4)
+process steps
+(b)(4)
+, (b) update supplemental material for process validation to clarify that each
+(b)(4)
+must be assessed and challenged during process validation, (c) update the change control process to incorporate instructions on how to assess risk or unintended consequence of
+(b)(4)
+, (d) assess
+(b)(4)
+processes for ICDs to determine if they were properly validated and have adequate process controls, and (e) perform an assessment of process validations for Blackwell ICDs non-fully verifiable processes to evaluate if applicable product specifications were challenged per process validation and design transfer requirements. Your responses appear to be adequate; however, some of your firm’s actions are still in progress, and a follow-up inspection by FDA will be necessary to verify compliance.
+2.
+Failure to document
+(b)(4)
+activities in the device history record (DHR) as required by 21 CFR 820.90(b)(2). Specifically,
+(b)(4)
+on implantable cardiac defibrillators (ICDs) was not documented in device history records.
+We reviewed your firm’s responses to the FDA 483 and acknowledge your commitment to: (a)
+(b)(4)
+process, (b) update product identification and traceability procedures to clarity that
+(b)(4)
+must be documented, (c) update your training of new hires and manufacturing personnel, (d) assess manufacturing areas to identify whether similar conduct is occurring elsewhere, and (e) establish more robust equipment and/or procedure controls on ICD equipment used in manufacturing to help prevent the occurrence of undocumented
+(b)(4)
+. Your responses appear to be adequate; however, some of your firm’s actions are still in progress, and a follow-up inspection by FDA will be necessary to verify compliance.
+Your firm should take prompt action to correct the violations cited in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen (15) business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (which must address systemic problems) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen (15) business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+Additionally, our investigators cited observations on the FDA 483 in the areas of corrective and preventive action (21 CFR 820.100), acceptance activities (21 CFR 820.80), statistical techniques (21 CFR 820.250), and inspection, measuring, and test equipment (21 CFR 820.72). Your firm’s responses appear to adequately address these observations. Implementation and effectiveness of your corrective actions will be evaluated during a follow-up inspection.
+If you have questions regarding this letter, please contact Timothy G. Philips, Compliance Officer, by telephone at 612-758-7133, or by e-mail at
+Timothy.Philips@fda.hhs.gov
+. Please send your reply to this Warning Letter to Blake Bevill, Program Division Director, using the electronic mailbox
+ORADevices2FirmResponse@fda.hhs.gov
+. Any attachments should be labeled and/or identified for ease of review. Documentation should be submitted as a single pdf file, with bookmarks to easily identify table of contents, memos, attachments, etc.
+If a single pdf file exceeds the 100MB size limit, please submit multiple pdf files, as appropriate. Refer to CMS Case #560736 when replying.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely,
+/S/
+Blake Bevill, MS
+Program Division Director
+Office of Medical Device and Radiological Health
+Division 2 – Central
+Content current as of:
+09/11/2018
+More Warning Letters

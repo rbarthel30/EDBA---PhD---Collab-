@@ -1,0 +1,128 @@
+Cordis LLC 2/16/11
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+San Juan District
+Compliance Branch
+466 Fernandez Juncos Avenue
+San Juan, PR 00901-3223
+TEL (787) 474-9500
+FAX (787) 729-6658
+WARNING LETTER
+11-SJN-WL-06
+February 16, 2011
+CERTIFIED MAIL
+RETURN RECEIPT REQUESTED
+Mr. Seth Fisher, Cordis Company Group Chairman
+Cordis LLC
+7 Power Horn Drive
+Warren, NJ 07059
+Dear
+Mr. Fisher:
+During an inspection of your firm located at route 362, Km 0.5, San German, Pu
+erto Rico
+conducted from
+9/22/10 through 10/13/10, an investigator from the United States Food and Drug Administration (FDA) determined that your firm manufactures
+Class III interventional cardiovascular devices.
+Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+The inspection found that these devices are adulterated within the meaning of section 501(h) of the Act (21 U.S.C. § 351(h)), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) regulation found at Title 21, Code of Federal Regulations (C.F.R.), Part 820.
+We received a written response signed by Mr. Roberto Gonzalez, Director of Quality Assurance, dated 10/28/2010 and 12/17/2010, concerning the observations noted on Form FDA 483, List of Inspectional Observations that was issued to your firm on 10/13/2010. We address these responses below, in relation to the noted violations. These violations include, but are not limited to, the following:
+1. Your Corrective and Preventive Action (CAPA) plan failed to correct and prevent nonconforming products as required by 21 C.F.R. § 820.100.
+Specifically:
+On 11/20/2008, your firm opened Corrective Action – Preventive Action (CAPA) plan number 2192. The CAPA 2192 was opened to address a Design Verification (DV) Protocol
+(b)(4)
+failure for the
+1
+(b)(4)
+test on several stent catalog numbers. The DV protocol
+(b)(4)
+was part of a Pre Market Approval Supplement (PMAS)
+(b)(4)
+dated 12/5/2008, for the
+(b)(4)
+product submitted to the FDA Center for Devices and Radiological Health (CDRH). The DV protocol was executed on devices expired at the time of the test. In order to verify if the
+(b)(4)
+test failure could impact marketed products, additional DV
+(b)(4)
+testing was conducted on your Cypher Bx commercial product. During these additional testing you confirmed that marketed devices also failed the SEU test.
+On 7/10/2009, approximately eight months after the opening of CAPA
+(b)(4)
+during the release compliance test (
+(b)(4)
+) for the stent expansion conformance for your Cypher US RX, lot
+(b)(4)
+-Catalog CXS28350 an operator reported that a stent tested did not completely
+(b)(4)
+(b)(4)
+, the compliance test conformed to specifications. Your firm opened Quality Non-Conformance (QNC)
+(b)(4)
+and
+(b)(4)
+test was conducted obtaining failure results on 11 of 15 units tested. The QNC
+(b)(4)
+was related to CAPA
+(b)(4)
+to address the
+(b)(4)
+test failure. Further, on 8/6/2009 a similar incident was reported for lot
+(b)(4)
+-Catalog CXS28350 also presenting the same condition in that the stent did not completely expand. The
+(b)(4)
+test was conducted obtaining failure results on 15 of 15 units tested. Your firm identified all impacted lots and placed a hold on units within your firm’s control that were eventually destroyed. You determined that no field action was warranted for distributed lot
+(b)(4)
+associated to lot
+(b)(4)
+based on your product risk assessment, lack of complaints for an
+(b)(4)
+condition, and the instructions for used (IFU) of your device products that instruct to introduce a
+(b)(4)
+in the case the stent diameter is not adequate
+(b)(4).
+However, on your response dated 10/18/2010, you stated that the
+(b)(4)
+design specification is to verify that the stent expands in a uniform manner therefore minimizing the possibility of inappropriate
+(b)(4)
+. Therefore, compliance with the
+(b)(4)
+design specification test is a critical parameter that must be met to ensure patient’s safety. Your CAPA
+(b)(4)
+failed to correct and prevent stents nonconforming with the SEU test specification at least until the opening of QNC
+(b)(4).
+2. Your process control procedures failed to ensure that a device conforms to its specifications as required by 21 C.F.R. § 820.70.
+Specifically:
+Your release compliance test does not ensure that your devices conform to the
+(b)(4)
+design out-put specification since the units tested on 7/10/2009 and 8/6/2009, conformed to the release compliance test while failed the
+(b)(4)
+test as mentioned on item one of this Warning Letter. Therefore, there is no assurance that your distributed devices complied with the
+(b)(4)
+design specification.
+FDA expectation is that devices comply with their predetermined specifications and design out-put at the time of release/use and not relying on the end users to address nonconforming products. In addition, a critical device such as implantable stents must comply with their predetermined specification at the time of use to avoid complications with the surgical procedures and reduce patient risk.
+We find objectionable that products complying with the release compliance test but failed the
+(b)(4)
+design specification test and your CAPA
+(b)(4)
+failed to address this nonconformance and allowed products to be released based on the compliance test results only. In your response to this letter, please explain how you can demonstrate that the quality of your distributed products was not affected and provide a comprehensive sequent of events and status of your CAPA
+(b)(4)
+.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the Food and Drug Administration without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies are advised of the issuance of all Warning Letters about devices so that they may take this information into account when considering the award of contracts.
+Additionally, premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+This letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the FDA 483 issued at the closeout of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality assurance systems. You should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring your products into compliance.
+Please notify this office in writing within fifteen (15) working days from the date you receive this letter of the specific steps you have taken to correct the noted violations, including an explanation of how you plan to prevent these violations, or similar violations, from occurring again.
+Include documentation of the corrective action you have taken. If your planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective action cannot be completed within 15 working days, state the reason for the delay and the time within which the corrections will be completed.
+Your response should be sent to:
+Maridalia Torres, District Director.
+If you have any questions about the content of this letter please contact: Carlos A. Medina, Compliance Officer, at 787-474-9538.
+Sincerely,
+/S/
+Edwin Ramos
+Compliance Branch Director
+San Juan District
+1
+(b)(4)
+-
+-
+Close out Letter
+Cordis LLC Close out Letter 12/15/11
+[ARCHIVED]
+-

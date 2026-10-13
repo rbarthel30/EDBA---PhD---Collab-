@@ -1,0 +1,1217 @@
+I-Flow Corporation
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Los Angeles District
+19701 Fairchild
+Irvine, California 92612-2506
+Telephone (949) 608-2900
+Fax (949) 608-4401
+WARNING LETTER
+WL 08-09
+VIA FEDERAL EXPRESS
+December 22, 2008
+Mr. Donald M. Earhart
+President and Chief Executive Officer
+I-Flow Corporation
+20202 Windrow Drive
+Lake Forest, California 92630
+Dear Mr. Earhart:
+During an inspection of your firm located in Lake Forest, California on March 11, 2008 through May 12, 2008, an investigator from the United States Food and Drug Administration (FDA) determined that your firm manufactures I–Flow Corporation elastromeric infusion pumps. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. 321(h), this product is a device because it is intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body. This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act (21 U.S.C. § 351(h)), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) regulation found at Title 21,
+Code of Federal Regulations
+(C.F.R.), Part 820.
+We received three responses from Mr. James J. Del Porto, Executive Vice President and Chief Operating Officer, dated May 23, 2008, June 23, 2008, and August 22, 2008, concerning our investigator’s observations noted on the Form FDA 483, List of Inspectional Observations that was issued to you. We address your firm’s responses below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1) Failure to establish and maintain procedures for verifying the device design, as required by 21 C.F.R. 820.30(f).
+Your firm had procedures in place but failed to follow them in the following instances:
+A) Your firm did not test the devices for the labeled design specifications during design outputs, which is essential to verifying that the device is functioning.
+Below are examples of the devices:
+Device Post sterile specification mL/hr (Devices not tested)
+Eclipse, 100 mL,
+[(b)(4)]
+mL/hr
+[(b)(4)]
+(+/
+[(b)(4)]
+%)
+Easypump, 500 mL,
+[(b)(4)]
+mL/hr
+[(b)(4)]
+(+/-
+[(b)(4)]
+%)
+Easypump, 100 mL,
+[(b)(4)]
+mL/hr
+[(b)(4)]
+(+/-
+[(b)(4)]
+%)
+C-Series, 100 mL,
+[(b)(4)]
+mL/hr
+[(b)(4)]
+(+/
+[(b)(4)]
+%)
+ON-Q C BloclSelect-A-Flow
+[(b)(4)]
+(+
+[(b)(4)]
+%) at
+[(b)(4)]
+mL/hr
+B) Design input, DCD 1020, Rev. C and F, titled: “Design Specification for Large Volume PCA” are not met as confirmed in the design outputs for the following design verifications:
+i) The Qualification Report for LVPCA
+[(b)(4)]
+, Bolus volume test failed with a Soaker catheter. The protocol specified to perform the test using a Braun catheter. After the test failed using a Soaker catheter, subsequent testing was performed using a
+[(b)(4)]
+catheter. The Qualification Report for LVPCA
+[(b)(4)]
+, included accelerated aging tests for the LVPCA product using an ABS housing. However, the Qualification Protocol for LVPCA,
+[(b)(4)]
+, did not include ABS housing. Therefore, Design verification or output did not meet Design input, as required by 21 C.F.R. 820.30(f).
+ii) The Latch release test was only performed five times. However, DCD 1020, Rev. F, design input specified that the Latch release test should be performed
+[(b)(4)]
+times in these design verifications:
+[(b)(4)]
+, Rev. A and
+[(b)(4)]
+2, Rev. A.
+iii) Design Input,
+[(b)(4)]
+, specified to use an
+[(b)(4)]
+catheter with 140 mL/hr restrictor, where as the design verification/output,
+[(b)(4)]
+, used a one inch (1") Soaker catheter with a restriction rate of
+[(b)(4)]
+mL/hr.
+iv) In the Validation Report for Redesign of LVPCA Bolus Button Configuration,
+[(b)(4)]
+ON-Q 100
+[(b)(4)]
+, resulted in a lower safety volume test.
+v) In the Validation Report for Redesign of LVPCA Bolus Button Configuration,
+[(b)(4)]
+ONQ-C Bloc
+[(b)(4)]
+,
+[(b)(4)]
+out of
+[(b)(4)]
+samples failed because of weld separation,
+[(b)(4)]
+out of
+[(b)(4)]
+samples failed the flow rate test,
+[(b)(4)]
+out of
+[(b)(4)]
+samples separated from the weld seam,
+[(b)(4)]
+sample failed the bolus volume test, and
+[(b)(4)]
+sample failed because of a jammed bolus. In
+[(b)(4)]
+out of
+[(b)(4)]
+samples, the Basal flow rate and pre-sterile specification were not met. Additionally, in
+[(b)(4)]
+out of
+[(b)(4)]
+0 samples, the pre-sterile flow rate test failed, and no residual volume was recorded.
+vi) In the Validation Report for Redesign of LVPCA Bolus Button Configuration,
+[(b)(4)]
+ON-Q PainBuster
+[(b)(4)]
+out of
+[(b)(4)]
+devices failed the Basal flow rate test because the samples separated at the weld seam.
+[(b)(4)]
+out of
+[(b)(4)]
+samples also exceeded the spring force test because no residual volume was recorded. Additionally, in
+[(b)(4)]
+of
+[(b)(4)]
+samples, the Latch and release test failed.
+vii) In the Validation Report for Redesign of LVPCA Bolus Button Configuration,
+[(b)(4)]
+ON-Q was accepted even though it failed the welding test.
+viii) In
+[(b)(4)]
+, Qualification Report for Modified Ultrasonic Welding Nest for Large Volume PCA, Rev. A,
+[(b)(4)]
+out of
+[(b)(4)]
+samples failed the Latch and release test due to a welding problem.
+C) Additionally, unresolved performance discrepancies were noted at the completion of the design verification for the following:
+i) Two units failed the pre-sterilization flow rate test because of low flow results and another unit failed because it had a jammed bolus mechanism during testing in
+[(b)(4)]
+;
+ii) A significant flow rate shift was found to occur between the pre-sterilization flow values and the post sterilization flow values. It was determined that this was due to the sterilization process,
+[(b)(4)]
+;
+iii) Design Verification
+[(b)(4)]
+documented that
+[(b)(4)]
+out of
+[(b)(4)]
+samples had a failed weld seam; and
+iv)
+[(b)(4)]
+units failed the spring force test due to the depression force exceeding
+[(b)(4)]
+pounds as indicated in
+[(b)(4)]
+.
+We have reviewed your responses and have concluded that your firm’s responses are inadequate because you have not fully implemented procedures for verifying the device design. You also have failed to address all unresolved discrepancies noted at the completion of your design verifications. In order to provide an adequate response, you need to submit evidence to show that your procedures for verifying device design have been implemented, and evidence of their effectiveness.
+2) Failure to establish and maintain procedures for the identification, documentation, validation or where appropriate verification, review, and approval of design changes before their implementation, as required by 21 C.F.R. 820.30(i).
+For example:
+A) Correction and Preventative Action (CAPA)
+[(b)(4)]
+, Corrective Action Report, was opened for the incomplete weld housing. The CAPA Report identified the root causes as weld failure between two halves of the housing of the Large Volume PCA bolus, button sticking, and a plunger failing to slide smoothly into a button. The large volume PCA (LVPCA or bolus), which is part of the infusion pump, is pressed by the patient to receive extra medication. Your firm received complaints regarding the large volume PCA button getting stuck and a bolus was malfunctioning. The action items were verified and implemented into the production process in the following design verification studies:
+i) One of the action items included the addition of chamfers in the button. This change was reflected in Design verification,
+[(b)(4)]
+, Qualification Report for the Large Volume PCA assembly Using
+[(b)(4)]
+.
+[(b)(4)]
+samples were tested and reported to have all passed. However, samples were tested by only pressing the button (bolus)
+[(b)(4)]
+times. Whereas, design specification,
+[(b)(4)]
+, “Design Specification for Large Volume PCA,”
+[(b)(4)]
+, required the bolus to be depressed and released
+[(b)(4)]
+times.
+ii) The action plan included a modification of the welding process by modifying the Branson ultrasonic weld nest by removing
+[(b)(4)]
+inches of material to leave a clearance on the welding nest in the clip area of the bolus or PCA device. Design verification,
+[(b)(4)]
+, performed on July 25, 2007, to verify these changes, resulted in
+[(b)(4)]
+of
+[(b)(4)]
+failed samples.
+iii) According to
+[(b)(4)]
+, the
+[(b)(4)]
+Ultrasonic Nest was modified in the firm’s Mexico facility. No further detail was provided as to the nature and scope of the modification and whether or not verification was performed for this change. However, also according to CAPA
+[(b)(4)]
+corrective action report, effective verification of the changes were deemed effective based on a review of three finished product Device History Records. Review based on Device History Records is inadequate based on your firm’s established procedures.
+B) CAPA,
+[(b)(4)]
+, Addendum for the stuck bolus button PCA device, included a redesign of the bolus with a longer spring and a relief shut-off valve. The CAPA was completed effectively, closed on February 8, 2008, with verification sign off. The design verification of the changes were documented in validation protocol/reports
+[(b)(4)]
+, Validation Report For Redesign of LVPCA Bolus Button Configuration, for different models of infusion pumps. These studies revealed:
+i)
+[(b)(4)]
+7 out of
+[(b)(4)]
+devices of
+[(b)(4)]
+ON-Q 400 mL, model
+[(b)(4)]
+, were tested and found to have a lower safety volume.
+ii)
+[(b)(4)]:
+(a)
+[(b)(4)]
+out of
+[(b)(4)]
+devices experienced a jammed bolus after its fourth delivery of medication.
+(b)
+[(b)(4)]
+out of
+[(b)(4)]
+samples resulted in lower flow rate values.
+(c)
+[(b)(4)]
+out of
+[(b)(4)]
+samples separated from the weld seam.
+(d)
+[(b)(4)]
+out of
+[(b)(4)]
+samples of bolus volume resulted in a reading “out of specification” for a low volume ranging from
+[(b)(4)]
+mL/hr. The specification range was
+[(b)(4)]
+mL/hr.
+(e) In a safety test at half time,
+[(b)(4)]
+out of
+[(b)(4)]
+samples were removed due to a weld defect.
+(f)
+[(b)(4)]
+out of
+[(b)(4)]
+samples failed the latch and release test because it exceeded the required specification of
+[(b)(4)]
+lbs.
+iii)
+[(b)(4)]
+:
+[(b)(4)]
+out of
+[(b)(4)]
+devices failed the flow rate test.
+iv)
+[(b)(4)]
+:
+(a)
+[(b)(4)]
+out of
+[(b)(4)]
+devices resulted in weld seam separation during the time delivery/refill test.
+(b)
+[(b)(4)]
+out of
+[(b)(4)]
+devices separated from the weld during the post sterile button activation test.
+(c)
+[(b)(4)]
+out of
+[(b)(4)]
+samples failed the latch and release test after
+[(b)(4)]
+cycles.
+Both CAPA
+[(b)(4)]
+and CAPA
+[(b)(4)]
+were concluded as effective. However, there was not adequate information to demonstrate that these CAPAs were verified as required by the firm’s established procedures.
+The adequacy of your responses cannot be determined at this time because you have not provided evidence that the corrective actions taken in response to the FDA observed deficiencies have been verified, validated, shown to be effective, and that they do not adversely affect the device. In your responses, you provided documents such as “Corrective & Preventive Action Record No
+[(b)(4)]
+.” However, these documents are drafts or are incomplete, and show that you have not fully implemented procedures for verifying device design. In order to provide an adequate response, you need to submit evidence to show that your corrective actions have been verified, validated, shown to be effective, and that they do not adversely affect the device.
+3) Failure to ensure that when results of a process cannot be fully verified by subsequent inspection and test, the process shall be validated with a high degree of assurance and approved according to established procedure, as required by 21 C.F.R. 820.75(a).
+Specifically,
+[(b)(4)]
+. The Pre-sterilization and post-sterilization flow rate specifications are different. The results of your validation studies do not substantiate the pre-sterile flow rate specifications, nor do they correlate the pre-sterile flow rate specifications with the post-sterile flow rate specifications.
+For example:
+A) The validation report
+[(b)(4)]
+for the pump Eclipse, Model
+[(b)(4)]
+, indicates the pre-sterile flow rate resulted in a mean value of
+[(b)(4)]
+mL/hr and a post-sterilization mean value of
+[(b)(4)]
+mL/hr. Both pre and post sterilization results do not show much difference in flow rate, and the data does not support the established pre and post sterilization flow rate specifications of
+[(b)(4)]
+mL/hr (+/-
+[(b)(4)]
+%;
+[(b)(4)]
+mL/hr) and the target poststerile specification of
+[(b)(4)]
+mL/hr (+/-
+[(b)(4)]
+%;
+[(b)(4)]
+.
+B) The validation report,
+[(b)(4)]
+, for the
+[(b)(4)]
+pump,
+[(b)(4)]
+mL,
+[(b)(4)]
+mL/hr x
+[(b)(4)]
+mL/hr, indicated that the acceptance criteria for both pre and post sterile flow rate of the dual orifice tubing met the specification criteria of
+[(b)(4)]
+mL/hr (+/-
+[(b)(4)]
+%). The study did not include supportive results for the established different pre-sterilization range of
+[(b)(4)]
+mL/hr (+
+[(b)(4)]
+%) and post sterilization range of
+[(b)(4)]
+mL/hr (+/-
+[(b)(4)]
+%). The protocol,
+[(b)(4)]
+, specified the acceptance criteria for both pre and post sterile specifications as[(b)(4)] mL (+/-
+[(b)(4)]
+%) and the difference of flow rate between two orifices as +/-
+[(b)(4)]
+%.
+[(b)(4)]
+and
+[(b)(4)]
+did not include the lot number used, number of lots used, and complete test data. Both
+[(b)(4)]
+and
+[(b)(4)]
+did not identify the specifications and test procedure revisions.
+We have reviewed your responses and have concluded that your firm’s responses are inadequate because you failed to complete the development of a fully validated and approved process relating the pre-sterilization and post-sterilization flow rates according to your established procedures. In order to provide an adequate response, you need to submit evidence to show that you have completed the development of your process, validation, and approval.
+4) Failure to ensure that for validated processes, the monitoring and control methods and data, the date performed, and, where appropriate, the individual(s) performing the process or the major equipment used shall be documented, as required by 21 C.F.R. 820.75(b)(2).
+For example, the validation reports for the 2.5 year shelf life studies conducted for the infusion pump devices listed below did not include the device storage conditions, study start and end date and monitoring data, or equipment used for the testing. The raw data was not included in the final reports.
+A)
+[(b)(4)]
+, Eclipse Homepump shelf life.
+B)
+[(b)(4)]
+, Verification Report for 2.5 year Homepump shelf life.
+C)
+[(b)(4)]
+, Verification Report for ON-Q Soaker 2.5 year shelf life.
+D)
+[(b)(4)]
+, Qualification report for LV PCA Accelerated Aging.
+E)
+[(b)(4)]
+, Rev. A, Qualification Protocol And Report for P400 x 6T, ON-Q, triple
+[(b)(4)]
+mL/hr.
+We have reviewed your responses and have concluded that your firm’s responses are inadequate because your newly created procedures for documenting validated processes have not been implemented. In order to provide an adequate response, you need to submit evidence to show that your procedures for documenting validated processes have been implemented, and evidence of their effectiveness.
+5) Failure to ensure that when changes or process deviations occur, the manufacturer shall review and evaluate the process and perform revalidation where appropriate, as required by 21 C.F.R. 820.75(c).
+For example, your firm did not perform an evaluation to determine the need for revalidation when it failed to meet the acceptance criteria. A validated process was not revalidated when the changes or deviations occurred. Specifically, the firm did not perform revalidation when it failed to meet the acceptance criteria as described in the design control documents (DCDs) below.
+A)
+[(b)(4)]
+, Verification Report for ON-Q Soaker 2.5 year shelf life stability
+i) Two samples failed the seal integrity test because they showed air bubbles.
+ii) Flow rate tests failed.
+[(b)(4)]
+pumps were tested and revealed that the average flow rate was
+[(b)(4)]
+mL/hr, +/-
+[(b)(4)]
+mL/hr with a maximum flow rate of
+[(b)(4)]
+mL/hr. The specification was
+[(b)(4)]
+mL/hr, +/-
+[(b)(4)]
+% or the maximum
+[(b)(4)]
+mL/hr.
+B)
+[(b)(4)]
+, Verification Test Report for
+[(b)(4)]
+mL x
+[(b)(4)]
+mL/hr x
+[(b)(4)]
+mL/hr, Dual Orifice Configuration
+i) The acceptance criteria,
+[(b)(4)]
+mL/hr, +/-
+[(b)(4)]
+%
+[(b)(4)]
+, for pre-sterile flow rate was not met. The data from two devices were obtained as
+[(b)(4)]
+mL/hr and
+[(b)(4)]
+mL/hr. Total combined readings for both orifices were within
+[(b)(4)]
+mL/hr +/-
+[(b)(4)]
+%. One pump resulted in
+[(b)(4)]
+mL/hr. No explanation was provided in the report for the acceptance of the failed data. No revalidation was performed.
+C)
+[(b)(4)]
+, Qualification Report For Modified Ultrasonic Welding Nest For Large Volume PCA, Rev. A.
+i)
+[(b)(4)]
+out of
+[(b)(4)]
+samples failed the latch release test due to the weld falling apart.
+D)
+[(b)(4)]
+, Rev. A, Validation Report for Redesign of LVPCA Bolus Button Configuration
+i)
+[(b)(4)]
+out of
+[(b)(4)]
+samples resulted in lower values of the pre-sterile specification.
+ii) Bolus volume test:
+[(b)(4)]
+of
+[(b)(4)]
+samples separated from the weld seam.
+iii)
+[(b)(4)]
+of
+[(b)(4)]
+samples of bolus volume was “out of specification” because of a low volume of
+[(b)(4)]
+3 mL. The specification range is
+[(b)(4)]
+0 mL.
+iv) Safety test at half time:
+[(b)(4)]
+of
+[(b)(4)]
+samples was removed due to a weld defect.
+v) Latch and release test: failed because it exceeded the specification of
+[(b)(4)]
+lbs.
+vi) Residual volume test: test with
+[(b)(4)]
+mL was not reported and performed in
+[(b)(4)]
+E) Design output/verification report,
+[(b)(4)]
+v. A, Validation Report for Elastomeric Large Volume PCA Final Assemblies:
+i)
+[(b)(4)]
+out of
+[(b)(4)]
+samples failed the pre-sterile safety test at the upper specification limit of +
+[(b)(4)]
+%. The report stated, “Although the pre-sterile safety test failed, use as is. The pre-sterile safety test result falls within the tolerance limits specified in the device 510k.” The firm recommended changing the safety specification from +
+[(b)(4)]
+% to +/-
+[(b)(4)]
+%.
+F)
+[(b)(4)]
+: Rev. A, Validation Report for Elastomeric Large Volume PCA Final Assemblies:
+i)
+[(b)(4)]
+out of
+[(b)(4)]
+samples failed the pre-sterile basal flow rate test.
+ii)
+[(b)(4)]
+of
+[(b)(4)]
+samples failed the post-sterile basal flow rate test.
+iii)
+[(b)(4)]
+out of
+[(b)(4)]
+samples failed the latch and release test.
+iv) As a result of samples failing
+[(b)(4)]
+, Validation Report for Elastomeric Large Volume PCA Final Assemblies, pre-sterile basal flow specification was changed to +/-
+[(b)(4)]
+%.
+We have reviewed your responses and have concluded that your firm’s responses are inadequate because you have not provided evidence that your validated processes are revalidated when changes are made and process deviations occur. In order to provide an adequate response, you need to submit evidence to show that these processes were revalidated and that procedures are in place to effectively revalidate processes when changes are made or when process deviations occur.
+6) Failure to identify the actions needed to correct and prevent recurrence of nonconforming product and other quality problems, as required by 21 C.F.R. 820.100(a)(3).
+For example:
+A) On December 1, 2006,
+[(b)(4)]
+, was opened to address the “Fast flow” complaint. The CAPA identified the root cause as the excessive gap between the glass orifice and the stop in the orifice holder, and other unidentified factors.
+The corrective action item identified was a redesign of the orifice holder, which was considered too expensive and, based on the assessment of low probability of the failure mode, therefore was not implemented. The other corrective actions did not address the correction preventing the orifice gap. Instead, the items were addressed as:
+i) Training for the mass flow test reading and set up
+ii) Set up of color coded “good” and “bad” bins
+iii) Visual inspection
+iv) Review sampling plan for the Quality inspection and NCMR review
+B) On October 22, 2007,
+[(b)(4)]
+was opened to address the “Fast flow” issue and identified the root cause as:
+i) Natural aging of the pump causing increase in bladder pressure
+ii) Pump positioned high
+iii) Pump filled lower than nominal volume
+The corrective action did not address the identified root causes. Instead, it included changes such as a change in the pre-sterile target flow range specifications to
+[(b)(4)]
+% (+
+[(b)(4)]
+%) from the nominal flow rate (the current specification is
+[(b)(4)]
+% from the nominal flow), and a change to perform a flow accuracy test at
+[(b)(4)]
+inches head height instead of at negative
+[(b)(4)]
+inches.
+C) Your firm did not address the “fast flow” or shift in flow due to the sterilization as discussed in
+[(b)(4)]
+, Validation Report For Eclipse Homepump Shelf Life.
+[(b)(4)]
+mentioned the potential occurrence of a flow rate shift of
+[(b)(4)]
+% due to sterilization. If this occurs, the devices are produced using the
+[(b)(4)]
+mL instead of the
+[(b)(4)]
+mL flow rate specification. Your firm’s corrective action did not address how the sterilization might have shifted the flow rate.
+We have reviewed your responses and have concluded that your firm’s responses are inadequate because you have not implemented your procedures for identifying the actions needed to correct and prevent recurrence of nonconforming product and other quality problems. In order to provide an adequate response, you need to submit evidence to show that these procedures have been implemented, and evidence of their effectiveness.
+7) Failure to verify or validate the corrective and preventive action to ensure that such action is effective and does not adversely affect the finished device, as required by 21 C.F.R. 820.100(a)(4).
+For example:
+A) Corrective Action Report CAPA,
+[(b)(4)]
+, was opened for the incomplete weld housing. It identified the root causes as weld failure between two halves of the housing of the Large Volume PCA bolus, button sticking, and a plunger failing to slide smoothly into a button. The large volume PCA (LVPCA or bolus), which is a part of infusion pump, is pressed by the patient to receive extra medication. Your firm received complaints regarding the button getting stuck and a bolus malfunction. Your firm failed to adequately verify and implement the following design verification studies:
+i) One of the corrective action items from CAPA
+[(b)(4)]
+included an addition of chamfers in the button. Design verification
+[(b)(4)]
+, Qualification Report for the Large Volume PCA assembly Using
+[(b)(4)]
+, included this change.
+[(b)(4)]
+samples were tested and reported to have all passed. However, samples were tested by only pressing the button (bolus)
+[(b)(4)]
+times, whereas, the design specification,
+[(b)(4)]
+, “Design Specification for Large Volume PCA,” required the bolus to be depressed/released
+[(b)(4)]
+times.
+ii) The CAPA included a modification of welding process by modifying the Branson ultrasonic weld nest by removing
+[(b)(4)]
+inches of material to leave a clearance on the welding nest in the clip area of the bolus or PCA device. Design verification
+[(b)(4)]
+, performed on July 25, 2007, to verify these changes, resulted in
+[(b)(4)]
+of
+[(b)(4)]
+failed samples.
+iii) According to CAPA,
+[(b)(4)]
+, step 6 of Addendum, on September 11, 2007, the
+[(b)(4)]
+Ultrasonic Nest was modified in your Mexico facility. No further detail was provided as to whether or not verification was performed for this change. However, also according to CAPA
+[(b)(4)]
+, effectiveness verification changes are deemed effective based on review of three finished product Device History Records. This review occurred and
+[(b)(4)]
+and
+[(b)(4)]
+were concluded as effective.
+B)
+[(b)(4)]
+(Exhibit: 35), Addendum for the stuck bolus button PCA device, included a redesign of the bolus with a longer spring and a relief shut-off valve. The CAPA was completed effectively, closed, with verification sign off. The design verification of the changes were documented in validation protocol/reports
+[(b)(4)]
+(Exhibit: 39) to
+[(b)(4)]
+(Exhibit: 39a, 39b, 39c, 39d), Validation Report For Redesign of LVPCA Bolus Button Configuration for different models of infusion pumps. These studies revealed:
+i)
+[(b)(4)]
+(Exhibit: 39a):
+[(b)(4)]
+out of
+[(b)(4)]
+devices of
+[(b)(4)]
+ON-Q 400 mL, model
+[(b)(4)]
+, were tested and found to have a lower safety volume.
+ii)
+[(b)(4)]
+(Exhibit: 39b):
+(a)
+[(b)(4)]
+out of
+[(b)(4)]
+devices experienced a jammed bolus after its fourth delivery of medication.
+(b)
+[(b)(4)]
+out of
+[(b)(4)]
+samples resulted in lower flow rate values.
+(c)
+[(b)(4)]
+out of
+[(b)(4)]
+samples separated from the weld seam.
+(d)
+[(b)(4)]
+out of
+[(b)(4)]
+samples of bolus volume resulted in a reading “out of specification” for a low volume ranging from
+[(b)(4)]
+3 mL/hr. The specification range was
+[(b)(4)]
+mL/hr.
+(e) In a safety test at half time,
+[(b)(4)]
+out of
+[(b)(4)]
+samples were removed due to a weld defect.
+(f)
+[(b)(4)]
+out of
+[(b)(4)]
+samples failed the latch and release test because it exceeded the specification of
+[(b)(4)]
+lbs.
+iii)
+[(b)(4)]
+(Exhibit: 39c):
+[(b)(4)]
+out of
+[(b)(4)]
+devices failed the flow rate test.
+iv)
+[(b)(4)]
+(Exhibit: 39d):
+(a)
+[(b)(4)]
+out of
+[(b)(4)]
+devices resulted in weld seam separation during time delivery/refill test.
+(b)
+[(b)(4)]
+out of
+[(b)(4)]
+devices separated from the weld during the post sterile button activation test.
+(c)
+[(b)(4)]
+out of
+[(b)(4)]
+samples failed the latch and release test after
+[(b)(4)]
+cycles.
+Both CAPA verification of
+[(b)(4)]
+and
+[(b)(4)]
+were concluded as effective.
+The adequacy of your responses cannot be determined at this time because you have not provided evidence that the corrective actions taken in response to the FDA 483 observations have been verified, validated, shown to be effective, and that they do not adversely affect the device. In order to provide an adequate response, you need to submit evidence that your corrective actions have been verified, validated, shown to be effective, and that they do not adversely affect the device.
+8) Failure to establish and maintain procedures for receiving, reviewing, and evaluating complaints by a formally designated unit, as required by 21 C.F.R. 820.198 (1)(a) & (3)(d).
+For example:
+“Complaints and MDR Handling Procedure,”
+[(b)(4)]
+, was not implemented and no post-market surveillance reviews were performed using data after year 2003 as required by SOP 456 F.
+A) The procedure
+[(b)(4)]
+states that “If a customer complaint is not followed by a corrective action, the reason will be stated in the complaint file or the post market surveillance review.”
+The following are examples of complaints which did not include any corrective actions and the reasons for not taking corrective actions were not documented.
+Complaints for Infusion Pump: Easypump:
+(i)
+[(b)(4)]
+, lot #
+[(b)(4)]
+, dated April 11, 2007, Complaint analysis of three returned pumps indicated one having a fast flow, one having a slow flow and there was no defect found on one pump.
+(ii)
+[(b)(4)]
+, lot #
+[(b)(4)]
+, 6 pumps confirmed fast flow.
+(iii)
+[(b)(4)]
+, lot #
+[(b)(4)]
+, dated June 12, 2007, confirmed 2 pumps having fast and 1 pump having a slow flow.
+(iv)
+[(b)(4)]
+, Easypump notification dated October 30, 2006, leak in Easypump device burned the patient.
+(v)
+[(b)(4)]
+, infusion pump “C-Series” dated July 5, 2007, lot number unknown, 5 of 7 pumps confirmed slow flow. The same complaint included another Eclipse pump of unknown lot, which did not infuse.
+(vi)
+[(b)(4)]
+, Easypump lot #
+[(b)(4)]
+, documented that a pump leaked the drug 5 Fluorouracil at the filter and came in contact or projected on the lingual mucosa of one care taker and on the hand and wrist of the second care taker.
+(vii)
+[(b)(4)]
+, lot #
+[(b)(4)]
+, device “C-Seriess,” Fast Infusion
+(viii) DCR # 060587A, “Eclipse” infusion pump, Fast infusion, lot numbers
+[(b)(4)]
+.
+No post-market surveillance reviews were performed using data after year 2003 as required by [(b)(4)].
+B) Procedure
+[(b)(4)]
+requires a CAPA number on a Complaint Handling Evaluation Form. No CAPA numbers were recorded in the complaints.
+C) Procedure
+[(b)(4)]
+states “The Quality Analyst will refer to the Medical Device Reporting Flow Chart to identify if the complaint is a reportable event.”
+(i) Complaints included the flow chart, however it did not always identify the MDR reportable events. As a result, your flow chart procedure is not adequate. For example, the flow chart was used in complaint #
+[(b)(4)]
+, ON Q PainBuster device, lot #
+[(b)(4)]
+and complaint #
+[(b)(4)]
+, device
+[(b)(4)]
+, lot #
+[(b)(4)]
+for fast flow and stated that these events were not MDR reportable. However, later your firm decided to submit MDRs and documented MDR numbers on the form.
+(ii) MDR reportable events were not identified as such in these complaints:
+[(b)(4)]
+, Easypump, lot #
+[(b)(4)]
+;
+[(b)(4)]
+, Easypump, lot #
+[(b)(4)]
+both for the fast flow; and ON-Q-C Bloc,
+[(b)(4)]
+, lot #
+[(b)(4)]
+(MedWatch MW
+[(b)(4)]
+) for the bolus stuck on the device.
+The adequacy of your responses cannot be determined at this time because you have not fully implemented these procedures and thus you have not demonstrated the effective use of your QAOP107 “Complaints and MDR Handling Procedure.” In order to provide an adequate response, you need to submit evidence of the effectiveness of your procedure’s implementation.
+9) Failure to ensure that complaints involving the possible failure of a device, labeling, or packaging to meet any of its specifications were reviewed, evaluated, and investigated, as required by 21 C.F.R. 820.198(c), and failure to ensure that the record of the investigation included the dates and results of the investigation and any corrective action taken, as required by 21 C.F.R. 820.198(e)(6)-(7).
+For example:
+A) Your firm evaluated complaints and confirmed that the devices malfunctioned. However, your firm did not investigate the root cause of the malfunctions for the following complaints. The complaints confirmed that some infusion pumps resulted in a fast flow.
+i) Complaint
+[(b)(4)]
+pertains to “Eclipse” infusion pump,
+[(b)(4)]
+mL volume. Labeled flow rate:
+[(b)(4)]
+mL/hr,
+[(b)(4)]
+, revealed the following failures:
+(a) Lot number
+[(b)(4)]
+out of
+[(b)(4)]
+infusion pumps resulted in fast flow. This complaint reported the fast flow of the device which resulted in “Red Man Syndrome” in a 13 months old child.
+(b) Lot number
+[(b)(4)]
+out
+[(b)(4)]
+devices failed the flow rate test.
+(c) Lot number
+[(b)(4)]
+out of
+[(b)(4)]
+device failed the flow rate test.
+(d) Lot number
+[(b)(4)]
+out of
+[(b)(4)]
+devices failed the flow rate test.
+(e) Unknown lot number,
+[(b)(4)]
+out of
+[(b)(4)]
+devices failed the flow rate test.
+Your firm did not conduct an investigation into these failures.
+ii) Complaint,
+[(b)(4)]
+, pertained to the “Fast Infusion” of “C-Series” infusion pump, volume:
+[(b)(4)]
+mL, flow rate
+[(b)(4)]
+mL/hr, lot number
+[(b)(4)]
+. One empty and one used pump were returned for evaluation. The description stated that one returned device was found to have an occlusion in the orifice and was therefore unable to test. The three retained samples of the same lot were tested and all resulted in high flow. An additional
+[(b)(4)]
+retained devices were tested.
+[(b)(4)]
+out of
+[(b)(4)]
+devices failed to meet the specification of
+[(b)(4)]
+mL/hr, +/-
+[(b)(4)]
+% flow rate. A failure investigation was not conducted to find the root cause of the failure.
+iii)
+[(b)(4)]
+, lot #
+[(b)(4)]
+, dated April 11, 2007, complaint analysis of three returned pumps indicated one having a fast flow, one having a slow flow, and one found no defect. Your firm replied to the complaint that pumps were infused within the nominal flow rate values. The investigation of the failure was not performed.
+B) The complaints listed below failed to describe any corrective action taken or if any corrective action was taken for the Easypump.
+i)
+[(b)(4)]
+(Lot#
+[(b)(4)]
+) confirmed fast flow.
+ii)
+[(b)(4)]
+(Lot#
+[(b)(4)]
+) complaint analysis of three returned pumps indicated one having a fast flow, one having a slow flow, and one found no defect.
+iii)
+[(b)(4)]
+(Lot#
+[(b)(4)]
+) 6 pumps confirmed fast flow.
+iv)
+[(b)(4)]
+(Lot#
+[(b)(4)]
+) confirmed 2 pumps having fast flow, and 1 pump having a slow flow.
+v)
+[(b)(4)]
+(Lot #
+[(b)(4)]
+) leak in Easypump device burned the patient.
+vi)
+[(b)(4)]
+(Lot # unknown)
+[(b)(4)]
+out of
+[(b)(4)]
+pumps confirmed slow flow. The same complaint included another Eclipse pump of unknown lot, which did not infuse.
+vii)
+[(b)(4)]
+(Lot #
+[(b)(4)]
+) documented that a pump leaked the drug 5-Fluorouracil at the filter and came in contact or projected on the lingual mucosa of one care taker and on the hand and wrist of the second care taker.
+The adequacy of your responses cannot be determined at this time because you failed to clearly demonstrate how your firm is adequately investigating the root cause of new complaints and documenting such investigations. In order to provide an adequate response, you need to submit evidence that you have effective procedures that govern how your firm adequately investigates the root cause of new complaints and records such investigations.
+10) Failure to record and investigate the nature of the complaint, as required by 21 C.F.R. 820.198(e)(5).
+Specifically, “Return Goods Authorization (RGA)/Device Complaint Report (DCR)” FORM 380, which is used to document complaints, does not include details of the complaint, including the relationship of the device to the patient, event description, and details if the device was being used on the patient when device malfunction occurred.
+Also, the following complaint DCR numbers failed to provide relevant patient information, circumstances of use, and/or detailed malfunction description:
+A) Complaint
+[(b)(4)]
+A (Exhibit: 10), ON-Q Painbuster
+[(b)(4)]
+bolus stuck in down position. The complaint did not include details regarding whether the device malfunctioned during use on a patient.
+B) Complaint #
+[(b)(4)]
+, lot #
+[(b)(4)]
+(Exhibit: 11), Easypump only described “Leak” in the complaint description.
+C) Complaint #
+[(b)(4)]
+(Exhibit: 12), Easypump, lot #
+[(b)(4)]
+, the description of the complaint stated: “Flow rate too fast, the pump infused in
+[(b)(4)]
+hours instead of
+[(b)(4)]
+hours.” It did not include any patient consequences.
+D) Complaint
+[(b)(4)]
+(Exhibit: 13), Easypump, lot #
+[(b)(4)]
+, the description only stated: “Too fast infusion.”
+The adequacy of your responses cannot be determined at this time because you failed to clearly demonstrate how your firm is adequately recording and investigating the nature and details of new complaints. In order to provide an adequate response, you need to submit evidence that you have an effective procedure that governs how your firm adequately records and investigates the nature and details of new complaints.
+11) Failure to establish and maintain procedures for the identification, documentation, validation or where appropriate verification, review, and approval of design changes before their implementation, as required by 21 C.F.R. 820.30(i).
+For example, established procedures were not followed completely in making changes to specifications and procedures. Specifically, the Document Change Control procedure, “QAOP103 Rev. AH,” was not implemented because the Document Change Orders (DCOs) did not include the “Reasons For Change” as per the following examples:
+A)
+[(b)(4)]
+included the elimination of flow accuracy test for ON-Q domestic products. The DCN/DCO did not include any description or reference for the change.
+B)
+[(b)(4)]
+, “Design Specification for the Large Volume PCA,” and “Design Specification for C-Bloc with Select A-Flow,” did not include reasons for the design specification changes for the LVPCA re-design project. Additionally, it did not indicate whether the “Design Control” was needed.
+C)
+[(b)(4)]
+“Product functional specification for large volume PCA,” did not include reasons for specification changes.
+We have reviewed your responses and have concluded that your firm’s responses are inadequate because you have not implemented your procedures for design changes. In order to provide an adequate response, you need to evidence to show that your procedures for design changes have been maintained and implemented and evidence of their effectiveness.
+12) Failure to establish and maintain procedures for identifying valid statistical techniques required for establishing, controlling, and verifying the acceptability of process capability and product characteristics, as required by 21 C.F.R. 820.250(a).
+For example:
+A) The sample size and acceptance/release criteria used for the in-process flow rate testing of infusion pumps were not justified by valid statistical techniques or standards. The flow rate test was continuously performed using
+[(b)(4)]
+units regardless of the lot size. The “validation report for Flow Rate Accuracy,”
+[(b)(4)]
+references MIL-STD-414 and use of specified AQL of
+[(b)(4)]
+%. However, the referenced MIL-STD-414 does not have AQL of
+[(b)(4)]
+%. In addition, the sampling plan used by your firm did not justify the acceptance of a lot when 1 or more samples fail the flow rate test.
+B) The sample size of
+[(b)(4)]
+was used to perform the Safety Test and Bolus Volume test for the pre-cut PCA,
+[(b)(4)]
+mL x
+[(b)(4)]
+mL/hr,
+[(b)(4)]
+mL bolus. The sample size of
+[(b)(4)]
+for these tests has not been validated as being sufficient for detecting failures.
+C) The flow rate test, a functional test of finished “single use” devices, is conducted at pre-sterilization stage.
+[(b)(4)]
+devices were tested and the result was reported using a mean of
+[(b)(4)]
+devices and the Z-values (standard score) despite one or more data or devices having an “out of specification” value.
+For example:
+i) The following infusion pump lots were released despite the “out of specification” results obtained:
+(a) Easypump, 100 mL vol.,
+[(b)(4)]
+mL/hr, Lot #
+[(b)(4)]
+,
+[(b)(4)]
+out of
+[(b)(4)]
+devices had “out of specification” value. The device lot was released without further testing based on the mean of all
+[(b)(4)]
+devices and Z-values.
+(b) Lot #
+[(b)(4)]
+mL/hr, ON-Q-C Bloc
+[(b)(4)]
+mL bolus,
+[(b)(4)]
+out of
+[(b)(4)]
+sample values were “out of specification,” during pre-sterilization flow rate test. In this case, a post sterilized lot was tested using [(b)(4)] samples. One device failed again and the lot was released based on the Z-value.
+ii) Lot number:
+[(b)(4)]
+, included in validation report
+[(b)(4)]
+), ON-Q-C-Bloc,
+[(b)(4)]
+mL x
+[(b)(4)]
+mL/hr,
+[(b)(4)]
+mL bolus
+[(b)(4)]
+minutes refill,
+[(b)(4)]
+out of
+[(b)(4)]
+devices had “out of specification” values for the pre-sterile flow test. The lot was released after post sterilization.
+D) Validations were performed using only one lot: Validation Report for Eclipse Homepump Shelf Life,
+[(b)(4)]
+, Qualification Report for LVPCA Accelerated Aging,
+[(b)(4)]
+and
+[(b)(4)]
+, Rev. A, Qualification Protocol And Report for
+[(b)(4)]
+ON-Q, triple
+[(b)(4)]
+mL/hr.
+E) Regarding returned devices relating to the complaint DCR # [(b)(4)], device Eclipse, lot number
+[(b)(4)]
+, the complaint evaluation revealed that
+[(b)(4)]
+out of
+[(b)(4)]
+were “out of specification” values, but the mean flow rate of
+[(b)(4)]
+mL/hr was within the specification (
+[(b)(4)]
+0 mL/hr). It was reported on a Complaint Handling Evaluation Form as the average flow rate was found to be within the limits. The reply to the complainant included the average flow and the infusion time as both within the specification.
+F) Retained devices were tested during the complaint evaluation of DCR #
+[(b)(4)]
+, Lot #
+[(b)(4)]
+, device C-series for the fast infusion.
+[(b)(4)]
+out of
+[(b)(4)]
+retained devices failed and an additional
+[(b)(4)]
+out of
+[(b)(4)]
+retained devices failed. Your firm averaged these data and reported it as meeting specification. This did not follow a valid statistical technique because the devices need to individually comply with their flow specification.
+G) Your firm has no justification or studies supporting the specification of +/-
+[(b)(4)]
+% difference between the flow rate of dual soaker catheters. For example: ON-Q Painbuster
+[(b)(4)]
+mL x Triple
+[(b)(4)]
+mL/hr, design verification of
+[(b)(4)]
+, lot #
+[(b)(4)]
+, Verification Test Report
+[(b)(4)]
+, Rev. A, for
+[(b)(4)]
+mL x
+[(b)(4)]
+mL/hr, Dual Orifice, lot #
+[(b)(4)]
+.
+We have reviewed your responses and have concluded that the adequacy of your firm’s responses can not be determined at this time. You state that your firm is currently developing a statistical technique which would ensure the likelihood of producing conforming and/or non-defective devices. In your letter dated June 23, 2008, you stated that you sought input of statistical experts who will be providing critiques on your current methods. Your response further stated that you will embark on the necessary research, analysis and revision of the current standards to remove questions as to applicability regarding your statistical methods. Your response also stated that you plan to contract an outside expert to review and solicit statistical training resources in order to provide formal training, which would include new procedures if such were developed and implemented. In your letter dated August 22, 2008, you noted that a statistical expert is currently reviewing your firm’s current rationale for releasing finished goods and a draft of the Statistical Techniques procedures and a proposal to change the sampling plan for the release of those finished goods. Your letter also indicated that your firm has not implemented the new procedures nor has the sampling plan for releasing finished goods been developed or implemented. Since your firm has failed to implement the procedures, the adequacy of your firm’s response cannot be determined at this time.
+13) Failure to establish and maintain procedures for rework, to include retesting and reevaluation of the nonconforming product after rework, to ensure that the product meets its current approved specifications, as required by 21 C.F.R. 820.90(b)(2).
+For example, rework of nonconforming product did not include retesting and reevaluation to ensure that the reworked product met current approved specifications as shown by:
+A) ON-Q-C-Bloc with Select-A-Flow/On Demand device,
+[(b)(4)]
+mL, Device History Record lot
+[(b)(4)]
+, was reworked due to the bolus falling apart. The Non-Conforming Materials Report (NCMR) report #
+[(b)(4)]
+included a rework of PCA Bolus by pressing the bolus button halfway, through the Tyvek pouch, to check for separation. It did not include any retesting and reevaluation to ensure it met the current approved criteria.
+B)
+[(b)(4)]
+, of lot number
+[(b)(4)]
+, ON-Q-C Bloc, (
+[(b)(4)]
+mL, X
+[(b)(4)]
+mL/hr,
+[(b)(4)]
+mL bolus/
+[(b)(4)]
+min.) included incomplete weld housing during pre and post sterile bolus volume test. The devices were reworked and released. The rework included pressing the bolus button through the final packaging, without opening the package. The rework activities did not include retesting and reevaluation as per the approved procedures.
+C)
+[(b)(4)]
+, lot number
+[(b)(4)]
+, Easypump,
+[(b)(4)]
+, 2-14 mL/hr,
+[(b)(4)]
+mL lot was rejected for weak sealed pouches. After visual re-inspection, the lot failed. Your firm sorted the devices and released them. No further test was performed to verify the pouch seal and whether it would have any adverse effect, as required by your procedures.
+We have reviewed your responses and have concluded that your firm’s responses are inadequate because your firm failed to implement your Non-conforming Materials Report (NCMR) and procedures. In order to provide an adequate response, you need to submit evidence that you have implemented the NCMR form and procedures and evidence that they are effective.
+14) Failure to establish and maintain acceptance procedures, where appropriate, to ensure that specified requirements for in-process product are met, as required by 21 C.F.R. 820.80(c).
+For example, your firm performs a flow rate functional test prior to sterilization. The test procedures used for the following lot releases below are QAOP572, Rev M, QAOP576, Rev. C, QAOP 569, Rev. N, and STP 1022, Rev. F. All of the SOPs did not include any reference to accepting devices using sample averages and Z-values. It is standard practice to compare the accuracy of each individual device unit to the finished product specifications as opposed to taking the average performance of a group and comparing that to the performance specification.
+A) Examples of devices released and distributed with individual failed values:
+i) Infusion pump lots released with one or more device failed out of
+[(b)(4)]
+samples are: Easypump,
+[(b)(4)]
+mL vol.,
+[(b)(4)]
+mL/hr, Lot number 762927, 1 out of
+[(b)(4)]
+devices had an “out of specification” value. The device lot was released without further testing based on the mean of all
+[(b)(4)]
+samples data and z-values.
+ii) Lot number:
+[(b)(4)]
+, ON-Q-C Bloc
+[(b)(4)]
+mL x
+[(b)(4)]
+mL/hr,
+[(b)(4)]
+mL bolus. ON-Q-C Bloc,
+[(b)(4)]
+mL x
+[(b)(4)]
+mL/hr,
+[(b)(4)]
+mL bolus, after
+[(b)(4)]
+of
+[(b)(4)]
+samples failed the pre-sterilization flow rate test, the post sterilized lot was tested using 20 samples. One device failed again and the lot was released. The pre-sterile flow rate data indicated two samples failed but the mean flow rate (
+[(b)(4)]
+mL/hr) still met the specification range of
+[(b)(4)]
+mL/hr. A post sterilized lot was tested using
+[(b)(4)]
+samples. One device failed again and the lot was released based on the Z-value.
+iii) Lot
+[(b)(4)]
+, included in the validation report DCD1581-05, “
+[(b)(4)]
+mL x
+[(b)(4)]
+mL/hr,
+[(b)(4)]
+mL bolus/
+[(b)(4)]
+min. refill,”
+[(b)(4)]
+of
+[(b)(4)]
+devices resulted in one “out of specification” pre-sterile flow test. The lot was released after post-sterilization, which has different specifications than the pre-sterile specifications.
+B) Procedure
+[(b)(4)]
+, In process and Final Inspection of Large Volume PCA Elastomeric Sets and Q
+[(b)(4)]
+, In process and Final Inspection of Elastomeric SAF/LVPCA Devices, was used to assess lots
+[(b)(4)]
+for acceptance. These SOPs do not include post sterile basal flow rate testing.
+We have reviewed your responses and have concluded that your firm’s responses are inadequate because you have not implemented your acceptance procedures. In order to provide an adequate response, you need to submit evidence to show that these procedures have been implemented and evidence of their effectiveness.
+15) Failure to establish and maintain procedures for finished device acceptance to ensure that each production run, lot, or batch of finished devices meets acceptance criteria, as required by 21 C.F.R. 820.80(d).
+For example, the procedures
+[(b)(4)]
+, Rev. C, In process and Final Inspection Of Elastomeric
+[(b)(4)]
+Device;
+[(b)(4)]
+, Rev. M, In process and Final Inspection Of Large Volume PCA Elastomeric Sets; and
+[(b)(4)]
+, Rev. N, In process and Final Inspection Of Select-A-Flow Sets, had been used where applicable for certain lots, however, these procedures were not followed in the following instances:
+A) Finished device lot
+[(b)(4)]
+6, was released for distribution (and the lot was accepted in the design verification study
+[(b)(4)]
+) after it failed (
+[(b)(4)]
+were referenced for this lot).
+[(b)(4)]
+Rev. C stated to reject SAF/LVPCA lot if it fails to meet product/package criteria and fails to meet in process inspection.
+i) One sample had a housing weld separation during latching mechanism.
+ii) One sample occluded at the mandrel.
+iii) Four PCA bolus came apart during timed delivery/refill test.
+B) Finished device lot
+[(b)(4)]
+, Exhibit 54), p/n:
+[(b)(4)]
+out of
+[(b)(4)]
+devices failed a pre-sterile flow rate test. 1 out of 20 samples also failed post-sterile specification, and
+[(b)(4)]
+out of
+[(b)(4)]
+samples failed the bolus volume and safety check tests. The device was released based on the post-sterile specification (
+[(b)(4)]
+and
+[(b)(4)]
+were used in this lot).
+C) Finished device lot number 7
+[(b)(4)]
+, Exhibit 55),
+[(b)(4)]
+out of
+[(b)(4)]
+devices failed the pre-sterile flow test. The devices were released based on post sterile data.
+[(b)(4)]
+, Rev. M, stated to reject the lot if it failed to meet the pre-sterile basal flow rate.
+We have reviewed your responses and have concluded that your firm’s responses are inadequate because you have not implemented your finished device acceptance procedures. In order to provide an adequate response, you need to submit evidence to show that these procedures have been implemented and evidence of their effectiveness.
+16) Failure to evaluate and select suppliers, contractors, and consultants on the basis of their ability to meet specified requirements, including quality requirements, as required by 21 C.F.R. 820.50(a)(1).
+For example, supplier audits were not conducted at sufficiently regular intervals, as prescribed by your firm’s internal procedures to verify that the suppliers met quality requirements. Supplier audits are not performed as per audit “Supplier Approval and Monitoring procedure,” SOP 106, Rev. K, for suppliers having quality issues. For example, “Supplier Audit Schedules,” dated June 2, 2006, October 3, 2006, March 1, 2007, September 14, 2007 and January 11, 2008, did not include supplier audits of critical components having quality issues as described below:
+A) Supplier of the O-Ring components used on the pumps (various models) had not been audited since 2005, even though the components, p/n:
+[(b)(4)]
+and
+[(b)(4)]
+, had quality issues related to the surface contamination of the O-Rings as reflected in non conformance reports, NCMRs
+[(b)(4)]
+, and
+[(b)(4)]
+. The same components had another issue, related to the failing pull test and breaking of the O-Ring, as documented on NCMRs
+[(b)(4)]
+, and
+[(b)(4)]
+. NCMR
+[(b)(4)]
+stated that supplier audits should be performed. However, no audit was conducted.
+B) The supplier for the elastomeric bags and inner bladder of the infusion pump had “Dimensions out of specification” for the components: p/n: [(b)(4)] (Inner Bladder), NCMR [(b)(4)], p/n: [(b)(4)] (Outer bladder), NCMRs [(b)(4)], and [(b)(4)], p/n: [(b)(4)] (Inner bladder), NCMR [(b)(4)]9, NCMR [(b)(4)], p/n: [(b)(4)] (Inner bladder), and NCMR [(b)(4)]. The supplier failed to meet its quality requirements.
+We have reviewed your responses and enclosed grid and have concluded that your firm’s responses are inadequate because your firm failed to adequately evaluate and select suppliers, contractors and consultants on the basis of their ability to meet specified requirements, including quality requirements. The evaluations of suppliers must be documented. Your response submitted on June 23, 2008, stated that revisions will be made to your Non-Conforming Materials report (NCMR) and Suppliers Approval and Monitoring procedures. Your response dated August 22, 2008, noted that, to date, only a draft of the procedures has been completed and these procedures have not been fully implemented as requested in the 483. Additionally, in your letter, you state that you have completed approximately
+[(b)(4)]
+supplier quality audits which include the suppliers of the components. Your letter also stated that several more supplier quality audits are planned in the near future with no date specific given. Your response is inadequate because your response stated that more audits are planned but no dates are given and thus such has not been implemented.
+17) Failure to establish and maintain records of acceptable suppliers, contractors, and consultants, as required by 21 C.F.R. 820.50(a)(3).
+For example, the supplier of filters used on the infusion pump (multiple models) delivery line was not identified on your firm’s approved supplier list dated March 13, 2008.
+We have reviewed your responses and the enclosed grid which you have enclosed and your responses are inadequate because you have failed to adequately maintain quality supplier records. In order to provide an adequate response, you need to submit evidence to show that you have developed, maintained and implemented procedures which govern your firm’s records of suppliers.
+18) Failure to maintain device history records, as required by 21 C.F.R. 820.184(d).
+For example, the infusion pump devices are tested for the flow rate, prior to sterilization using in-process test specifications. The device master records specify post-sterile flow rate specifications for the infusion pump devices as finished device specifications for the flow rate. The devices are not tested to the finished device specifications and are only tested to a different pre-sterilization specification. The device history records do not include complete acceptance records for the flow rate as per the device master records of the firm’s finished device specifications.
+Both in-process and finished device test specifications have different flow rate ranges for the following devices:
+Device
+Pre-Sterile Specification mL/hr
+(Devices are tested)
+Post-Sterile Specification mL/hr (Devices not tested)
+Eclipse,
+[(b)(4)]
+mL/hr
+[(b)(4)]
+[(b)(4)]
+%)
+Easypump,
+[(b)(4)]
+mL/hr
+[(b)(4)]
+[(b)(4)]
+%)
+Easypump,
+[(b)(4)]
+mL/hr
+[(b)(4)]
+%)
+[(b)(4)]
+%)
+We have reviewed your responses and have concluded that your firm’s responses are inadequate because you have not completed the creation of acceptance records demonstrating the correlation between the pre-sterilization testing and the post-sterilization performance, which demonstrates you manufacture devices in accordance with the device master record. In order to provide an adequate response, you need to submit evidence of the completed acceptance records demonstrating the correlation between the pre-sterilization testing and the post-sterilization performance. Additionally, please submit evidence that you are manufacturing devices in accordance with the device master record.
+Our inspection also revealed that your elastromeric infusion pump devices are misbranded under section 502(t)(2) of the Act, 21 U.S.C. 352(t)(2), in that your firm failed or refused to furnish material or information respecting the device that is required by or under section 519 of the Act, 21 U.S.C. 360i, and 21 CFR Part 803 - Medical Device Reporting (MDR) regulation. Significant deviations include, but are not limited to, the following:
+Failure to report to us no later than 30 calendar days after the day that you received or otherwise became aware of information that a device that you market has malfunctioned and this device would be likely to cause or contribute to a death or serious injury, if the malfunction were to recur as required by 21 C.F.R. 803.20(b)(3)(i)-(ii).
+Your responses to this observation appear to be adequate.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the Food and Drug Administration without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies are advised of the issuance of all Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen (15) working days from the date you receive this letter of the specific steps you have taken to correct the noted violations, including an explanation of how you plan to prevent these violations, or similar violations, from occurring again. Include documentation of the corrective action you have taken. If your planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective action cannot be completed within 15 working days, state the reason for the delay and the time within which the corrections will be completed.
+Your response should be sent to: MaryLynn Datoc, Compliance Officer, 19701 Fairchild, Irvine, California, 92612-2446. If you have any questions about the content of this letter please contact: Ms. Datoc at (949) 608-4428.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, Form FDA 483 (FDA 483), issued at the closeout of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality assurance systems. You should investigate and determine the causes of the violations, and take prompt actions to correct the violations and to bring your products into compliance.
+Sincerely yours,
+/S/
+Alonza E. Cruse
+District Director
+-

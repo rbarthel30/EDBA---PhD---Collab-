@@ -1,0 +1,111 @@
+Endocare, a Wholly Owned Subsidiary of HealthTronics, Inc. 5/17/10
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Los Angeles District
+19701 Fairchild
+Irvine, California 92612-2506
+Telephone (949) 608-2900
+WARNING LETTER
+CERTIFIED MAIL
+RETURN RECEIPT REQUESTED
+W/L 19-10
+May 17, 2010
+Mr. James E. Whittenburg
+President and CEO
+HealthTronics, Inc.
+9825 Spectrum Dr., Building #3
+Austin, TX 78717
+Dear Mr. Whittenburg:
+During an inspection of Endocare, a Wholly Owned Subsidiary of HealthTronics, Inc., in Irvine, CA, from November 3 through November 18, 2009, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures cryosurgical units and accessories. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act) [21 U.S.C. § 321(h)], these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or intended to affect the structure or function of the body.
+The inspection revealed that your Cryo-44-F V-Probe, PERC-24 Right Angle Probe, R2.4 Renal Probe, and CVA 2400 V-Probe devices are misbranded under section 502(t)(2) of the Act, 21 U.S.C. 352(t)(2), in that your firm failed or refused to furnish material or information respecting the device that is required by or under section 519 of the Act [21 U.S.C. 360i] and 21 CFR Part 803 - Medical Device Reporting (MDR) regulation. Significant deviations include, but are not limited to failure to submit an MDR report to FDA within 30 days of receiving or otherwise becoming aware of information that reasonably suggests that a marketed device has malfunctioned and would be likely to cause or contribute to a death or serious injury if the malfunction were to recur, as required by 21 CFR Part 803.50(a)(2). We have reviewed your responses, dated December 4, 2009 and December 18, 2009 and have concluded they are inadequate because your film has concluded the clinical effects of unintended frosting of these devices during treatment do not meet the threshold of what is reportable through the Medical Device Reporting Process. Our review of the events associated with your complaint files
+(b)(4)
+determined that unintended frosting of these devices during patient treatment represent examples of events that reasonably suggest your marketed devices may have caused or contributed to a serious injury, or have malfunctioned and that the device or a similar device marketed by you would be likely to cause or contribute to a death or serious injury if the malfunction were to recur.
+Our inspection also revealed that your firm's Fully Disposable Variable CryoProbe (V-Probe) devices are misbranded under section 502(t)(2) of the Act [21 U.S.C. 352(t)(2)] in that your firm failed or refused to furnish material or information respecting the device that is required by or under section 519 of the Act [21 U.S.C. 360i] and 21 CFR Part 806 - Reports of Corrections and Removals regulation. Significant deviations include, but are not limited to your implementation of design changes to V-Probe devices,
+(b)(4)
+as a result of a patient death attributed to air embolism, and your communication with your customers, in a letter dated December 5, 2008, offering to replace existing V-Probe devices
+(b)(4)
+Your firm failed to submit a written report to FDA for a correction and removal of these devices initiated to reduce a risk of health posed by these devices, within 10 working days of initiating the correction and removal as required by 21 CFR 806.10(b). We acknowledge your response, dated December 4, 2009, which includes a letter to the Los Angeles District Recall Coordinator, entitled
+Recall Notification
+referencing this correction and removal, and the implementation of a recall. This response is inadequate, in that 21 CFR 806.10(b) requires you to submit a report of a correction or removal initiated to reduce a risk of health posed by a device to FDA within 10 working days of initiating the correction and removal.
+Our inspection also revealed that significant design changes were made to your Fully Disposable Variable CryoProbes (V-Probes). We consider these devices to be adulterated under section 501(f)(1)(B) of the Act [21 U.S.C. 351(f)(1)(B)], because you do not have an approved application for premarket approval (PMA) in effect pursuant to section 515(a) of the Act [21 U.S.C. § 360e(a)], or an approved application for an investigational device exemption (IDE) under section 52 (g) of the Act [21 U.S.C. § 360j(g)]. The devices are also misbranded under section 502(0) the Act [21 U.S.C. § 352(0)], because you did not notify the agency of your intent to introduce the devices into commercial distribution, as required by section 510(k) of the Act [21 U.S.C. § 360(k)]. For a device requiring premarket approval, the notification required by section 510(k) of the Act [21 U.S.C. § 360(k)], is deemed satisfied when a PMA is pending before the agency. 21 CFR Part 807.81(b). The kind of information you need to submit in order to obtain approval or clearance for your device is described on the Internet at http://www.fda.gov/cdrh/devadvice/3122.html. The FDA will evaluate the information you submit and decide whether your product may be legally marketed.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the Food and Drug Administration without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies are advised of the issuance of all Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+You should know that this letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, Form FDA 483 (FDA 483), issued at the closeout of the inspection may be symptomatic of serious problems in your firm's manufacturing and quality assurance systems. You should investigate and determine the causes of the violations, and take prompt actions to correct the violations and to bring your products into compliance.
+Please notify this office in writing within fifteen (15) working days from the date you receive this letter of the specific steps you have taken to correct the noted violations, including an explanation of how you plan to prevent these violations, or similar violations, from occurring again. Include documentation of the corrective action you have taken. If your planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective action cannot be completed within 15 working days, state the reason for the delay and the time within which the corrections will be completed.
+In addition, FDA has noted nonconformances with regard to section 501(h) of the Act [21 U.S.C. § 351(h)], due to deficiencies of the Current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) regulation found in 21 CFR 820. These deviations include, but are not limited to the following:
+1. Failure to establish and maintain adequate procedures to control the design to ensure that specified design requirements are met, as required by 21 CFR 820.30(a).
+For example, your firm sold and distributed fully Disposable V-Probes (models CVA2400 and Cryo-206-Y kit) beginning 12/27/07, prior to completion of major design control elements which were completed in early 2008; these design control activities include the following:
+a. 1/22108 -
+(b)(4)
+a part of design verification, was approved.
+b. 1/31/08 - V-Probe Product Specifications
+(b)(4)
+was released.
+c. 2/21/08 - Phase 2 (Design Development) Design Review was conducted. There are a total of 5 phases.
+d. 3/19/08 - Process Validation
+(b)(4)
+was approved.
+e. 4/21/08 - Design Validation report
+(b)(4)
+was approved.
+f. 4/28/08 - Phase 4 (pre-Production) final design review was conducted.
+We cannot determine the adequacy of your response dated December 4, 2009, at this time. In this response, you admit that personnel did not follow established procedures, and defended the above referenced discrepancies as either low risk events or paperwork technicalities. You have committed to updating procedures, providing training, and to complete design history file but evidence of the documentation of implementation of these corrective actions was not provided.
+2. Failure to establish and maintain adequate complaint handling procedures for the review, evaluation and investigation of complaints involving the possible failure of a device, labeling, or packaging to meet its specification, as required by 21 CPR 820.198(c).
+For example, eight out of fifteen complaint files reviewed did not include adequate documentation of the nature and details of the complaint.
+We cannot determine the adequacy of your response, dated December 4, 2009, at this time. You reference that a Corrective and Preventive Action (CAPA) was opened to address the same observation in response to the February 2009 FDA Inspection, and that this CAPA was ineffective. You reference the opening of another CAPA to readdress deficiencies in complaint handling. Your review of your complaint files was reported as having been completed on November 20, 2009, but you have not included data to demonstrate these activities are under way. You state your complaint file audit will be completed by the closing of the current CAPA on March 12, 2010. However, documentation and evidence of implementation has not been provided.
+3. Failure to establish and maintain adequate procedures for implementing corrective and preventive actions, including analyzing sources of quality data to identify existing and potential causes of nonconforming product and other quality problems, as required by 21 CFR 820.100(a)(1).
+For example, your firm's "Corrective and Preventive Action System" procedure
+(b)(4)
+requires
+(b)(4)
+to be initiated when a corrective/preventive action is identified from sources such as complaints and complaint trend reports. However, no
+(b)(4)
+was generated for a complaint trend identified as "Frosting" affecting various models of cryoprobes (e.g. V-Probes, Cryo-44F). In 2009,
+(b)(4)
+complaints
+(b)(4)
+of complaints were for "Frosting", which is the second highest trend identified this year. In 2008 there were
+(b)(4)
+frosting complaints. Corresponding complaint files
+(b)(4)
+indicated "Isolated incident" as the rationale for not initiating a
+(b)(4)
+We have reviewed your response dated December 4, 2009, and have determined that it is inadequate because you state that Endocare procedures have been replaced by HealthTronics procedures, but copies of these new procedures and evidence of their implementation were not provided. You provided copies of the Endocare revised SOP
+(b)(4)
+and stated that Endocare SOP
+(b)(4)
+would be obsolete as of 12/31/2009. You opened CAPA
+(b)(4)
+to address the frosting issue and four additional CAPAs,
+(b)(4)
+and
+(b)(4)
+to address other trends not previously identified. However, evidence of the verification, validation and implementation of these CAPAs was not provided.
+4. Failure to establish and maintain adequate procedures for implementing corrective and preventive actions, including verifying and validating the corrective and preventive action to ensure that such action is effective and does not adversely affect the finished devices, as required by 21 CFR 820.100 (a)(4).
+For example, your firm's "Corrective and Preventive Action System" procedure
+(b)(4)
+requires your firm to ensure that corrective action taken is effective
+(b)(4)
+. Four out of six
+(b)(4)
+files reviewed had no records to support that the CAPAs had been verified and validated. Your firm continued to receive complaints for the defects addressed in the CAPAs for up to one year after they had been closed.
+We have reviewed your response dated December 4, 2009 and have concluded that it is inadequate because you state that Endocare procedures have been replaced by HealthTronics procedures, but copies of these new procedures and evidence of their implementation were not provided. You reference the amendment of your firm's CAPA procedure to include measurable effectiveness objectives with relevant supporting data in closing out CAPAs, and state a CAPA
+(b)(4)
+will be available March 10, 2010. However, documentation and evidence of implementation of this corrective action was not provided.
+Your response should be sent to:
+Acting Director, Compliance Branch
+Food and Drug Administration
+19701 Fairchild
+Irvine, CA 92612-2506
+If you have any questions about the content of this letter please contact: Dr. William Vitale, Compliance Officer at 949-608-2919.
+Sincerely yours,
+/S/
+Alonza E. Cruse
+District Director
+Cc:
+California Department of Public Health
+Food and Drug Branch
+1500 Capitol Avenue, MS-7602
+P.O. Box 997413
+Sacramento, CA 95899-7413
+-

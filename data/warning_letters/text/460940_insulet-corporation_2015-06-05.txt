@@ -1,0 +1,83 @@
+WARNING LETTER
+Insulet Corporation
+MARCS-CMS 460940 — Jun 05, 2015
+Share
+Tweet
+Linkedin
+Email
+Print
+Insulet Corporation - 460940 - 06/05/2015
+Recipient:
+Insulet Corporation
+United States
+Issuing Office:
+New England District Office
+United States
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+New England District Office
+One Montvale Avenue, 4th floor
+Stoneham, MA 02180
+Phone 781.587.7500
+Fax 781.587.7556
+WARNING LETTER
+CMS 460940
+UNITED PARCEL SERVICE
+OVERNIGHT DELIVERY
+June 5, 2015
+Mr. Patrick J. Sullivan
+President and CEO
+Insulet Corporation
+600 Technology Park Drive
+Suite 200
+Billerica, MA 01821-4126
+Dear
+Mr. Sullivan:
+During an inspection of your facility Insulet Corporation, located at 600 Technology Park Drive Billerica, MA
+on
+March 11 through 27, 2015, an investigator from the United States Food and Drug Administration (FDA) determined that your firm is a manufacturer of the OmniPod Insulin Management System.
+Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+On April 16, 2015, we received a response from W. Patrick Ryan, Chief Operating Officer, which responded to the Form FDA 483, List of Inspectional Observations issued to your firm on March 27, 2015. We have reviewed the response and have concluded that it is inadequate. We address your response below, in relation to the noted violation. The violation includes, but is not limited to, the following:
+1. Failure to establish and maintain procedures to control product that does not conform to specified requirements, as required by 21 CFR 820.90(a).
+Specifically, your firm released 5 lots of EROS OmniPods that failed release testing and were released through a nonconformity review despite all lots falling below your firm’s quality assurance final acceptance criteria.
+Lot #
+Acceptance Criteria OQL
+Actual Lot OQL
+L40425
+(b)(4)
+81.5%
+L40426
+(b)(4)
+69.8%
+L40427
+(b)(4)
+74.6%
+L40428
+(b)(4)
+81.0%
+L40429
+(b)(4)
+82.5%
+We have reviewed your April 16, 2015 response and it is not adequate. According to the documentation you provided, you identified an additional 3 lots, within expiry date that failed your final acceptance criteria yet were accepted and released. We acknowledge you opened a CAPA -051 that should address this issue. In response to the Warning Letter, please provide a description of the Corrective actions and verification when complete. We also understand that you have revised your acceptance procedures to prevent the release of lots which do not meet release acceptance criteria.
+Please provide documentation that these corrective action are effective
+for example, that employees have been trained on the revised SOP’s and that they are being followed properly.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+Your firm’s response should be sent to the
+New England District Office.
+Refer to CMS case #460940 when replying. If
+you have any questions about the contents of this letter, please contact: Compliance Officer
+Diane M. Prince at 781-587-7442.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely yours,
+/S/
+Lori A. Holmquist
+Acting District Director
+New England District
+Close Out Letter
+Insulet Corporation - Close Out Letter 3/2/17
+Content current as of:
+06/15/2015
+More Warning Letters

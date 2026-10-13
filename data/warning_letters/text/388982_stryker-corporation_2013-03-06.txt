@@ -1,0 +1,74 @@
+Stryker Instruments Div. of Stryker Corporation 3/6/13
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Detroit District
+300 River Place
+Suite 5900
+Detroit, Ml 48207
+Telephone: 313-393-8100
+FAX: 313-393-8139
+WARNING LETTER
+2013-DET-07
+March 6, 2013
+VIA UPS
+Mr. Kevin Lobo
+President and CEO
+Stryker Corporation
+2825 Airview Boulevard
+Kalamazoo, MI 49002
+Dear Mr. Lobo:
+During an inspection of Stryker Instruments Division of Stryker Corporation located in Portage, Michigan on October 29, 2012 through November 9, 2012, investigators from the United States Food and Drug Administration (FDA) determined that your firm is a manufacturer of Class 1 and Class II surgical devices, to include the Neptune Rover Waste Management System and Flyte surgical accessories. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act) 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+This inspection revealed that your firm’s Neptune 2 Waste Management Systems are misbranded under section 502(t)(2) of the Act, 21 U.S.C. § 352(t)(2), in that your firm failed or refused to furnish material or information respecting the device that is required by or under section 519 of the Act, 21 U.S.C. § 360i, and 21 CFR Part 806–Medical Devices; Reports of Corrections and Removals. Significant violations include, but are not limited to, the following:
+Failure to submit to FDA a written report of any correction or removal of a device initiated to reduce a risk to health or remedy a violation of the act caused by the device, which may present a risk to health, within 10 working days of initiating such correction or removal, as required by 21 CFR 806.10.
+For example, since January 2011, your firm filed seven separate MDR reports regarding broken casters on the Neptune 2 waste management system. The MDR reports were related to either complaints of back pain associated with trying to move the device with broken or stuck casters or of the device tipping over when potentially filled with bio-hazardous waste. The preliminary hazard analyses (PHA) for the device shows a severity level of “3” (any failure resulting in reversible injuries requiring medical intervention) for the hazard of the Neptune 2 tipping over, PHA-008. On May 24, 2011, your firm completed a Health Hazard Evaluation and determined that injuries associated with the Neptune 2 tipping over were temporary or reversible. Once this determination was made, your firm initiated what was termed a “nonreportable” Field Action to replace affected units. This action, which has been classified by FDA as a class II recall, was not reported to FDA within ten working days.
+Your firm’s response to this observation appears to be adequate. We acknowledge that your firm reported the recall under Z-0454 -2013 and Z-0455-2013. Your firm also outlined the revisions made to its Health Hazard Evaluation procedure, in CAPA Project, PR 122218 titled “Clarification of Notifying Regulatory Agencies/Notified Bodies of Product Field Actions” on November 8, 2012. However, we recommend that your firm re-evaluate its reporting criteria to align with the wording of risk to health defined in 21 CFR 806.2(j)(2).
+Our inspection also revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820. We received a response from Mr. James N. Heath, President of Stryker Instruments dated December 3, 2012 concerning our investigators’ observations noted on the Form FDA 483 (FDA 483), List of Inspectional Observations that was issued to your firm. We address this response below, in relation to each of the noted violations. The violations include, but are not limited to, the following:
+1. Failure to ensure and maintain adequate design validation procedures to ensure that devices conform to defined user needs and intended uses; to ensure that proper risk analysis is completed; and to ensure that the results of the design validation, including identification of the design, the methods, the date, and the individuals performing validation are documented in the design history file, as required by 21 CFR 820.30(g).
+For example, the Preliminary Hazard Analyses (PHA) for the Neptune 2 Waste Management System provides system level hazards and risk classifications utilizing the top-down approach to manage risk. The
+(b)(4)
+contain component level risks and the associated hazards using the bottom-up approach to risk management. Complaints were found where a Medical Device Reporting (MDR) event was reported, however, the associated risk severity was listed as a non-safety risk in the
+(b)(4)
+or component level risk. Examples are:
+a. Compliant 342148 involves flooding issues for a Neptune 2 with associated MDR report 1811755-2012-03216.
+(b)(4)
+items
+(b)(4)
+and
+(b)(4)
+cover the causes and effects associated with a fluid leak. The severity is listed as “1R” which corresponds to an efficacy concern, not a potential safety issue. Your PHA also shows a severity of 1R for this hazard even though it was involved with an MDR.
+b. Complaint 277940 involves a Neptune 2 nearly tipping over. MDR report 1811755-2011-3591 was filed. The
+(b)(4)
+shows the severity of the risk as “1R” (non-safety) for the component failure. The PHA “system” risk for the Neptune 2 tipping over is given a severity of 3, reversible injury requiring medical intervention.
+The adequacy of your firm’s response cannot be determined at this time. You have indicated a number of procedural changes that you will be implementing under CAPA 122272. These are planned actions that we cannot evaluate at this time.
+2. Failure to establish and maintain adequate procedures for the identification, documentation, validation or where appropriate verification, review, and approval of design changes before their implementation, as required by 21 CFR 820.30(i).
+For example, your firm’s procedure DCTL-ti-30853, “Completing a Change Order” describes the process for initiating, approving, and implementing changes, including design changes. This procedure references DCTL-fm-51217, “Impact Matrix”, which requires a
+(b)(4)
+. The procedures do not address the documentation of the decision making process. The final decision is typically all that is recorded.
+The adequacy of your firm’s response cannot be determined at this time. You have indicated you have opened CAPA 121176. This CAPA is in the implementation stage of identifying and reviewing procedures, and conducting training. Corrective actions cannot be evaluated at this time.
+3. Failure to establish and maintain procedures to ensure that equipment is routinely calibrated, inspected, checked, and maintained, as required by 21 CFR 820.72(a).
+For example, the refrigerator across from the Neptune 2 line contains the adhesives used during manufacturing. This refrigerator was found on October 29, 2012 to have a calibrated thermometer, but there was no log used to track the recorded temperature values.
+The adequacy of your firm’s response cannot be determined at this time. You indicate you have calibrated and installed thermometers; updated the Preventive Maintenance PM-4768, rev. E procedure; conducted training of associates; and have started monitoring the refrigerators. However, you are still in the process of further analysis and investigation on CAPA 113667 and have opened two new CAPAs: 122456 and 122455. All three CAPAs still have planned actions that need to be completed.
+Our inspection also revealed that the Flyte Helmet which are marketed as part of the Steri-Shield Personal Protection Systems does not have clearance or approval.
+Additionally during a recall of your firm’s Neptune Waste Management Systems (specifically the Neptune Bronze Rover, Neptune 1 Gold Rover, Neptune 1 Silver Rover and Neptune 2 Ultra under Z-2061–2064-2012), we learned that your firm was marketing and promoting the Neptune Silver and Neptune Ultra without clearance or approval. During discussions held between your firm and FDA, your firm stated that it intended to provide a premarket submission for its Neptune Silver and Neptune 2 Ultra. However, a review of our records reveals that your firm did not submit a premarket submission to FDA for the Neptune 1 Silver.
+Therefore, the Flyte Helmet and Neptune Silver are adulterated under section 501(f)(1)(B) of the Act, 21 U.S.C. § 351(f)(1)(b), because your firm does not have an approved application for premarket approval (PMA) in effect pursuant to section 515(a) of the Act, 21 U.S.C. § 360e(a), or an approved application for an investigational device exemption under section 520(g) of the Act, 21 U.S.C. § 360j(g). The Flyte Helmet and Neptune Silver are also misbranded under section 502(o) the Act, 21 U.S.C. § 352 (o), because your firm did not notify the agency of its intent to introduce the device into commercial distribution, as required by section 510(k) of the ACT, 21 U.S.C. § 360(k). For a device requiring premarket approval, the notification required by section 510(k) of the Act, 21 U.S.C. 360(k), is deemed satisfied when a PMA is pending before the agency. [21 CFR 807.81(b)]. The kind of information that your firm needs to submit in order to obtain approval or clearance for the device is described on the Internet at http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/HowtoMarket YourDevice/default.htm. The FDA will evaluate the information that your firm submits and decide whether the product may be legally marketed.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+Your firm’s response should be sent to: Catherine V. Quinlan, Compliance Officer, Food and Drug Administration at 300 River Place, Suite 5900, Detroit, MI 48207. If you have any questions about the contents of this letter, please contact Ms. Quinlan at (313)393-8153.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely,
+/S/
+Art O. Czabaniuk
+Acting District Director
+Detroit District Office
+Copy via UPS to:
+Mr. James N. Heath
+President
+Stryker Instruments Division of Stryker Corporation
+4100 E. Milham Avenue
+Portage, MI 49002
+-
+-
+Close Out Letter
+Stryker Instruments Div. of Stryker Corporation - Close Out Letter 1/14/14
+-

@@ -1,0 +1,138 @@
+WARNING LETTER
+American Medical Systems, Inc.
+MARCS-CMS 424283 —
+April 10, 2014
+Share
+Tweet
+Linkedin
+Email
+Print
+American Medical Systems, Inc. - 424283 - 04/10/2014
+Recipient:
+American Medical Systems, Inc.
+United States
+Issuing Office:
+Minneapolis District Office
+United States
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Minneapolis District Office
+Central Region
+250 Marquette Avenue, Suite 600
+Minneapolis, MN 55401
+Telephone: (612) 334-4100
+FAX: (612) 334-4142
+April 10, 2014
+WARNING LETTER
+Via UPS Overnight Delivery
+Refer to MIN 14 - 17
+Camille I. Farhat
+President
+American Medical Systems, Inc.
+10700 Bren Road West
+Minnetonka, Minnesota 55343
+Dear Mr. Farhat:
+During an inspection of your firm, American Medical Systems, Inc., located at 10700 Bren Road West, Minnetonka, Minnesota, on February 4 – 24, 2014, investigators from the Food and Drug Administration (FDA) determined that your firm manufactures the AMS 800 Urinary Control System, AMS 700 Series Inflatable Penile Prosthesis, and other urological health products. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) regulation found at Title 21, Code of Federal Regulations (21 CFR), Part 820.
+We received your responses dated February 24 and March 10, 2014, concerning our investigators’ observations noted on the Form FDA 483, Inspectional Observations, that was issued to your firm on February 24, 2014. We address these responses below.
+Violations include, but are not limited to, the following:
+1. Failure to validate processes whose results cannot be fully verified by subsequent inspection according to established procedures, which is required by 21 CFR 820.75(a).
+Specifically, Process Validation, QSP-D09, Rev. 09, states that manufacturing processes must be validated when the process output cannot be fully verified. Test Method Validation, QSP-D39, Rev. 04, states that all test methods within the scope of this procedure must be validated.
+The following manufacturing processes and test methods for the AMS 800 Artificial Urinary Sphincter and AMS 700 Inflatable Penile Prosthesis have not been validated or had inadequate validations.
+800 Artificial Urinary Sphincter Manufacturing Processes and Test Methods
+Balloon
+(b)(4)
+process
+(b)(4)
+process
+(b)(4)
+process
+(b)(4)
+test method
+(b)(4)
+process
+Cuff
+(b)(4)
+process
+(b)(4)
+qualification
+(b)(4)
+process
+(b)(4)
+process
+Pump
+(b)(4)
+process
+(b)(4)
+process
+(b)(4)
+process
+(b)(4)
+process
+700 Inflatable Penile Prosthesis Manufacturing Processes and Test Methods
+Spherical (65 and 100 mL) and Conceal Reservoirs
+(b)(4)
+process
+(b)(4)
+test method
+(b)(4)
+process
+Cylinders (CX, LGX, and CXR)
+(b)(4)
+process
+(b)(4)
+process
+(b)(4)
+process
+(b)(4)
+test method
+(b)(4)
+process
+(b)(4)
+test method
+(b)(4)
+process
+(b)(4)
+test methods
+(b)(4)
+process
+(b)(4)
+test method
+MS Pump
+(b)(4)
+process
+(b)(4)
+process
+(b)(4)
+test method
+In addition, numerous manufacturing processes and test methods that require validation have not been validated for the AdVance Male Sling System, Ambicor 2-Piece Inflatable Penile Implant, Spectra Non-Inflatable 1-Piece Implant, and Y-Mesh Sacral Colpopexy System.
+2. Failure to conduct adequate risk analysis, as required by 21 CFR 820.30(g). Specifically:
+a. Action items from AMS 800 Post Market Surveillance Report, D007644, Rev. 01 (released on 6/6/12), were not completed. These action items included, but were not limited to, updating the design Failure Modes dFMECA projected frequency of occurrence to reflect actual complaint rates found during the analyzed time period. The most recent version of dFMECA for the AMS 800 AUS Urinary Control System, Document Number 72400098dFM, Rev. P, was released on 3/4/12. Post Market Surveillance, QSP-D15, Rev. 06, dated 4/21/11, states that a formal team meeting shall be conducted to review and ensure any action items from the previous PMS report are complete. This meeting is to be performed by each product’s respective Business Team as outlined in Quality Metrics, QE019, Rev. 04, dated 9/30/11. Despite those requirements, the action items were not completed.
+More recently, AMS 800 Post Market Surveillance Report, D007644, Rev. 02, was released on 2/6/14 and summarizes the post-market surveillance activities for the AMS 800 Artificial Urinary Sphincter from March 2012 through February 2013. This report was released approximately 11 months following the end of the date range of the post-market surveillance data reviewed. Multiple complaint codes were again found to result in a higher complaint rate than the dFMECA projected rate and exceeded the projected rate’s frequency of occurrence category.
+Section 6.3.7 of Post Market Surveillance, QSP-D15, Revs. 06 and 07, states that the Risk Management Report shall be updated to reference the newly released Post Market Surveillance Report number and to include any applicable post-market surveillance information. The procedure requires that the update be completed within 30 days of the Post Market Surveillance Report release. The most recent version of the AMS 800 Urinary Control System Risk Management Report, 72400098RM, Rev. L, was released on 4/27/12, and references AMS 800 Post Market Surveillance Report, D0072797 (released on 8/18/2011). No updates have been made to the AMS 800 Risk Management Report since April 2012 even though two additional Post Market Surveillance Reports have been released.
+b. Action items were not completed, and time frame requirements were not met, for AMS 700 Inflatable Penile Prosthesis (IPP) device post-market surveillance and risk management activities. For example, dFMECAs were not updated to reflect the current post-market surveillance data following the release of Post Market Surveillance Report D011810, dated 3/20/13. Also, risk management reports for the IPP reservoirs, cylinders, and pump were not updated until 3/20/13, approximately 17 months after Post Market Surveillance Report D003504 was released on 10/31/11.
+3. Failure to establish adequate procedures for corrective and preventive action, which is required by 21 CFR 820.100(a). Specifically:
+a. Corrective and Preventive Action System, QSP-G01, Rev. 23, states that the Product Support Teams ensure CAPA system effectiveness by reviewing CAPA metrics on a periodic basis as well as high priority CAPAs to ensure investigation and actions are executed effectively and in a timely manner.
+The file for CAPA 201071 could not be located during this inspection and was reconstructed from the documents available. Verification of effectiveness of this CAPA was forecasted to be conducted in January 2013. However, acceptance criteria were not properly defined for the verification, and verification had yet to be completed.
+After reconstructing the CAPA file during this inspection, the acceptance criteria for the verification were modified. Verification of effectiveness was evaluated, acceptance criteria were not met, and CAPA 201071 was deemed ineffective on 2/11/14. The ineffective corrective actions resulted in CAPA Request #757.
+b. AMS 800 Post Market Surveillance Report, D007644, Rev. 01, dated 6/6/12, included an action item for further investigation to determine the root cause for a potential increasing trend in complaint rates related to atrophy and cuff malposition/migration. No investigation was conducted or documented.
+We reviewed your letter dated February 24, 2014, and a subsequent letter dated March 10, 2014, which responded to the Form FDA-483 Inspectional Observations. We note that you generally accepted the findings and have initiated comprehensive corrective actions to address your firm’s compliance with the Quality System Regulation, 21 CFR 820. In a meeting on March 20, 2014, you reiterated your commitment to taking corrective actions and achieving full, sustainable, compliance. The corrective actions that you propose appear to be adequate; however, many of those actions have not been completed yet. In addition, the agency will need to conduct a follow-up inspection to assess implementation and effectiveness of the corrections.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the Food and Drug Administration without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies are advised of the issuance of all Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing, within 15 working days from the date you receive this letter, with an update on the status of the specific steps you have taken to correct the violations cited in this Warning Letter. Include an explanation of how you plan to prevent these violations, or similar violations, from occurring again. Please provide documentation of the corrective actions you have taken. Your response should be sent to Timothy G. Philips, Compliance Officer, at the address on this letterhead. If you have any questions about the content of this letter please contact Mr. Philips at (612) 758-7133.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations Form FDA 483 issued at the close-out of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality assurance systems. You should investigate and determine the causes of the violations and take prompt actions to correct the violations to bring your products into compliance.
+Sincerely,
+/S/
+Michael Dutcher, DVM
+Director
+Minneapolis District
+xc: Rajiv De Silva
+President and CEO
+Endo Health Solutions, Inc.
+1400 Atwater Drive
+Malvern, PA 19355
+Close Out Letter
+American Medical Systems, LLC - Close Out Letter 8/25/17
+Content current as of:
+04/21/2014
+More Warning Letters

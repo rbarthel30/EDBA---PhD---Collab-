@@ -1,0 +1,122 @@
+Thoratec Corporation 1/3/12
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+San Francisco District
+1431 Harbor Bay Parkway
+Alameda, CA 94502-7070
+Telephone: 510/337-6700
+WARNING LETTER
+VIA UNITED PARCEL SERVICE
+JAN 3 2012
+Gerhard F. Burbach
+President and CEO
+Thoratec Corporation
+6035 Stoneridge Drive
+Pleasanton, California 94588
+Dear Mr. Burbach:
+During an inspection of your firm located in Pleasanton, California on August 22, 2011, through September 7, 2011, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures the Thoratec Ventricular Assist Device System, HeartMate XVE Left Ventricular Assist System, and HeartMate II Left Ventricular Assist System. Under Section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321 (h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+Our inspection revealed that the Thoratec Ventricular Assist Device System, HeartMate XVE Left Ventricular Assist System and HeartMate II Left Ventricular Assist System are misbranded under Section 502(t)(2) of the Act, 21 U.S.C. § 352(t)(2), in that your firm failed or refused to furnish material or information respecting the device that is required by or under Section 519 of the Act, 21 U.S.C. § 360i, and Title 21, Code of Federal Regulations (CFR), Part 803 -Medical Device Reporting. Significant violations include, but are not limited to, the following:
+1. Failure to report to the FDA no later than 90 calendar days after the day that your firm received or otherwise became aware of information, from any source, that reasonably suggests that a device that it markets may have caused or contributed to a death or serious injury, as required by 21 CFR 803.50(a)(1). Under the authority of 21 CFR Part 803.19(e), your firm was granted an exemption from the 30 calendar day reporting timeframe required by 21 CFR 803.50(a)(1) for events that your firm receives from the INTERMACS Registry. However, your firm did not submit an MDR to FDA within the 90 calendar day timeframe for the following:
+Complaint 201 008-0145 indicates that your firm's device may have caused or contributed to the patient's death. Your firm became aware of this event on April 30, 2010, and the MDR was received by FDA on August 17, 2010, which is beyond the 90 calendar day timeframe.
+2. Failure to report to the FDA no later than 90 calendar days after the day that your firm received or otherwise became aware of information, from any source, that reasonably suggests that a device that it markets has malfunctioned and that this device or a similar device that it markets would be . likely to cause or contribute to a death or serious injury, if the malfunction were to recur, as required by 21 CFR Part 803.50(a)(2). Under the authority of 21 CFR Part 803.19(e), your firm was granted an exemption from the 30 calendar day reporting timeframe required by 21 CFR 803.50(a)(2) for events that your firm receives from the INTERMACS Registry. However, your firm did not submit an MDR to FDA within the 90 calendar day timeframe for the following:
+Complaint 201011-0160 indicates that your firm's device malfunctioned and the malfunction would be likely to cause or contribute to a reportable event if it were to recur. Your firm became aware of this event on November 11, 2010, and the MDR was received by FDA on March 21, 2011, which is beyond the 90 calendar day timeframe.
+Your firm's response dated September 23, 2011, is not adequate. In this response, your firm proposed a retrospective review of late MDRs and updates to its MDR procedure to be tracked under Corrective and Preventive Action (CAPA) # 45571, but does not adequately address the steps your firm will take to avoid late MDR reporting.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Additionally, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts.
+Please notify this office in writing within fifteen' business days from the date you receive this letter of the specific steps your firm has taken to correct the noted Violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm's planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm's response should be comprehensive and address all violations included in this Warning Letter.
+In addition, FDA has noted non-conformance with regards to Section 501 (h) of the Act (21 U.S.C. § 351 (h)), which are deficiencies within your firm's quality system pertaining to current good manufacturing practice (CGMP) requirements specified in the Quality System (QS) regulation found at 21 CFR Part 820. These non-conformance include, but are not limited to, the following:
+1. Failure to adequately ensure that when the results of a process cannot be fully verified by subsequent inspection and test, that the process shall be validated with a high degree of assurance and approved according to established procedure, as required by 21 CFR 820.75(a. For example, the
+(b)(4)
+Measurement Machine (CMM) used in receiving inspection were not transferred to the Norris Canyon, San Ramon facility and validated as stated in section 7.2.2.1 of protocol, "PTCL, Validation Master Plan Norris Canyon Facility Transfer Project", 1007641 Rev. X02. Specifically, your firm did not complete the following:
+a) According to the report, "RPT, IQ/OQ/PQ THE
+(b)(4)
+CMM NORRIS CANYON RELOCATION", 1007888 Rev. X03, initially provided during the inspection all requirements of the IQ/OQ/PQ protocol had been met and the
+(b)(4)
+CMM could be released for production use. Neither the Installation Qualification Checklist dated August 1, 2011, completed during installation qualification, nor the above mentioned report, demonstrated that the
+(b)(4)
+CMM was installed according to the manufacturer's specifications. The
+(b)(4)
+Installation Instructions for
+(b)(4)
+Measuring Center specifies an operating temperature range of
+(b)(4)
+Celsius, sound level at the installation site of less than
+(b)(4)
+, and a minimum air pressure of
+(b)(4)
+bar. The temperature range and sound level were not documented in the Installation Qualification Checklist or the report. There was no clear indication the recorded air pressure of
+(b)(4)
+PSI on the Installation Qualification Checklist met the minimum air pressure of
+(b)(4)
+bar.
+b) Report, "RPT, IQ/OQ/PQ FOR THE
+(b)(4)
+NORRIS CANYON RELOCATION", 1007880 Rev. X01, initially provided during the inspection, states that all requirements of the IQ/OQ/PQ protocol had been met and the
+(b)(4)
+could be released for production use. Neither the Installation Qualification Checklist dated August 11, 2011, that was completed during installation qualification, nor the above mentioned report, demonstrated that the
+(b)(4)
+was installed according to the manufacturer's specifications. The
+(b)(4)
+Unpacking and Machine Placement Guide lists environmental considerations, such as extreme or rapid changes of temperature, external vibration sources, and air quality, to ensure accuracy of this machine. However, considerations for temperature changes, external vibration sources, and air quality were not documented in the Installation Qualification Checklist or the report.
+The responses provided during the inspection and the response provided after the inspection dated September 23, 2011, appear to be adequate. Your firm provided the final report for the validation master plan "RPT, VALIDATION MASTER PLAN, NORRIS CANYON FACILITY TRANSFER", 1008617 Rev. X01, which was approved on August 23, 2011. The validation master plan included the revised reports for the
+(b)(4)
+"RPT, IQ/OQ/PQ FOR THE
+(b)(4)
+CMM-NORRIS CANYON RELOCATION", 100788 Rev. X04; and the
+(b)(4)
+, "RPT, IQ/OQ/PQ FOR THE
+(b)(4)
+NORRIS CANYON RELOCATION, 1007880 Rev. X02. The deviations noted in the subject citation were corrected. The EIR states that the investigators did not agree to the annotation "corrected and verified" due to the fact that the implementation of the corrective action could not be verified during the inspection.
+Your firm states in the response dated September 23, 2011, that Thoratec will revise its process validation work instruction to incorporate specific language that validations conducted under a master validation plan are not complete until all requirements and the master validation plan report summary are completed and approved. Additionally, your firm states that it will include explicit instructions and requirements for recording manufacturer's installation requirements and how they were addressed during the installation qualification. These actions are being tracked through CAPA45352.
+2. Failure to establish and adequately maintain schedules for the adjustment, cleaning, and other maintenance of equipment, as required by 21 CFR 820.70(g)(1). For example:
+a) Your firm's procedure, "OP, MAINTENANCE PROCEDURE FOR THE AIR COMPRESSOR SYSTEMS AT THORATEC PLEASANTON FACILITY", 50099-0021-132 Rev. C, effective from May, 2011 to August 23,2011, did not include the
+(b)(4)
+air compressor, model
+(b)(4)
+, at your firm's Norris Canyon, San Ramon facility to ensure this air compressor would be properly maintained. The purpose and scope sections of this procedure only identified the
+(b)(4)
+air compressors installed at the Pleasanton, CA facility.
+b) Your firm's maintenance schedule for the
+(b)(4)
+air compressor,
+(b)(4)
+, at your firm's Norris Canyon, San Ramon facility does not meet the requirements of the manufacturer's preventive maintenance schedule that is indicated in the
+(b)(4)
+Compressors Instruction Book,
+(b)(4)
+. The Instruction Book instructs cleaning of the condensate trap internally be done every six months. Your firm's maintenance schedule indicates this cleaning is done annually by the contract service provider. Additionally, the Instruction Book instructs cleaning of the compressor element fan, duct, and fins be done every two years. However, the cleaning is not under the scope of the service provided by your firm's contract service provider.
+c) Section 7.3.2 of your firm's procedure, "SOP, CALIBRATION OF MEASUREMENT, TEST, AND INSPECTION EQUIPMENT", 50099-0021014 Rev. N, states that equipment for inspection, measurement, and test shall be labeled as requiring or not requiring calibration. During the inspection it was noted that the pressure gauge attached to the pressure inlet to the
+(b)(4)
+was not identified with an identification number or indication whether the pressure gauge required calibration and calibrated as necessary. This pressure gauge was used during the installation qualification of the
+(b)(4)
+on or about August 1, 2011, to measure incoming air pressure to the installed
+(b)(4)
+. However, this pressure gauge was not calibrated until August 22, 2011.
+The responses provided during the inspection and the response provided after the inspection dated September 23, 2011, appeared to be adequate. Your firm provided a revised procedure for maintenance of air compressors, "OP, MAINTENANCE PROCEDURE FOR THE AIR COMPRESSOR SYSTEMS AT THORATEC PLEASANTON FACILITIES", 50099-0021-132 Rev. E, which became effective August 25,2011, and the updated preventive maintenance schedule for the air compressor at the Norris Canyon, San Ramon facility, which covers the air compressor at the Norris Canyon, San Ramon facility.
+Additionally, your firm states in the response dated September 23, 2011, that Thoratec changed the service for the
+(b)(4)
+air compressors
+(b)(4)
+at San Ramon and
+(b)(4)
+at Pleasanton) from being performed by an independent service contractor to being performed by
+(b)(4)
+factory service technicians. Your firm added the pressure gauge that is attached to the pressure inlet of the
+(b)(4)
+Measurement Machine to the calibration system. As a preventive measure your firm states that it plans to revise the process validation work instruction to include a requirement in the Installation Qualification (IQ) checklist to ensure that all auxiliary equipment is identified and documented as part of the IQ checklist. Furthermore, your firm stated that it will address the issues noted systematically by generating a list of current manufacturing equipment within its operations, and use a risk-based approach to identify the equipment that will undergo a review of installation qualification activities and any auxiliary equipment not previously covered. These actions are being covered under CAPA 45352.
+3. Failure to adequately review, evaluate and investigate any complaints involving the possible failure of a device, labeling, or packaging to meet any of its specifications, unless such investigation has already been performed for a similar complaint and another investigation is not necessary, as required by 21 CFR 820.198(c). For example, your firm did not perform a thorough investigation for complaint #201008-0145 received on April 30, 2010, which involved a patient death after the patient reported a yellow wrench alarm on the HeartMate II power module to a Ventricular Assist Device (VAD) Coordinator in a hospital. Your firm reviewed the device history record for the power module in question, determined the power module met manufacturing specifications and closed the complaint file because the device was not returned.
+Your firm's response dated September 23, 2011, appears to be adequate. Thoratec re-opened complaint #201 008-0145 to obtain additional information from the VAD Coordinator assisting the deceased patient. The patient was in the,
+(b)(4)
+. Your firm provided a copy of a memo to file for complaint #201 008-0145, summarizing the discussion with the VAD Coordinator. Thoratec has issued CAPA 45570 to review Thoratec's Product Investigation Procedure (WI 50099-0021-011, rev. Q) to include a section titled "Event Investigation", where information such as patient conditions, alarms and responses to the event will be documented.
+Additionally, your firm plans to incorporate in its Risk Management Evaluation whether the event/hazard was sufficiently addressed in the approved labeling, and whether the event was reportable and the investigation was not able to establish whether a relationship exists between the device and the event.
+Your firm states that to address the system and effectiveness requirement it will review all reportable events in the last
+(b)(4)
+years in which product was not received for evaluation or handled under a Work Order by your Technical Service personnel. If required, your firm will attempt to obtain additional information pertaining to the reported event to assess whether the event was adequately addressed. Thoratec will document the assessment and determine the need for evaluation of the Risk Management File.
+Your firm's response should be sent to: Food and Drug Administration, San Francisco District Office, Compliance Branch, 1431 Harbor Bay Parkway, Alameda California, 94502-7070. Refer to the Unique Identification Number CMS #248634. If you have any questions about the contents of this letter, please contact: Lydia Chan by phone at (510) 337-6776 or by fax at (510) 337-6102.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm's facility. It is your firm's responsibility to ensure compliance with applicable laws and regulations administered by FDA The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm's manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely yours,
+/S/
+Barbara Cassens
+District Director
+San Francisco District Office
+-

@@ -1,0 +1,79 @@
+Applied Medical Technology Inc 6/8/11
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Cincinnati District Office
+Central Region
+6751 Steger Drive
+Cincinnati, OH 45237-3097
+Telephone: (513) 679-2700
+FAX: (513) 679-2771
+June 8, 2011
+WARNING LETTER
+VIA UPS
+CIN-11-193052-20
+George J. Picha, M.D.
+President
+Applied Medical Technology, Inc.
+8000 Katherine Boulevard
+Brecksville, OH 44141
+Dear Dr. Picha:
+During an inspection of your firm located in Brecksville, Ohio on April 11 through 29, 2011, investigators from the United States Food and Drug Administration (FDA) determined that your firm is manufacturing sterile gastroenterology feeding tubes. Under section 201(h) of the Federal Food, Drug and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C.
+§
+. We received your response dated May 7, 2011, concerning our investigators’ observations noted on the Form FDA 483, List of Inspectional Observations that was issued to your firm. We address this response below, in relation to each of the noted violations. These violations include, but are not limited to, the following: 351(h), in that the methods used in, or the facilities or controls used for, their manufacturing, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (C.F.R.), Part 820
+1.
+Failure to establish adequate procedures to assure that any complaint involving the possible failure of a device, labeling, or packaging to meet any of its specifications is adequately investigated, as required by 21 C.F.R. § 820.198(c). Specifically,
+Your Complaint Handling procedure states that a “thorough and timely investigations are to be conducted”, but does not define what constitutes a thorough investigation.
+For example, complaint#20110083 states that the “balloon burst”. The investigation states that it cannot be determined conclusively how the balloon tore, and then list several factors that may affect the longevity of the device, such as may have come in contact with sharp material, pH of the patient stomach, patient diet, patient medications, balloon fill volume, device placement, etc. Your investigation does not include determining if any of the above factors have occurred, and therefore your investigation cannot support your conclusion that “the failure of the returned device is not believed to have been caused by a manufacturing defect”.
+We cannot determine the adequacy of your response at this time. Your response states that the complaint procedure will be revised by June 1, 2011. Please provide a copy of the procedure and examples of actual complaints after implementation of the procedure.
+2.
+Failure to adequately establish and implement your corrective and preventive action procedures to include requirements for analyzing processes quality records and work operations to identify existing and potential causes of nonconforming product, or other quality problems, as required by 21 C.F.R. § 820.100(a)(1). Specifically,
+Your Corrective and Preventive Action procedure states “Scrap components shall be analyzed, regardless of cost for possible action”. Scrap from the machining process is not being captured and analyzed. Scrap, due to quality issues, documented on your Material Review Report, is not being analyzed. Your firm is not monitoring scrap rates and has not established alert/action levels, which would trigger preventive or corrective actions.
+3.
+Failure to investigate the cause of nonconformities and identify corrective actions
+needed to prevent recurrence of non-conforming product relating to product processes and the quality system, as required by 21 C.F.R. § 820.100(a)(2) and (3). Specifically,
+The injection molding scrap rate for 14FR Balloon for lot #10090947 is 46%; lot #10091334 is 44%; and lot #10091337 is 38%.
+The reason listed for the rejection of all these balloons is “thin spots”. Your firm has not conducted an investigation to determine the cause of these nonconformities and no corrective action has been taken.
+Your response to observations 2 and 3 is not adequate. It does not address what actions you are taking to reduce high scrap rates. No corrective actions were submitted showing nonconformances have been analyzed; and that you are investigating the cause of high scrap rates.
+4.
+Failure to review, evaluate, and perform revalidation, where appropriate, to a process when changes or process deviations have occurred, as required by 21 C.F.R. § 820.75(c). Specifically,
+a)
+The injection molding process is not routinely operating within the established validated parameters. Of the 24 device history records collected by the investigators, all 24 lots ran outside the validated parameters. For the 14 FR balloons, all 19 lots had 6 or more of the 14 parameters running outside of the validated ranges.
+b)
+The extension of the post bake time for the Mini Buttons from 45 minutes to 3 hours has not been validated.
+Your response to this observation 4(a) is not adequate. You state that many of the parameters are reference only, and are not critical to the process. Additionally, your response states that a retrospective validation will be performed. Your response does not address evaluating the molding process. Due to the high scrap (reject) rate of your molding process, you have not ensured that you are producing devices that conform to their specifications.
+Although you are performing a two inflation/deflation inspection on each balloon, this does not fully verify that the balloon meets all operating (durability) specifications, including “balloon life” expectancy.
+Your response to this observation 4(b) is not adequate. Your response states that a longer bake time would not negatively affect the device. No documented scientific rationale was provided with your response to support this statement. Additionally, you have not provided documented evidence that three hours is a long enough bake time to meet the required specifications for the device.
+5.
+Failure to establish and maintain procedures to control product that does not conform to specified requirements, as required by 21 C.F.R. § 820.90(a). Specifically,
+Material Review Reports are not opened for all in-process machining and assembly nonconformances as required by your “Material Review Board” procedure, SOP 90-1.
+We cannot determine the adequacy of your response at this time. Your response states this will be corrected and implemented by July 1, 2011. Please provide a detailed description of your corrective action.
+6.
+Failure to establish and maintain procedures to control the design of the device in order to ensure that specified design requirements are met, as required by 21 C.F.R. § 820.30(a). For example,
+The following design controls were inadequate during the development of the design of the Initial Placement GI kit:
+a)
+Failure to establish and maintain plans to define responsibility for implementation of these plans; and failure to review, update, and approve the plans as design and development evolved, as required by 21 C.F.R. § 820.30(b).
+b)
+Failure to establish design inputs that are complete and not ambiguous, as required by 21 C.F.R. § 820.30(c). For example, one input requirement for the GI kit states “Obturator dimensional accuracy”. No tolerances are documented.
+c)
+F
+ailure to plan and conduct design reviews at appropriate stages of the device’s design development, as required by 21 C.F.R. § 820.30(e). Specifically, no formal design reviews were conducted or documented for the GI kits.
+We cannot determine the adequacy of your response at this time. Your response states this will be corrected and implemented by July 1, 2011. Please provide a detailed description of your corrective action.
+7.
+Failure to establish and maintain adequate procedures for the identification, documentation, validation or where appropriate verification, review and approval of all design changes before their implementation, as required by 21 C.F.R. § 820.30(i). Specifically, You are not following your “510(k) & Existing Device Changes” procedure, which requires that each design change be reviewed to determine if a new 510(k) is needed and if a new 510(k) is not required, a “note to file” must be documented. Your firm has made eight design changes since 2006, and there is no documented rationale why these changes did not requires a new 510(k).
+We cannot determine the adequacy of your response at this time. Your response states that more thorough documentation shall be implemented by June 1, 2011. Please provide a copy of the documented rationales.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by FDA without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies are advised of the issuance of all Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, no premarket submission to which the Quality System regulation deficiencies are reasonably related will be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen (15) working days from the date you receive this letter as to the specific steps you have taken to correct the noted violations, including an explanation of how you plan to prevent these violations, or similar violations, from occurring again. Include documentation of the corrective actions you have taken. If your planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective action cannot be completed within 15 working days, please state the reason for the delay and the time within which the corrections will be completed.
+Your written response should be sent to Ms. Gina Brackett, Compliance Officer, Food and Drug Administration, 6751 Steger Drive, Cincinnati, Ohio, 45237. If you have any questions concerning the contents of this letter you may contact Ms. Brackett at (513) 679-2700, ext. 2167, or you may forward a facsimile to her at (513) 679-2773.
+Finally, you should know that this letter is not intended to be an all-inclusive list of violations at your firm. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, Form FDA 483, issued at the closeout of the inspection, may be symptomatic of serious problems in your firm’s manufacturing and quality assurance systems. You should investigate and determine the causes of the violations, and take prompt actions to correct the violations to bring your products into compliance.
+Sincerely,
+/S/
+Teresa C. Thompson
+District Director
+Cincinnati District
+-
+-
+Close Out Letter
+Applied Medical Technology, Inc. - Close Out Letter 5/1/12
+-

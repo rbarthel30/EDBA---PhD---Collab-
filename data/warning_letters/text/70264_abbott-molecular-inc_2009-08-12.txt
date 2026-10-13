@@ -1,0 +1,63 @@
+Abbott Molecular 8/12/09
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Chicago District
+550 West Jackson Blvd., 15th Floor
+Chicago. Illinois 60661
+Telephone: 312-353-5663
+August 12, 2009
+WARNING LETTER
+CHl-08-09
+CERTIFIED MAIL
+RETURN RECEIPT REQUESTED
+Mr, Miles W. White
+President and Chief Executive Officer
+Abbott Laboratories
+100 Abbott Park Road
+Abbott Park, IL 60064-6092
+Dear Mr, White:
+During an inspection of your firm, Abbott Molecular, located in Des Plaines, Illinois, from June 2 to June 29, 2009, two investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures in vitro diagnostic products for human use, Under Section 201(h) of the Federal Food, Drug and Cosmetic Act (the Act) [21 U.S.C. § 321(h)], these products are defined as devices because they are intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or any function of the body.
+The inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Federal Food, Drug, and Cosmetic Act (the Act) [21 U.S.C. § 351(h)], in that the methods used in, or the facilities or controls used for, their manufacture, processing, packing, storage, or installation are not in conformity with the current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) Regulation found at Title 21, Code of Federal Regulations (CFR), part 820. We received a written response to the FDA-483 observations from Augustine Smith, Quality Director, dated July 21,2009, Our comments to the response are included after the discussion of each of the violations noted below, which include, but are not limited to:
+1. Failure to maintain and implement complete procedures for acceptance or rejection of finished device production runs, lots, or batches as required by 21 CFR § 820,80(d). For example, final kit release testing for Realtime HBV is performed using a sample volume of
+(b)(4)
+whereas the product label lists sample volumes of both 0.5 and 0.2 mL. The final kit release testing does not include a sample volume of
+(b)(4)
+.Furthermore, this violation is directly related to an FDA-483 citation from the previous inspection of 2/5-21/2007.
+During the inspection, your employees explained that your firm conducted a correlation study showing that the 0.2 mL and the 0.5 mL protocols produced similar values, so performing final kit release testing utilizing both samples volumes was not necessary. Likewise, your written response states that you intend to continue to use only the
+(b)(4)
+sample volume for product release testing.
+However, as explained by the investigators during the close-out meeting, the data
+provided failed to sufficiently demonstrate that utilization of the
+(b)(4)
+sample volume is "worst case." Among other things, your written response will require additional clarification since the supporting documentation in Attachment 1 (95 pages) and Attachment 2 (27 pages) fails to clearly connect the specific supporting documentation with the issue.
+2. Failure to adequately control products that do not conform to specifications as required by 21 CFR § 820.90(a). For example,
+a. Calibrator A master lot was initially rejected and the material quarantined from further use; however, the rejected material was subsequently used as a test material.
+b. Twenty heated covers for the
+(b)(4)
+instrument were distributed after the firm became aware of circuit flaws in May 2007. The part was not quarantined until May 2009.
+Your response provides updates to ten (10) separate procedures which you state were revised to provide additional information which, if available at the time of the incident(s), would have prevented the objectionable occurrence. While we acknowledge adding details in procedural revisions, this is not a foolproof strategy to achieve compliance, and must be further evaluated after full implementation.
+3. Failure to establish and follow procedures for the identification, documentation, and validation or verification of design changes prior to the implementation of the changes as required by 21 CFR § 820.30(i). For example,
+a. Design changes to the Abbott Real Time HBV assay eliminated acceptance
+criteria and did not consider user needs or other stakeholder needs since the impact assessment of the change PR38 which allowed for contamination of PCR wells erroneously stated that the User Needs document is not affected.
+b. Guidelines and criteria for testing of genotypes G and H were not established during design of the Realtime HBV assay, and yet the Design Verification Protocol states that if genotypes G and H are available they will be tested.
+Your response is inadequate. Among other things, it fails to address the underlying design issues related to contaminated PCR plates, but instead, attempts to justify the potential for low level contamination. Your response to FDA-483 item 3c. is potentially acceptable. The documentation that was added to the design history file will be reviewed for accuracy and completeness at a follow-up FDA inspection. Your response to FDA 483 item 3d. indicates that the documentation was changed/corrected to reflect the testing that actually occurred, but does not address the fact that the protocol was initially not executed as written.
+4. Failure to have completely defined procedures for implementing corrective and preventive actions as required by 21 CFR § 820.100(a). For example, corrective action was taken to "contain" all materials associated with a low value of Calibrator A during laboratory testing. The investigation into the associated error code revealed that the initial instructions for "containment" of specific materials stated "contain QC test material," but failed to clearly list all of the specific materials, and thus the master lot samples associated with the error were not contained. No specific corrective action was taken with respect to the procedures associated with the details of conducting and implementing corrective and preventive actions to assure that subsequent instructions will be clear and complete.
+Your response does not promise or define any specific improvements to your corrective and preventive action system, but merely states you are opening an investigation to "identify opportunities" for improvement.
+5. Failure to identify acceptance criteria for design outputs as required by 21 CFR § 820.30(d). For example, the impact assessment of the design change made to PR38 did not address the acceptance criteria with respect to user needs for the issue of potential crossover contamination of PCR sample wells when a highly reactive sample is in a nearby well.
+Your response is inadequate in that it failed to provide the basis for utilizing an updated risk profile which redefined the risk levels as "Broadly acceptable risk" and deleted the previously utilized elements which included "probability of occurrence" and "severity" ratings to determine overall risk.
+6. Failure to completely define the corrective and preventive action procedures addressing the investigation of the cause of nonconformities relating to product, processes, and the quality system as required by 21 CFR § 820.100(a)(2). For example,
+a. There was no follow-up investigation of an effectiveness check failure in response to AM-1-24-INV.
+b. The form, obvious error checklist, does not provide sufficient detail for conducting laboratory investigations.
+c. Investigation activities for 123-CAPA and 122-CAPA were not documented.
+d. Procedure AM14-01 does not include a list of acceptable obvious root causes.
+Your response provides updates to certain procedures; however, the proposed corrective action may not completely correct the shortcomings with your corrective and preventive action system.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in legal action being initiated by the Food and Drug Administration without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies are advised of the issuance of all Warning Letters so that they may take this information into account when considering the award of contracts. Additionally, FDA may withhold approval of requests for export Certificates to Foreign Governments, or approval of pending applications listing your facility will not be granted until the violations are corrected.
+Please notify this office in writing within fifteen (15) working days from the date you receive this letter of the specific steps you have taken to correct the noted violations, including an explanation of how you plan to prevent these violations, or similar violations, from occurring again. Include documentation of the corrective action you have taken. If your planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective action cannot be completed within 15 working days, state the reason for the delay and the time within which the corrections will be completed.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, Form FDA 483 (FDA 483), issued at the closeout of the inspection may be symptomatic of serious problems in your firm's manufacturing and quality assurance systems. You should investigate and determine the causes of the violations, and take prompt actions to correct the violations and to bring your products into compliance with all requirements of federal law and FDA regulations.
+Your response should be sent to: Lorelei Jarrell, Compliance Officer, Food and Drug Administration, 550 W. Jackson Blvd., 15th floor, Chicago, IL 60661. If you have any questions about the content of this letter, please contact Ms. Jarrell at 312-596-4216.
+sincerely,
+/s/
+Scott MacIntire
+District Director
+-

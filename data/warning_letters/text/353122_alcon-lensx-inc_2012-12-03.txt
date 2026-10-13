@@ -1,0 +1,67 @@
+Alcon LenSx, Inc. 12/3/12
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Los Angeles District
+Pacific Region
+19701 Fairchild
+Irvine, CA 92612-2506
+Telephone: 949-608-2900
+FAX: 949-608-4415
+WARNING LETTER
+VIA UNITED PARCEL SERVICE
+SIGNATURE REQUIRED
+December 3, 2012
+WL
+# 08-13
+Ronald M. Kurtz, M.D.
+Vice President & General Manager
+Alcon LenSx, Inc.
+33 Journey
+Aliso Viejo, California, 92656
+Dear Dr. Kurtz:
+During an inspection of your firm located in Aliso Viejo, California on June 7, 2012 through August 2, 2012, an investigator from the United States Food and Drug Administration (FDA) determined that your firm manufactures the LenSx Laser System. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (FDCA), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+Our inspection revealed that these devices are adulterated within the meaning of section 501(h) of the FDCA, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820. We received a response from Mariel Peterson dated August 23, 2012, concerning our investigator’s observations noted on the Form FDA 483 (FDA 483), List of Inspectional Observations, that was issued to your firm. We address this response below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+Failure to establish adequate procedures for corrective and preventive action (CAPA), as required by 21 CFR 820.100(a). Specifically, Corrective and Preventive Action Procedure, Rev. C (dated 8/15/2011) and Rev. D (dated 2/2/2012) were not implemented for failures of your LenSx Laser Systems’ oscillators. For example, at least ten (10) LenSx Laser Systems failed during in-house final testing, and twelve (12) LenSx Laser Systems experienced out-of-box failures between September 2011 and April 2012. Your firm attributed the failures to an oscillator issue
+(b)(4)
+. Based on your CAPA Decision Matrix of your CAPA procedures, these failures would require the initiation of a Corrective Action Request (CAR) using form FR-039. However, the CAPA procedure was not implemented, and no CAR was initiated.
+The adequacy of your firm’s response cannot be determined at this time. We acknowledge that you have initiated CAR 12-015 (dated 7/12/12) during the inspection with an estimated completion date of 12/31/12. In your response, you stated that your firm has defined additional actions to strengthen your existing systems for the handling, investigation, and documentation of CAPAs; furthermore, your current CAPA procedure will be updated to further clarify the modes by which the CAPA process is initiated and when the applicable forms are to be used. However, you have not provided sufficient evidence of these proposed corrections and its implementation.
+Our inspection also revealed that these devices are adulterated under section 501(f)(1)(B) of the FDCA, 21 U.S.C. § 351(f)(1)(B), because your firm does not have an approved application for premarket approval (PMA) in effect pursuant to section 515(a) of the FDCA, 21 U.S.C. § 360e(a), or an approved application for an investigational device exemption under section 520(g) of the FDCA, 21 U.S.C. § 360j(g). These devices are also misbranded under section 502(o) the FDCA, 21 U.S.C. § 352(o), because your firm did not notify the agency of its intent to introduce the device into commercial distribution in that a notice or other information respecting the modification to the device was not provided to FDA, as required by section 510(k) of the FDCA, 21 U.S.C. § 360(k), and 21 CFR 807.81(a)(3)(i). For a device requiring premarket approval, the notification required by section 510(k) is deemed satisfied when a PMA is pending before the agency. [21 CFR 807.81(b)]. The kind of information that your firm needs to submit in order to obtain approval or clearance for the device is described on the Internet at
+http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/HowtoMarketYourDevice/default.htm
+. The FDA will evaluate the information that your firm submits and decide whether the product may be legally marketed.
+Specifically, the Alcon LenSx Laser System was cleared via K101626, with operating software version 2.02. Your firm has since made multiple revisions to the software, and the LenSx Laser System was running software version 2.13 at the time of the inspection. FDA reviewed your software changes from version 2.02 to version 2.13 and determined that some changes are significant with respect to your original premarket clearance submission and may affect the safety and efficacy of the device. A new 510(k) is required for these changes. Examples include but are not limited to:
+Software Release Notes Version 2.12, #15:
+(b)(4)
+– This change allows for the user to make
+(b)(4)
+corneal surface.
+Software Release Notes Version 2.12, #19:
+(b)(4)
+– Pre-op Biometrics Lens Thickness max range was changed from
+(b)(4)
+.
+Software Release Notes Version 2.13, #10:
+(b)(4)
+– Minimum allowed distance between cornea incisions was changed from
+(b)(4)
+.
+It is your responsibility to report to FDA all significant modifications, including software changes that may change the design or performance and/or affect the safety and efficacy of your devices.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+Your firm’s response should be sent to: Blake Bevill, Director of Compliance Branch, Los Angeles District, Food and Drug Administration, 19701 Fairchild, Irvine, California 92612. Refer to the Unique Identification Number 353122 when replying. If you have any questions about the contents of this letter, please contact: Jessica Mu, Compliance Officer, at 949-608-4477 or 949-608-4401.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely,
+/S/
+Alonza E. Cruse, Director
+Los Angeles District
+cc:
+Mariel Peterson
+Head, Global Quality Compliance
+Alcon Laboratories, Incorporated
+6201 South Freeway
+Fort Worth, Texas 76134-2099
+-
+-
+Close Out Letter
+Alcon LenSx, Inc. - Close Out Letter 5/22/14
+-

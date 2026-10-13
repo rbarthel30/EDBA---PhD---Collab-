@@ -1,0 +1,257 @@
+WARNING LETTER
+Becton Dickinson & Company
+MARCS-CMS 535770 — Jan 11, 2018
+Share
+Tweet
+Linkedin
+Email
+Print
+Becton Dickinson & Company - 535770 - 01/11/2018
+Recipient:
+Recipient Name
+Ms. Elizabeth Gaipa
+Becton Dickinson & Company
+1 Becton Drive
+Franklin Lakes
+,
+NJ
+07417-1815
+United States
+Issuing Office:
+New England District Office
+United States
+Medical Devices and Radiological Health, Division 1 East
+1 Montvale Ave
+Stoneham, MA 02180
+January 11, 2018
+WARNING LETTER
+VIA UNITED PARCEL SERVICE
+Becton Dickinson and Company
+Attn: Ms. Elizabeth Gaipa
+WW VP Quality Management
+1 Becton Drive
+Franklin Lakes, New Jersey 07417-1815
+elizabeth_gaipa@bd.com
+Dear Ms. Gaipa:
+During an inspection of your firm located in Franklin Lakes, New Jersey on May 15, 2017 through July 6, 2017, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures BD Vacutainer Blood Collection tubes, including BD Vacutainer plastic tubes with K2EDTA anticoagulant (“BD Vacutainer K2EDTA Tubes”). Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+Our inspection revealed that your firm’s BD Vacutainer K2EDTA Tubes cleared under k953463, k971449, and k981013 are adulterated under section 501(f)(1)(B) of the Act, 21 U.S.C. § 351(f)(1)(B), because your firm does not have an approved application for premarket approval (PMA) in effect pursuant to section 515(a) of the Act, 21 U.S.C. § 360e(a), or an approved application for an investigational device exemption under section 520(g) of the Act, 21 U.S.C. § 360j(g). The BD Vacutainer K2EDTA Tubes are also misbranded under section 502(o) of the Act, 21 U.S.C. § 352(o), because your firm did not notify the agency of its intent to introduce the devices into commercial distribution, in that a notice or other information respecting modifications to these devices was not provided to FDA, as required by section 510(k) of the Act, 21 U.S.C. § 360(k), and 21 CFR 807.81(a)(3). For example,
+1.
+Your firm made significant changes to the formulation of the rubber stoppers used for the BD Vacutainer K2EDTA Tubes, and such changes could significantly affect the safety or effectiveness of the devices. For example, your
+firm changed the
+(b)(4)
+of the
+(b)(4)
+and the total
+(b)(4)
+in the rubber stoppers for these devices in 2013. These alterations to the composition of the rubber stoppers could cause new interferences with laboratory tests run on blood collected in the tubes and bias as a result of chemicals from the modified rubber stoppers altering the blood samples through out-gassing or direct contact with the patient sample. This change in the rubber stopper formulation could significantly affect the safety or effectiveness of the devices and requires submission of a new premarket notification (510(k)). The
+(b)(4)
+testing your firm performed to evaluate the change was not adequate to assess clinical performance of the modified devices, including
+whether the modification to the stopper materials will interfere with clinical laboratory tests. For example, the
+(b)(4)
+testing did not analyze certain potentially interfering compounds. Your firm did not notify FDA of this significant change before introducing the modified BD Vacutainer K2EDTA Tubes into commercial distribution, and FDA has not received a new 510(k) for these modified devices to date.
+We also note that the evidence collected during the inspection shows that the change to the formulation of the rubber stoppers for the BD Vacutainer K2EDTA Tubes described above affected additional BD products. Your firm should assess whether a new 510(k) submission is required with respect to those products, and make additional submissions to FDA as necessary.
+For a device requiring premarket approval, the notification required by section 510(k) is deemed satisfied when a PMA is pending before the agency. The kind of information that your firm needs to submit in order to obtain approval or clearance for the devices is described on the Internet at
+http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/HowtoMarketYourDevice/default.htm
+. The FDA will evaluate the information that your firm submits and decide whether the products may be legally marketed.
+This inspection also revealed that your firm’s BD Vacutainer K2EDTA Tubes are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+We received a response from Richard Byrd, WW President and Elizabeth Gaipa, WW VP Quality Management, both of BD Life Sciences, Preanalytical Systems dated, July 27, 2017, concerning our investigators’ observations noted on the Form FDA 483 (FDA 483), List of Inspectional Observations, that was issued to your firm. We address this response below, in relation to each of the noted violations. We received additional responses from your firm dated September 15, 2017, November 14, 2017, and January 5, 2018 and will evaluate these responses along with any other written material provided in response to the violations cited in this letter. These violations include, but are not limited to, the following:
+1.
+Design validation fails to ensure that the device conforms to defined user needs and intended uses and fails to include testing of production units under actual or simulated use conditions as per 21 CFR 820.30(g). For example:
+a.
+Your firm used
+(b)(4)
+testing as part of its validation activities for design changes to the BD Vacutainer K2EDTA Tubes without performing clinical testing; however, your firm has not demonstrated that this
+(b)(4)
+testing accurately and reliably predicts the impact of such changes on the clinical performance of the BD Vacutainer K2EDTA Tubes. Examples of design changes to the tubes or rubber stoppers used for the BD Vacutainer K2EDTA Tubes for which
+(b)(4)
+testing was conducted to approve/support design changes without performing clinical testing include, but are not limited to, the following projects:
+(b)(4)
+.
+b.
+(b)(4)
+testing was used to support your firm’s claim that product design changes that occurred from
+(b)(4)
+, including those identified above in example 1.a., did not impact the performance of the BD Vacutainer K2EDTA Tubes. However, the
+(b)(4)
+studies your firm conducted as part of its validation activities for these changes did not utilize/collect patient blood in the tubes, and your firm did not perform testing that included any clinical measurements on blood samples collected in the tubes.
+c.
+The final process validation report associated with
+(b)(4)
+, dated
+(b)(4)
+, concerned
+(b)(4)
+changes for multiple rubber stopper compounds. The validation report identified several rubber stopper
+(b)(4)
+/batches that failed the
+(b)(4)
+testing because the data were outside your firm’s pre-determined control limits. Your validation report noted that an interim Quality Alert would be attached to the holding cage of the rubber
+(b)(4)
+batch, and that this would alert
+(b)(4)
+operations that process variations may be required for the stoppers during the
+(b)(4)
+phases. However, your Process Validation Final Report Number
+(b)(4)
+did not document how the failures may affect/impact the overall performance and acceptance criteria of the rubber stoppers over time. This process validation report was included in
+(b)(4)
+, which was conducted as part of your design change in order to
+(b)(4)
+from the rubber stopper formulation.
+We reviewed your firm’s response and conclude that it is not adequate. Your firm’s response dated July 27, 2017, states that
+(b)(4)
+testing was sufficient to support the approval of the changes to the device and that
+(b)(4)
+testing was designed to demonstrate that any changes to the collection tubes would not be expected to affect the intended use of the tube. However, without clinical testing to demonstrate that the performance of the tubes was not affected by these design changes or evidence demonstrating that
+(b)(4)
+testing accurately and reliably predicts clinical performance, your firm has not performed adequate design validation. Your response also states that after your firm conducts validation studies for its
+(b)(4)
+test methods, your firm plans on confirming that the results from the
+(b)(4)
+testing performed with the changes made to the tubes were appropriate by evaluating the test methods used to qualify these changes against the current validated methods. Your response further states that your firm will develop a new procedure for the review of
+(b)(4)
+data and the interpretation of that data as it relates to clinical performance. In addition, your response states that all batches in the validation study for the manufacturing of the rubber stopper met the specification limits but that process validation and design procedures will be enhanced to more clearly define the use of Control Limits and Specification Limits. Your firm also developed a new procedure to document actions required for
+(b)(4)
+. However, your firm’s response did not provide supporting documentation for all its planned corrections and/or corrective actions, including the results of the completed CAPA investigation for 106252 and 106257, including supporting data, and all revised procedures.
+2.
+Failure to adequately document design input requirements as required by 21 CFR 820.30(c). For example, your firm did not define and document clear, appropriate design input requirements related to changes to the
+(b)(4)
+. Specifically, Design Input Requirements and Traceability (DIR) Matrix Rev 02 for
+(b)(4)
+, includes a design input requirement that “
+(b)(4)
+.” The “
+(b)(4)
+” acceptance criterion for this design input requirement is listed as “
+(b)(4)
+.” In addition, DIR Matrix Rev 02 for
+(b)(4)
+, includes the design input requirement, “
+(b)(4)
+.” The
+(b)(4)
+acceptance criterion for this design input requirement is “
+(b)(4)
+.” However, BD Clinical Affairs/CPD did not define the
+(b)(4)
+acceptance criteria for these two design input requirements in the DIR Matrix Rev 02, dated 11/20/13, or in the clinical memo, dated 8/23/13, referenced in that DIR Matrix.
+We reviewed your firm’s response dated July 27, 2017, and conclude that the adequacy cannot be determined at this time. Your response acknowledges that design inputs could have been further clarified to better define measurable criteria and that BD PAS has developed a remediation plan to review and ensure that active projects related to design changes for existing products have clear, measurable, and unambiguous design inputs. Your response further states that a review of design input requirements for active projects that potentially have a functional impact will be conducted to ensure requirements are appropriately defined and verifiable and that VO8-832, Design Input Requirements Management and Traceability will be revised to require that
+(b)(4)
+. Please provide the results of your completed CAPA investigation for 106269, including supporting evidence, as the data become available. Without this documentation, we cannot make an assessment with respect to adequacy.
+3.
+Failure to adequately establish procedures for receiving, reviewing, and evaluating complaints by a formally designated unit as per 21 CFR 820.198(a). For example:
+a.
+In May 2015, Becton Dickinson received a complaint from Magellan Diagnostics Inc. (“Magellan”) about observed negative bias in test results obtained from Magellan’s devices when using blood collected in BD Vacutainer K2EDTA Tubes. Your firm did not enter this information into its complaint system, evaluate the complaint to determine if it represents an MDR reportable event, or initiate an investigation of the complaint.
+b.
+Standard Operating Procedure, Global Complaints Management, 1501-092-000- SWI, Rev 03, fails to identify the
+(b)(4)
+inquiry call log as a source of data for complaint review. Additionally,
+(b)(4)
+audits of this log by the technical service department failed to evaluate and identify entries as product complaints and to evaluate them for potential MDR reportability. Examples of entries logged into
+(b)(4)
+which were not treated as complaints include, but are not limited to, inquires such as pediatric samples clotting in tubes; lab reporting K+ results greater than 10; and caps coming off when centrifuging.
+c.
+Document Number CTS-003, Rev 02, BD Technical Service Call Log
+(b)(4)
+, serves as the work instruction for the initial receipt of calls, faxes and emails received by the BD Technical Services Department, which can include complaint information. However, the document failed to provide instruction as to how inquiries should be identified and evaluated as complaints.
+d.
+During the inspection, your firm’s World Wide Vice President for Quality Management explained that your firm has no written procedures for the use of
+(b)(4)
+. This software, which has been used by your sales representatives since 12/2014, and is used for documenting and reporting complaints and product incident reports. The
+(b)(4)
+software is also used in collecting information for potential device complaints, malfunctions and MDR reportable events.
+We reviewed your firm’s response dated July 27, 2017, and conclude that the adequacy cannot be determined at this time. We acknowledge that your firm has submitted an updated SOP to identify the
+(b)(4)
+call log as a source of data for complaint review and submitted a revised work instruction for evaluating and handling complaint information. Your response also states that BD PAS conducted a retrospective review of BD PAS Technical Services Call Log entries received between 01/01/2013 and 05/22/2017 for the BD Vacutainer EDTA family of products and all BD Microtainer tubes and that this review identified 430 entries that have now been entered as complaints into your BD PAS complaint database,
+(b)(4)
+, that were not previously evaluated or entered as complaints. We also acknowledge that your response states that you will conduct an additional retrospective review of the PAS Technical Service Call Log entries for all other BD PAS product families since 01/01/2015 to present, in order to identify additional complaints for entry into
+(b)(4)
+. Your response further states that once the newly identified complaints have been investigated, BD PAS will re- conduct trending utilizing the complete data set. Additionally, your response acknowledges that your firm did not consider as complaint information Magellan’s communication describing inaccurate results obtained with its lead testing device when using BD Vacutainer Blood Collection Tubes, but that you have entered the complaint information into
+(b)(4)
+as of 07/12/2017. However, your firm did not provide supporting documentation showing additional complaints identified or related trending results, copies of all revised procedures, or documentation of the completed CAPA investigations.
+4.
+Failure to validate computer software for its intended use according to an established protocol when computers or automated data processing systems are used as part of production or the quality system, as required by 21 CFR 820.70(i). For example, during the inspection, your firm’s World Wide Vice President for Quality Management explained that your firm has no written procedures for validating the use of
+(b)(4)
+, which has been used by your sales representatives since 12/2014, for documenting and reporting complaints and product incident reports (PIRs).
+We reviewed your firm’s response, dated July 27, 2017, and conclude that the adequacy cannot be determined at this time. The response states that your firm has determined that the PIR application of
+(b)(4)
+should have been validated. Your response further states that your firm will execute the validation for the PIR portion of
+(b)(4)
+. However, the response did not include documentation for the validation of the
+(b)(4)
+software for complaint handling.
+5.
+Failure to adequately review, evaluate and investigate complaints involving the possible failure of a device to meet any of its specifications as per 21 CFR 820.198(c). For example, complaint #000029473A, received on 07/02/2013, related to cartridge errors, which delayed results and occurred when using BD Vacutainer tube #366664, Lot #3032032, with an i-STAT portable clinical analyzer to screen for troponin levels in blood, which are used in the diagnosis and treatment of myocardial infarction (heart attack). The complainant also reported a sulfurous smell upon opening the BD Vacutainer tubes after blood was added. The complaint file for complaint #000029473A did not document whether an i-STAT analyzer was used in the testing conducted as part of your investigation and did not document any investigation by your firm of the sulfurous smell that was reported.
+We reviewed your firm’s response dated July 27, 2017, and conclude that the adequacy cannot be determined at this time. Your response states that no root cause was identified as the issue was not able to be replicated. We acknowledge that your response states that you have updated the complaint file for #00029473A and that you have revised VO8-886 Designated Complaint Handling Unit procedure to more explicitly define that all supporting documentation from the complaint investigation be included in the complaint record and that instruments used in testing related to the complaint investigations be identified as part of the complaint file. Your firm’s response also indicated that you will further revise this procedure to include an escalation model that involves Medical Affairs for certain complaints. Please provide documentation of supporting all of these corrections and/or corrective actions, including the updated complaint file and the results of your completed CAPA investigation for 106292, including supporting evidence, as the data become available. Without this information, FDA cannot determine the adequacy of your response.
+Our inspection also revealed that your firm’s BD Vacutainer K2EDTA Tubes are misbranded under section 502(t)(2) of the Act, 21 U.S.C. § 352(t)(2), in that your firm failed or refused to furnish material or information respecting the device that is required by or under section 519 of the Act, 21 U.S.C. § 360i, and 21 CFR Part 803 - Medical Device Reporting. Significant violations include, but are not limited to, the following:
+1.
+Failure to submit a report to the FDA no later than 30 calendar days after the day that your firm received or otherwise became aware of information, from any source, that reasonably suggests that a device that it markets has malfunctioned and this device or a similar device that your firm markets would be likely to cause or contribute to a death or serious injury, if the malfunction were to recur, as required by 21 CFR 803.50(a)(2).
+For example:
+The information included for complaints PR ID73958, PR ID78514, and PR ID 71551 describes a malfunction of your firm’s device involving the stopper pulling out of the tube and blood leakage or spillage. The MDRs corresponding to each of the above referenced complaints (MDR 1917413-2017-00018, MDR 1917413-2017-00019, and MDR 1917413-2017-00013, respectively) were received by FDA beyond the required 30 calendar day timeframes.
+The adequacy of your firm’s response dated July 27, 2017, cannot be determined at this time
+.
+We acknowledge that your firm submitted MDRs for the above referenced complaints and that your firm stated that it will conduct a two-year retrospective review of its complaints in accordance with its revised MDR procedure. However, although your firm submitted MDRs for each of the corresponding complaints, your firm’s response did not include the results of its retrospective review.
+2.
+Failure to adequately develop, maintain and implement written MDR procedures, according to 21 CFR 803.17. The following documents were collected during the FDA inspection and were reviewed collectively as your firm’s MDR procedure:
+Document titled
+United States Electronic Medical Device Reporting
+(eMDR)/Adverse Drug Experience Reporting(ADE)/Adverse Event Reporting (AER) Procedure
+, CPR-051, Revision Level 04, Valid From: 28- Apr-2017 To: 31-Dec-9999
+Document titled
+Medical Device and Adverse Event DT’s
+, CPR-119, Revision Level 01, Valid From: 28-Apr-2017 To: 31-Dec-9999
+Document titled
+Medical Device Reporting (MDR) Review and Reporting for
+(b)(4)
+, NASSC-AEG-001, Revision Level 04, Valid From: 28-Apr- 2017 To: 15-May-2017
+Document titled
+Medical Device Reporting (MDR); BD Guidance and Interpretation of key considerations for making US MDR reporting decisions
+, Document Number: 07-05, Revision 07
+After reviewing your firm’s MDR procedure, the following deficiencies were noted:
+1)
+The procedure does not establish internal systems that provide for timely and effective identification, communication, and evaluation of events that may be subject to MDR requirements, as required under 21 CFR 803.17(a)(1). For example:
+a.
+Under Section 4.1.2, of your firm’s document NASSC-AEG-001, Revision Level 04, states,
+(b)(4)
+.”
+This document defines “adverse event” as the following: “
+(b)(4)
+.” Reportable events are not limited to events that occur with device use “in a patient.” For example, a malfunction of the device may be reportable if such malfunction would be
+“likely to cause or contribute to a death or serious injury, if the malfunction were to recur,”
+regardless of whether the device was
+used in a patient. Following your firm’s procedure could result in failure to collect all information reasonably known to the firm and failure to identify reportable events.
+2)
+The procedure does not establish internal systems that provide for a standardized review process to determine when an event meets the criteria for reporting under this part, as required by 21 CFR 803.17(a)(2). For example:
+a.
+Attachment A (i.e., decision tree), to the firm’s document CPR-119, Revision level 01, includes the following question “
+(b)(4)
+”
+Your firm’s procedure does not define a “qualified person” in a manner consistent with 21 CFR part 803, and this statement in your procedure could lead the reviewer to an incorrect reportability determination for the event. Under 21 CFR 803.20(c)(2), a manufacturer does not have to submit an MDR if it has information that would lead a person who is qualified to make a medical judgment reasonably to conclude that a device did not cause or contribute to an MDR reportable event; persons qualified to make a medical judgment include physicians, nurses, risk managers, and biomedical engineers.
+The adequacy of the response dated July 27, 2017 cannot be determined at this time
+.
+We acknowledge that your firm’s July 27, 2017 response included a document titled
+Medical Device and Adverse Event DT’s
+, CPR-119, Revision Level 02 that removed the statement referenced above in example 2)a. We further acknowledge that your July 27, 2017 response states that your firm will conduct a retrospective review of complaints, and will make additional revisions to its MDR procedure. However, your firm’s response did not include all of the completed documentation to support these corrections and corrective actions.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (which must address systemic problems) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the
+delay and the time within which these activities will be completed. Your firm’s
+response should be comprehensive and address all violations included in this Warning Letter.
+Your firm’s response should be sent electronically to: Gina Brackett, Acting Director of Compliance Branch, or emai
+l at
+gina.brackett@fda.hhs.gov
+.
+Refer to the Unique Identification Number (CMS case #535770) when replying. If you have any questions about the contents of this letter, please contact: Stephanie Durso, District Compliance Officer, at 973-331-4911 or email at
+stephanie.durso@fda.hhs.gov.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely yours,
+/S/
+Joseph Matrisciano, Jr.
+Program Division Director
+Office of Medical Devices and Radiological Health
+Division 1 East
+cc: Mr. Richard Byrd, Becton Dickinson & Company, World Wide President PAS, General Management, richard_byrd@bd.com
+,
+1 Becton Drive, Franklin Lakes, New Jersey 07417
+Content current as of:
+01/11/2018
+More Warning Letters

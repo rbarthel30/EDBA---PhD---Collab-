@@ -1,0 +1,60 @@
+23andMe, Inc. 11/22/13
+Share
+Tweet
+Linkedin
+Pin it
+More sharing options
+Linkedin
+Pin it
+Email
+Print
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+10903 New Hampshire Avenue
+Silver Spring, MD 20993
+Nov 22, 2013
+Ann Wojcicki
+CEO
+23andMe, Inc.
+1390 Shoreline Way
+Mountain View, CA 94043
+Document Number: GEN1300666
+Re:
+Personal Genome Service (PGS)
+WARNING LETTER
+Dear Ms. Wojcicki,
+The Food and Drug Administration (FDA) is sending you this letter because you are marketing the 23andMe Saliva Collection Kit and Personal Genome Service (PGS) without marketing clearance or approval in violation of the Federal Food, Drug and Cosmetic Act (the FD&C Act).
+This product is a device within the meaning of section 201(h) of the FD&C Act, 21 U.S.C. 321(h), because it is intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or is intended to affect the structure or function of the body. For example, your company’s website at www.23andme.com/health (most recently viewed on November 6, 2013) markets the PGS for providing “health reports on 254 diseases and conditions,” including categories such as “carrier status,” “health risks,” and “drug response,” and specifically as a “first step in prevention” that enables users to “take steps toward mitigating serious diseases” such as diabetes, coronary heart disease, and breast cancer. Most of the intended uses for PGS listed on your website, a list that has grown over time, are medical device uses under section 201(h) of the FD&C Act. Most of these uses have not been classified and thus require premarket approval or de novo classification, as FDA has explained to you on numerous occasions.
+Some of the uses for which PGS is intended are particularly concerning, such as assessments for BRCA-related genetic risk and drug responses (e.g., warfarin sensitivity, clopidogrel response, and 5-fluorouracil toxicity) because of the potential health consequences that could result from false positive or false negative assessments for high-risk indications such as these. For instance, if the BRCA-related risk assessment for breast or ovarian cancer reports a false positive, it could lead a patient to undergo prophylactic surgery, chemoprevention, intensive screening, or other morbidity-inducing actions, while a false negative could result in a failure to recognize an actual risk that may exist. Assessments for drug responses carry the risks that patients relying on such tests may begin to self-manage their treatments through dose changes or even abandon certain therapies depending on the outcome of the assessment. For example, false genotype results for your warfarin drug response test could have significant unreasonable risk of illness, injury, or death to the patient due to thrombosis or bleeding events that occur from treatment with a drug at a dose that does not provide the appropriately calibrated anticoagulant effect. These risks are typically mitigated by International Normalized Ratio (INR) management under a physician’s care. The risk of serious injury or death is known to be high when patients are either non-compliant or not properly dosed; combined with the risk that a direct-to-consumer test result may be used by a patient to self-manage, serious concerns are raised if test results are not adequately understood by patients or if incorrect test results are reported.
+Your company submitted 510(k)s for PGS on July 2, 2012 and September 4, 2012, for several of these indications for use. However, to date, your company has failed to address the issues described during previous interactions with the Agency or provide the additional information identified in our September 13, 2012 letter for
+(b)(4)
+and in our November 20, 2012 letter for
+(b)(4)
+, as required under 21 CFR 807.87(1). Consequently, the 510(k)s are considered withdrawn,
+see
+21 C.F.R. 807.87(1), as we explained in our letters to you on March 12, 2013 and May 21, 2013. To date, 23andMe has failed to provide adequate information to support a determination that the PGS is substantially equivalent to a legally marketed predicate for any of the uses for which you are marketing it; no other submission for the PGS device that you are marketing has been provided under section 510(k) of the Act, 21 U.S.C. § 360(k).
+The Office of In Vitro Diagnostics and Radiological Health (OIR) has a long history of working with companies to help them come into compliance with the FD&C Act. Since July of 2009, we have been diligently working to help you comply with regulatory requirements regarding safety and effectiveness and obtain marketing authorization for your PGS device. FDA has spent significant time evaluating the intended uses of the PGS to determine whether certain uses might be appropriately classified into class II, thus requiring only 510(k) clearance or de novo classification and not PMA approval, and we have proposed modifications to the device’s labeling that could mitigate risks and render certain intended uses appropriate for de novo classification. Further, we provided ample detailed feedback to 23andMe regarding the types of data it needs to submit for the intended uses of the PGS. As part of our interactions with you, including more than 14 face-to-face and teleconference meetings, hundreds of email exchanges, and dozens of written communications, we provided you with specific feedback on study protocols and clinical and analytical validation requirements, discussed potential classifications and regulatory pathways (including reasonable submission timelines), provided statistical advice, and discussed potential risk mitigation strategies. As discussed above, FDA is concerned about the public health consequences of inaccurate results from the PGS device; the main purpose of compliance with FDA’s regulatory requirements is to ensure that the tests work.
+However, even after these many interactions with 23andMe, we still do not have any assurance that the firm has analytically or clinically validated the PGS for its intended uses, which have expanded from the uses that the firm identified in its submissions. In your letter dated January 9, 2013, you stated that the firm is “completing the additional analytical and clinical validations for the tests that have been submitted” and is “planning extensive labeling studies that will take several months to complete.” Thus, months after you submitted your 510(k)s and more than 5 years after you began marketing, you still had not completed some of the studies and had not even started other studies necessary to support a marketing submission for the PGS. It is now eleven months later, and you have yet to provide FDA with any new information about these tests. You have not worked with us toward de novo classification, did not provide the additional information we requested necessary to complete review of your 510(k)s, and FDA has not received any communication from 23andMe since May. Instead, we have become aware that you have initiated new marketing campaigns, including television commercials that, together with an increasing list of indications, show that you plan to expand the PGS’s uses and consumer base without obtaining marketing authorization from FDA.
+Therefore, 23andMe must immediately discontinue marketing the PGS until such time as it receives FDA marketing authorization for the device. The PGS is in class III under section 513(f) of the FD&C Act, 21 U.S.C. 360c(f). Because there is no approved application for premarket approval in effect pursuant to section 515(a) of the FD&C Act, 21 U.S.C. 360e(a), or an approved application for an investigational device exemption (IDE) under section 520(g) of the FD&C Act, 21 U.S.C. 360j(g), the PGS is adulterated under section 501(f)(1)(B) of the FD&C Act, 21 U.S.C. 351(f)(1)(B). Additionally, the PGS is misbranded under section 502(o) of the Act, 21 U.S.C. § 352(o), because notice or other information respecting the device was not provided to FDA as required by section 510(k) of the Act, 21 U.S.C. § 360(k).
+Please notify this office in writing within fifteen (15) working days from the date you receive this letter of the specific actions you have taken to address all issues noted above. Include documentation of the corrective actions you have taken. If your actions will occur over time, please include a timetable for implementation of those actions. If corrective actions cannot be completed within 15 working days, state the reason for the delay and the time within which the actions will be completed. Failure to take adequate corrective action may result in regulatory action being initiated by the Food and Drug Administration without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties.
+We have assigned a unique document number that is cited above. The requested information should reference this document number and should be submitted to:
+James L. Woods, WO66-5688
+Deputy Director
+Patient Safety and Product Quality
+Office of In vitro Diagnostics and Radiological Health
+10903 New Hampshire Avenue
+Silver Spring, MD 20993
+If you have questions relating to this matter, please feel free to call Courtney Lias, Ph.D. at 301-796-5458, or log onto our web site at
+www.fda.gov
+for general information relating to FDA device requirements
+.
+Sincerely yours,
+/S/
+Alberto Gutierrez
+Director
+Office of In vitro Diagnostics
+and Radiological Health
+Center for Devices and Radiological Health
+Close Out Letter
+23andMe, Inc. - Close Out Letter 3/25/14

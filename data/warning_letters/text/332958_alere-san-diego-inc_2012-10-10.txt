@@ -1,0 +1,428 @@
+Alere San Diego, Inc. 10/22/12
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Los Angeles District
+19701 Fairchild
+Irvine, California 92612-2506
+Telephone (949) 608-2900
+Fax (949) 608-4415
+WARNING LETTER
+VIA UNITED PARCEL SERVICE
+SIGNATURE REQUIRED
+October 22, 2012
+WL 01-13
+Mr. Ronald Zwanziger
+Chairman and CEO
+Alere, Inc.
+51 Sawyer Road, Suite 200
+Waltham, MA 02453
+Dear
+Mr. Zwanziger
+:
+During an inspection of your firm located in
+San Diego, California,
+on
+March 12 through June 27, 2012, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures Triage brand cardiac marker devices, specifically the Triage CardioProfiler Panel, Triage Cardiac Panel, Triage Profiler SOB, Triage BNP, Triage D-Dimer products, as well as the Triage brand TOX Drug Screen product
+. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+We received a response from
+Mark Gladwell, President and General Manager, dated July 17, 2012, concerning our investigator’s observations noted on the Form FDA 483 (FDA 483), List of Inspectional Observations, that was issued to your firm. We address this response below, in relation to each of the noted violations.
+These violations include, but are not limited to, the following:
+1. Failure to adequately ensure, when the results of a process cannot be fully verified by subsequent inspection and test, that the process shall be validated with a high degree of assurance and approved according to established procedure, as required by 21 CFR 820.75(a). For example:
+a. Per Procedure No. MSOP-214 –
+(b)(4)
+Application Solution, Set-up Operations and Maintenance, Revision R, your firm via an
+(b)(4)
+process applies a
+(b)(4)
+solution to its Triage quantitative
+(b)(4)
+(these are the
+(b)(4)
+for the Triage Cardiac Marker tests; these tests have a
+(b)(4)
+component). Per Procedure No. MSOP-214, the
+(b)(4)
+application process requires an oven set-point temperature of
+(b)(4)
+degrees Celsius and a drying time of
+(b)(4)
+. However, the earliest validation documentation (VP-98-04 – Process Qualification Report Cardiac Assembly, dated 4/23/1998) does not provide objective evidence of how your firm established the oven specifications. Instead, report No. VP-98-04 only indicates, “After dispensing, the
+(b)(4)
+are cured in a calibrated oven for a set duration.”
+We reviewed your firm’s response and conclude that it is not adequate because your firm has not completed an engineering study that determines the optimal settings for the oven set point and the duration of the drying process. Your firm also will need to complete a re-validation of the
+(b)(4)
+drying process after the engineering study is completed. In addition, your firm must review and, as needed, revise its product development and process validation procedures to require that objective evidence be generated to justify how process parameters are set.
+b. Your firm has not adequately established the process validation associated with the cardiac marker assembly process, which includes the
+(b)(4)
+application solution,
+(b)(4)
+addition,
+(b)(4)
+dispensing,
+(b)(4)
+, and packaging (all critical steps) for the following Triage Cardiac marker devices: Cardio Profiler (device PN: 80192/kit PN: 97100CP), Profiler SOB (device PN: 80176/kit PN: 97300), and D-Dimer (device PN: 98100/kit PN: 80221). For example, the qualification of the cardiac marker assembly process via the release of reports (VP-98-04, VP-98-40, VP-98-40R, VP-99-24, and VP-9924R), dated 4/1998 thru 2/2000 was conducted utilizing the firm’s Triage Cardiac BNP and Triage Cardiac Panel tests only. No additional cardiac assembly process qualifications were conducted utilizing the Cardio Profiler, Profiler SOB, or D-Dimer devices.
+We reviewed your firm’s response and conclude that it is not adequate. Your firm has provided an overview of a plan to ensure that all processes have been adequately validated to current industry standards. Your firm states that it will undertake a comprehensive validation review and revalidation program. Your firm also states that it will: 1) develop a validation master plan; 2) perform a validation assessment; and 3) perform process re-validation or validation. Your firm has also provided timelines for these activities. The response is not adequate because your firm has not completed the documentation, which includes a description and evidence of implementation of the corrective action for the Cardio Profiler, Profiler SOB, or D-Dimer devices.
+c. The Installation and Operational Qualification (IQ/OQ)/Item Series No. 1081 for the firm’s
+(b)(4)
+brand
+(b)(4)
+machine (Model No.
+(b)(4)
+which is used to
+(b)(4)
+the Triage product packaged kit boxes was conducted on 5/16/2006 through 5/24/2006. However, review of the subject IQ/OQ revealed that the set point temperatures for the
+(b)(4)
+and the
+(b)(4)
+are
+(b)(4)
+and
+(b)(4)
+Fahrenheit, respectively. In addition, in the event that the
+(b)(4)
+is not uniform and seals are not intact and large holes are visible, product can be re-run (an unlimited amount of times) through the
+(b)(4)
+. Review of IQ/OQ No. 1081 revealed no test challenge for the number of times the product can be re-run through the
+(b)(4)
+in an attempt to determine any adverse impact to the firm’s Triage products, which are labeled for storage at 2º – 8 º Celsius (35.6º – 46.4º Fahrenheit).
+We reviewed your firm’s response and conclude that it is not adequate. Your firm performed a study to define the maximum number of passes that a product can be run through the
+(b)(4)
+. Your firm also implemented a process to ensure that multiple passes through the
+(b)(4)
+are recorded. The response is not adequate because, after the engineering study was performed, there is no evidence that the product that was run through the
+(b)(4)
+numerous times was tested to ensure that it still met release specifications.
+d. The Verification Test for the Programming/Verification of code chips (no document control number) dated 4/21-22/2005 is inadequate in that:
+i. There is no document control number.
+ii. Step 6 of the verification test requires a repeat of the step
+(b)(4)
+times,
+(b)(4)
+for a total of sample size of
+(b)(4)
+. Instead, the protocol/raw data indicates only
+(b)(4)
+blank code chips were utilized to conduct the programming/code chip download challenge (i.e.,
+(b)(4)
+chips for each of the
+(b)(4)
+code chip types).
+iii. Upon download of the code chip information, there was no verification activity to ensure that the integrity of the performance data, which is unique to each lot code, was not compromised.
+iv. The raw data associated with the download challenge/programming of the
+(b)(4)
+chip is missing from the Programming/Verification of Code Chips documents.
+In addition, your firm has on file 37 complaints from 10/2009 thru 3/12/2012, which are associated with code chip issues. Twenty-three (62%) of the 37 complaints involve code chip issues such as check sum errors, code chip invalid message, cannot read code chip, kit code chip requires reloading, and code chip did not work. The code chips are used with the Triage meter, which is an automated electronic instrument for use to measure the results of your firm’s cardiac marker devices.
+We reviewed your firm’s response and conclude that it is not adequate. You have stated that your firm will re-verify the code chip programming process and generate a new verification report. Your firm has also stated that it will review the process for programming code chips to determine if any additional process controls are necessary to reduce the possibility of programming errors and the potential for customer complaints. Your firm has stated that it will train the appropriate personnel on all aspects of process validation. The response is not adequate because your firm has not submitted documentation that includes a description and evidence of the implementation of the correction and the corrective action.
+e. The Performance Qualification Protocol (document No. VAL-1216-PQ) dated 4/29/11 for
+(b)(4)
+Cleaning (
+(b)(4)
+) was not followed or is inadequate in that:
+i. Section 8.2 of VAL-1216-PQ requires a final report to be written; no final report was written;
+ii. There was no discrepancy report, as required per Section 8.3;
+iii. There was no documented verification of employee training per Attachment 3;
+iv. There was no documented Test Instrument Calibration per Attachment 4;
+v. There was no documented Material List per Attachment 5;
+vi. There was no documented performance testing results per Attachment 6;
+vii The run dates associated with Log Book No.
+(b)(4)
+the execution of VAL-1216-Q indicate run dates 4/15/2011-4/25/2011 to include pgs. 29-30 and 33-51. However, VAL-1216-PQ was not approved until 4/29/2011; and
+viii. Protocol VAL-1216-PQ does not address challenge testing for conducting maximum number of runs using the
+(b)(4)
+before a cleaning process is necessary.
+We reviewed your firm’s response and conclude that it is not adequate. Your firm has supplied a
+(b)(4)
+Cleaning validation report for the
+(b)(4)
+mentioned in the observation. This report covers all the items mentioned in the observation. Your firm has also addressed this issue systemically by undertaking a comprehensive revalidation program. The response is not adequate because your firm has not given an explanation of why the log book, which covers run dates of 4/15-25/2011, states that the raw data within the log book supports VAL-1216-PQ, Performance Qualification Protocol,
+(b)(4)
+Cleaning, which was not signed off until 4/29/2011.
+2. Failure to establish and maintain adequate procedures for defining and documenting design output in terms that allow an adequate evaluation of conformance to design input requirements, as required by 21 CFR 820.30(a). For example:
+a. Your current procedure QTP-1694-14 – Triage Family Final Release Specifications, Revision E, which is utilized by your firm for the final release specifications associated with your cardiac marker product lines, is not in alignment with the package inserts with respect to %CV.
+We reviewed your firm’s response and conclude that it is not adequate. On October 1, 2012, FDA and your firm reached an agreement on the final release specifications. However, the response is not adequate because: 1)
+your firm has not provided documentation or evidence to demonstrate that final release specifications have been implemented; and 2) product development and change control procedures that require release test specifications to be reviewed against the applicable package insert have not been written and implemented and training has not been completed.
+b. Procedure QTP-1694-14 – Triage Family Final Release Specifications, Revision E, provides product to product variation (P2P) ranging up to
+(b)(4)
+difference for the Triage cardiac markers between the mean of two lots when tested with the same sample.
+We reviewed your firm’s response and conclude that it is not adequate. Your firm has revised the P2P specification to reduce the amount of variation that is allowed. The response is not adequate because your firm has not yet completed a program meant to reduce analytical variation for the Triage product line. In addition, your firm is still working on further tightening of the P2P specifications for the Triage Cardiac products.
+c. Your current Procedure QTP-1827-5 – TOX +MTD – Final Release Specifications, Revision F, which is utilized for the final release specifications associated with your drugs of abuse/TOX + MTD product line, is not in alignment with the product insert with respect to the number of false positive and false negative
+(b)(4)
+calibrator recovery test results allowed for the lot release acceptance criteria versus the claimed number of false positive and negative results, as depicted within the product insert.
+We have reviewed your firm’s response and conclude that it is not adequate. Your firm has changed the Triage TOX Final Release Specifications to reject any lot with one or more failures at
+(b)(4)
+. Your firm has also validated that the software
+(b)(4)
+used for data analysis has correctly implemented the specification changes. Your firm has provided training records for the QC analysts who use these specifications. The response is not adequate because your firm has not completed the revision of the product development and change control procedures to require that release test specifications are reviewed against the applicable package insert.
+d. Your firm’s release specifications (per QTP-1827-5 – TOX + MTD Final Release Specifications, Revision F) for your drugs of abuse test include
+(b)(4)
+calibrator recovery testing. However, your firm’s testing regarding
+(b)(4)
+level testing is conducted for information purposes only (FIO) and not used in the evaluation for product release. In addition, the package insert (Document/PN: 26171en – Triage TOX Drug Screen Product Insert) Revision A, provides threshold performance characteristics for the following levels of calibrator recovery testing:
+(b)(4)
+.
+We reviewed your firm’s response and conclude that it is not adequate. Your firm has eliminated FIO testing for the TOX products. On October 1, 2012, FDA and your firm reached an agreement on the final release specifications.
+However, the response is not adequate because your firm has not provided documentation or evidence to demonstrate that final release specifications have been implemented. In addition, your firm has not completed the revision of the product development and change control procedures to require that release test specifications are reviewed against the applicable package insert.
+e. Procedure No. QTP-1827-5 – TOX + MTD Final Release Specifications, Revision F, provides a specification of
+(b)(4)
+total device defects for a lot size of
+(b)(4)
+and
+(b)(4)
+total device defects for a lot size of
+(b)(4)
+. In addition, Procedure No. QTP-1826-5 – TOX + MTD Calibration Specifications, Revision B, provides a specification of
+(b)(4)
+error codes for a lot size of
+(b)(4)
+. However, there is no documented justification of how these device defects or error code specifications were established
+.
+We reviewed your firm’s response and conclude that it is not adequate. Your firm states that the device defects and error codes addressed in this observation occur when the device does not provide any analytical data. The response is not adequate because your firm has not completed the revision of the specification for the number of allowable defects that it states will be based on the analysis of data. Your firm has also not completed the revision of product development procedures to require that specifications have a justification at the time that they are developed.
+3. Failure to establish and maintain adequate procedures to control product that does not conform to specified requirements, as required by 21 CFR 820.90(a). For example, on 3/14/2012, during a walk-through of the facility, it was observed that two cardiac marker products, Part No.
+(b)(4)
+(BNP/LN:
+(b)(4)
+) and Part No.
+(b)(4)
+(Cardiac/LN:
+(b)(4)
+), were found in convection oven No.
+(b)(4)
+with a set point temperature reading of
+(b)(4)
+degrees Celsius. However, review of Procedure No. PN:
+(b)(4)
+– Device Bases,
+(b)(4)
+, BNP, Revision O and Procedure No. PN:
+(b)(4)
+Cardiac, Revision C, revealed set point temperature specifications of
+(b)(4)
+degrees Celsius. Your firm’s initial response was to immediately reset the temperature to its specifications of
+(b)(4)
+degrees Celsius and no other quality system actions were performed. After a discussion with management, Non-Conformance Report (NCR) No. NC-12-114 was generated in response to the out-of-specification condition. However, NCR No. 114 is inadequate in that it does not address the following:
+a. The operator who reset the set point temperature from
+(b)(4)
+to
+(b)(4)
+was not notified of the nonconformance; and
+b. An investigation into how long the set point temperature had been outside the specification of
+(b)(4)
+.
+We reviewed your firm’s response and conclude that it is not adequate. Your firm has provided proof that the operator who reset the set point has been counseled regarding his action. You also responded that a NCR should have been generated when the set point temperature was reset. An investigation of how the set point was changed was conducted and your firm has supplied that information. The response is not adequate because you have not completed the non‑conformance compliance training records for all manufacturing and QA personnel who are involved in the processing of non-conformances.
+4. Failure to establish and maintain procedures that define the responsibility for review and the authority for the disposition of nonconforming product, as required by 21 CFR 820.90(b). For example, on 3/14/2012, during a walk-through of the facility, it was observed that two cardiac marker products, Part No.
+(b)(4)
+(BNP/LN:
+(b)(4)
+) and Part No.
+(b)(4)
+(Cardiac/LN:
+(b)(4)
+) were found in convection oven No.
+(b)(4)
+with a set point temperature reading of
+(b)(4)
+degrees Celsius. However, NCR No. 114 does not address the evaluation or disposition of the second lot (i.e., Cardiac PN:
+(b)(4)
+/LN:
+(b)(4)
+), which was also in the oven at the time of the out-of-specification oven condition/temperature.
+We reviewed your firm’s response and conclude that it is not adequate. Although your firm has provided two Non-Conformance Reports for the two products that were affected and you have also provided scrap reports for these two products, your firm has not completed the non-conformance compliance training records for all manufacturing and QA personnel who are involved in the processing of non‑conformances.
+5. Failure to establish and maintain adequate procedures to control environmental conditions that could reasonably be expected to have an adverse effect on product quality and failure to periodically inspect environmental control systems to verify that the system is adequate and functioning properly, as required by 21 CFR 820.70(c). For example:
+a. Procedure No. MSOP-240-
+(b)(4)
+Manufacture, Revision H, dated 3/22/2012, provides instructions within Section 7 to “Use static electricity reduction mats during
+(b)(4)
+burn-in process.” However, Procedure No. MSOP-240 does not provide instruction to conduct periodic monitoring of the two Electrostatic Discharge/ESD mats (Equipment ID No.:
+(b)(4)
+and
+(b)(4)
+) located within the
+(b)(4)
+area to ensure common point ground connections. In addition, the subject procedure is not defined in that it provides no instructions for operators/personnel to be grounded (e.g., via the use of wrist straps, conductive flooring, conductive shoes/foot straps, ESD clothing or a combination thereof) and the methodologies used to ground personnel must be monitored. Finally, the two subject ESD mats were not included on your firm’s periodic monitoring schedule and a common point ground challenge was not conducted on the mats until 3/12/2012, which is nine days after the start of the current inspection.
+We have reviewed your firm’s response and conclude that it is not adequate. Your firm has changed procedure MSOP-240,
+(b)(4)
+Manufacture, to require personnel to wear a wrist strap during
+(b)(4)
+. Your firm has placed the ESD stations under the calibration program. The response is not adequate because your firm has not completed a comprehensive program to enhance the current ESD controls which includes: 1) implementing an ESD monitoring process that will allow for periodic monitoring of the ESD controls; 2) changing the gowning procedure to define appropriate ESD gowning and testing; 3) requiring ESD smocks to be worn by employees handling
+(b)(4)
+; and 4) provide training on ESD and ESD controls for all employees that handle the
+(b)(4)
+.
+b. The quality of water for use within the cardiac marker and drugs of abuse manufacturing is
+(b)(4)
+. However, the procedures associated with the
+(b)(4)
+system are inadequate as follows:
+i. The water ports utilized for daily testing within
+(b)(4)
+associated with Procedure No. MSOP-020-6 – Deionized Water Hardness & Chlorine Log Sheet, Revision AO, which are used on a daily basis, are mapped incorrectly. For example, location
+(b)(4)
+is mapped
+(b)(4)
+, location
+(b)(4)
+is mapped
+(b)(4)
+, and location
+(b)(4)
+is mapped
+(b)(4)
+.
+ii. The package labeling for the
+(b)(4)
+brand free
+(b)(4)
+test indicates a storage condition of
+(b)(4)
+. However, the area in which the
+(b)(4)
+test was found, the
+(b)(4)
+system within
+(b)(4)
+, provides no temperature monitoring.
+iii. The package labeling for the
+(b)(4)
+brand Total Hardness Test Kit (Model
+(b)(4)
+) was found with an illegible label (i.e., the label area was worn or torn away) for lot number and expiration date identification.
+iv. Procedure MSOP-020-3 –
+(b)(4)
+Water Log Sheet –
+(b)(4)
+, Revision AO, provides a specification for
+(b)(4)
+was not labeled for identification.
+v. Procedure MSOP-020-6 –
+(b)(4)
+Water Hardness &
+(b)(4)
+Log Sheet, Revision AO, provides a water quality hardness specification in PPM (part per million). However, the package insert/procedure specification associated with the
+(b)(4)
+brand Total Hardness Test Kit provides a specification in mg/L. Neither of these procedures provides a definition of the correlation between PPM and mg/L.
+Your firm’s response to this observation appears to be adequate. Your firm has corrected all tag numbers that are listed in MSOP-020-1,
+(b)(4)
+Water Hardness &
+(b)(4)
+Log Sheet. This covers the
+(b)(4)
+Water systems in
+(b)(4)
+. These tag numbers have been physically audited and verified by Quality Assurance. The
+(b)(4)
+brand free
+(b)(4)
+test kit is now stored in a temperature controlled area that meets the requirement of the
+(b)(4)
+recommended storage temperature. The
+(b)(4)
+brand Total Hardness Test Kit Model
+(b)(4)
+with the illegible label has been replaced with a new kit with legible labels. MSOP-020 has been revised to inform operators to take action if a label is illegible.
+(b)(4)
+tank BT-102 has been labeled and all
+(b)(4)
+water system tag numbers have been reviewed. MSOP-020-6,
+(b)(4)
+Water Hardness &
+(b)(4)
+Log Sheet, has been changed so the units between the test kit and the log sheet match. All units have been modified from ppm to mg/L for Hardness,
+(b)(4)
+.
+6. Failure to establish and maintain adequate procedures for identifying valid statistical techniques required for establishing, controlling, and verifying the acceptability of process capability and product characteristics as required by 21 CFR 820.250(a). For example:
+a. On 4/15/2009 thru 5/20/2009, via Triage Final Release Procedure QTP-1694-Revision I, and individual Triage Cardiac Family Release Procedures - to include BNP/QTP-1694-5, Revision D, Cardiac panel/QTP-1694-6, Revision F, Profiler SOB/QTP-1694-8, Revision F, Cardio Profiler/QTP-1694-7, Revision F, and D-Dimer/QTP-1694-9, Revision E - your firm implemented a “trimmed mean” methodology for the final release criteria, which was applied to all manufactured lots. The trimmed mean technique allowed the removal of the
+(b)(4)
+and
+(b)(4)
+of n sample measurements prior to calculating the arithmetic mean. For example, if
+(b)(4)
+. If
+(b)(4)
+. As such, the data used for final release/determination of within run precision, which is expressed as % CV, did not include the removed trimmed mean data. This may allow lots, which were originally out-of-specification, to be released. An example of a lot that was acceptable after applying the trimmed mean methodology is
+(b)(4)
+, where initially the % CV for TnI was calculated as
+(b)(4)
+. After
+(b)(4)
+test results were removed/trimmed, the new % CV was calculated as
+(b)(4)
+.
+We reviewed your response and conclude that it is not adequate. Your firm has removed the trimmed mean method from the analysis of product release test data for the Triage cardiac family of products. The documents that govern the release test process and specifications for these products have been revised and your firm has provided documentation of training on these procedures. All lots released after these documents were instituted use data analysis that does not use the trimmed mean method. Your firm has also revised the software
+(b)(4)
+that is used to analyze production release data to ensure that the trimmed mean methodology is not used in analyzing release data. Your firm has provided a copy of the validation procedure used to validate the software to confirm that the software used the correct analysis to release product. The response is not adequate because your firm has not completed a review of your procedures and revised procedures to ensure that changes to the release test processes, including statistical methods, be approved by certain designated individuals. Your firm has also not completed the review of release test processes at the site to ensure that the appropriate analytical methods are used.
+b. Actual stability testing results are not always evaluated against the specification at each stability time point. Procedure No. QSOP-1572 – Real Time Monitoring of Triage Quantitative Products, Revision F, provides instructions within Sections 6.3 through 6.5.4 to calculate percent recovery at
+(b)(4)
+(new product and current product) up to
+(b)(4)
+intervals only.
+(b)(4)
+, your firm utilizes
+(b)(4)
+analysis/slope to calculate percent recovery with a specification of
+(b)(4)
+for each time point. However, this methodology does not account for the actual time point percent recovery calculation. It accounts only for the
+(b)(4)
+analysis/slope, which fits into the
+(b)(4)
+recovery range. For example, the Real Time Stability Device Summary for PN:
+(b)(4)
+(TOX + MTD)/LN:
+(b)(4)
+, at the
+(b)(4)
+low reagent control concentration for the
+(b)(4)
+time point interval of 5/3/2011, indicates a THC % recovery of
+(b)(4)
+. Also, the
+(b)(4)
+time point interval of 6/30/2011 indicates an OPI % recovery of
+(b)(4)
+. Both the
+(b)(4)
+and
+(b)(4)
+recovery fail the
+(b)(4)
+specification; however, your firm applies the
+(b)(4)
+slope to the specification and not the actual time point results. This allows the results to pass specification.
+We reviewed your firm’s response and conclude that it is not adequate because your firm has not completed your Stability Test Procedure to address the issues in the observation. Your firm has also not evaluated the stability monitoring methods used for the other products to ensure that the proper analytical methods are used.
+c. The specification (per Procedure QSOP-1572 – Real Time Stability Monitoring of Triage Quantitative Products, Revisions F and G) that is used for the Triage (cardiac markers and drugs of abuse) product lines are based upon BNP precision data that set a percent recovery range of
+(b)(4)
+. The specification allows for a range of +/-
+(b)(4)
+. Your firm has adapted this BNP specification to conform to all other devices in the Triage product line. However, the justification of how this specification was adapted for all other Triage devices is inadequate.
+We reviewed your firm’s response and conclude that it is not adequate because your firm has not completed its review of the stability specification for the product lines. Your firm has also not completed the revision of its product development procedures to require that manufacturing specifications have a justification at the time that they are created.
+7. Failure to establish and maintain adequate procedures to control all documents, as required by 21 CFR 820.40. For example, unapproved/draft procedures were found being used within the firm’s warehouse area, including the following procedures: Receiving Expensed Purchase Orders, Shipping Marketing-Clinical Research Orders, Inventory Control Material Transfer Requests, Shipping QCD Replacements, Shipping process for Sales Orders, Receiving Dock to Stock and ABON Inventory, Inventory Control Cycle Count, ABON Shipments, and Receiving Purchase Orders. These procedures, which all are at version level 0.01, have been effective and in draft mode since 7/22/2010.
+We reviewed your firm’s response and conclude that it is not adequate. Your firm has acknowledged that the documents cited in this observation were not the official quality system procedures. Your firm has now removed all uncontrolled documents from the area and has performed an audit to ensure that there are no other instances in which uncontrolled documents are in use. Compliance training is scheduled for all employees who are associated with the use of controlled documents. The response is not adequate because this training has not been completed.
+8. Failure to establish and maintain adequate procedures to ensure that device history records (DHRs) for each batch, lot, or unit are maintained to demonstrate that the device is manufactured in accordance with the Device Master Record (DMR), as required by 21 CFR 820.184. For example, on, or about 2/20/2012, your firm conducted additional sample testing associated with TOX + MTD Lot no
+(b)(4)
+due to MTD and THC results of 30% and 50%, respectively, for false negative results. Your firm did not maintain the records associated with the additional testing, and even with the additional test results of 23% false negatives for MTD and 14% false negatives for THC. LN:
+(b)(4)
+was subsequently released.
+We reviewed your firm’s response and conclude that it is not adequate. Your firm took action to quarantine and scrap Lot
+(b)(4)
+. Your firm has revised the procedures governing TOX Final Release to add the additional testing and specifications to the procedure. Although your firm indicates that it will review all test processes to ensure that data that is collected and analyzed to support the release decision is part of the batch record, your firm has not shown documentation that this has been completed. Your firm has not indicated that it will review all records to ensure that all testing that was done is included in the batch record. Your firm has also not completed compliance training of all personnel involved in the release test process.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+Your firm’s response should be sent to: Mr. Blake Bevill, Director, Compliance Branch, Food and Drug Administration, 19701 Fairchild, Irvine, CA 92612-2506.
+Please refer to CMS #332958 when replying.
+If
+you have any questions about the contents of this letter, please contact: Dr. William Vitale, Compliance Officer at
+949-608-2919.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely,
+/S/
+Alonza E. Cruse, Director
+Los Angeles District
+cc:
+Ms. Ingeborg Small, Chief
+California Department of Public Health
+Food and Drug Branch
+1500 Capitol Avenue, MS 7602
+P.O. Box 997435
+Sacramento, CA 95899-7435
+-

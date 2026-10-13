@@ -1,0 +1,285 @@
+WARNING LETTER
+Zimmer Biomet, Inc.
+MARCS-CMS 558176 —
+August 24, 2018
+Share
+Tweet
+Linkedin
+Email
+Print
+Zimmer Biomet, Inc. - 558176 - 08/24/2018
+Recipient:
+Recipient Name
+Bryan Hanson
+Zimmer Biomet, Inc.
+56 East Bell Drive
+Warsaw
+,
+IN
+46582
+United States
+Issuing Office:
+New England District Office
+United States
+Office of Medical Device and Radiological Health Operations (Division 1)
+One Montvale Avenue
+Stoneham, MA 02180
+WARNING LETTER
+CMS # 558176
+UNITED PARCEL
+SERVICE
+OVERNIGHT
+DELIVERY
+August 24, 2018
+Bryan Hanson
+President, CEO
+Zimmer Biomet, Inc.
+56 East Bell Drive
+Warsaw, IN 46582
+bryan.hanson@zimmerbiomet.com
+Dear Mr. Hanson:
+The United States Food and Drug Administration (FDA) conducted an inspection of your firm’s medical device operations at Zimmer, Biomet, Inc., 56 East Bell Drive, Warsaw, IN, from April 9 through 24, 2018. During the inspection, FDA investigators determined that your firm is a medical device manufacturer of orthopedic implants. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+This inspection revealed that your devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+We acknowledge that during a Regulatory Meeting on April 27, 2017, Zimmer Biomet discussed “
+(b)(4)
+,” a remediation project to address FDA’s 2016 inspectional findings. We are also aware that your firm implemented numerous interim controls as immediate containment and mitigation actions, including increased process monitoring of validated processes while remediation activities were in progress. However, our recent inspection revealed continuing, significant violations of the quality system regulations.
+We received a response dated May 15, 2018 from Jeff Gensler, Vice President, Quality Assurance and Quality Control, which responded to the Form FDA 483, List of Inspectional Observations issued to your firm on April 24, 2018. We are also in receipt of your July 31, 2018 status update. We address your response below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1.
+Failure to establish and maintain procedures for verifying or validating the corrective and preventive action, to ensure that such action is effective and does not adversely affect the finished device, as required by 21 CFR 820.100(a)(4). During the inspection, review of three separate CAPA’s revealed that your firm has not been able to demonstrate that the corrective or preventive actions taken by your firm are effective in ensuring that devices being distributed meet all finished product specifications.
+CAPA CA-03092, was opened on December 1, 2016 to address inadequate process validations and process control procedures for in-process and final cleaning operations that were revealed during the previous inspection. During the inspection, we observed that you are monitoring your interim cleaning processes by requiring testing for
+(b)(4)
+(i.e., cleanliness tests). Your CAPA review board is responsible for monitoring this data to ensure it is meeting your pre-established specifications. However, during the inspection we observed an instance where your own data did not demonstrate that your cleaning process was capable of meeting the established cleanliness specification for
+(b)(4)
+group devices. For example, process performance indicators (Ppk’s) for
+(b)(4)
+were
+(b)(4)
+and
+(b)(4)
+from 1/28/2018 to 3/30/2018 and 12/16/2017 to 3/20/2018, respectively, which was well below your specification of
+(b)(4)
+as required in INST 28.0.0.1
+(b)(4)
+.
+We are concerned about your firm’s ability to verify the effectiveness of the corrective actions included in this CAPA, when errors are not being identified in your interim processes.
+In response to this Warning Letter, you should address specific steps you are taking to address the products that may require additional remediation. You should also address how you plan to oversee your CAPA program to ensure that you are confident that all corrective actions taken by your firm are verified to be effective.
+2.
+Failure to adequately ensure that when the results of a process cannot be fully verified by subsequent inspection and test that the process shall be validated with a high degree of assurance and approved according to established procedure, as required by 21 CFR 820.75(a).
+Your firm has not established that the
+(b)(4)
+of a
+(b)(4)
+constitutes a greater challenge to
+(b)(4)
+than the
+(b)(4)
+or
+(b)(4)
+. Specifically, in your firm’s Zimmer Biomet “SUMMARY REPORT” of April 18, 2018, states on page
+(b)(4)
+section 8.4.2.2.2, that:
+(b)(4)
+However, it is unclear if establishing
+(b)(4)
+, alone, conveys equivalent process lethality.
+(b)(4)
+may be established during the conditioning and exposure phases, however effective
+(b)(4)
+occurs only during the exposure phase. It remains unclear whether or not the
+(b)(4)
+of the
+(b)(4)
+were adequately evaluated for process lethality, in comparison to the
+(b)(4)
+. This is especially of concern since the
+(b)(4)
+are described as solid in construction; typically meaning
+(b)(4)
+.
+We are concerned about your firm’s ability to evaluate whether or not the
+(b)(4)
+of the
+(b)(4)
+for process lethality, in comparison to the
+(b)(4)
+because it is unclear if excluding these
+(b)(4)
+from testing is justified.
+In response to this Warning Letter, you should address the specific steps your firm is taking for products that are currently in distribution and may require additional remediation. You should also address how you plan to oversee your sterilization validation program to ensure that you are confident that all corrective actions taken by your firm are verified to be effective.
+In regards to Sterilization Cycle
+(b)(4)
+, it is unclear if the
+(b)(4)
+of
+(b)(4)
+might additionally impede
+(b)(4)
+in the
+(b)(4)
+. Specifically, in the protocol for Cycle
+(b)(4)
+, “LOADING CONFIGURATION” Section 2, states:
+“
+(b)(4)
+.”
+This portrays a load configuration consisting of
+(b)(4)
+; all consisting of
+(b)(4)
+. This indicates
+(b)(4)
+with
+(b)(4)
+, with the mass of
+(b)(4)
+. Product in the
+(b)(4)
+may present this as an additional
+(b)(4)
+challenge.
+We are concerned about your firm’s ability to perform microbiological challenge testing. It is unclear which location(s), within
+(b)(4)
+, and among
+(b)(4)
+, constitutes the worst-case challenge in the load configuration for sterilization.
+In response to this Warning Letter, you should address the specific steps your firm is taking for products that are currently in distribution and may require additional remediation. You should also address how you plan to oversee your sterilization validation program to ensure that you are confident that all corrective actions taken by your firm are verified to be effective.
+3.
+Failure to develop, conduct, control and monitor production processes to ensure that a device confirms to its specifications, including the monitoring and control of process parameters and device characteristics during production, as required by 21 CFR 820.70(a)(2). During the inspection. we observed five separate operations in which employees on the production line were not following production procedures adequately. For example:
+On April 9, 2018, an employee in the
+(b)(4)
+manual cleaning area was observed to be cleaning
+(b)(4)
+, with a nylon brush. This individual indicated they were on step
+(b)(4)
+of the cleaning procedure, WCLN017 - Work Instruction Clean –
+(b)(4)
+. The employee had already
+(b)(4)
+and was using a nylon brush to remove debris from the devices. The work instruction indicated that the
+(b)(4)
+and a wire brush was to be used to remove debris. A wire brush was not observed at the work station. The employee stated they use a nylon brush, instead of a wire brush, as the wire brush can scratch the polished surfaces. (the polished surface was previously covered with the
+(b)(4)
+.)
+On April 17, 2018, an employee was observed measuring part
+(b)(4)
+, for specification
+(b)(4)
+as part of their line clearance activities. According to drawing,
+(b)(4)
+, specification
+(b)(4)
+upper limit should measure
+(b)(4)
+with a tolerance
+(b)(4)
+. The employee measured this specification
+(b)(4)
+for the first part as
+(b)(4)
+and the second part as
+(b)(4)
+and stated the part was “good.” These measurements were not identified as non-conformances until the operator was directly asked what the specification was and if the parts were conforming.
+On April 9, 2018, an employee in the
+(b)(4)
+packaging area was observed packing finished
+(b)(4)
+. They were using a
+(b)(4)
+” gauge to measure the tray seal in the metal packaging area. Your firm’s Package Requirements - I00051.3 states that the narrowest seal width for Seal Width-Trays is “not less than
+(b)(4)
+”.” Your employee stated that the only gauge at her station was the
+(b)(4)
+” gauge.
+On April 9, 2018, a sterile sealing process was observed. An employee was performing sealing operations using a
+(b)(4)
+sealer. The employee was not able to demonstrate how to measure seal width using a gauge as required your Package Requirements - I00051.3. The operator incorrectly measured an area outside of the blister package seal.
+On April 11, 2018, we observed the sterile packaging operation using Sealer
+(b)(4)
+. This sealer was identified as a legacy sealer whose process validation was found to be inadequate. Your firm has been relying on appropriate process monitoring to justify the continued use of this sealer. Heat Sealing Parameter Sheet (HSPS) for
+(b)(4)
+Sealer provides instructions for taking a total of
+(b)(4)
+samples for process monitoring testing and SOP 28.0.3 Sterile Packaging Sealer Monitoring step
+(b)(4)
+, indicates samples should be submitted in order to demonstrate test results are obtained over the time the sterile packaging equipment was in operation. However, during the inspection, Your Quality Technician stated he performs seal integrity testing only on samples from the
+(b)(4)
+and seal strength testing only on samples taken at the
+(b)(4)
+.
+The above examples were discussed during the inspection as a failure of establishing sufficient training procedures, so your response does not address the above violation. We are aware that, by
+(b)(4)
+. However, this time frame is inadequate. In response to this Warning Letter, you should provide a detailed description of how you are ensuring that all employees are currently performing routine manufacturing operations in accordance with required procedures and in accordance with 21 CFR 820.70.
+4.
+Failure to establish and maintain design validation procedures to ensure proper risk analysis is completed, as required by 21 CFR 820.30(g). For example:
+During the inspection, we reviewed a Process Failure Mode Effects and Criticality Analysis (PFMECA) #PF0700, dated November 2, 2017, as part of the design history file for your comprehensive shoulder implant, (product: XL‐115363).
+This review confirmed
+inconsistencies in the assignment of potential severity ratings for hazards identified during design review. For example, the failure effect of “Compromise of the product Sterility” is given severity of scores of “
+(b)(4)
+” (necessitates minor medical intervention) or “
+(b)(4)
+” (results in permanent impairment of body function or damage to body structure/ necessitates surgical intervention) for different potential failure modes. This failure effect regarding sterility was assigned a level of “
+(b)(4)
+” for
+(b)(4)
+line items and a level of “
+(b)(4)
+” in
+(b)(4)
+line items in this PFMECA. Using a severity level of “
+(b)(4)
+” for the failure effect of product sterility for all failure modes would result in
+(b)(4)
+of the hazard lines exceeding the acceptable level of
+(b)(4)
+which would require further mitigation by your firm.
+Your response is not adequate to address the above violation. Your response indicates that you are aware of historical inconsistencies in the assignment of severity scores for failure modes at Zimmer Biomet. We are aware that you opened CAPA 02719 in July 2016 to remediate all Zimmer’s design history files as part of your
+(b)(4)
+. We acknowledge you opened CAPA CA04257 on February 7, 2018 to update risk management files and that this CAPA includes a plan to remediate and revise all existing pFMECAS’s under
+(b)(4)
+by
+(b)(4)
+. In previous correspondence (March 29, 2018), you have also indicated that all design history files (DHFs) for implants and instruments will be evaluated and either remediated to current design control standards or rationalized and obsoleted by the
+(b)(4)
+. However, to date, no DHF’s have undergone complete remediation. (See CAPA 02179 Timeline)
+We are concerned that recent design reviews conducted by your firm under
+(b)(4)
+continue to demonstrate inconsistencies. As discussed in FDA-483 item 1.C, we also observed that you have not taken a plenary “risk based” approach when performing device performance reviews as part of design reviews. In response to this Warning Letter, you should provide your plan to ensure that the design history work currently being performed by
+(b)(4)
+has been consistent and is capable of providing the required assurance that design history reviews are compliant moving forward.
+5.
+Where environmental conditions could reasonably be expected to have an adverse effect on product quality, failure to establish and maintain procedures to adequately control these environmental conditions, as required by 21 CFR 820.70(c). For example:
+During our inspection, we observed that at least forty non-conformance reports (NCR’s) have been initiated for microbial environmental action-limit excursions in controlled areas since March 17, 2017. Twenty-two of these NCR's did not include an investigation into the cause of the excursion when action levels were exceeded. For example, NCR 12185873 dated October 20, 2017 noted a microbial surface plate exceeded the action limit. The NCR did not include any investigation as to a potential cause, including further identification of the organism. Your SOP 9.5.15 - Environmental Monitoring of Environmentally Controlled Areas, requires that an investigation be conducted immediately when action levels are exceeded.
+Also, on April 9, 2018, we observed the inspection of shoulder cup implants (item number TI- 115310, under an ISO Class 8 hood at the end of the
+(b)(4)
+. We observed that racks and carriers (mailboxes) used to transport work order documentation for the
+(b)(4)
+process are not sanitized, even though they are routinely sent back to the hood from the uncontrolled environment through a pass-through. SOP 9.5.17 - Environmentally Controlled Areas: Cleanroom and Work Environment Practices, requires that all equipment be sanitized prior to placing it into the environmentally controlled hood. Firm personnel indicated that mailboxes were being reused indefinitely and entering the hood environment with no evidence of ever being sanitized.
+Your response indicates that you have updated your procedures to ensure investigations into excursions are investigated and documented properly. You also indicated that your firm has discontinued the use of mailboxes and opened CAPA CA-04521 to address employee practices in this area. We will need to verify during a re-inspection that these actions are effective in ensuring environmental conditions are being controlled properly
+6.
+Failure to establish and maintain procedures for implementing corrective and preventive actions, including requirements for analyzing processes, work operations, concessions, quality audit reports, quality records, service records, complaints, returned product, and other sources of quality data to identify existing and potential causes of nonconforming product, or other quality problems, as required by 21 CFR 820.100(a)(1). For example:
+Your firm did not review common cause rework (CCR) data as a quality data source, during the months of January and February 2018, as required by your Work instruction #WI070002 - NCR Quality Trending. In addition, your other procedures - CP01602, SOP016001, and SOP070001 - do not address CCRs as a part of your quality metric review process.
+We observed that only one defect code was assigned to at least four Non-Conforming Reports (NCR) that were identified to having multiple deficiencies documented in a single record. For example, NCR12197758, NCR12226291, NCR12220917 and NCR12177720.
+Your corrective action cannot be assessed at this time. Your response states that you will be revising your SOPs and work instructions to ensure that CCR data will be reviewed. We also understand that you are updating your
+(b)(4)
+system to improve your ability to trend NCRs with multiple defect codes. In response to this Warning Letter, please provide your revised SOPs and work instructions.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (which must address systemic problems) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+We propose a Regulatory Meeting to discuss this recent inspection. At this meeting, you should be prepared to discuss the status of your proposed corrections. Please contact our office to schedule a convenient date and time.
+If you have questions regarding any issues in this letter, please contact Compliance Officer, Karen Archdeacon at 781-587-7491 or at
+karen.archdeacon@fda.hhs.gov.
+Please send your reply electronically to Gina Brackett, Director of Compliance Branch, at
+gina.brackett@fda.hhs.gov
+.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely,
+/S/
+Joseph Matrisciano, Jr.
+Program Division Director
+Office of Medical Device and Radiological Health Division
+Cc:
+Jeff Gensler
+Vice President QA/QC Zimmer Biomet, Inc.
+jeff.gensler@zimmerbiomet.com
+Content current as of:
+08/28/2018
+More Warning Letters

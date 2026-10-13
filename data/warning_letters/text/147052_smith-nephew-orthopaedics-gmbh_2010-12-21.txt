@@ -1,0 +1,119 @@
+Smith & Nephew Orthopaedics Gmbh 12/21/10
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+10903 New Hampshire Avenue
+Silver Spring, MD 20993
+WARNING LETTER
+DEC 21, 2010
+VIA UPS EXPRESS
+John G.S. Buchanan
+Chairman
+Smith & Nephew PLC
+15 Adam Street
+London, WC2N 6LA United Kingdom
+Dear Mr. Buchanan:
+During an inspection of your firm located in
+Tuttlingen, Germany,
+on
+July 12, 2010, through July 22, 2010, an investigator from the United States Food and Drug Administration (FDA) determined that your firm manufactures R3 Ceramic Acetabular Systems
+. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act (21 U.S.C. § 351(h)), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) regulation found at Title 21,
+Code of Federal Regulations
+(C.F.R.), Part 820. We received a response from
+Les Sprinkle, Senior Vice President of Global RA/QA, dated August 11, 2010, concerning our investigator’s observations noted on the Form FDA 483, List of Inspectional Observations that was issued to you. We address this response below, in relation to each of the noted violations.
+These violations include, but are not limited to, the following:
+1.
+Failure to adequately ensure that when the results of a process cannot be fully verified by subsequent inspection and test that the process shall be validated with a high degree of assurance and approved according to established procedure, as required by 21 CFR 820.75(a). For example:
+a) There was no process validation study to support the minimum and maximum settings being used on the
+(b)(4)
+for pressing different sized Titanium rings onto various ceramic inserts for the R3 Ceramic Acetabular Liner.
+b) Bioburden and endotoxin testing were not performed for the Tibia Base Plates as required by the performance qualification studies for the
+(b)(4)
+and
+(b)(4)
+Washers used during R3 Ceramic Acetabular Liner production.
+We reviewed your response and conclude that it is inadequate. You provided information on an engineering analysis performed for products that were produced with the modified press settings.
+(b)(4)
+was performed in order to determine the
+(b)(4)
+. Based on results of this analysis and previous testing, you concluded that the
+(b)(4)
+. However, you did not provide a testing protocol or statistical rationale to support this analysis. You indicate that the settings on the press were returned to the parameters specified in the original validation and that training was performed with the press operator and all other Tuttlingen employees regarding the requirements for making changes to validated processes. You also indicate that CAPA
+(b)(4)
+was opened and an internal audit program has been put in place to ensure settings being used match the settings specified in the validations. Additionally, you plan to develop a protocol for validating the proposed press settings to be completed by December 1, 2010.
+2.
+Failure to establish and maintain adequate procedures to verify or validate corrective action to ensure that such action is effective and does not adversely affect the finished device, as required by 21 CFR 820.100(a)(4). For example: According to the firm’s management, based upon the investigation of the cause of irradiation batches receiving doses below the specified minimum dose requirement (due to incorrect packaging and product density), in May of 2009, the firm implemented new packaging procedures and retrained employees. Irradiation batches receiving doses below the specified minimum dose requirement have recurred after implementation of the cited corrective action (e.g., Irradiation Batch Nos.
+(b)(4)
+and
+(b)(4)
+). The firm’s management stated that the recurring nonconformities may be attributed to employees not following directions.
+We reviewed your response and conclude that it is inadequate. You did not describe how procedures to verify or validate corrective and preventive action would be established or revised. It is also unclear whether other corrective or preventive actions would be reviewed to determine if similar violations exist.
+3.
+Failure to establish and maintain adequate procedures to control product that does not conform to specified requirements, as required by 21 CFR 820.90(a). For example: No evaluation was conducted to determine the need for an investigation of Irradiation Batch Nos.
+(b)(4)
+and
+(b)(4)
+that failed to meet specified minimum dose requirements. No investigation of these nonconformances was conducted.
+We reviewed your response and conclude that it is inadequate. You indicate CAPA
+(b)(4)
+was issued on July 23, 2010, to address the sterilization observation. However, you did not provide evidence of the implementation of this corrective action. Your
+(b)(4)
+specification,
+Consignment and Control of Shipments for Sterilization
+, was revised so that the review process is a direct responsibility of the quality department, requiring sterilization record review by both the Incoming Goods and Quality departments. However, it is unclear if the revised document has been approved and made effective. You also state that the contract with
+(b)(4)
+was changed, requiring
+(b)(4)
+to verbally notify Smith and Nephew of any deviation to the sterilization process. The new contract also specifies that
+(b)(4)
+cannot return product to Smith and Nephew if it did not receive the required dose. Smith and Nephew states that it also reviewed the sterilization release practices at all locations worldwide to ensure the issue was not widespread.
+4.
+Failure to document the justification for use of nonconforming product and the signatures of the individual(s) authorizing the use, as required by 820.90(b). For example: Irradiation Batch Nos. (consisting of a variety of products including R3 Ceramic Acetabular Liners)
+(b)(4)
+and
+(b)(4)
+that failed to meet specified minimum dose requirements were released and distributed. No documented justification (including the signature of the individual(s) authorizing the use) for the use of this nonconforming product was provided during the inspection.
+We reviewed your response and conclude that it is inadequate because you did not demonstrate that you have implemented all elements of your corrective actions. Specifically, you did not demonstrate that a review of all sterilization release records from 2002 through 2010 was completed to determine if other sterilization batches were affected. You also indicate that an evaluation was completed by an independent consultant to determine if the irradiation batches identified in the audit posed a risk to the customer. Based on the results of this evaluation, you concluded that, though the batches were under-dosed, the sterility assurance level of 10
+-6
+required to inactivate product bioburden was attained. Additionally, you state that specification
+(b)(4)
+,
+Consignment and Control of Shipments for Sterilization
+, was changed to require record review by both Incoming Goods Inspection and Quality Assurance. It is unclear if this revised specification has been approved and is effective. You also indicate that the contract with
+(b)(4)
+was changed, requiring
+(b)(4)
+to verbally notify Smith and Nephew of any deviation to the sterilization process. Additional training on sterilization was conducted and new improvements to the shipping process to decrease variation in load were suggested. Those improvements were expected to be completed by October 1, 2010. A review of the sterilization release practices at all Smith and Nephew locations worldwide was conducted to ensure the issue was not widespread.
+5.
+Failure to establish procedures for changes to a specification, method, process, or procedure, as required by 21 CFR 820.70(b). For example: Changes were made to the minimum and maximum settings in the
+(b)(4)
+press for pressing different sized Titanium rings onto various ceramic inserts for the R3 Ceramic Acetabular Liner without undergoing a formal review and approval process per Specifications
+(b)(4)
+and
+(b)(4)
+.
+We reviewed your response and conclude that it is inadequate because you did not provide evidence of implementation of the correction and corrective actions to satisfy change control requirements. You state the press operator was immediately counseled on the requirements for making changes to manufacturing processes. It is unclear what procedure(s) and revisions were included in this training. You also indicate that the change control procedure,
+(b)(4)
+, was revised to specifically include
+process
+changes in the change control flowchart. However, it is unclear whether the revised change control procedure has been approved and is effective. You provided an audit plan and audit checklist and state that process audits will be performed throughout the Tuttlingen facility. You planned to provide refresher training for all Tuttlingen facility employees on how to request changes to documents, drawings, and processes by September 1, 2010.
+A follow up inspection will be required to assure that corrections are adequate. We will contact the appropriate people and request an establishment re-inspection. An FDA trip planner will be in touch with you to arrange a mutually convenient date for this inspection.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action, which may include detaining your devices without physical examination upon entry into the United States until the corrections are completed. 21 U.S.C. § 381(a). Also, U.S. federal agencies may be advised of the issuance of all Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen (15) working days from the date you receive this letter of the specific steps you have taken to correct the noted violations, including an explanation of how you plan to prevent these violation(s), or similar violations, from occurring again. Include documentation of the corrective action you have taken. If your planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective action cannot be completed within 15 working days, state the reason for the delay and the time within which the corrections will be completed. If the documentation is not in English, please provide a translation to facilitate our review.
+Your response should be sent to: Matthew C. Krueger, Branch Chief, U.S. Food and Drug Administration, 10903 New Hampshire Avenue, Building 66, Room 3676, Silver Spring, Maryland 20993. If you have any questions about the content of this letter please contact:
+Shanika Booth at 301-796-3896 or
+301-847-8139.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, Form FDA 483 (FDA 483), issued at the closeout of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality assurance systems. You should investigate and determine the causes of the violations, and take prompt actions to correct the violations and to bring your products into compliance.
+Sincerely yours,
+/S/
+Steven D. Silverman
+Director
+Office of Compliance
+Center for Devices and
+Radiological Health
+-
+-
+Close Out Letter
+Smith & Nephew Orthopaedics Gmbh - Close Out Letter 6/20/13
+-

@@ -1,0 +1,84 @@
+Phillips Respironics, Inc. 6/30/14
+Share
+Tweet
+Linkedin
+Pin it
+More sharing options
+Linkedin
+Pin it
+Email
+Print
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+PHILADELPHIA DISTRICT
+900 U.S. Customhouse
+2nd and Chestnut Streets
+Philadelphia, PA 19106
+Telephone: 215-597·4390
+WARNING LETTER
+14-PHI-12
+Delivered Via United Parcel Service
+June 30, 2014
+Mr. Jonathan W. Demarest, Vice President
+Quality Assurance and Regulatory Affairs
+Philips Respironics, Inc.
+1001 Murry Ridge Lane
+Murrysville, PA 15668-8517
+Dear Mr. Demarest:
+During an inspection of your firm located in Murrysville, Pennsylvania, from April 8, 2014 to April 15, 2014, an investigator from the United States Food and Drug Administration (FDA) determined that your firm manufactures the Smart Monitor ® 2 Apnea Monitor. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. 321(h), SmartMonitor ® 2 Apnea Monitors are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+This inspection revealed that this device is adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System Regulation found at Title 21, Code of Federal Regulations (CFR), Part 820. The violations include, but are not limited to, the following:
+1.
+Failure to ensure that all purchased or otherwise received product and services conform to specified requirements, as required by 21 CFR 820.50.
+Specifically, on
+(b)(4)
+, your firm accepted and released to “
+(b)(4)
+,”
+(b)(4)
+SM2PS battery packs, lot #
+(b)(4)
+and
+(b)(4)
+SM2PS battery packs, lot #
+(b)(4)
+, respectively, with no visual examination and/or functionality test to ensure the battery packs were
+(b)(4)
+and conformed to specifications. These
+(b)(4)
+battery packs were incorrectly
+(b)(4)
+resulting in SmartMonitor failures, causing the units to constantly alarm, not allowing continuous monitoring of respiration, heart rate, and oxygen saturation of infant and pediatric patients, as intended.
+2.
+Failure to develop, conduct, control, and monitor production processes to ensure that a device conforms to its specifications, as required by 21 CFR 820.70.
+Specifically, functionality tests and/or visual examinations were not performed to ensure that the battery pack component of SmartMonitor devices conforms to its specifications. Additionally,
+(b)(4)
+of these battery packs were
+(b)(4)
+incorrectly and were used either as a component in finished SmartMonitor devices or distributed as replacement stock, resulting in device failures causing the units to constantly alarm, not allowing continuous monitoring of respiration, heart rate, and oxygen saturation of infant and pediatric patients, as intended.
+We have received your written response, dated
+(b)(4)
+, and your representations in your letter concerning your corrective actions to the observations noted on the Form FDA 483, List of Inspectional Observations. While we recognize your attempts to achieve voluntary compliance, your corrective actions cannot be fully evaluated until you are able to demonstrate to the FDA, during the next inspection at your facility, that these corrective actions are implemented and followed, and are sufficient to maintain a state of control with respect to the Quality System Regulation.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected.
+Please notify this office in writing within fifteen (15) business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm's planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm's response should be comprehensive and address all violations included in this Warning Letter.
+Your written response should be sent to Richard C. Cherry, Compliance Officer, U.S. Food and Drug Administration, 900 U.S. Customhouse, 200 Chestnut Street, Philadelphia, Pennsylvania 19106. If you have any questions about this letter, please contact Mr. Cherry at (215) 717-3075 or e-mail at
+Richard.Cherry@fda.hhs.gov
+.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely,
+/S/
+Anne E. Johnson
+Acting District Director
+Philadelphia District
+cc:
+John Frank
+Senior Vice President and General Manager
+Sleep and Respiratory Care
+Philips Healthcare
+1740 Golden Mile Highway
+Monroeville, PA 15146
+Pennsylvania State Department of Health
+132 Kline Plaza, Suite A Harrisburg, PA 17104
+Attention: Director, Division of Primary Care and Home Health Services
+Close Out Letter
+Philips Respironics, Inc. - Close Out Letter 3/4/15

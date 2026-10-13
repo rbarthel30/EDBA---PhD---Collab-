@@ -1,0 +1,184 @@
+Siemens Healthcare Diagnostics, Inc 5/10/12
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+New England District
+One Montvale Avenue
+Stoneham, Massachusetts 02180
+(781) 587-7500
+FAX: (781) 587-7556
+WARNING LETTER
+CMS # 270001
+VIA UNITED PARCEL SERVICE
+May 10, 2012
+Mr. Michael Reitermann
+Chief Executive Officer
+Siemens Healthcare Diagnostics, Inc.
+511 Benedict Avenue
+Tarrytown, NY 10591
+Dear
+Mr. Reitermann:
+During an inspection of your firm located in East
+Walpole, MA,
+on
+October 24, 2011, through January 4, 2012, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures multiple in vitro diagnostic devices
+. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21,
+Code of Federal Regulations
+(CFR), Part 820.
+Your firm’s response to the Form FDA 483 (FDA 483) dated January 26, 2012, was not reviewed because it was not received within fifteen business days of issuance. The response may be evaluated along with any other written material provided in response to the violations cited in this Warning Letter. These violations include, but are not limited to, the following:
+1.
+Failure to establish and maintain adequate procedures for validating the device design, as required by 21 CFR 820.30(g). For example:
+a.
+Your firm failed to meet the precision specifications of the iPTH validation protocol identified as
+(b)(4)
+and did not perform within-run and total-precision evaluations as required in iPTH reagent validations identified as
+(b)(4)
+.
+b.
+Your firm failed to meet its cross-reactivity specifications in validation reports identified as
+(b)(4)
+. The firm also failed to test all of the cross reactivities required in
+(b)(4)
+.
+c.
+Your firm failed to meet its required sensitivity specifications in the validation report identified as
+(b)(4)
+.
+2.
+Failure to establish and maintain adequate procedures for verifying the device design, as required by 21 CFR 820.30(f). For example, your firm failed to adequately address on-board stability failures on the Centaur CP in Validation
+(b)(4)
+, in which
+(b)(4)
+failed the
+(b)(4)
+control on days
+(b)(4)
+. Your firm concluded that
+(b)(4)
+on­board claims; deviation form # 8080 I was not completed to document and assess this deviation.
+3.
+Failure to adequately validate a process whose results cannot be fully verified by subsequent inspection and test according to established procedures, as required by 21 CFR 820.75(a). For example, in validation
+(b)(4)
+for iPTH2, your firm failed to establish pre-defined acceptance criteria per the process validation requirements as the following changes were made after design transfer/process validation was initiated:
+a.
+(b)(4)
+reagent had a
+(b)(4)
+, which failed the
+(b)(4)
+specification
+(b)(4)
+documented in your firm’s validation process protocol document
+(b)(4)
+.
+b.
+All
+(b)(4)
+pilot solid-phase batches were manufactured in an open tank. The current validation protocol requires that iPTH2 is not to be manufactured or filled out of an open tank; therefore the current process has not been adequately validated.
+c.
+(b)(4)
+for solid phase used only
+(b)(4)
+, rather than a minimum of
+(b)(4)
+, as required by the validation plan. This was a smaller volume than both pilot batches
+(b)(4)
+.
+4.
+Failure to establish adequate procedures for corrective and preventive action, as required by 21 CFR 820.100(a). For example:
+a.
+CAPA LTS-W-2003-2266, initiated on 8/14/2003, involved mislabeled kit boxes for iPTH quality control kit lot
+(b)(4)
+(incorrect storage temp and incorrect fill volume), and mislabeled vials for iPTH calibrator kit lot
+(b)(4)
+(incorrect storage temp). Your firm did not reconcile the quantities of mislabeled product distributed, placed on hold, and re-labeled in house, and therefore could not verify that the preventive action was effective in eliminating the risk of an erroneous result being used to make medical decisions.
+b.
+CAPA LTS-W-2004-3188, initiated on 12/14/2004, involved unacceptable ReadyPacks that were not removed from the lot (reagent lot
+(b)(4)
+) prior to distribution. Your firm failed to notify customers that they may have received defective ReadyPacks. This step was necessary in order to prevent the customers from reporting erroneous results to clinicians that could affect patient treatment decisions. The issue is the subject of complaint # 2004-0522-DE-LTS, initiated on 9/24/2004, for pack–to-pack variation when the assay was recalibrated. Your firm also received at least three additional complaints related to these products after the CAPA was initiated, indicating that the preventative action was not effective.
+5.
+Failure to adequately document corrective and preventative action activities and their results, as required by 21 CFR 820.100(b). For example:
+a.
+CAPA LTS-W-2006-3827, initiated on 1/5/2006, involved a failure in accelerated stability during validation
+(b)(4)
+for a new lot of antibody; controls did not meet the required specification. This CAPA states in the "Effectiveness Check" section (dated 8/31/2007) that there have been no customer complaints relating to control recoveries with this new antibody pool; however, your firm received Complaint 2006-0449-SI-LTS on 6/12/2006 and Complaint 2006-0840-GEF-LTS on 3/14/2006, which both involved higher results for low level controls with reagent lot
+(b)(4)
+.
+b.
+CAPA LTS-W-2011-5470, initiated on 8/11/2011, involved a recall of multiple lots of the T4 (Thyroxine) Assay, which did not meet onboard stability claims. The initial decision to recall the product was not documented, but rather made by a phone call from the VP of Quality Management.
+6.
+Failure to establish and maintain adequate procedures for receiving, reviewing, and evaluating complaints by a formally designated unit, as required by 21 CFR 820.198(a). For example: customer notifications are not reviewed adequately to determine if the notifications should be escalated as potential complaints. Your firm’s Technical Solutions Center (TSC) received over 1,300 calls related to iPTH in 2010 and 2011. Forty nine of these calls were escalated to Global Product Support (GPS) for review as a product complaint. The remaining calls not escalated to GPS were not reviewed by your firm and your firm has never audited the TSC. These included twenty two customer notifications that involved either bias between analyzers, imprecision, or low or high recovery of controls or patient samples. The complaints also included a potential surgical delay due to performance issues. These customer notifications were all closed without documentation that the issues were fully investigated or successfully resolved.
+7.
+Failure to adequately investigate complaints involving the possible failure of a device to meet any of its specifications as required by 21 CFR 820.198(c). For example:
+a.
+Your firm failed to conduct an adequate investigation when discordant iPTH results that were inconsistent with the clinical condition of the patients were reported by users in the following complaints: 11-00340-DX CLAB-0271-R-S; 11-07933-DX CLAB-6608-S-S; 11-06040-DX CLAB-4963-S-S; and 2009-1731-EUR­ LTS. The investigations conducted by your firm for these discordant results were inadequate because they did not request samples from the customers in order to investigate the cause of the discrepant results.
+b.
+Your firm failed to conduct an adequate investigation to determine the cause of erroneous iPTH patient sample results when nonlinearity was observed between neat results and diluted results in the following complaints: 11-02096-DX CLAB-1657-R-S; 11-00976-DX CLAB-0723-S-S; 11-00659-DX CLAB-0483-S-S; and 2009-7542-NA­ LTS. The investigation performed by you firm was inadequate because you did not request samples from the customers in order to investigate the cause of the results.
+8.
+Failure to establish and maintain adequate procedures for indentifying product during all stages of receipt, production, distribution, and installation to prevent mix-ups, as required by 21 CFR 820.60. For example, Notification of Change forms describing specific instructions for users do not include full lot numbers for kits, reagents, and calibrators. The forms only included 3 of 8 digits for the kit lot numbers, 3 of 6 digits for the ReadyPack lot numbers, and 2 of 6 digits of the calibrator lot numbers. The instructions in the Notification of Change forms cannot be applied to the kits, reagents, and calibrators without further knowledge or clarification of the lot numbering system used by the firm. A review of customer complaints revealed four complaints in which the instructions in the Notification of Change forms were not applied by customers.
+9.
+Failure to adequately maintain a device history record as required by 21 CFR 820.184. For example, there was no reconciliation of quantities (filled, released, scrapped, etc.) included in the device history record for reagent lot
+(b)(4)
+manufactured in May-June 2004. The Director of Quality Assurance stated that the production floor fills all of the reagent into ReadyPacks, but only puts to stock the quantity actually requested by planning, and discards the rest. For reagent lot
+(b)(4)
+ReadyPacks were produced,
+(b)(4)
+were rejected,
+(b)(4)
+were sent to QC as samples for testing, and
+(b)(4)
+were released to testing. There is no documentation of the discard of
+(b)(4)
+units or any other documentation of the status of these
+(b)(4)
+units.
+Our inspection also revealed that your ACS:180 and ADVIA Centaur Parathyroid Hormone (PTH) Immunoassay is misbranded under section 502(t)(2) of the Act 21 USC § 352 (t)(2), in that your firm failed or refused to furnish material or information respecting the devices that is required by or under section 519 of the Act, 21 USC 360i, and 21 CFR Part 803 – Medical Device Reporting (MDR) Regulation. Significant deviations include, but are not limited to:
+1.
+Failure to submit 15 reports to FDA no later than 30 calendar days after the day that your firm received or otherwise became aware of information, from any source, that reasonably suggests that a device that it markets has malfunctioned and that the device or a similar device that it markets would be likely to cause or contribute to a death or serious injury if the malfunction were to recur, as required by 21 CFR 803.50(a)(2). For example:
+a.
+Information in the EIR indicates that your firm held a Product Quality Committee meeting on 8/20/2008. The EIR states, “[t]he firm recommended a Product Quality Committee (PQC) meeting and included in the justification that the observed low bias of serum samples in Lot
+(b)(4)
+on the Centaur CP may lead to a missed diagnosis for primary hyper-parathyroidism and posed a moderate health risk.” Based on this
+information, the following complaints meet the definition of a reportable event.
+i.
+Information in complaints 11-10173-DX CLAB-8353-S-S, 11-07933-DX CLAB-6608-S-S, 11-06040-DX CLAB-4963-S-S, 11-0309- DX CLAB-2431-S-S, 10-00521-DX CLAB-0561-P-S, 10-00388-DX CLAB-0195-S-S,2009-7689-NA-LTS, 2009-1731-EUR-LTS, 2009-6592-NA-LTS, 11-07152-DX CLAB-5918-S-S, 11-07145-DX CLAB-5923-R-S, and 2011-2846-NA-LTS indicates that your firm became aware of the events documented in these complaints after the date of the PQC meeting. Based on the investigative findings discussed in the PQC meeting, your firm should have reported these events as malfunction MDRs.
+ii.
+Your firm received Complaints2010-9213-NA-LTS, 2010-9173-NA-LTS, and 2008-0038-IN-LTS prior to the PQC meeting, but obtained the investigative findings from the PQC meeting within the 30-day timeframe to report these events as malfunction MDRs.
+The information in the complaint files above reasonably suggests that the device malfunctioned and that the device or a similar device marketed by your firm would be likely to cause or contribute to a death or serious injury if the malfunction were to recur.
+2.
+Failure to submit supplemental information within one month of the day your firm received additional information, as required by 21 CFR 803.56. For example: your firm received the results of diagnostic testing in a meeting held between your firm and a third-party diagnostic laboratory on December 8, 2009. Minutes of the meeting state that the sample is
+(b)(4)
+due to
+(b)(4)
+interference. Your firm did not report this information in a follow-up report to FDA within one month after becoming aware of the investigative results.
+Our inspection also revealed that your firm’s
+iPTH devices are misbranded under section 502(t)(2) of the Act, 21 U.S.C.
+§
+352(t)(2), in that your firm failed or refused to furnish material or information respecting the device that is required by or under section 519 of the Act, 21 U.S.C. § 360i, and 21 CFR Part 806 – Medical Devices; Reports of Corrections and Removals. Significant violations include, but are not limited to, the following:
+1. Failure to submit a written report to FDA of a correction or removal of a device initiated to reduce a risk to health posed by the device, as required by 21 CFR 806.10(a)(1).
+a. For example: your firm failed to notify FDA of the urgent safety notice issued in October 2008 in which your firm notified customers of poor sensitivity, imprecision, and a low bias with serum samples on your firm’s iPTH assay. Falsely low iPTH results could lead to a delay in treatment decisions and put patients at risk.
+2. Failure to adequately document the justification for not reporting a correction or removal to FDA, as required by 21 CFR 806.20(b)(4).
+a. For example: your firm did not document the justification for not reporting the urgent customer bulletin issued on August 22, 2003, regarding mislabeled iPTH calibrator kit vials.
+b. Lot
+(b)(4)
+of iPTH2 Control 2PK was distributed with incorrect target ranges. These target ranges had to be removed from the kits and your firm sent corrected target ranges to customers in July 2011.
+Your firm did not document the justification for not reporting this correction and removal to FDA.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+Your firm’s response should be sent to:
+Bruce R. Ota, Compliance Officer at the address listed above.
+If you have any questions about the contents of this letter, please contact:
+Bruce R. Ota at 781-587-7487.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the FDA 483 issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring your firm’s products into compliance.
+Sincerely yours,
+/S/
+Mutahar S. Shamsi
+District Director
+New England District
+Cc: Mr. Mark Shea, Sr. Director of Operations
+-
+-
+Close Out Letter
+Siemens Healthcare Diagnostics, Inc - Close Out Letter 5/3/13
+-

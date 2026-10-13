@@ -1,0 +1,81 @@
+St. Jude Medical
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Minneapolis District Office
+Central Region
+250 Marquette Avenue, Suite 600
+Minneapolis, MN 55401
+Telephone: (612)758-7133
+FAX: (612)334-4142
+April 17, 2009
+WARNING LETTER
+CERTIFIED MAIL
+RETURN RECEIPT REQUESTED
+Refer to MIN 09-16
+Daniel J. Starks
+Chairman, President, and CEO
+St. Jude Medical
+One Lillihei Plaza
+St. Paul, Minnesota
+Dear Mr. Starks:
+During an inspection of St. Jude Medical's Atrial Fibrillation Division located in Minnetonka, Minnesota, on December 8-19, 2008, investigators from the United States Food and Drug -Administration (FDA) determined that your firm manufactures ablation catheters. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act. (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act [21 U.S.C. § 351(h)] in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) regulation found at Title 21, Code of Federal Regulations (21 CFR), Part 820. At the close of the inspection, our investigators issued a Form FDA 483 noting a number of quality system observations which include, but are not limited to, the following:
+1. Failure to adequately validate and approve (according to established procedures) processes whose results cannot be fully verified by subsequent inspection and test, which is required by 21 CFR 820.75(a). For example, the
+(b)(4)
+process was not validated for the Safire ablation catheter, and there was no documentation to establish equivalence between other similar products/processes that had been validated.
+2. Failure to ensure that inspection and test equipment is suitable for its intended purposes or capable of producing valid results as required by 21 CFR 820.72(a). For example, the
+(b)(4)
+Electrical Tester validation (Document # 03-093) does not demonstrate that the electrical testing system is capable of consistently and accurately identifying problems with catheter wires.
+3. Failure to establish complete procedures for implementing corrective and preventive actions, which is required by 21 CFR 820.100(a). Specifically, there was no procedure in place for conducting CAPA risk assessments. Corrective and Preventive Action procedure 00002334, Version D, references Risk Assessment procedure 90011590; however, that procedure (900141590) had not been established.
+4. Failure to follow procedures for the control of products that do not conform to specifications as required by 21 CFR 820.90(a). For example, materials that failed to meet the specified requirements of the following acceptance tests were not identified as non-conforming materials.
+a) Verification that the
+(b)(4)
+- Ste A
+(b)(4)
+of Manufacturing Procedure, MT OPS Safire Catheter Assembly Process, 002716, Version L.
+b) Electrical check using the
+(b)(4)
+Electrical Tester - Step
+(b)(4)
+Manufacturing Inspection of the Manufacturing Procedure, MT OPS Safire Catheter Assembly Process, 002716, Version L.
+5. Failure to document acceptance activities as required by 21 CFR 820.80(e). Specifically, results of the following acceptance tests, which are conducted as part of the Safire Ablation Catheter assembly, are not fully documented on Shop Floor Paperwork (SFP).
+a) Verification that the
+(b)(4)
+- Step
+(b)(4)
+of Manufacturing Procedure, MT OPS Safire Catheter Assembly Process, 002716, Version L.
+(b)(4)
+- Step
+(b)(4)
+Manufacturing Inspection of the Manufacturing Procedure, MT OPS Safire Catheter Assembly Process, 002716, Version L.
+6., Failure to document review of sampling methods for adequacy for their intended use, as required by 21 CFR 820.250(b). Specifically, there was no documented review of the statistical rationale for the sample size of
+(b)(4)
+and
+(b)(4)
+tests, conducted per Step
+(b)(4)
+and Step
+(b)(4)
+of the, Manufacturing Procedure, MT OPS Safire Catheter Assembly, Process, 002716, Version L.
+7. Failure to follow procedures for controlling environmental conditions as required by 21 CFR 820.70(c). Specifically, two employees on the Safire Ablation Catheter production line, located in a controlled environment, had the finger tips of their gloves removed and had direct skin contact with the product. MT OPS Gowning Requirements for AF Minnetonka, 002425, Version G, states that gloves are to be worn at all times in controlled environment areas. Section 6.2.9 of this procedure states that no gloves are to be worn where there is a safety concern for moving parts, but there is no documentation that identifies these locations.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies are advised of the issuance of all Warning Letters about devices so that they may take this information into account, when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+We received responses from Randy H. Stewart, Vice President of Quality Management, dated January 28, February 26, and April 1, 2009, concerning our investigators observations' noted on the Form FDA 483, List of Inspectional Observations, that was issued to Mr. Stewart on December 19, 2008. The responses promise corrective actions, but several of the corrective actions have not been completed. With the exception of issues A and B discussed below, the follow-up inspection will be required to assure that corrections are adequate.
+A. In Health Hazard Evaluation: Tip:Assembly -
+(b)(4)
+(Attachment #17 to the February 26, 2009 response, you stated that no complaints were found that were related to
+(b)(4).
+However, complaint SAP-07-0022, which was reviewed by our investigators during the inspection, noted that the ablation catheter distal tip was falling off the catheter upon withdrawal. Please explain why this complaint was not acknowledged in the Health Hazard Evaluation.
+B. The "Tools. and Equipment" section of Safire Catheter Assembly Process, 002716, Version N, Step
+(b)(4)
+does not include a
+(b)(4).
+Please notify this office in writing within 15 working days from the date you receive this letter to provide an update on the specific steps taken by your firm to correct the noted violations, including an explanation of how you plan to prevent these violations, or similar violations, from occurring again. Include documentation of the corrective action you have taken. If your planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective action cannot be completed within 15 working days, state the reason for the delay and the time within which the corrections will be completed.
+Your response should be sent to Timothy G. Philips, Compliance Officer, at the address on this letterhead. If you have any questions about the content of this letter please contact Mr. Philips at (612) 758-7133.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, Form FDA 483, issued at the conclusion of the inspection may be symptomatic of serious problems in your firm's manufacturing and quality assurance systems. You should investigate and determine the causes of the violations, and take prompt actions to correct the violations and to bring your products into compliance.
+Sincerely,
+/s/
+W. Charles Becoat
+Directors
+Minneapolis District
+-

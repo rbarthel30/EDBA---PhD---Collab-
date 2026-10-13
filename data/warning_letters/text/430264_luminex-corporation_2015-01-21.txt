@@ -1,0 +1,130 @@
+WARNING LETTER
+Nanosphere, Inc.
+MARCS-CMS 430264 — Jan 21, 2015
+Share
+Tweet
+Linkedin
+Email
+Print
+Nanosphere, Inc. - 430264 - 01/21/2015
+Recipient:
+Nanosphere, Inc.
+United States
+Issuing Office:
+Chicago District Office
+United States
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Chicago District
+550 West Jackson Blvd., 15th Floor
+Chicago, Illinois 60661
+Telephone: 312·353·5863
+January 21, 2015
+WARNING LETTER
+CHI-1-15
+VIA UPS NEXT DAY – SIGNATURE REQUIRED CORRECTED COPY
+Michael K. McGarrity
+President and Chief Executive Officer
+Nanosphere, Inc.
+4088 Commercial Avenue
+Northbrook, Illinois 60062
+Dear Mr. McGarrity:
+A United States Food and Drug Administration (FDA) investigator conducted an inspection of your firm, Nanosphere, Inc., located at 4088 Commercial Avenue in Northbrook, Illinois from March 26, 2014 through April 4, 2014. The investigator determined that Nanosphere, Inc. is a manufacturer of in vitro diagnostic assays (Class II medical devices), including the Verigene® Processor SP System and cartridges. Under Section 201(h) of the Federal Food, Drug and Cosmetic Act (the Act) [21 U.S.C. 321(h)], these products are defined as devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+The inspection revealed that these devices are adulterated within the meaning of Section 501(h) of the Act [21 U.S.C. 351(h)], in that the methods used in, or the facilities or controls used for, their manufacturer, processing, packing, or holding are not in conformity with the current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) Regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+We received written responses, dated April 24, 2014, May 30, 2014, June 30, 2014, July 31, 2014 and September 30, 2014, detailing your firm’s corrective actions to the observations noted on the FDA-483, Inspectional Observations, issued to you on April 4, 2014. We address these responses below, in relation to each of the noted violations. The violations include, but are not limited to, the following:
+Quality System Regulation:
+1. Failure to establish and maintain procedures for implementing corrective and preventive actions (CAPA) to include requirements for analyzing processes, work operations, concessions, quality audit reports, quality records, service records, complaints, returned product, and other sources of quality data to identify existing and potential causes of nonconforming product, or other quality problems, as required by 21 CFR 820.100(a)(1).
+Specifically, your CAPA procedure, QASOP-032, “CAPA Process”, Implementation date October 30, 2013, is deficient with respect to detailed instructions on the initiation of CAPAs investigations and is not followed with respect to the use of audit findings as a data source for the CAPA system. For example:
+a. QASOP-032 states that quality audits (internal and external) are data sources that are to be analyzed to identify unfavorable trends or unexpected and/or unanticipated problems to determine the need for a CAPA. In addition, QASOP-032 states that CAPAs can be initiated at any time, but if the nonconformities appear to be of sufficient severity and/or frequency to warrant immediate CAPA investigation in between Quality Review Board (QRB) meetings, the CAPA coordinator and QRB chair should be consulted, and an update could be provided at the next QRB meeting. The proceduredoes not define immediate or situations that require the immediate initiation of a CAPA. As a result, CAPA investigations were not immediately initiated after two “maximum high risk” and “maximum high frequency” issues were reported to your firm on November 13, 2013 by an external auditor. CAPAs 14-003 and 14-013, which were opened in response to the external audit findings, were not initiated until February 2014.
+b. QASOP-032 states that the Quality Review Board (QRB) will meet at least monthly to evaluate and make decisions on quality data; however, your firm held three QRB meetings on November 22, 2013, December 20, 2013, and January 31, 2014 before audit findings were documented as an input to the meeting. Your firm became aware on November 13, 2013 that an external audit included
+(
+b)(4)
+audit findings of varying degree of risk and frequency; however, this topic was not discussed until the QRB meeting held on January 31, 2014, and CAPAs were initiated in February 2014.
+We have reviewed your responses to sub-points (a) and (b) and have determined that they are inadequate because the responses do not appear to address the deficiencies in QASOP-032 with respect to detail on situations requiring immediate investigation. In addition, your responses indicate that QASOP-015, “Internal Quality Audits” was revised to clarify when and how the results from internal audits are analyzed and how the data are evaluated against defined CAPA criteria; however, the revised document that was included with the initial response makes reference to the CAPA procedure, but it does not provide detail as to how audit findings are analyzed and/or evaluated.
+2. Failure to establish and maintain corrective and preventive action procedures that include requirements for ensuring the corrective and preventive action is effective, as required by 21 CFR. 820.100(a)(4).
+Specifically, CAPA 13-001, initiated to address the low yields resulting from the Extraction Tip Leak Tests, has no documented evidence that the effectiveness plan items were completed. The effectiveness plan items included a review of leak testing records to evaluate the impact on yield rate after your firm implemented a new heat seal coating and after implementation of the over-molded extraction tips. CAPA 13-001 was closed on September 18, 2013.
+We have reviewed your responses and have determined that they are inadequate because, although your responses indicate that the missing effective check documentation was recreated, your responses fail to address whether other CAPAs are missing required documentation or additional actions your firm is taking to prevent recurrence.
+3. Failure to adequately establish procedures for design change, as required by 21 CFR 820.30(i).
+Specifically, your firm’s change control system, including QASOP-002, “Change Control”, is incomplete in that there is no linkage to training. For example, Change Request, CR13-212, which documents the change of the sampling plan for
+(
+b)(4)
+testing from
+(
+b)(4)
+, did not include training of QC analysts as an action item to the procedural change.
+We have reviewed your responses and have determined that they are inadequate because although your firm re-wrote QASOP-002 and included a copy of the new procedure in your July 31
+st
+response, the revised procedure still does not include a linkage to training.
+4. Failure to adequately establish requirements that must be met by suppliers, contractors, and consultants, as required by 21 CFR 820.50(a).
+Specifically,your firm’s procedure, QASOP-010, “Vendor Approval and Purchasing Controls”, is deficiently written and/or followed. For example:
+a. The Vendor Approval forms (Attachment II to QASOP-010) for five vendors were signed as approved although the forms were incomplete in that there was no response to the section, “Supplier Quality Audit (Only when required)”.
+b. QASOP-010 lacks detail on when a quality audit is required or the elements of a quality audit. For example, the procedure states that a quality audit may be performed for
+(
+b)(4)
+and
+(
+b)(4)
+vendors without additional instructions such as situations when a quality audit is required, and the procedure does not provide detail on quality audits for
+(
+b)(4)
+vendors, consultants, or contractors.
+c. QASOP-010 mentions “Provisional Vendors” in Section 2.3, “Vendor Status” and Section 2.4, “Vendor Monitoring”; however, the procedure does not define what a “Provisional Vendor” is or how a vendor is placed in this category.
+d. QASOP-010 states in Section 2.3, “Vendor Status”, that Purchasing maintains the Approved Vendor List; however, on March 28, 2014, the FDA investigator was provided with an Approved Vendor List for the Verigene® instruments that included two vendors that had not been used since June 2009.
+We have reviewed your responses and acknowledge your revised QASOP-010; however, the adequacy and effective implementation of this procedure will be covered during your next FDA inspection. In addition, your responses noted that a gap assessment was completed of all
+(
+b)(4)
+and
+(
+b)(4)
+vendors in accordance with the revised procedure, and your September 30
+th
+response included a memo that the stated assessments were completed; however, no underlying data was included with the response to verify the information.
+5. Failure to adequately establish procedures for training and identifying training needs, as required by 21 CFR 820.25(b).
+Specifically, QASOP-004, “Personnel Training”, states in Section 3.3.3. that training completion forms
+(
+b)(4)
+for group training and
+(
+b)(4)
+for individual training) will be used to document training; however the procedure is not followed. For example:
+a. On March 28, 2014, an employee was observed assembling Verigene® Processor SPs; however, the employee’s most current training form,
+(
+b)(4)
+, dated October 22, 2012, for the Verigene Drawer Assembly Work Instruction, IMWKI-025, had no trainer acknowledgement signature or date.
+b. QASOP-004, Revision 7, requires that form,
+(
+b)(4)
+, be completed for group trainings and includes a column to document “Effectiveness Evaluation” by a checker; however, the following deficiencies were noted:
+i.
+(
+b)(4)
+for a group training on the Verigene SP Small Tray Filling Procedure, Document No.
+(
+b)(4)
+, that took place on various dates in March 2014, was not signed or dated by the checker.
+ii.
+(
+b)(4)
+for a group training on Lab Safety Training, Document No.
+(
+b)(4)
+, that took place on March 21, 2014, was not completed with respect to the Effectiveness Evaluation Method, signature of checker, or date.
+We have reviewed your responses to sub-points (a) and (b) and have determined that the adequacy of your firm’s corrective actions, including the effective implementation of your revised training procedure, QASOP-004, cannot be determined at this time and will be verified during a follow-up FDA inspection.
+Corrections and Removals Regulation:
+Our inspection also revealed that your devices are misbranded within the meaning of Section 502(t)(2) of the Act [21 U.S.C. 353(t)(2)], in that your firm failed to keep a record that contains a justification for not reporting the correction or removal action to FDA which shall contain conclusions and any follow-ups, and be reviewed and evaluated by a designated person, as required by 21 CFR Part 806.20(b)(4). For example, customers reported “no tip loaded” error messages and high pressure failures using extraction trays with one lot of tips. Nanosphere opened NCR13-144 to investigate the problem. On October 10, 2013, your firm informed your customers that they may request a replacement of the Tip Holder Assemblies. The minutes of the Event Investigation Committee for this issue, dated October 10, 2013, state, “There is no indication that this causes any errors except for Processing Errors, no results are reported as a result of Processing Errors. This is not a safety risk.” The minutes do not contain a justification for not reporting, nor a signature as evidence that the record was reviewed and evaluated by a designated person.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the Food and Drug Administration without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts.
+Please notify this office in writing within fifteen (15) working days from the date you receive this letter of the specific steps you have taken to correct the noted violations, including an explanation of how you plan to prevent these violations, or similar violations, from occurring again. Include documentation of the corrective action you have taken. If your planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective action cannot be completed within 15 working days, state the reason for the delay and the time within which the corrections will be completed.
+Your response should be sent to: Carrie Ann Plucinski, Compliance Officer, Food and Drug Administration, 550 W. Jackson Blvd., 15
+th
+floor, Chicago, IL 60661. Refer to the Unique Identification Number (CMS Case # 430264) when replying. If you have any questions about the content of this letter, please contact Ms. Plucinski at 312-596-4224.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. Your firm should investigate and determine the causes of the violations and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely,
+/S/
+William R. Weissinger
+Acting District Director
+Close Out Letter
+Nanosphere, Inc. - Close Out Letter 6/28/17
+Content current as of:
+02/09/2015
+More Warning Letters

@@ -1,0 +1,276 @@
+WARNING LETTER
+LeMaitre Vascular, Inc.
+MARCS-CMS 713502 —
+August 11, 2025
+More Warning Letters
+Delivery Method:
+VIA Electronic Mail
+Product:
+Medical Devices
+Recipient:
+Recipient Name
+Mr. George LeMaitre
+Recipient Title
+Chairman and CEO
+LeMaitre Vascular, Inc.
+63 Second Ave.
+Burlington
+,
+MA
+01803
+United States
+glemaitre@lemaitre.com
+Issuing Office:
+Center for Devices and Radiological Health
+United States
+WARNING LETTER
+CMS # 713502
+August 11, 2025
+Dear Mr. LeMaitre:
+During an inspection of your firm located in North Brunswick, NJ from March 4, 2025, through April 16, 2025, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures Artegraft Collagen Vascular Grafts. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+Quality System Regulation Violations
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21,
+Code of Federal Regulations
+(CFR), Part 820. We received responses from Monte Nelson, Sr. Director, Quality Affairs - Artegraft dated May 7, 2025, and August 5, 2025, concerning our investigators’ observations noted on the Form FDA 483 (FDA 483), List of Inspectional Observations, that was issued to your firm. We address the May 7, 2025, response below, in relation to each of the noted violations. Any additional responses will be reviewed as part of your response to this letter.
+These violations include, but are not limited to, the following:
+1. Failure to establish and maintain procedures to prevent contamination of equipment or product by substances that could reasonably be expected to have an adverse effect on product quality, as required by 21 CFR 820.70(e). Specifically,
+a. USP water sampling procedures utilized by your firm for testing of conductivity, Total Organic Carbon (TOC), endotoxin, and microbial contamination contain inconsistent and conflicting requirements that ensure water being sampled is representative of water used in production of the Artegraft Collagen Vascular Graft devices. Specifically,
+i. Water samples for monitoring are being taken through a
+(b)(4)
+and not
+(b)(4)
+from the Point of Use (POU) as required by SOP 103, Sampling of the USP
+(b)(4)
+Water Systems, section 6.5 states that
+(b)(4)
+samples be tested from points of use (POU) according to FRM 103-03.
+ii. SOP 103 is not adequate since it requires the water to be purged after system sanitization for
+(b)(4)
+sampling (section 6.12.1), requires the system to be flushed for at least
+(b)(4)
+sampling (section 6.12.2), and requires the sample port to be sprayed with
+(b)(4)
+sampling (section 6.12.5). The purging, cleaning, and spraying the sample port with
+(b)(4)
+sampling are not representative of the
+(b)(4)
+use of the water system used during production.
+iii. WI MFG-040, Operation of the USP
+(b)(4)
+Water system Equipment ID #
+(b)(4)
+is not adequate since it states sample valves (SVs) will be cleaned when sampling is performed in accordance with SOP 103 (section 6.8.11.2) and states that
+(b)(4)
+POUs (
+(b)(4)
+-POU) only will be cleaned when
+(b)(4)
+is necessary, and
+(b)(4)
+system sanitation has been performed (section 6.8.11.3). This cleaning and sanitation
+(b)(4)
+sampling are not representative of the
+(b)(4)
+use of the water system used during production.
+b. Your firm changed the sterilant solution used for sanitization of the USP
+(b)(4)
+Water Systems utilized in the manufacturing process. Your firm utilizes procedure MP-059, Preventive Maintenance of the USP
+(b)(4)
+Water Systems which in sections 6.4.2 and 6.4.3 specify that
+(b)(4)
+Solution is used. However, the Maintenance Log Sheet for the USP Water System Monitoring (FRM MP-06; dated 11/27/24) states that
+(b)(4)
+was used for system sanitization. During the inspection, your firm’s Sr. Quality Engineer stated that
+(b)(4)
+was discontinued sometime in 2024. Your firm was unable to provide any documentation during the inspection that allowed for a different sterilant solution to be used per procedure MP-059, nor that your firm has assessed the impact of the new sterilant on devices manufactured by your firm such as on the biocompatibility or if the new sterilant has different ingredients (e.g., potential contaminants).
+c. Your firm is not documenting the
+(b)(4)
+replacement of
+(b)(4)
+during water sampling (section 6.5.2) which is required per SOP 103, Sampling of the USP
+(b)(4)
+Water Systems, which states that
+(b)(4)
+is to be replaced by a member of the quality team during
+(b)(4)
+water sampling as per SOP 102 – Workstation Cleaning Procedures for Within the LeMaitre Production Facility.
+d. The records for the Equipment ID #
+(b)(4)
+sanitizations performed on
+(b)(4)
+do not include written documentation that no residual sanitant remains in the system as required by MP 059, Preventive Maintenance for the USP
+(b)(4)
+Water System, which states in Section 6.4.5 (Section 5.5.5 of Exhibit F), that the
+(b)(4)
+utilized for system sterilization will provide written assurance that there is no sanitizer solution left in the system prior to releasing the system for use. WI-MFG-040, Operation of the USP
+(b)(4)
+Water system Equipment ID #
+(b)(4)
+, and section 6.8.12.1 states the
+(b)(4)
+will provide written documentation stating that there is no residual sanitant in the system, post sanitation.
+We reviewed your firm’s response and conclude that it is not adequate. In your response, you provided data collected from an additional water sampling that is aligned with
+(b)(4)
+manufacturing that showed the water system conformed to USP
+(b)(4)
+Water specifications, revised SOP 103 to remove
+(b)(4)
+actions not reflective of
+(b)(4)
+use of the water system, WI MFR-40 to specify cleaning of the POU/SV/
+(b)(4)
+-POU should occur
+(b)(4)
+system sampling, and FRM 103-03 to allow for documentation of each required activity during water sampling. Your response also promises to revise SOP 001, PS 01, and FRM PS 01. Additionally, you provided updated MP-059 and FRM MP-006 documents that replaces
+(b)(4)
+with
+(b)(4)
+as well plans to update SOP 053 to require supplier change notifications to be sent to a new email address. However, your response did not provide an assessment of the new sanitant on the biocompatibility of the product or any other differences in ingredients (e.g., potential contaminants) and how your firm plans to monitor residual sanitant levels. Please provide this information and additional promised revised documents in your response to this letter.
+2. Failure to establish and maintain procedures to adequately control environmental conditions that could reasonably be expected to have an adverse effect on product quality, as required by 21 CFR 820.70(c). Specifically, your environmental monitoring procedure, SOP 101, does not allow for environmental samples to be collected in a manner that is reflective of the production (
+(b)(4)
+) environment. For example:
+a. Section 6.5.2.3 of SOP 101 related to surface sampling states that
+each designated workstation surface shall be cleaned per the
+(b)(4)
+method as described in SOP 102 prior to sample collection
+.
+b. Section 6.10.2 of SOP 101 related to swab sampling states that
+each designated surface shall be cleaned per the
+(b)(4)
+method as described in SOP 102 prior to sample collection
+.
+c. Section 6.6.3 of SOP 101 related to viable air sampling states that t
+he personnel traffic around the air sampler should be kept to a minimum so as not to artificially affect the data
+.
+d. Section 6.7 of SOP 101 related to non-viable air sampling does not specify when samples are to be taken (
+(b)(4)
+conditions).
+The adequacy of your firm’s response cannot be determined at this time. In your response you provided test results from preliminary sampling collected during normal production which exhibited nominal results and were within specification along with a revised SOP 101 that now requires sampling during
+(b)(4)
+production for all test locations and the removal of any requirement for cleaning
+(b)(4)
+sampling. Your response also promises to create a form to document all sampling during
+(b)(4)
+production, updates to SOP 001, and performance of
+(b)(4)
+sampling during
+(b)(4)
+production following the revised SOP 101. In your response, please provide an update on the status of these corrective actions.
+3. Failure to validate with a high degree of assurance and approve according to established procedures, a process whose results cannot be fully verified by subsequent inspection and test, as required by 21 CFR § 820.75(a). Specifically, your firm failed to adequately validate the
+(b)(4)
+sterilization process for the Artegraft Collagen Vascular Graft in accordance with recognized standards. According to your Sterilization Validation and Requalification document (WI-QA-012), your firm based the process sterilization validation on the requirements found in
+(b)(4)
+-
+(b)(4)
+-
+(b)(4)
+for validating the sterilization process used to sterilize your Artegraft devices. During review of the most recent 2023 performance qualification of the Artegraft Collagen Vascular Graft:
+(b)(4)
+sterilization process validation (VAL-PO2023) protocol and report it was noted that your firm failed to consider the bioburden of raw materials and/or components and their subsequent storage, and the control of the environment in which the product is manufactured, assembled, and packaged as required by
+(b)(4)
+and
+(b)(4)
+,
+(b)(4)
+–
+Part 1: Application of Risk Management
+.
+The adequacy of your firm’s response cannot be determined at this time. In your response you conducted a risk assessment and began testing raw materials and components. Additionally, you plan to create a procedure for sampling, testing, and analyzing raw materials and sterile barrier bioburden, as well as performing an assessment to inform testing of future raw materials and components based on results and risk. In your response, please provide an update on the status of these corrective actions.
+4. Failure to establish and maintain procedures for monitoring and control of process parameters for validated processes to ensure that the specified requirements continue to be met, as required by 21 CFR 820.75(b). Specifically, your firm has not provided a documented rationale establishing the following:
+a. Section 6.1 of SOP 100, Routine Product Bioburden Testing, states that
+(b)(4)
+Product Bioburden testing will be performed on a calendar
+(b)(4)
+bases, at a minimum
+. Your firm lacks documentation for how a
+(b)(4)
+frequency for bioburden testing was determined to be adequate to monitor and control the Artegraft grafts. In response to the previous FDA inspection, your firm initiated CAPA 00065. As part of this CAPA, you wrote a memo justifying the
+(b)(4)
+bioburden sampling frequency stating that the
+current frequency follows the guidance in Annex A, Section A8.1of BS EN ISO 11737-1 :2018
+. However, six non-conformances for out of specification product bioburden samples were collected between September 2024 and March 2025 from the following lot numbers:
+(b)(4)
+. There is no documented evaluation to determine if the testing frequency should be updated when out of specification bioburden test results are received. Your firm took no action based on these out of specification results justifying that decision as the organisms identified in the test were not as challenging as the sterilization challenge organism and repeat testing on a different lot of product did not result in out of specification product bioburden. Additionally, it is unclear if the sterilization process is capable of
+(b)(4)
+sterilization for bioburden levels as high as the challenge organism used during validation.
+b. Section 3.2 of SOP 100 defines Bioburden as:
+The quantity of viable microorganisms on or in product and/or sterile barrier system
+. However, your firm does not perform
+(b)(4)
+bioburden sampling of raw material and/or the sterile barrier components to assess their bioburden. The only documented testing of the sterile barrier was performed during the
+(b)(4)
+assessment of the
+(b)(4)
+primary packaging, performed in August 2006. Additional testing of the primary packaging has not been conducted.
+The adequacy of your firm’s response cannot be determined at this time. In your response you provided an updated justification of bioburden testing frequency, updates made to SOP 100 that clarify the scope of pre-sterile arteries
+(b)(4)
+, plans to create a procedure for sampling, testing, and analyzing raw materials and sterile barrier bioburden, as well as performing an assessment to inform testing of future raw materials and components based on results and risk. In your response, please provide an update on the status of these corrective actions. Additionally, please clarify whether there were any updates considered for Section 6.10.3 of SOP 100 to include the need for increased bioburden monitoring frequency if any action level is exceeded.
+5. Failure to verify or validate the corrective and preventive action to ensure that such action is effective and does not adversely affect the finished device, as required by 21 820.100(a)(4). Your firm utilizes SOP 053, Supplier Management, for supplier monitoring and issuance of supplier corrective action reports (SCARs) if necessary. Section 6.6.6 of SOP 053 states
+If Corrective and/or preventive actions are deemed necessary CAPA may be initiated per SOP 050
+. Section 6.5.6 of SOP 050 lists the requirements to perform CAPA effectiveness verification. In review of the following three closed/completed supplier corrective action reports (SCARs) verification of effectiveness was not documented.
+a. 2023-02 – issued on May 26, 2023, for an identified trend of failing sterility test results from a testing
+(b)(4)
+b. 2023-03 – issued on June 20, 2023, for concerns of growth on sterility samples, including growth on the negative control, from a testing
+(b)(4)
+.
+c. 2023-004 – Concerns nonconformances/observations identified during a
+(b)(4)
+audit for a sterility and bioburden testing
+(b)(4)
+We reviewed your firm’s response and conclude that it is not adequate. In your response you provided updated versions of SOP 053 (which now includes all criteria related to corrective actions; including but not limited to verification of effectiveness. Your response did not include effectiveness verification for previously closed/completed SCARs. Additionally, regarding SCAR 2023-02, please clarify the final disposition of grafts from lots
+(b)(4)
+,
+(b)(4)
+, and
+(b)(4)
+and provide additional justification for repeating the sterility test given that the
+(b)(4)
+investigation concluded (documented in a memo dated August 10, 2023) that “
+(b)(4)
+.” Per USP <71>
+Sterility Tests
+, a sterility test can be determined to be invalid only if it can be clearly demonstrated that the test was invalid for causes unrelated to the product to be examined. In your response, please provide the above information.
+6. Failure to establish and maintain procedures for implementing corrective and preventive action, as required by 21 CFR 820.100(a). Specifically, your Corrective and Preventive Action (CAPA) procedure (SOP 050) is not being implemented in that section 6.5.3.1 of SOP 050 lists deadlines according to the identified risk of each CAPA according to Table 2 of SOP 050. There are three risk levels each with a deadline from starting an investigation to implementing a corrective or preventive action: High Risk –
+(b)(4)
+; Medium Risk –
+(b)(4)
+; Low Risk –
+(b)(4)
+. The following are examples of CAPAs that did not meet your firm’s timeframes:
+a. High Risk CAPA
+i. CAPA-00068, concerns inadvertent release of nonconforming product. A total of 81 days elapsed from investigation to implementation.
+b. Medium Risk CAPAs
+i. CAPA-00075, environmental monitoring
+(b)(4)
+swab samples that were out of specification. A total of 216 days elapsed from investigation to implementation.
+ii. CAPA-00078, concerns out of specification bioburden results. A total of 120 days elapsed from investigation to implementation.
+c. Low Risk CAPAs
+i. CAPA-00072, concerns a trend of nonconformances related to differential pressure. A total of 121 days from investigation to implementation.
+The adequacy of your firm’s response cannot be determined at this time. In your response you provided an updated version of SOP 050 to include time for formal review and revisions if necessary and promise to review current open CAPAs and write formal extension plans, if necessary. In your response, please provide any extension plans created and an example of a CAPA that required additional investigation/planning time, including the justification for the additional time.
+Corrections and Removals Violation
+Our inspection also revealed that your firm’s Artegraft Collagen Vascular Graft devices are misbranded under section 502(t)(2) of the Act, 21 U.S.C. § 352(t)(2), in that your firm failed or refused to furnish material or information respecting the device that is required by or under section 519 of the Act, 21 U.S.C. § 360i, and 21 CFR Part 806 – Medical Devices; Reports of Corrections and Removals. Significant violations include, but are not limited to, the following:
+Failure to submit any report required within 10 working days of initiating a correction or removal, as required by 21 CFR 806.10
+For example, your firm distributed
+(b)(4)
+grafts from lot 23DD203 manufactured using raw material Bovine Carotid Arteries control number
+(b)(4)
+from a non‐approved supplier, one of which was implanted in a patient. You recalled the devices sometime after 6/23/2023. Since the product was released prior to completion of the
+(b)(4)
+evaluation, as required by your firm’s procedure, and without notifying the FDA of the change in the supplier of critical materials for a Class III device, this lot of material is violative. Graft devices manufactured using raw material from an unapproved supplier could have compromised sterility or mechanical integrity, which may present a risk to health such as infection, aneurysm, pseudoaneurysm, rupture, or mechanical failure at the anastomosis leading to bleeding or explantation of the failed device. Therefore, your firm’s removal of grafts in lot 23DD203 meets the definition of a medical device removal initiated to remedy a violation which may present a risk to health, for which you are required to submit a Report of Correction or Removal to FDA. As of 7/1/2025, you did not submit a Medical Device Report of Correction or Removal to FDA for this action.
+Your firm should take prompt action to address any violations identified in this letter. Failure to adequately address this matter may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties.
+Other federal agencies may take your compliance with the FD&C Act and its implementing regulations into account when considering the award of federal contracts. Additionally, should FDA determine that you have Quality System regulation violations that are reasonably related to premarket approval applications for Class III devices, such devices will not be approved until the violations have been addressed. Should FDA determine that your devices or facilities do not meet the requirements of the Act, requests for Certificates to Foreign Governments (CFG) may not be granted.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to address the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (which must address systemic problems) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address any violations included in this Warning Letter. If you believe that your products are not in violation of the FD&C Act, include your reasoning and any supporting information for our consideration as part of your response.
+Your firm’s response should be sent via email to Establishment Assessment Team Assistant Director Gina Brackett at CDRHEnforcement@fda.hhs.gov. Please include in the subject line, “CMS Case 713502” when replying. If you have any questions about the contents of this letter, please contact: Sean Moynihan at sean.moynihan@fda.hhs.gov.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of any violations and take prompt actions to address any violations and bring the products into compliance.
+Sincerely,
+/S/
+Matthew G. Hillebrenner
+Deputy Director
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Cc: Ms. Cathleen I. VanDerVeer, Senior Vice President Operations, cvanderveer@lemaitre.com
+Mr. Monte Nelson, Director of Quality Affairs, mnelson@lemaitre.com
+Content current as of:
+08/26/2025
+Regulated Product(s)
+Medical Devices

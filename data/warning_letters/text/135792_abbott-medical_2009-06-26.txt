@@ -1,0 +1,119 @@
+Advanced Neuromodulation Systems, Inc 6/26/09
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Dallas District
+4040 North Central Expressway
+Dallas, Texas 75204-3145
+June 26, 2009
+Ref: 2009-DAL-WL-15
+WARNING LETTER
+CERTIFIED MAIL
+RETURNED RECEIPT REQUESTED
+Mr. Daniel J. Starks
+President and Chief Executive Officer
+Saint Jude Medical, Inc.
+One Lillehei Plaza
+Saint Paul, Minnesota 55117
+Dear Mr. Starks:
+During a March 5 through April 6, 2009, inspection of your company, Advanced Neuromodulation Systems (ANS), Inc. which is also doing business as Saint Jude Neuromodulation Systems, Inc., located at 6901 Preston Road, Plano, Texas 75024 investigators from the United States Food and Drug Administration (FDA or Agency) determined that your company manufactures and distributes a spinal cord stimulation system that consists of a rechargeable or a primary cell implantable pulse generator (IPG), an external multiprogram trial stimulator (MTS), implantable leads, an external patient programmer, and an external charging system. This spinal cord stimulation system is indicated for the treatment of chronic pain of trunk and limbs, either as the sole mitigating agent, or as an adjunct to other modes of therapy used in a multidisciplinary approach. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are medical devices because they are intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or any function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501 (h) of the Act, 21 U.S.C. § 351 (h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+At the conclusion of the inspection, the investigators issued to Mr. Christopher G. Chavez, President of Advanced Neuromodulation Systems, Inc., the Form FDA 483 (List of lnspectional Observations). We received your company's response with attachments, dated April 13, 2009, to the observations noted on the Form FDA 483 (List of lnspectional Observations). The Agency acknowledges your commitments to take all necessary actions to ensure ANS' compliance with the Quality System regulation and provide quarterly updates until all corrective actions have been completed.
+Pages 10 and 12 of your response discussed your company's action from March to December 2008 to retrieve (remove) from the field individual defective MTS trial stimulators due to a known design problem (a software defect in CAPA 62729 and related CAPA 67300, and a hardware defect in CAPA 53116) and replace them with new ones. Defective MTS trial stimulators can cause loss of stimulation or the inability of the devices to complete the trial implants. Page 14 of your response and CAPA 62730 (attached as Attachment 15 to your response) discussed your company's action of sending marketing update No. 5022, dated May 15, 2007, to your field representatives, shipping replacement chargers to patients, and redesigning the charging systems of the IPG to correct no stimulation, communication errors between the implant IPGs and their charging systems, and corrupt program. In particular, the May 15, 2007 marketing update discussed unequal electric field strengths between the two sides of the charging antenna of the charging systems, and CAPA 62730 discussed low antenna voltages of the returned chargers and possible IPG explants if the replacement charger does not address the patient's concern. To determine whether or not product corrections or removals must be reported to the Agency as a reportable product recall under 21 C.F.R. §§ 806.10 and 806.20, we encourage your company to contact our Recall Coordinator at 214-253-5222.
+While initiating CAPAs to correct the various quality issues described in the company's System Performance Reports and the FDA 483 is a positive step, these CAPAs did not address the gaps in your company's design and production controls that caused the quality problems in the first place.
+The Agency is not satisfied with your response. Your company must adequately address the violations identified below, perform and document the results of your extended field monitoring in order to verify that the recent design changes will effectively correct past and existing quality issues of your devices and prevent their recurrence, and conduct a comprehensive review and audit of the manufacturing operations at ANS in Plano, Texas, and
+(b)(4)
+and their suppliers in order to identify and correct all potential GMP deviations, and prevent distribution of nonconforming/defective devices.
+The Agency expects your corporate office to work closely with the ANS manufacturing facilities and their suppliers in order to (a) significantly improve the quality of your devices, (b) timely and effectively implement permanent and substantial actions to correct and prevent potentially systemic noncompliant issues, and (c) provide resources as needed and oversight to achieve all corrective actions.
+The Agency addresses your response below, in relation to the noted violations. Your response to this warning letter is required. The Agency will conduct follow-up inspections to assure that your firm's corrections are adequate.
+These violations include, but are not limited to, the following:
+Quality System Violations
+1. Failure to establish and maintain adequate procedures for implementing corrective and preventive actions, as required by 21 C.F.R. § 820.100(a), and failure to document the results of corrective and preventive action activities, as required by 21 C.F.R. § 820.100(b).
+See FDA 483 Items 1 and 2. Specifically,
+At the time of the inspection, your company has not completed, implemented, or verified the effectiveness of at least (18) corrective and preventive actions (CAPAs) that were initiated to correct various quality issues with the MTS trial stimulators, implant Eon IPG generators, charging systems, and patient programmers as reported on pages 33 through 38 of your company's System Performance Report, dated March 19,2009. For example:
+a. CAPA 62729 and related CAPA 67300, which were initiated on September 2, 2008, and November 17, 2008, respectively, identified "Design" as the root cause of the upward trend of complaints associated with the MTS trial stimulators. These CAPAs discussed a software upgrade to correct a timing problem causing system error codes
+(b)(4
+) and
+(b)(4)
+or loss of stimulation. The completion date for these CAPAs was extended until September 30, 2009. Your response stated that the company now completed both CAPAs in April 2009.
+b. CAPA 53116, which was initiated on February 15, 2008, also identified "Design" as the root cause of the upward trend of complaints associated with the MTS trial stimulators. This CAPA discussed the design defect in the PCB
+(b)(4)
+causing the inability of the device to complete trial implants (loss stimulation). The completion date for this CAPA was extended until August 1, 2009. Your response stated that the company now completed this CAPA in April 2009.
+c. CAPA 62730, which was initiated on September 2, 2008, identified "Design Requirements" as the root cause of the upward trend of complaints associated with the charging systems of the implant IPGs.This CAPA discussed the test results of low antenna voltages. a design defect that caused communication errors between the charging systems and the implant IPG devices, corrupt program, and no stimulation. The completion date for this CAPA was extended until May 1, 2009.
+d. CAPA 45664, which was initially opened on May 23, 2006, closed, and then reopened on August 20, 2007, identified the
+(b)(4)
+auto test failures during production. Your company has not been able to determine the root cause of why the
+(b)(4)
+values of the (50) IPG implant generators were reset during production and some IPGs were reset during the implant procedure. The completion date for this CAPA was extended until April 30, 2009, for further analysis.
+The Agency is not satisfied with your response. At the time you submitted your response, CAPA 62730 (charging system) was still in process and will continue to be monitored for field performance, and CAPA 45664 had not identified a root cause in order to implement the recommended software upgrade. Your company must perform extended field monitoring (trend analysis) of all sources of quality data, including user complaints/reports, evaluates the data, and documents your evaluation to prove that the design changes or production changes described in the CAPAs will in fact correct the quality problems and will not introduce adverse problems.
+2. Failure to investigate the cause of nonconformities relating to product, processes, and the quality system, as required by 21 C.F.R. § 820.100(a)(2)
+. See FDA 483 Item 3. Specifically,
+CAPA 45664, initiation dated August 20, 2007, documented an unresolved issue with the Eon Implantable Pulse Generators (IPG) causing at least 50 devices to be reset during production and some devices to be reset during implant. On May 24, 2006 engineering at ANS Texas requested testing of all EON IPGs received from
+(b)(4)
+to determine the root cause for the nonconformities. Your company denied this request without documenting any explanation in CAPA 45664 and failed to determine the root cause of the device reset problem. Subtask 94527 of this CAPA, opened on August 20, 2007, updated on August 25, 2008, and extended to April 30, 2009 for further analysis, stated that "the software of the IPG will be updated to not clear the calibration of the IPG upon reset." Your company failed to implement this action as of the time of the inspection.
+The Agency is not satisfied with your response. Your response stated that the initial assessment in CAPA 45664 was incorrect and will be changed to reflect that "this was an in-process yield issue only." Your response stated that your company had seen approximately (50) auto test failures during production out of the
+(b)(4)
+units produced and that your company had received (4) IPG devices returned from the users that had the
+(b)(4)
+reset, and that your firm had investigated possible root causes but to date had not been able to confirm the root cause of this issue in order to update the Eon lPG's software.
+Your response has not explained the differences in the software and hardware of the auto test equipment being used at
+(b)(4)
+and ANS Texas and whether the auto tests at both facilities have been properly developed and validated under 21 C.F.R. §§§ 820.30(f) [design verification], 820.30(i) [design changes], and 820.70(b) [production and process changes] in order to provide consistent and reliable test results and to determine if there was a problem with the Eon IPG design and/or their auto tests.
+3. Failure to establish and maintain adequate procedures for validating the device design in order to ensure that the devices conform to defined user needs and intended uses. The design validation must include testing of production units under actual or simulated use conditions, and risk analysis, where appropriate, and the design validation results must be documented, as required by 21 C.F.R. § 820.30(g)
+. See FDA 483 Item 6. Specifically,
+a. CAPA 45664, initiation dated August 20,2007, documented an unresolved issue with the Eon Implantable Pulse Generators (IPG) causing some of the devices to reset. This CAPA has been opened, closed, and reopened since May 23, 2006 and the due date of April 30, 2009 for was extended further analysis. Your CAPA documented that it did not fully understand the cause of this failure mode and did not have the means to correct the devices in the field and provided a risk assessment of "since the outcome is an explant only, there have been no additional or changed hazards associated with these failures." The Agency is not satisfied with your response. Your response stated that the
+(b)(4)
+is used for impedance measurement on the lead during the implant procedure only and that if there was a problem, this would occur prior to implant of the IPG and would necessitate the ex-vivo replacement of the IPG only. Your response then concluded that the devices meet the user needs and intended use since no explant would be required
+(b) (4)
+were to reset. In our view, failure of a device to perform a correct lead impedance measurement, thus prolonging or stopping a medical procedure, may prevent it from meeting the needs of the user and patient.
+b. Your company did not ensure that its design verification and validation process detected design discrepancies with (b)(1) the
+(b)(4)
+printed circuit board (PCB) of the MTS trial stimulators using the
+(b)(4)
+components that later caused loss of stimulation, and therefore, failure to complete trial implants, and (b)(2) a timing problem in the
+(b)(4)
+chips of the MTS trial stimulators that caused memory error codes or data corruption that in turn caused loss of stimulation. These design discrepancies caused an uptrend of user complaints as reported in your company's System Performance Report, dated February 12, 2009, the redesign of the PCB (CAPA 53116, initiation dated February 15, 2009 and a software design change to fix a software error in the
+(b) (4)
+timing (CAPA 62729, initiation dated September 2, 2008).
+The Agency is not satisfied with your response. Your response stated that the timing problem was also addressed in CAPA 53116, which discussed the redesign of the PCB using
+(b)(4)
+components. Your Engineering Test Report 68-0459 (Attachment 10 of your response) did not address any hardware PCB issues in the MTS devices.
+The effectiveness of the corrective actions can not be confirmed until your company performs extended filed monitoring (trend analysis) of all sources of quality data, including user complaints/reports, evaluates the data, and documents your evaluation to prove that the design changes will in fact correct the described quality problems and will not adversely affect the devices. Please also clarify if the
+(b)(4)
+timing problem was due to both software defect (CAPA 62729 and 67300) and hardware defect (CAPA 53116).
+4. Failure to establish adequate procedures for finished device acceptance to ensure that each production run, lot, or batch of finished devices meets acceptance criteria and that acceptance activities are documented and reviewed prior to releasing the devices for distribution, as required by 21 C.F.R. §§ 820.80(d) and 820.80(e)
+. See FDA 483 Item 7. Specifically,
+a. The finished device testing used at both
+(b)(4)
+and ANS Texas failed to adequately test the MTS trial stimulators in order to detect malfunctions in the
+(b)(4)
+PCB (CAPA 53116) and a timing problem (CAPA 62729 and 67300), and therefore, prevent distribution of the nonconforming/defective devices and their upward trend of complaints. For example, your company's meeting minutes, dated September 12, 2008, attached to CAPA 62729 acknowledged that several MTS trial stimulators passed internal testing but failed "out-of-box" in the field. The inspection documented that your company received at least eighty four (84) complaints between January 1, 2009 and March 13, 2009, and that thirty-nine (39) of them were associated with diagnostic error codes.
+The Agency is not satisfied with your response. Your response stated that your company had instituted additional control measures on October 23, 2008 to prevent "out-of-box" failures, but did not explain the specifics of these measures. You further stated that the "design" was updated [upgraded software and redesigned PCB] to eliminate these occurrences through CAPA 62729 and 53116. The effectiveness of these corrective actions can not be verified until your company completes and documents the results of its extended field monitoring.
+b. The finished device testing used at ANS Texas failed to adequately test the charging systems of the implant IPGs in order to detect malfunctions with the charging systems, and therefore, prevent distribution of the nonconforming/defective charging systems and their upward trend of complaints. Your company's meeting minutes, dated September 3 and 8, 2008, attached to CAPA 62730 acknowledged that there were eighty five (85) instances where charging systems returned from their users to your company passed testing but their antennas were later found failing. Defect codes in your company's
+(b)(4)
+data base indicated (119) antennas had "low voltages" and (67) antennas had "short."
+The Agency is not satisfied with your response. Your response stated that CAPA 62730 was opened to address this issue and your company subsequently performed design modifications to release the newer charger models 3717, 3718, and 3721. The effectiveness of these corrective actions cannot be verified until your company completes and documents the results of its extended field monitoring.
+5. Failure to establish and maintain adequate complaint handling procedures for receiving, reviewing, and evaluating complaints by a formally designated unit and to ensure that all the requirements of 21 C.F.R § 820.198 are met
+. See FDA 483 Item 8.
+Specifically, your company has not timely identified and entered product defect codes for (1179) complaints, and reason codes for (471) complaints received from June 2008 through February 2009. Of the (1179) complaints, (388) complaints were associated with the "Programmers," (454) complaints were associated with the "Chargers," and (115) complaints were associated with the "IPGs." See page 88 and 93 of your System Performance Report, dated March 19, 2009. The System Performance Report described their complaint status as "blank - still in process... " or "In process."
+The Agency is not satisfied with your response. Your response stated that you will revise your complaint handling procedure to require the product defect and reason codes be entered into your company's database after completion of the analysis instead of at the closure review. Your response further stated that (1025) of the (1179) complaints were entered in January and February 2009, where
+(b)(4)
+% of the devices have either not been returned for analysis or analysis was in process. Your response did not explain the status of your complaint review during the period of June 2008 through January 2009. Your response promised to revise the complaint handling procedures by May 1, 2009 and provide additional resources by July 1, 2009.
+The Agency is concerned that your company's untimely data entry could unduly delay investigating and confirming product problems, and identifying product failure trends. Data in your System Performance Reports documented that many devices were not returned from their users without providing any explanation. Without the returned devices, your company closed many complaints, and therefore, may not be able to conclusively verify if the recent design changes described in the above-referenced CAPAs have in fact corrected the past quality issues and will not introduce new problems. The investigators discussed this issue with your company during the inspection.
+Responding to This Warning Letter
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in enforcement action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties.
+Federal agencies are advised of the issuance of all Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, pre-market approval applications for Class III devices to which the Quality System regulation (21 CFR Part 820) deviations are reasonably related will not be approved until the violations have been corrected. Also, requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen (15) working days from the date you receive this letter of the specific steps you have taken to correct the noted violations, including an explanation of how you plan to prevent these violations, or similar violations, from occurring again. Include documentation of the corrective action you have taken. If your planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective action cannot be completed within 15 working days, state the reason
+for the delay and the time within which the corrections will be completed.
+Your response should be sent to Thao Ta, Compliance Officer, Dallas District Office, Food and Drug Administration, HFR-SW140, 4040 N. Central Expressway, Suite 300, Dallas, Texas 75204. If you have any questions about the content of this letter, please contact Mr. Ta at 214-253-5217.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the FDA 483 issued at the closeout of the inspection may be symptomatic of serious problems in your firm's manufacturing and quality assurance systems. You should investigate and determine the causes of the violations, and take prompt actions to correct the violations and to bring your
+products into compliance.
+Sincerely,
+Reynaldo R. Rodriguez, Jr.
+Dallas District Director
+RRRtxt
+cc: Mr. Christopher G. Chavez, President
+Advanced Neuromodulation Systems, Inc. (ANS)
+6901 Preston Road
+Plano, Texas 75024
+-

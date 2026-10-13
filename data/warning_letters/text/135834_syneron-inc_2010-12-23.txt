@@ -1,0 +1,53 @@
+Syneron, Inc 12/23/10
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Los Angeles District
+Pacific Region
+19701 Fairchild
+Irvine, CA 92612-2506
+Telephone: 949-608-2900
+FAX: 949-608-4415
+WARNING LETTER
+W/L 17-11
+CERTIFIED MAIL
+RETURN RECEIPT REQUESTED
+December 23, 2010
+Mr. Louis P. Scafuri, CEO
+Syneron Inc.
+3 Goodyear, Suite A
+Irvine, California 92618
+Dear Mr. Scafuri:
+During an inspection of your firm located in Irvine, California on August 3, 2010, through August 6, 2010, an investigator from the United States Food and Drug Administration (FDA) determined that your firm manufactures the eMax System device. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+This inspection revealed that the eMax System device is adulterated under section 501(f)(1)(B) of the Act, 21 U.S.C. 351(f)(1)(B), because you do not have an approved application for premarket approval (PMA) in effect pursuant to section 515(a) of the Act, 21 U.S.C. 360e(a), or an approved application for an investigational device exemption (IDE) under section 520(g) of the Act, 21 U.S.C. 360j(g). The device is also misbranded under section 502(o) of the Act, 21 U.S.C. 352(o), because you did not notify the agency of your intent to introduce the device into commercial distribution, as required by section 510(k) of the Act, 21 U.S.C. 360(k). For a device requiring premarket approval, the notification required by section 510(k) of the Act, 21 U.S.C. 360(k), is deemed satisfied when a PMA is pending before the agency, 21 CFR 807.81(b). The kind of information you need to submit in order to obtain approval or clearance for your device is described on the Internet at
+http://www.fda.gov/cdrh/devadvice/3122.html
+. The FDA will evaluate the information you submit and decide whether your product may be legally marketed.
+Additionally, the device is misbranded under section 502(o) of the Act, 21 U.S.C. 352(o), in that the device was manufactured, prepared, propagated, compounded, or processed in an establishment not duly registered under 21 U.S.C. 360; was not included in a list required by 21 U.S.C. 360(j); or a notice or other information respecting the device was not provided to the FDA as required by 21 U.S.C. 360(k).
+Our inspection also revealed that your eMax System device is misbranded under section 502(a) of the Act, 21 U.S.C. 352(a), in that the labeling for your device, namely the eMax User Manual and eMax product brochure, contain statements which represent or suggest that your device is adequate and effective for skin tightening, which representations or suggestions are false or misleading or otherwise contrary to fact because your device is not adequate or effective for such purposes.
+Our inspection also revealed your eMax System device is misbranded under section 502(f)(1), 21 U.S.C. 352(f)(1), in that the labeling for the device fails to bear adequate directions for use for the purposes for which it is intended, because adequate directions cannot be written for skin tightening as stated in the eMax User Manual and product brochure since skin tightening is not an approved indication and there are no such devices cleared for this indication.
+Given the serious nature of the violations of the Act, the eMax System device manufactured by your firm is subject to refusal of admission under section 801(a) of the Act, 21 U.S.C. § 381(a), in that it appears to be adulterated. As a result, FDA may take steps to refuse these products, known as "detention without physical examination," until these violations are corrected. In order to remove the devices from detention, you should provide a written response to this Warning Letter as described below and correct the violations described in this letter. We will notify you if your response is adequate, and we may need to re-inspect your facility to verify that the appropriate corrections have been made.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the Food and Drug Administration without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies are advised of the issuance of all Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen (15) working days from the date you receive this letter of the specific steps you have taken to correct the noted violations, including an explanation of how you plan to prevent these violations, or similar violations, from occurring again. Include documentation of the corrective action you have taken. If your planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective action cannot be completed within 15 working days, state the reason for the delay and the time within which the corrections will be completed.
+In addition, FDA has noted nonconformances with the following Current Good manufacturing Practice (CGMP) requirements of the Quality System (QS) regulation found at 21 CFR Part 820. These nonconformities include, but are not limited to, the following:
+1. Failure to establish and maintain adequate procedures for finished device acceptance to ensure that each production run, lot, or batch of finished devices meet acceptance criteria until: (1) the activities required by the Device Master Record (DMR) are completed; (2) the associated data and documentation is reviewed; (3) the release is authorized by the signature of a designated individual(s); and (4) the authorization is dated, as required by 21 CFR 820.80(d). For example, your firm’s Acceptance Test Procedure (ATP) and “Final Test” form used in the inspection of imported devices (e.g. eMax System) to ensure conformance with specifications, do not explain how to perform the testing or describe which tests are required.
+We have reviewed your response dated August 18, 2010, and have concluded that the adequacy of your response cannot be determined at this time. Your response stated that you would establish a fully documented procedure for finished goods testing including training, process validation, and an internal audit to verify implementation within 60 days. Your response also stated that ATP forms on file would be reviewed for compliance by technical team leaders. Your firm, however, has not provided evidence of implementation of the corrective actions.
+2. Failure to establish and maintain adequate procedures for receiving, reviewing, and evaluating complaints by a formally designated unit, as required by 21 CFR 820.198(a). For example, Clinical Complaints form QA70001 states that “ALL FIELDS MUST BE COMPLETE BEFORE YOUR REQUEST WILL BE PROCESSED.” A review of complaints
+(b)(6)
+found all fields were not filled out. There was no documentation on the form stating a reason why the fields were not completed.
+We have reviewed your response dated August 18, 2010, and have concluded that the adequacy of your response cannot be determined at this time. Your response stated that QA7001 form was updated to include a statement saying in the case that the information field in the form is not applicable, to add “NA” in the form. Your response also stated that employees who conduct and/or review clinical investigations would be trained on the revised form no later than September 1, 2010. Your firm also stated your corrective action involved reviewing previous investigations reported on form QA7001 to determine: (1) if they were completed properly and met all the firm’s requirements by September 15, 2010, and (2) to verify that any “missing data” did not affect the investigation results. Your firm, however, has not provided evidence of implementation of the corrective actions.
+Please send your reply to the Food and Drug Administration, Attention:
+Blake Bevill
+Compliance Director
+Los Angeles District
+19701 Fairchild
+Irvine, CA 92612-2506
+If you have questions regarding any issues in this letter, please contact Marco Esteves, Compliance Officer at 949-608-4439.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, Form FDA 483 (FDA 483), issued at the closeout of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality assurance systems. You should investigate and determine the causes of the violations, and take prompt actions to correct the violations and to bring your products into compliance.
+Sincerely,
+Alonza E. Cruse, Director
+Los Angeles District
+-
+-
+Close Out Letter
+Syneron Inc. - Close Out Letter 4/3/12
+-

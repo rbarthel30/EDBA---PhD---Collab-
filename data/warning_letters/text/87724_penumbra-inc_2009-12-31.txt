@@ -1,0 +1,85 @@
+Penumbra, Inc. 12/31/09
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+San Francisco District
+1431 Harbor Bay Parkway
+Alameda, CA 94502-7070
+Telephone: 510/337-6700
+WARNING LETTER
+December 31, 2009
+VIA FEDERAL EXPRESS
+Adam Elsesser
+Chief Executive Officer
+Penumbra, Inc.
+1351 Harbor Bay Pkwy
+Alameda, California 94502
+Dear Mr. Elsesser:
+During an inspection of your firm located in Alameda, California on July 29, 2009 through August 28, 2009, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures the Neuron Intracranial Access System, Models 053, 070 (no longer manufactured), and Advanced 070. Under section 201 (h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321 (h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) regulation found at Title 21, Code of Federal Regulations (C.F.R.), Part 820. We received responses from Kathleen C. Kidd dated September 11, October 9, November 9, and December 9, 2009, concerning our investigators' observations noted on the Form FDA 483, List of Inspectional Observations, that was issued to you. We address this response below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1. Failure to establish and maintain adequate procedures for implementing effective corrective and preventive actions, as required by 21 C.F.R. § 820.100(a). For example:
+a. Your firm initiated an exchange action that began on April 23, 2009, which after the FDA inspection took place, was classified as a Class I recall, yet your corrective action did not require all customers to be notified. The corrective action of pulling old product off the market and exchanging for new product only occurred upon a direct Physician request or Sales Representative initiation. At the time of the inspection, you did not know what nonconforming Neuron 070 product remained in the market unused.
+b. A corrective action was initiated as a result of a Nonconforming Material Report (NCR), NCR#841 dated July 29, 2009, for "coating out of spec." The cause of the nonconformance was attributed to the operator
+(b)(4)
+during "line clearance." According to training records, employees were retrained on a newly revised MQI0064WI, Line Clearance, Revision D, on August 6, 2009; however, upon reviewing this work instruction, it does not appear to instruct the employees on the
+(b)(4)
+.
+We have reviewed your responses and have concluded that they are inadequate. Your firm has not adequately addressed the requirements of 21 C.F.R. § 820.100 nor have you addressed any systemic corrective actions. Your firm's response dated September 11, 2009, provided general action items to monitor issues related to Physician Evaluations and nonconforming products. The subsequent responses dated October 9, November 9, and December 9, 2009, provided a progress report of the completion status of the aforementioned action items.
+2. Failure to establish and maintain adequate corrective and preventive action procedures to ensure verification or validation of such action to ensure effectiveness, as required by 21 C.F.R. § 820.100(a)(3). For example:
+a. Nonconformance Material Report (NCR) #792 dated 11arch 16, 2009, documented a " inspection not performed" for the "SA, Adv Neuron Dc 070." The root cause analysis stated that "the instruction was not clearly defined in the MQI (2327) and Lot History Card." Correction MQI2327 was revised to revision D on April 8, 2009. There was no verification or validation that the correction was adequate and there was no systemic correction action considered or executed.
+b. NCR#805 dated April 14, 2009, documented "
+(b)(4)
+fail
+(b)(4)
+" for the "SA, ADV NDC 070." The root cause analysis stated that "the instruction procedure did not have adequate level of detail." Correction MQI2327 was revised to revision E on April 23, 2009. There was no verification or validation that the correction was adequate and there was no systemic correction action considered or executed.
+c. NCR #793, dated March 16, 2009, documented a "Catheter
+(b)(4)
+." The root cause of this nonconformity was "determined to be operator error." The corrections were 1498,
+(b)(4) A
+pplication Revision D and 2332 Adv 070 Prep revision A on April 2, 2009. There were no verifications or validations that the corrections were adequate and there were
+no systemic corrective action considered or executed.
+d. NCR#841 dated July 29, 2009, documented "
+(b)(4)
+out of spec." The root cause analysis stated that "the overwhelming probable cause of this NCR was operator error." The correction was MQI0064 WI, Line Clearance revision D on August 6, 2009. There was no verification or validation that the correction was adequate and there was no systemic corrective action considered or executed.
+Your firm's responses are inadequate in that you provided a progress report of the status of completion of the aforementioned action items. Procedures for verifying or validating the corrective and preventive action to ensure that such actions are effective and do not adversely affect the finished device have not been included for our review.
+3. Failure to establish and maintain adequate procedures for receiving, reviewing and evaluating complaints; and ensure adequate procedures for promptly reviewing, evaluating and investigating complaints that represent an event which must be reported to FDA under 21 C.F.R. Part 803, as required by 21 C.F.R. § 820. 198(a) and (d). For example:
+a. During initial distribution of your products, to include Penumbra Neuron 053, 070 and Advanced 070, Physician Evaluations submitted to your firm were not reviewed as potential complaints or medical device report. There was no established procedure for appropriate handling of these Physician Evaluations. Several of these evaluations/assessments showed possible complaint/malfunction issues such as kinking, pinching, etc.
+b. Your complaint records under Penumbra Field Experience Form, FRM 0040, do not provide sufficient information to demonstrate a justifiable determination to report or not report a medical device report to FDA.
+Your firm's responses are inadequate in that you have not adequately addressed the requirements of 21 C.F.R. § 820.198 nor have you provided systemic corrective actions for the evaluation of complaints to determine if they represent an event which must be reported to FDA as a medical device report.
+4. Failure to establish and maintain adequate procedures to control product that does not conform to specified requirements, as required by 21 C.F.R. § 820.90(a). For example, you identified a higher incidence of nonconforming product in November 2008 through complaints filed for ovalizing and kinking of the Neuron 070 Delivery Catheter. On November 29, 2008, you advised Sales Representatives to "contact all Physicians" on your decision to stop distributing these catheters. This swap-out/action did not take effect until April 23, 2009. Your distribution records show that you still continued to distribute these nonconforming catheters from November 2008 until April 15, 2009. You did not adequately document, evaluate, segregate and dispose of the nonconforming Neuron 070 Delivery Catheter that you had at your facility.
+Your firm's responses are inadequate in that you have not adequately addressed the requirements of 21 C.F.R. § 820.90 nor have you addressed any systemic corrective actions to control product that does not conform to specified requirements.
+5. Failure to adequately ensure that when the results of a process cannot be fully verified by subsequent inspection and test that the process shall be validated with a high degree of assurance and approved according to established procedure, as required by 21 C.F.R. § 820.75(a). For example:
+a. Neuron 070 and Advanced 070 Neuron Delivery Catheter manufacturing has a process that requires validation. The process validation
+conducted, dated October 2008, which utilized
+(b)(4)
+Machine #0571 is inadequate because the lot sizes utilized in the validation were 25 and 75 units, when a typical production volume is over 100 units. There was no supporting evidence for not covering the normal lot size during production.
+b. On March 2009, you purchased a new
+(b)(4)
+Machine #0716. A review of the records for your process validation has no documented evidence of any process validation conducted to validate and/or show equivalence of
+(b)(4)
+Machine #0716 to
+(b)(4)
+#0571.
+Your firm's responses are inadequate in that you have not adequately addressed the requirements of 21 C.F.R. § 820.75 nor have you addressed any systemic corrective actions to ensure that when the results of a process cannot be fully verified by subsequent inspection and test, that the process shall be validated with a high degree of assurance and approved according to established procedure. Copies of the revalidation results for the subject machines have not been provided to assess the adequacy of your responses for our review.
+6. Failure to establish and maintain adequate procedures to ensure that mix-ups, damage, or other adverse effects or product do not occur during handling, as required by 21 C.F.R. § 820.140. For example, your Sales Representatives/Territorial Managers located throughout the country maintained finished product in their motor vehicles and maintained returned product as "trunk stock" according to WI0024 WI Returned Material Authorization Revision G dated July 16, 2009. A review of WI 0024 does not address how finished products and returned product will be properly handled to prevent mix up and to ensure no damages or other adverse effects to finished products. No other procedures have been provided to address these issues of "trunk stock."
+Your firm's responses are inadequate in that they do not include a copy of the handling procedure developed to address this observation for our review.
+Our inspection also revealed that your Neuron Intracranial Access System, Models 053, 070 (no longer manufactured), and Advanced 070 devices are misbranded under section 502(t)(2) of the Act, 21 U.S.C. 352(t)(2), in that your firm failed or refused to furnish material or information respecting the device that is required by or under section 519 of the Act, 21 U.S.C. 360i, and 21 C.F.R. Part 803 - Medical Device Reporting (MDR) regulation. Significant deviations include, but are not limited to, the following:
+1. Failure to submit a report to FDA after receiving information that reasonably suggested that a marketed device may have caused or contributed to a death or serious injury, as required by 21 CFR 803.50(a)(2). For example, during our audit of your complaint handling and Medical Device Reporting process it was revealed that you had received a number of complaints/Field Experiences, where your Neuron 070 and Neuron 053 Delivery Catheters were reported to have malfunctioned.
+We have reviewed your responses and have concluded they are inadequate because they have not addressed any systemic corrective actions.
+2. Failure to develop, maintain, and implement written MDR procedures for internal systems that provide for timely and effective identification, communication, and evaluation of events that may be subject to MDR requirements as required by 21 CFR 803.17. For example, During our audit of your corrective and preventive action system specific to complaint handling and Medical Device Reporting, it was revealed that your Work Instruction for Medical Device Reporting, "WI, Medical Device Reporting," 0021, Revision C, effective 3/30/2009 is not effective.
+We have reviewed your responses and have concluded they are inadequate because your firm did not submit documentation to demonstrate corrective action has been taken and MDR procedures have been developed and implemented.
+In addition, our inspection also revealed a noncomformance with your Neuron Intracranial Access System, Model 070 (no longer manufactured) device under section 502(t)(2) of the Act, 21 § U.S.C. 352(t)(2), in that your firm had significant deviations in respect to the device that is required by or under section 519 of the Act, 21 U.S.C. 360i, and 21 C.F.R. Part 806 - Reports of Corrections and Removals regulation. For example, your firm failed to submit its Report of Correction and Removal within the required ten day time frame as required by 21 CFR 806.10(b). Specifically, during our review of records related to distribution of complaints and medical device reports for your Neuron 070 Delivery Catheter Product, it was revealed that from November 2008 you were aware of issues associated with the subject device. As a result, you decided to conduct an exchange action.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the Food and Drug Administration without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies are advised of the issuance of all Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen (15) working days from the date you receive this letter of the specific steps you have taken to correct the noted violations, including an explanation of how you plan to prevent these violation(s), or similar violation(s), from occurring again. Include documentation of the corrective action you have taken. If your planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective action cannot be completed within 15 working days, state the reason for the delay and the time within which the corrections will be completed.
+Your response should be sent to: Sergio Chavez, Compliance Officer, 1431 Harbor Bay Parkway, Alameda, CA 94502-7070. If you have any questions about the content of this letter please contact: Mr. Chavez at (510) 337-6886.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, Form FDA 483 (FDA 483), issued at the closeout of the inspection may be symptomatic of serious problems in your firm's manufacturing and quality assurance systems. You should investigate and determine the causes of the violations, and take prompt actions to correct the violations and to bring your products into compliance.
+Sincerely yours,
+/S/
+Barbara Cassens
+District Director
+San Francisco District Office
+-
+-
+Close Out Letter
+Penumbra, Inc. Close out Letter 9/21/10
+-

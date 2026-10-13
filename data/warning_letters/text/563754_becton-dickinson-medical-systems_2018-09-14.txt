@@ -1,0 +1,229 @@
+WARNING LETTER
+Becton Dickinson Medical Systems
+MARCS-CMS 563754 —
+September 14, 2018
+Share
+Tweet
+Linkedin
+Email
+Print
+Becton Dickinson Medical Systems - 563754 - 09/14/2018
+Delivery Method:
+VIA UNITED PARCEL SERVICE
+Product:
+Medical Devices
+Recipient:
+Recipient Name
+Vincent Forlenza
+Recipient Title
+Chairman & CEO
+Becton Dickinson Medical Systems
+1 Becton Drive
+Franklin Lakes
+,
+NJ
+07417
+United States
+Issuing Office:
+Division of Medical Device and Radiological Health Operations Central
+555 Winderley Place, Suite 200
+Maitland
+,
+FL
+32751
+United States
+WARNING LETTER
+CMS #
+563754
+UNITED PARCEL SERVICE
+w/DELIVERY CONFIRMATION
+September 14, 2018
+Vincent Forlenza
+Chairman & CEO
+Becton, Dickinson & Co.
+1 Becton Drive
+Franklin Lakes, NJ 07417
+Dear Mr.
+Forlenza
+:
+During an inspection of Becton Dickinson (BD) Medical Systems, located at 9630 S. 54th St., Franklin, Wisconsin, on May 16, 2018 through August 1, 2018, investigators from the United States Food and Drug Administration (FDA) determined that Becton Dickinson (BD) Medical Systems manufactures the pre-filled Heparin lock flush syringe and the pre-filled 0.9% sodium chloride lock flush syringe. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21,
+Code of Federal Regulations
+(CFR), Part 820. You may find the Act and FDA’s regulations through links in FDA’s home page at
+www.fda.gov
+.
+We received your firm’s response dated August 21, 2018, concerning our investigators’ observations noted on the Form FDA 483 (FDA 483), Inspectional Observations, issued to your firm on August 1, 2018. We address these responses below in relation to the cited violations, which include:
+Failure to adequately establish procedures to control environmental conditions, as required by 21 CFR 820.70(c). Specifically, municipal tap water, a component of the
+(b)(4)
+and
+(b)(4)
+cleaning and disinfecting solutions are used on surfaces in the Class 10,000 cleanrooms and Class 100 laminar flow hoods where syringes are aseptically filled with 0.9% Sodium Chloride/heparin solutions. The municipal tap water has been found to
+be a potential source of microbial contamination through FDA sampling. Your firm does not routinely monitor the municipal tap water for microbial load to ensure dilutions are effective for cleaning and sanitation.
+Brevibacillus
+choshinensis
+was found in the water sample INV 1042751 (Sub cold 1-3) collected by the FDA on 06/04/2018 from the faucet located in the janitor room. In addition,
+B.
+choshinensis
+was also found on the interior surface (back right) of laminar flow hood H5044 in cleanroom A in the environmental sample INV 1042748 (Sub 11) and on the bar by bench #1 (clean bench) in gowning room in the environmental sample INV 1042747 (Sub 5) collected by the FDA on 06/04/2018.
+We reviewed your firm’s response to the FDA 483 and acknowledge your immediate corrections to include: (a) the discontinued use of tap water and utilization of ‘ready to use’ sterile disinfectant
+(b)(4)
+solutions or concentrates diluted with sterile water for injection (WFI); (b) the temporary shut down of manufacturing operations; and (c) the permanent removal of faucets and sink from janitor’s closet. We also acknowledge your firm’s commitment to validate and establish a revised cleaning program at BD Franklin through a comprehensive risk based review based on: (a) an expanded assessment of the microbiological flora typically found in manufacturing; (b) an evaluation of the disinfectant /
+(b)(4)
+to be used for inactivation including concentration effectiveness, and rotational frequencies; and (c) an assessment of procedures that govern when and where the cleaning agents are used, as well as how often these activities are reevaluated. Your response appears to be adequate; however, several of your firm’s actions are still in progress, and a follow-up inspection by FDA will be necessary to verify compliance.
+Failure to adequately establish procedures to prevent contamination of equipment or product by substances that may have an adverse effect on product quality, as required by 21 CFR 820.70(e). Specifically, your firm has not established adequate procedures for cleaning or controlling operator practice in the Class 10,000 cleanrooms and Class 100 laminar flow hoods where aseptic filling of saline/heparin syringes is performed. For example,
+(b)(4)
+and
+NPD
+cleaning and disinfecting solutions used in the critical processing zones and direct support zones are made with non-sterile tap water and held in non-sterile bottles that are used
+(b)(4)
+per the cleaning procedure (FRAN-SOP002).
+operators in the Class 10,000 cleanrooms were observed touching gowns and other objects outside of the Class 100 laminar flow hoods and returning gloved
+hands into the Class 100 laminar flow hoods without sanitizing the entire surface of gloved hands, not following the procedure Cleanroom Behavior and Practices (FRAN-SOP068) while performing aseptic filling of saline/heparin syringes.
+In addition, rapid movements by multiple operators were observed in the cleanrooms while FRAN-SOP068 requires cleanroom operators to move slowly
+and deliberately.
+the following bacteria were isolated in environmental swab samples collected by the FDA on 06/04/2018 on the interior surface of Class 100 laminar flow hoods:
+Sample INV 1042748 Cleanroom A
+Sub 7
+Kocuria rhizophila
+H5094 horizontal surface, right
+Alloiococcus otitis
+Sub 10
+Bacillus circulans
+H5044 vertical surface, back left
+Sub 11
+Bacillus clausii.
+H5044 vertical surface, back right
+Brevibacillus choshinensis
+Sample INV 1042749 Cleanroom B
+Sub 2
+Micrococcus lylae
+H5088 vertical surface, back right
+Sub 14
+Staphylococcus hominis
+H5092 horizontal surface, left
+ssp hominis
+Sub 15
+Bacillus firmus
+H5092 horizontal surface, right
+Sub 18
+Bacillus firmus
+H5112 vertical surface, back right
+Lysinibacillus fusiformis
+Sub 22
+Kocuria kristinae,
+H5112 horizontal surface, left
+Microbacterium (M. liquefaciens, M. maritypicum,
+M. oxydans, M. saperdae, M. luteolum)
+Sub 23
+Kocuria kristinae,
+H5112 horizontal surface, right
+Microbacterium (M. liquefaciens, M. maritypicum,
+M. oxydans, M. saperdae, M. luteolum)
+Sub 35
+Kocuria rosea
+H5403 horizontal surface, right
+Sub 43
+Kocuria rosea
+H5089 vertical surface, side right
+Sub 45
+Staphylococcus epidermidis
+H5089 bar and hook
+Bacillus firmus
+Sub 46
+Staphylococcus epidermidis
+H5089 horizontal surface, left
+Staphylococcus lugdunensis
+Sub 47
+Kocuria rosea
+H5089 horizontal surface, right
+Sub 55
+Bacillus firmus
+H5089 vertical surface, back right
+Sample INV 1042750
+Cleanroom C
+Sub 4
+Bacillus fordii
+H5425 vertical surface, side right
+Geobacillus toebii
+Sub 24
+Bacillus firmus Bacillus infatus
+H5091 horizontal surface, left
+We reviewed your firm’s response to the FDA 483 and acknowledge your immediate corrections to:
+(a) discontinue the use of tap water and utilize a ‘ready to use’ sterile disinfectant
+(b)(4)
+solutions or concentrates diluted with sterile water for injection (WFI); (b) temporarily shut down the manufacturing operations; and (c) discontinued use of non-sterile spray bottles used to hold cleaning and disinfecting solutions. We also acknowledge your firm’s commitment to: (a) implement procedural revisions to include the use of only sterile spray bottles to hold cleaning and disinfecting solutions; (b) validate the cleaning process; (c) revise procedures and perform employee retraining for proper cleaning behavior and practices; and (d) the evaluation of the environmental monitoring program. Your response appears to be adequate; however, several of your firm’s actions are still in progress, and a follow-up inspection by FDA will be necessary to verify compliance.
+3. Failure to adequately establish and maintain procedures to identify valid statistical techniques required for establishing, controlling, and verifying the acceptability of process capability and product characteristics, as required by 21 CFR 820.250(a). Specifically, you have not adequately established the sterility testing sample plan or the alert/action levels for environmental monitoring. For example,
+A. a representative lot of sterile saline-filled syringes (ASP-05-10, lot 700411B, 01/04/2017) comprised of
+(b)(4)
+units were aseptically filled in
+(b)(4)
+different laminar hoods over
+(b)(4)
+shifts. The sampling for sterility per FRAN-SOP015 only requires
+(b)(4)
+syringes for sterility testing per lot of saline/heparin syringes. Although this may be considered
+(b)(4)
+the amount recommended by USP 71 for sterility testing your firm has not determined whether the quantity sampled from the lot over the course of
+(b)(4)
+shifts and laminar hoods constitutes a valid statistical technique required for establishing, controlling, and verifying the acceptability of process capability and product characteristic. The samples for sterility testing are
+(b)(4)
+. Therefore, the
+(b)(4)
+units pulled for sterility testing may not represent the manufacturing capabilities for all hoods and operating conditions.
+the Environmental Monitoring Program (FRAN-SOP010) requires reevaluation of the alert and action levels for their intended use
+(b)(4)
+. Your firm’s personnel have not adequately performed or documented the
+(b)(4)
+reevaluations of the appropriateness of the viable alert and action levels.
+We reviewed your firm’s response to the FDA 483 and acknowledge your firm’s commitment to
+: (a) revise FRAN-SOP015 Rev 29, Sampling of Syringes for Release Criteria and increase the lot sampling to require a minimum of
+(b)(4)
+syringes to be taken from each filling machine used in the production of each lot; and (b) revise procedure FRAN-SOP033 Rev 04, Calculation Used for Setting Alert and Action Limits for the Environmental Monitoring, and procedure FRAN-SOP010 Rev 40, Environmental Monitoring Program, to include a statistical method for calculating, establishing, and updating viable alert and action limits. Your response appears to be adequate; however, several of your firm’s actions are still in progress, and a follow-up inspection by FDA will be necessary to verify compliance.
+4. Failure to adequately validate a process whose results cannot be fully verified by subsequent inspection based on established procedure, as required by 21 CFR 820.75(a). Specifically,
+the unidirectional airflow of the
+(b)(4)
+Class 100 laminar flow hoods used for
+(b)(4)
+aseptic filling of sterile saline/heparin filled syringes has not been validated.
+your firm’s preparation and use of a
+(b)(4)
+solution during
+(b)(4)
+cleaning and disinfecting of the Class 10,000 cleanrooms and Class 100 laminar flow hoods where sterile saline/heparin filled syringes are manufactured has not been validated.
+the adequate removal of residues of disinfecting and cleaning solutions in the Class 100 laminar flow hoods has not been validated.
+We reviewed your firm’s response to the FDA 483 and acknowledge your firm’s commitment to: (a) perform unidirectional smoke studies for the
+(b)(4)
+previously existing
+(b)(4)
+Class 100 laminar flow hoods and the Class 100 laminar flow hood
+(b)(4)
+to determine the effectiveness of the unidirectional air flow by performing static and dynamic intervention smoke profiles; (b) establish and implement a standard operating procedure for Franklin, WI facility that will provide clear guidance on when validations / re-validations are required for Class 100 laminar flow hoods or the Class 10,000 cleanroom, including when a new regulatory or industry standard is implemented; (c) review all Franklin, WI facility manufacturing site equipment to confirm validation status in accordance with existing BD procedure CPR-069, Process Validation Procedure, and address identified gaps; and (d) for observation 4B & 4C, corrective actions described in response to observation # 1. Your response appears to be adequate; however, several of your firm’s actions are still in progress, and a follow-up inspection by FDA will be necessary to verify compliance.
+5. Failure to monitor production processes to ensure that a device conforms to its specifications, as required by 21 CFR 820.70(a). Specifically,
+A. your firm's monitoring of the differential pressure for the Class 100 laminar flow hoods and the Class 10,000 cleanrooms used for aseptic filling of saline/heparin syringes is performed
+(b)(4)
+. No alarm systems have been integrated on the laminar flow hoods/cleanrooms to alert operators of a loss in HEPA filtered air nor is there an uninterrupted power supply system for the hoods/cleanrooms. In addition, your firm’s Failure Modes and Effects Analysis for Processes for cleanrooms does not list the loss of differential pressure as a contamination risk and no mitigation steps have been identified.
+B. your firm's Environmental Monitoring Program (FRAN-SOP010) does not require monitoring of the Class 10,000 janitor room and pre-gowning room located in the Class 10,000 clean area for production of sterile saline/heparin filled syringes. These two rooms are used on all production days.
+C. your firm’s Environmental Monitoring Program (FRAN-SOP010) does not require daily monitoring of the gloved fingers of all cleanroom operators who perform aseptic filling of syringe as specified in ISO 13408, which requires that gloved fingerprints of personnel present in the direct support zone and/or critical processing zone shall be monitored daily.
+We reviewed your firm’s response to the FDA 483 and acknowledge your firm’s commitment to: (a) install and validate continuous monitoring equipment on class 100 laminar flow hoods and class 10,000 cleanrooms and implement the process of continuous monitoring of differential pressure; (b) implement FRAN-SOP010 Rev 40, Environmental Monitoring Program, to include monitoring of the Class 10,000 Janitor’s room and the pre-gowning room as well as exit and emergency exit room; and (c) revise and implement FRAN-SOP010 to include sampling of all cleanroom operators and the frequency has been increased to
+(b)(4)
+to ensure that each operators’ gloves are sampled
+(b)(4)
+. Your response appears to be adequate; however, several of your firm’s actions are still in progress, and a follow-up inspection by FDA will be necessary to verify compliance.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (which must address systemic problems) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+If you have questions regarding this letter, please contact Rafael Padilla, Compliance Officer, by telephone at 312-596-4212, or by e-mail at
+Rafael.Padilla@fda.hhs.gov
+. Please send your reply to this Warning Letter to Blake Bevill, Program Division Director, using the electronic mailbox
+ORADevices2FirmResponse@fda.hhs.gov
+. Any attachments should be labeled and/or identified for ease of review. Documentation should be submitted as a single pdf file, with bookmarks to easily identify table of contents, memos, attachments, etc. If a single pdf file exceeds the 100MB size limit, please submit multiple pdf files, as appropriate. Refer to CMS Case #563754 when replying.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely,
+/S/
+Blake Bevill, MS
+Program Division Director
+Office of Medical Device and Radiological Health
+Division 2 – Central
+Content current as of:
+10/08/2018
+Regulated Product(s)
+Medical Devices
+More Warning Letters

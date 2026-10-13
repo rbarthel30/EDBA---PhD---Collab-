@@ -1,0 +1,104 @@
+WARNING LETTER
+Masimo Corporation
+MARCS-CMS 420381 — Aug 12, 2014
+Share
+Tweet
+Linkedin
+Email
+Print
+Masimo Corporation - 420381 - 08/12/2014
+Recipient:
+Masimo Corporation
+United States
+Issuing Office:
+Los Angeles District Office
+United States
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Los Angeles District
+19701 Fairchild
+Irvine, CA 92612-2506
+Telephone: 949-608-2900
+FAX: 949-608-4417
+WARNING LETTER
+VIA UNITED PARCEL SERVICE
+SIGNATURE REQUIRED
+WL# 31-14
+August 12, 2014
+Mr. Massi E. Kiani, CEO
+Masimo Corporation
+Forty Parker
+Irvine, CA 92618
+Dear Mr. Kiani:
+During an inspection of your firm located in Irvine, California on August 13, 2013 to October 3, 2013, an investigator from the United States Food and Drug Administration (FDA) determined that your firm manufactures the Rainbow SET Pronto-7 Pulse CO-Oximeter and Rad-8 Signal Extraction Pulse Oximeter. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act) [21 USC § 321(h)], these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+This inspection revealed that your devices are adulterated within the meaning of section 501 (h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+We received responses from Yongsam Lee, Executive Vice President, and Mathew Jimenez, Vice President of Quality Compliance, dated October 24, 2013, and December 4, 2013, concerning our investigator's observations noted on the Form FDA 483 (FDA 483), List of Inspectional Observations, that was issued to your firm. We address this response below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1. Failure to review, evaluate, and investigate complaints involving the possible failure of a device to meet any of its specifications as required by 21 CFR 820.198(c). Specifically, multiple complaints of device failures were not adequately reviewed, evaluated, and investigated. For example:
+For
+(b)(4)
+customers issued complaints regarding inaccurate readings of the Pronto 7 devices. Your review of these complaints failed to adequately evaluate and investigate the inaccurate readings. Your firm's documented reviews failed to identify the comparator that was used, if any, to verify the accuracy of the device's readings and failed to evaluate the device at the range of hemoglobin readings that were the subject of the complaints. By not evaluating the complaints using appropriate parameters, the results of your complaint analyses may be compromised and may lead to improper corrective action plans.
+Your response dated October 24, 2013 is not adequate. You state that an investigation performed by your supplier,
+(b)(6)
+was documented and the record updated. However, your firm did not provide evidence of corrective and preventive action to address all the deficiencies associated with your firm's complaint handling.
+2. Failure of complaint investigation records to include required information, as required by 21 CFR 820.198(e).
+Specifically, the records of investigations did not contain required information regarding the nature and details of the complaint.
+For
+(b)(4)
+the MDR reported by the user contained the following event description: "Masimo neonatal and adult oxygen saturation probes have been observed coming apart at the sensor and cable connection. The sensor is peeling up from the cable and exposing wires and threads. In this reported instance, the wiring was observed to have been exposed immediately after removing the device from the packaging." However, your complaint file described the malfunction as "Sensors were not out of box failures they had been used for a few days."
+The response dated October 24, 2013 is not adequate. You state that an investigation and your complaint file determined that it was unlikely to cause or contribute to a death or serious injury. However, your firm's requirements under the MDR regulations at 21 CFR Part 803 to report certain adverse events to FDA are in addition to your firm's requirements related to complaint files under 21 CFR 820.198. You did not provide evidence of corrective and preventive action regarding how your firm will comply with the requirements to record complaint investigation details.
+3. Failure to establish and maintain procedures for implementing corrective and preventive action, including requirements for identifying the action(s) needed to correct nonconforming product and other quality problems, as required by 21 CFR 820.100(a)(3).
+Specifically, your firm failed to ensure that all potentially affected product had been identified .
+For
+(b)(4)
+, RAM sensor piezo inverted during manufacturing, you failed to fully identify the action(s) needed to correct the nonconforming product and other quality problems. Your CAPA failed to address whether any already-manufactured product could have been affected by the manufacturing nonconformance. Your CAPA failed to explain whether a review of complaints, device history records, and/or stored manufactured devices should have been conducted to identify all products that could have been affected by the manufacturing nonconformance.
+The response dated October 24, 2013 is not adequate. You state that the inverted piezo issue did not have an effect on accuracy or performance. However, you did not provide evidence of corrective and preventive action regarding how your firm will identify all of the action(s) needed to correct nonconforming product and other quality problems to address all potentially affected products.
+4. Failure to establish and maintain procedures for implementing corrective and preventive action, including investigating the cause of nonconformities relating to product, processes, and quality system, as required by 21 CFR 820.100(a)(2).
+Specifically, your acceptance criteria under
+(b)(4)
+, Cleaning Verification, Pronto 7
+(b)(4)
+specifies that "[t]here shall be no performance degradation due to the cleaning test. The Mean of SpHB and SpO2 will be used to compare before and after cleaning. The delta (means of duplicate runs) of (SpHb and SpO2) for the sensor before and after cleaning shall be within
+(b)(4)
+" In the test report
+(b)(4)
+a difference greater than
+(b)(4)
+was detected after 800 cycles ("The SpHb reading after 800 cycles on sensor id:
+(b)(4)
+of it's baseline value. However, as all values on subsequent cleaning cycles are less than the
+(b)(4)
+of baseline, the data point is unlikely to be due to the cleaning process."). You failed to investigate the cause of the failed data point related to the cleaning process.
+Your response dated October 24, 2013 is inadequate. You state that the overall testing was accepted based on the passing· of tests by the remaining sensors other than the one performed at 800 cycles. You are responsible for investigating the cause of the nonconformity, under 21 CFR 820.100(a), regardless of whether the cause was determined to not be attributed to the cleaning process.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the Food and Drug Administration without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies are advised of the issuance of all Warning Letters about devices so that they may take this information into account when considering the award of contracts.
+Please notify this office in writing within fifteen (15) working days of receipt of this letter of the specific steps you have taken to correct the noted violations, including an explanation of how you plan to prevent these violations, or similar violations, from occurring again. Include documentation of the corrective action you have taken. If your planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective actions cannot be completed within 15 working days, state the reason for the delay and the time within the corrections will be completed.
+Also, please note that FDA reviewed your MDR procedures under 21 CFR Part 803, and found that your firm's MDR Procedure titled
+(b)(4)
+Medical Device Reporting,
+(b)(4)
+dated June 22, 2011, contains a definition of "caused or contributed" that fails to include the requirement that, under 21 CFR Part 803, a device "caused or contributed" to a serious injury or death if the medical device "was or may have been a factor in" the death or serious injury, as required by 21 CFR 803.3.
+Finally, the FDA, Los Angeles District Office, requests that you contact Compliance Officer Dr. Raymond W. Brullo at (949) 608-2918 upon receipt of this letter to attend a regulatory meeting at the District Office. If you have any questions about the content of this letter please contact Dr. Brullo.
+Your response should be sent to:
+Acting Director
+Compliance Branch
+Los Angeles District
+Food and Drug Administration
+19701 Fairchild
+Irvine, CA 92612-2506
+Sincerely yours,
+/S/
+Alonza E. Cruse, Director
+Los Angeles District
+Cc:
+Harlan Loui, Acting Chief
+California Department of Public Health
+Food and Drug Branch
+1500 Capitol Avenue, MS-7602
+P.O. Box 997435
+Sacramento, CA 95899-7435
+Attn: FDA Correspondence
+Close Out Letter
+Masimo Corporation - Close Out Letter 5/22/17
+Content current as of:
+08/25/2014
+More Warning Letters

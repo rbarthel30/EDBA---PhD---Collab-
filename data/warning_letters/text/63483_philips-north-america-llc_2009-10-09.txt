@@ -1,0 +1,52 @@
+Philips Healthcare Inc.
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+New England District
+One Montvale Avenue
+Stoneham, Massachusetts 02180
+(781) 596-7700
+FAX: (781) 596-7896
+WARNING LETTER
+NWE-02-10W
+VIA FEDERAL EXPRESS
+October 9, 2009
+Mr. Steve Rusckowski
+Chief Executive Officer
+Philips Healthcare, Inc.
+3000 Minuteman Road
+Andover, MA 01810
+Dear Mr. Rusckowski:
+During an inspection of your firm located in Andover, Massachusetts on January 21 through March 10, 2009, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures medical devices such as patient monitoring cardiac care products and ultrasound transducers. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act (21 U.S.C. § 351(h)), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) regulation found at Title 21, Code of Federal Regulations (C.F.R.), Part 820. We received a response from
+(b)(4)
+, dated September 21, 2009, concerning our investigator’s observations noted on the Form FDA 483, List of Inspectional Observations that was issued to you. We address this response below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1. Failure to establish and maintain adequate procedures for receiving, reviewing, and evaluating complaints by a formerly designated unit to ensure all complaints are processed in a uniform and timely manner, as required by 21 CFR 820.198 (a)(1).
+For example:
+(b)(4)
+, document number A-Q2920-00135, establishes that all complaints are to be handled in a timely manner with closure targeted for 90 days from the initiation date of the complaint. Observation 4a of the 483 report highlights several repairs and complaints regarding
+(b)(4)
+the external defibrillator using the
+(b)(4)
+prone to silver dendrites that were reported as early as August 27, 2007 but were not submitted as MDR to the FDA until January 21, 2009, beyond the 90 day target date for completion.
+Your response to this observation appears to be adequate.
+Our inspection also revealed that your
+(b)(4)
+AED devices are misbranded under section 502(t)(2) of the Act, 21 U.S.C. 352(t)(2), in that your firm failed or refused to furnish material or information respecting the device that is required by or under section 519 of the Act, 21 U.S.C. 360i, and 21 C.F.R. Part 803 - Medical Device Reporting (MDR) regulation. Significant deviations include, but are not limited to, the following:
+1. Failure to develop, maintain, and implement written MDR procedures that ensure timely and effective identification, communication, and evaluation of events that may be subject to MDR requirements as required by 21 CFR 803.17(a)(1).
+Your response to this observation appears to be adequate.
+2. Failure to report within 30 calendar days any event that may have caused or contributed to a death or serious injury; or malfunctioned and would likely cause or contribute to a death or serious injury if the malfunction were to recur as required by 21 CFR 803.50(a).
+Your response to this observation appears to be adequate.
+In addition FDA has noted nonconformance with regards to section 501(h) of the Act (21 U.S.C. § 351(h) due to deficiencies to the regulation 21 CFR 820.100(a)(3) regarding failure to maintain adequate procedures for implementing corrective and preventative actions for identifying the actions needed to correct and prevent recurrence of nonconforming product and other quality problems.
+For example: The documentation provided by the establishment inspection showed that your firm did not perform an evaluation of the magnitude of a component problem that resulted in a recall to see if it was endemic to other device models. Your firm had identified and verified the root cause and had implemented a correction by January 19, 2009, but as of February 27, 2009, your firm was unable to detail the impact of the problem on other devices to the investigators on site. The firm’s CAPA procedure indicates that; “an evaluation of the magnitude of the issue once the investigation of root cause is completed”, should be performed.
+A follow up inspection will be required to assure that corrections are adequate.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the Food and Drug Administration without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies are advised of the issuance of all Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen (15) working days from the date you receive this letter of the specific steps you have taken to correct the noted violations, including an explanation of how you plan to prevent these violations, or similar violations, from occurring again. Include documentation of the corrective action you have taken. If your planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective action cannot be completed within 15 working days, state the reason for the delay and the time within which the corrections will be completed.
+Your response should be sent to: Maren Forsyth, Food & Drug Administration, One Montvale Avenue, Fourth Floor, Stoneham, Massachusetts 02180. If you have any questions about the content of this letter please contact Ms. Forsyth at (781) 596-7769.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsipility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, Form FDA 483 (FDA 483), issued at the closeout of the inspection may be symptomatic of serious problems in your firm's manufacturing and quality assurance systems. You should investigate and determine the causes of the violations, and take prompt actions to correct the violations and to bring your products into compliance.
+Sincerely yours,
+/S/
+John R. Marzilli
+District Director
+New England District
+-

@@ -1,0 +1,115 @@
+WARNING LETTER
+Envoy Medical Inc.
+MARCS-CMS 718762 —
+November 11, 2025
+More Warning Letters
+Delivery Method:
+VIA Electronic Mail
+Product:
+Medical Devices
+Recipient:
+Recipient Name
+Brent T. Lucas
+Recipient Title
+CEO & Director
+Envoy Medical Inc.
+4875 White Bear Parkway
+Saint Paul
+,
+MN
+55110-3325
+United States
+blucas@envoymedical.com
+Issuing Office:
+Center for Devices and Radiological Health
+United States
+WARNING LETTER
+CMS # 718762
+November 11, 2025
+Dear Mr. Lucas:
+During an inspection of your firm located in Saint Paul, MN from June 24, 2025, through July 2, 2025, an investigator from the United States Food and Drug Administration (FDA) determined that your firm manufacturers the Esteem II Implantable Hearing System. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), this product is a device because it is intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+Quality System Regulation Violation(s)
+This inspection revealed that this device is adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, its manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820. We received your response dated July 22, 2025, from Maksim Trofimovich, Quality Manager, concerning our investigator’s observations noted on the Form FDA 483 (FDA 483), List of Inspectional Observations, that was issued to you. We address this response below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1. Failure to adequately establish and maintain procedures for receiving, reviewing, and evaluating complaints by a formally designated unit, as required by 21 CFR 820.198(a).
+Specifically, your firm has not adequately implemented your Complaint Handling, Medical Device Reporting and Vigilance Reporting, Document Number 000978, Revision 26, Dated 20-May-2024, to ensure complaints are processed in a uniform and timely manner. For example:
+a) On November 25, 2024, your firm received Complaint CR-03201 documenting explantation of an Esteem II System due to patient infection. The physical device was received on December 5, 2024, and the incident was reported as a serious injury Medical Device Report (MDR) on December 18, 2024. As of the inspection's conclusion on July 2, 2025, approximately seven months after initial complaint receipt, the investigation remained incomplete. Your firm's complaint procedure (Document 000978) does not include specific requirements for uniform and timely complaint processing. In addition, your firm maintains a procedure for returned product analysis (Document 001005, Revision 12, dated May 20, 2024) that outlines specific failure mode analysis requirements and analytical methods. However, your firm did not conduct and document an investigation for Complaint CR-03201 in accordance with these established protocols as of the conclusion of the July 2025 inspection.
+b) Your firm received Complaint CR-03042 on September 28, 2023, involving sudden battery depletion of the Esteem II System. Your firm determined this complaint to be a significant high-risk event and reported it as a serious injury on April 12, 2024, or approximately seven months after the initial complaint receipt. The device was received for investigation on June 26, 2024. Documentation for Complaint CR-03042 shows that Complaint File Review (CFR) meetings in September 2024 and October 2024 did not determine which engineering team member would be assigned to conduct the required engineering investigation, with the decision deferred further to the November 2024 CFR meeting. At the time of the inspection ending July 2, 2025, this complaint remained pending an engineering review as required by your firm's complaint procedures. No progress updates beyond October 2024 are documented in the complaint record.
+c) Your firm received Complaint CR-03165 on August 22, 2024, involving an Esteem II Transducer that was causing feedback and difficulty programming the Esteem II System, which led to revision surgery to replace the sensor. The device was received for investigation on February 4, 2025, and the incident was reported as a serious injury Medical Device Report (MDR) on February 14, 2025. Your Quality Engineer indicated the device investigation is incomplete pending calibration of inspection equipment required for returned product analysis, however, similar calibrated equipment used in production could potentially be utilized for the returned product analysis but was not employed. At the time of the inspection ending July 2, 2025, this complaint remained open and pending testing as required by the firm's complaint procedures. No progress updates beyond January 2025 are documented in the complaint record.
+The response dated July 22, 2025, is not adequate. Your firm’s response includes a revised SOP 000978 "Complaint Handling, Medical Device Reporting and Vigilance Reporting" (Attachment D - redlined version) which represents a proposed changes rather than an approved, implemented procedure. Concerning timeliness requirements outlined in the procedure, that complaint investigations be completed within 6 months of the first aware date, this may be considered lengthy for addressing regulatory compliance issues. Your firm’s response also includes documentation to demonstrate closure of CR-03201 and CR-03165, but only a progress report for CR-03042 was provided rather than the complete updated complaint record. This suggests CR-03042 remains open pending completion of the ongoing engineering investigation. Your firm’s response indicates your firm’s intent to complete all open complaints by September 2025. However, we have received no updated response(s) from your firm for September/October 2025 to demonstrate the investigation completion of CR-03042 and its closure. In addition, your response acknowledges resource diversion to other work priorities but doesn't provide specific safeguards to ensure adequate resources for complaint investigations going forward.
+2. Failure to adequately establish and maintain procedures for corrective and preventive action, as required by 21 CFR 820.100(a).
+Specifically, your firm's CAPA procedures, Corrective and Preventive Actions, Document Number 000422, Revision 17, Dated September 20, 2024; Quality Event Risk Assessment & CAPA Escalation, Document Number 006411, Revision 03, Dated May 15, 2024; and CAPA Work Instruction, Document Number 006342, Revision 08, Dated September 20, 2024, have not been adequately implemented concerning two critical CAPAs involving high particulate counts in your firm’s ISO Class 8 Cleanrooms. For example:
+a) Your firm opened CAPA-00684 on March 2, 2022, following the discovery of high
+(b)(4)
+particulate counts during
+(b)(4)
+cleanroom monitoring conducted on February 16, 2022. The monitoring, performed by a third-party service identified particulate counts of
+(b)(4)
+at location
+(b)(4)
+in your large cleanroom, which exceeded the ISO Class 8 requirement of below 3,520,000 particulates/m³. No Health Hazard Evaluation (HHE), Document 006330, was conducted to assess the potential adverse impact to user safety, including assessment of any impact to products manufactured between February 16, 2022, and May 19, 2022, for the extended period of non-conforming cleanroom conditions.
+b) Your firm opened CAPA-00708 on July 10, 2024, for high
+(b)(4)
+particulate counts discovered during
+(b)(4)
+cleanroom monitoring conducted on May 8, 2024. The third-party monitoring service found particulate counts of
+(b)(4)
+at location
+(b)(4)
+and
+(b)(4)
+at location
+(b)(4)
+in your large cleanroom, both exceeding ISO Class 8 specifications. No HHE was conducted and no further assessment of any impact to products manufactured between February 27, 2024, and October 14, 2024, for the extended period of non-conforming manufacturing conditions.
+The response dated July 22, 2025, is not adequate. Your response includes CAPA CA-00712 that addresses the immediate product impact issues both CA-00684 and CA-00708 failed to evaluate. However, CAPA CA-00712 does not provide for an investigation to correct the underlying CAPA system deficiencies that allowed a fundamental failure in risk assessment to occur. Specifically, why qualified personnel conducting CA-00684, and the subsequent CAPA CA-00708, failed to recognize nonconforming conditions, assess the competency or decision-making factors that led to inadequate risk assessment, or updates to underlying CAPA procedures (Documents 000422, 006411, 006342) that allowed the inadequate evaluation to occur. Our concern remains that there appears to be ongoing systemic issues in your CAPA process that CA-00712 does not specifically address.
+3. Failure to adequately establish and maintain design validation procedures to ensure proper risk analysis is completed, as required by 21 CFR 820.30(g).
+Specifically, your firm's implementation of your primary risk assessment procedure "Risk Management Process", Document Number 001000, Revision 11, dated April 17, 2025, did not ensure routine updating of hazard evaluation documentation and the consistent assessment of infection-related risks. For example:
+a) CAPA CA-00701 identified that
+(b)(4)
+of
+(b)(4)
+used in assembly processes may have incomplete
+(b)(4)
+due to
+(b)(4)
+excursions in your firm’s large ISO Class 8 cleanroom. However, the risk documentation for the Esteem II Sound Processors which includes Esteem II System HA, Document Number 003682, Revision 12, dated April 20, 2017, and Esteem II FMECA, Document Number 006411, Revision 12, dated April 20, 2017, do not include the hazard identified from CA-00701, to evaluate the risk and its potential effects on the Esteem II System.
+b) Your firm's risk assessment does not consistently evaluate infection risks for the Esteem II System. Your risk analysis document establishes three contamination events that lead to the same outcome of patient infection but are assigned different severity ratings. "Insufficient flow of filtered air" and "Contaminated
+(b)(4)
+water system" resulting in "Excessive contamination or bioburden on parts" are rated as severity
+(b)(4)
+, while the "Contamination not removed from assembly" with "Infection or reaction" is rated as severity
+(b)(4)
+. According to your firm’s Risk Management Process procedure, severity
+(b)(4)
+indicates temporary health problems requiring routine medical care, while severity
+(b)(4)
+indicates life-threatening consequences. It is unclear why these three contamination sources that could all lead to patient infection were given different severity ratings when the potential patient harm would be the same.
+c) Your firm's Risk Management Process procedure does not specifically identify endotoxins as a hazard to be considered in the risk management process, and you only perform in-process endotoxin testing of your
+(b)(4)
+water system while omitting testing of the finished device, Esteem II System. Your firm maintains no documentation demonstrating that the
+(b)(4)
+water system testing is representative of endotoxin risk for the finished device or provides for consideration of other possible sources of endotoxin contamination in your manufacturing process for the device.
+The response dated July 22, 2025, is not adequate. Your response includes CAPA CA-00716 and identified training deficiencies and procedural gaps as root causes. However, your response does not adequately address why your risk analysis system failed to identify and incorporate critical hazards such as
+(b)(4)
+effects on
+(b)(4)
+for nearly a
+(b)(4)
+, or why your risk assessment methodology allowed inconsistent severity ratings for infection-related failure modes that could result in similar patient harm. Your immediate corrections including updating FMECA 003799, to add
+(b)(4)
+risks and align infection severity ratings, along with hazard analysis training completed in July 2025. This may address the immediate technical issues but does not demonstrate a comprehensive evaluation of your risk analysis process to ensure all relevant hazards have been identified and properly assessed for your sterile implantable device. Your response also includes CAPA CA-00714 indicating a commitment to implement endotoxin testing for finished devices by September 2025 and update procedure 000500 by August 2025. However, your response does not include any retrospective risk assessment of previously released products that were distributed without endotoxin testing. While your corrective actions focus on procedural documentation improvements including updating procedure 000500 to include endotoxin testing requirements, you do not address updates to procedures including your Risk Management Process (Document 001000), Hazard Analysis (Document 003682), and FMECA (Document 003799), to include endotoxin contamination as an identified critical hazard requiring control for your sterile implantable device.
+Your firm should take prompt action to address any violations identified in this letter. Failure to adequately address this matter may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties.
+Other federal agencies may take your compliance with the FD&C Act and its implementing regulations into account when considering the award of federal contracts. Additionally, should FDA determine that you have Quality System regulation violations that are reasonably related to premarket approval applications for Class III devices, such devices will not be approved until the violations have been addressed. Should FDA determine that your devices or facilities do not meet the requirements of the Act, requests for Certificates to Foreign Governments (CFG) may not be granted.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to address the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (which must address systemic problems) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address any violations included in this Warning Letter. If you believe that your products are not in violation of the FD&C Act, include your reasoning and any supporting information for our consideration as part of your response.
+Your firm’s response should be sent to: Melissa Michurski, Assistant Director, at CDRHEnforcement@fda.hhs.gov. Refer to CMS # 718762 when replying. If you have any questions about the contents of this letter, please contact Salvatore Randazzo, Compliance Officer, at 407-475-4712 or salvatore.randazzo@fda.hhs.gov.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of any violations and take prompt actions to address any violations and bring the products into compliance.
+Sincerely,
+/S/
+Barbara C. Marsden
+Acting Director
+Office of Regulatory Programs
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Content current as of:
+12/09/2025
+Regulated Product(s)
+Medical Devices

@@ -1,0 +1,121 @@
+DePuy Orthopaedics, Inc. 12/8/11
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+10903 New Hampshire Avenue
+Silver Spring, MD 20993
+WARNING LETTER
+DEC 8 2011
+VIA UNITED PARCEL SERVICE
+Ms. Mary E. Riggs
+World Wide VP Finance
+DePuy Orthopaedics, Inc.
+700 Orthopaedic Drive
+Warsaw, Indiana 46581-0988
+Dear Ms. Riggs:
+During an inspection of your firm located in Warsaw, Indiana, on May 10, 2011, through June 7, 2011, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures the ASR Acetabular Cup System, ASR XL Acetabular Cup System, Pinnacle Acetabular System, PFC Sigma Knee System, Agility LP Total Ankle Prosthesis, and other ankle, knee, hip, shoulder, elbow, and wrist replacement devices. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+Our inspection revealed that some of the PFC Sigma Knee System components, Agility Total Ankle Prosthesis talar components and “Augments,” Global Advantage Shoulder System components, TriFlange Acetabular Cups, Femoral heads, and hip arthroplasty system adapters are adulterated under section 501(f)(1)(B) of the Act, 21 U.S.C. § 351(f)(1)(B), because your firm does not have approved applications for premarket approval (PMA) in effect pursuant to section 515(a) of the Act, 21 U.S.C. § 360e(a), or approved applications for investigational device exemptions (IDE) under section 520(g) of the Act, 21 U.S.C. § 360j(g). These devices are also misbranded under section 502(o) the Act, 21 U.S.C. § 352(o), because your firm did not notify the agency of its intent to introduce the devices into commercial distribution, as required by section 510(k) of the Act, 21 U.S.C. § 360(k). For a device requiring premarket approval, the notification required by section 510(k) is deemed satisfied when a PMA is pending before the agency. [21 CFR 807.81(b)] The kind of information that your firm needs to submit in order to obtain approval or clearance for the devices is described on the Internet at
+http://www.fda.gov/cdrh/devadvice/3122.html
+. The FDA will evaluate the information that your firm submits and decide whether the products may be legally marketed.
+Specifically, the following devices have no premarket clearance or approval, or have been modified in ways that could impact the safety and effectiveness of the devices such that a new 510(k) is required in accordance with 21 CFR 807.81(a)(3) or a PMA Supplement is required in accordance with 21 CFR 814.39(a):
+1. PFC Sigma Knee System with titanium components and Global Advantage Shoulder System with titanium heads;
+2. PFC Sigma Knee System components, sizes 2.5, 7, and 8;
+3. PFC Sigma Knee System, 30 mm – 40 mm thick inserts;
+4. Agility Total Ankle Prosthesis talar components with stems 0.35 inches and longer;
+5. Agility Total Ankle Prosthesis talar stems that are round in cross-section and taper downwards;
+6. The Agility Total Ankle Prosthesis augments;
+7. Global humeral stems 18 mm in diameter;
+8. Global Humeral Stems shorter than 120 mm in length;
+9. TriFlange Acetabular Cups with outer diameters greater than 66 mm;
+10. TriFlange Acetabular Cups indicated for cemented use;
+11. Femoral heads that include a 14/16 taper;
+12. Femoral heads with offsets greater than +12;
+13. Acetabular hip system 14/16 taper adapters; and
+14. Adapters to Stryker hip components.
+Your firm has indicated that these devices were distributed without approval or clearance under the belief that they are custom devices. Under section 520(b) of the Act, 21 U.S.C. § 360j(b), and 21 C.F.R. 812.3(b), a device constitutes a custom device, and is exempt from premarket approval or clearance, if it:
+1. Necessarily deviates from devices generally available or from an applicable performance standard or premarket approval requirement in order to comply with the order of an individual physician or dentist;
+2. Is not generally available to, or generally used by, other physicians or dentists;
+3. Is not generally available in finished form for purchase or for dispensing upon prescription;
+4. Is not offered for commercial distribution through labeling or advertising; and
+5. Is intended for use by an individual patient named in the order of a physician or dentist, or is intended to meet the special needs of a physician or dentist, in the course of professional practice.
+Your firm’s procedure SCP-905,
+(b)(4)
+Revision N, describes the process by which the firm accepts requests from surgeons for products to match an individual patient's anatomy. The procedure contains a
+(b)(4)
+form, which appears to be completed by the Product Engineering staff. Section 7.3 of SCP-905 states
+(b)(4)
+Section 7.3.1.4 continues:
+(b)(4)
+. This information shows that your firm is utilizing existing lines of products that have FDA clearance or approval to manufacture these devices.
+SCP-905 also indicates that up to
+(b)(4)
+identical devices can be manufactured and still be considered a “custom device” by your firm. The standard for a custom device does not include a quantitative limit or quantitative allowance.
+In addition, SCP-905 does not ensure that the devices at issue are not generally available in finished form or to other physicians, as is required to meet the custom device definition.
+Thus, none of the devices listed above constitute a custom device. These devices do not deviate from generally available devices or from applicable performance standards, and they have common, standardized design characteristics, chemical and material compositions, or manufacturing processes. Although the devices' size and shape may vary with each patient’s anatomy, the standardized design characteristics do not vary among the devices manufactured. The fact that final specifications are tailored to match a patient’s anatomy does not preclude a clinical study or submission of a marketing application for the devices.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the awarding of contracts.
+A follow up inspection will be required to assure that corrections and/or corrective actions are adequate.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+In addition, FDA notes the following concerns regarding your firm’s compliance with the Quality System (QS) regulation requirements found at 21 CFR Part 820:
+1. Failure to establish and maintain adequate design validation procedures to ensure that devices conform to defined user needs and intended uses; to ensure that proper risk analysis is completed; and to ensure that the results of the design validation, including identification of the design, the methods, the date, and the individuals performing the validation are documented in the design history file, as required by 21 CFR 820.30(g).
+For example: SCP-411,
+(b)(4)
+does not contain any requirements for the documentation of the rationale for the “severity,” “occurrence,” and “detection” scores for each of the failure modes. In addition, the current design failure modes and effects analysis associated with the
+(b)(4)
+femoral heads do not contain any documentation of the rationale for the “severity,” “occurrence,” and “detection” scores for each of the failure modes.
+The adequacy of your firm’s response cannot be determined at this time. Your firm provided the newly revised SEP-100,
+(b)(4)
+Rev B (implemented on June 22, 2011), which requires that the FMEA form captures the rationale for severity and occurrence ratings. The response indicates that all new FMEAs and those that are currently in development will include rationales for severity and occurrence ratings. It also indicates that the new procedure WI-7851,
+(b)(4)
+is being developed to
+(b)(4)
+and that once WI-7851 is implemented, all
+(b)(4)
+and WI-7851. Evidence has not yet been provided of implementation of WI-7851 or
+(b)(4)
+.
+2. Failure to establish and maintain adequate procedures for receiving, reviewing, and evaluating complaints, as required by 21 CFR 820.198(a).
+For example: Procedure SCP-1403,
+(b)(4)
+Rev. N, states that any of your firm’s
+(b)(4)
+. Nevertheless, complaint WPC 6131-2011 was received March 23, 2009, and was not entered into the complaint database until May 26, 2011, and complaint WPC 6132-2011 was received March 30, 2009, and was not entered into the complaint database until May 27, 2011.
+The adequacy of your firm’s response cannot be determined at this time. Your firm indicates that the two complaints (WPC 6131-2011 and WPC 6132-2011) were both entered into the
+(b)(4)
+without an Adverse Event (AE) report and were therefore not entered into the complaint database for evaluation until the time of the inspection, when staff reviewed
+(b)(4)
+and identified the mistake. Your firm provides the newly revised WI-0745,
+(b)(4)
+Rev H, (implemented on June 24, 2011) to indicate that identification of a revision surgery is now considered a complaint even if there is not an associated AE.
+(b)(4)
+. Your firm also indicated that
+(b)(4)
+will undergo a programming change so that all revision surgeries that are entered will automatically trigger an email to initiate a complaint review, but your firm has not provided any software validation or evidence of implementation of the programming change.
+3. Failure to include the notification of the persons or organization responsible for nonconformance in the evaluation of the nonconformance, as required by 21 CFR 820.90(a).
+For example: Your firm does not have a procedure that requires that a person responsible for a nonconformance resulting in a Hold Ticket be notified of the nonconformance. In addition, hold tickets SWO 631010 and SWO 631011 were established for missing
+(b)(4)
+however, the operator responsible for the nonconformance was not notified of the nonconformance and did not perform the rework operation.
+We reviewed your firm’s response and conclude that it is not adequate. Your firm provides the new procedure, WI-7810
+(b)(4)
+Rev B. The new procedure contains requirements for
+(b)(4)
+but your firm has not provided any documentation of evaluation of
+(b)(4)
+to determine if there are any instances in which the
+(b)(4)
+.
+4. Failure to adequately employ appropriate statistical methodology where necessary to detect recurring quality problems, as required by 21 CFR 820.100(a)(1).
+For example: CAPA 114 (created October 10, 2008) contains Analysis of Failure Rate of the ASR-XL Acetabular Cup dated October 9, 2008, by C.S., Statistician, and refers to DePuy Orthopaedics study (study # 4062) and to Company A Study (study # CT0518_XL). The analysis includes Table I, titled “ASR-XL Failure Rate study, KOH ASR-XL Cup Failure Rate, Compared to results from Two ASR-XL studies, the FREQ Procedure.” The statistical analysis compared KOH ASR-XL Cup Failure rates to the two ASR-XL studies; however, the reference to 342 implants included in the analysis of Study # 4062 and Study # CT0518_XL in CAPA 114 also included the control group, Pinnacle, instead of the 229 ASR XL implants that were intended to be the population. Therefore, your firm did not use appropriate statistical methodology because the failure rate of the ASR-XL population cannot be determined using the population size that includes the control group.
+Your firm’s response to this observation appears to be adequate. Your firm provided documentation that it has recalculated the Fisher's Exact test with the control group removed and that the probability changed from p = .00049 to p = .004. Your firm indicates that this probability is still sufficiently low to conclude with statistical significance that the outcomes from the KOH group are different from those in the studies. The statistician who performed the analysis is no longer working for your firm, so your firm could not identify the root cause of the mistake and no additional action is necessary.
+Your firm’s response to this letter should be sent to: Food and Drug Administration, Center for Devices and Radiological Health, Office of Compliance, Field Operations Branch, White Oak Building 66, Rm 2609, 10903 New Hampshire Ave., Silver Spring, MD 20993. Refer to the Unique Identification Number 202552 when replying. If you have any questions about the contents of this letter, please contact: Matthew Krueger at (301) 796-5585 or (301) 847-8139 (fax).
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely yours,
+/s/
+Steven D. Silverman
+Director
+Office of Compliance
+Center for Devices and Radiological Health
+-
+-
+Close Out Letter
+DePuy Orthopaedics, Inc. - Close Out Letter 09/27/2012
+-

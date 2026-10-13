@@ -1,0 +1,247 @@
+Medtronic, Inc. 7/17/12
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Minneapolis District Office
+Central Region
+250 Marquette Avenue, Suite 600
+Minneapolis, MN 55401
+Telephone: (612) 334-4100
+FAX: (612) 334-4142
+July 17,2012
+WARNING LETTER
+Refer to MIN 12- 39
+CERTIFIED MAIL
+RETURN RECEIPT REQUESTED
+Omar S. Ishrak
+Chief Executive Officer
+Medtronic, Inc.
+710 Medtronic Parkway
+Minneapolis, Minnesota 55432
+Dear Mr. Ishrak:
+During an inspection of your firm, Medtronic Neuromodulation, located at 7000 Central Avenue NE, in Minneapolis, Minnesota, from March 14 through May 9, 2012, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures implantable drug infusion systems, deep brain stimulation systems, spinal cord neurostimulation systems, nerve monitoring products, and other neurological medical/surgical products. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) regulation found at Title 21, Code of Federal Regulations (21 CFR), Part 820. We received a response from Thomas M. Tefft, Senior Vice President and President, and Jill Smith, Vice President, Quality, dated May 30,2012 (and updated on June 29, 2012) concerning our investigators' observations noted on the Form FDA 483, List of lnspectional Observations, issued to Mr. Tefft on May 9, 2012. We address the response below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1. Failure to establish adequate procedures for corrective and preventive action as required by 21 CFR 820.100(a). Specifically:
+A) You have not identified the actions to correct and prevent recurrence of non-conforming product. GCAPA 1485, opened October 26, 2007, relates to motor corrosion resulting in device field failure (motor stall). Within the Investigation Report for SynchroMed II Pump Corrosion (NDHF1119-88863), it states "corrosion[ ... ] can result in partial or complete removal of gear teeth." This can "seize" the motor altogether or "gear wheel [ ... ]will continue to rotate, but there may be no drug delivery in the region of missing teeth." Identified corrosion issues include wheel 3 corroded teeth, gear binding, gear shaft binding, and bearing binding. This GCAPA includes 567 complaints and has not been closed.
+FDA 483 Response:
+Your response describes actions taken to mitigate the risk of device failure through communication to healthcare professionals and decreased susceptibility of the device to corrosion. However, we have concluded that your response is not adequate. Health Hazard Analysis for SynchroMed II Pump Motor Corrosion (CAPA #1485), NDHF1119-101573, Version 4.0, predicts an additional
+(b)(4)
+patient injuries resulting from device failure due to motor corrosion. This analysis was based only on confirmed failures (via returned product analysis) due to corrosion; and thus, the number of additional patient injuries will likely be higher than predicted.
+Your response also discusses the activities of your Corrosion Task Force (CTF) and your planned in-depth review of SynchroMed II complaints alleging a motor stall without a product. CAPA 1485 and the Health Hazard will be updated.
+(b)(4)
+FDA requests a prompt meeting with you to discuss the pump motor corrosion failure mode and the scope and timing of corrective actions to address this ongoing problem. We propose Friday, September 7, 2012, at 10:00 a.m. EST for this meeting to be held at the Center for Devices and Radiological Health, 10903 New Hampshire Avenue, Building 66, Silver Spring, Maryland. Please contact John Diehl, Regulatory Operations Officer,· (301) 796-0993, to confirm your participation.
+B) The "Corrective and Preventive Action (CAPA) Procedure," (QMS1861) states "assess quality issues, trends, and potential or actual product or process nonconformities." This was not completed in that data used for evaluation was incomplete per citations 2 and 3 below.
+FDA 483 Response
+: Your response states that you updated Product Event (PE) inclusion criteria for CAPA 1485 to include appropriate PEs associated with non-returned product. The CAPA 1485 Health Hazard Analysis will be updated accordingly, and the field corrective action decision will be re-evaluated.
+You also updated the form for PE inclusion criteria to require a documented rationale when PEs with non-returned product will not be assigned to the applicable CAPA. Further, you stated that upon completion of remediation activities to address FDA-483 observations 2 and 3, you will re-evaluate the impact to all open product-related CAPAs, monitors, and trends.
+We consider your proposed corrective actions to be appropriate; however, a follow-up inspection will be necessary to evaluate the implementation and effectiveness of the actions.
+2. Failure to establish adequate procedures for receiving, reviewing, and evaluating complaints by a formally designated unit, which is required by 21 CFR 820.198(a). Specifically, Patient and Technical Services (PATS) did not document complaint information for incoming calls per the procedure "Customer Response Team Systems [CRTS]" (PTS6026). A complaint is defined as "Any written, electronic or oral communication that alleges deficiencies related to the identity, quality, durability, reliability, safety, effectiveness, or performance of a device ... " and the Patient and Technical Consultant "Identifies and documents any report of a Complaint." Complaint information received during a call was not documented in the written call record for the following:
+Call Number
+Information Received in Phone Call Not Documented on Resultant Written Call Record
+2685890
+A doctor requested information on whether catheter removal is an option with a granuloma. This call was not handled as a complaint for a granuloma/inflammatory mass.
+2757084
+Health care provider called to report a motor stall and that the patient experienced withdrawal symptoms. Withdrawal symptoms were not documented on the written call record or resulting complaint.
+2721299
+Caller stated that Fentanyl was in pump. The drug was not documented on the written call record and the resulting complaint states drug description is “Unknown.”
+2739594
+Caller reported a motor stall with no recovery. Caller stated Baclofen as the medication in the pump. The drug was not documented on the written call record and the resulting complaint states drug description is “Unknown.”
+2702294
+Caller reported a vibration sensation and stated that “pump is not working.” The pump not working was not documented on the written call record or resulting complaint.
+2724877
+Caller reported a vibration sensation and that pump is “not working for pain, like it has all these years.” Pump not working for pain was not documented on the written call record or resulting complaint.
+2694377
+Caller reported that pain became worse since device implantation which was not documented on the written call record or resulting complaint.
+2579227
+Caller reported Baclofen is in the pump. The drug was not recorded on the written call record and the resulting complaint states drug description is “Unknown.”
+2718965
+Caller reported a granuloma and stated within the call that “the medicine worked in the beginning, but over time, it made me worse. And I didn’t know it until it stopped working.” The information about the medication was not captured on the written call record or resulting complaint.
+FDA 483 Response:
+Your response states that you reviewed the audio call records and revised the written records accordingly. The events were reviewed again to determine whether Medical Device Reports (MDRs) or Adverse Drug Experience Reports (ADRs) should be filed or supplemented. Reports were submitted when required. Lastly, assigned codes were re-evaluated and revised if necessary.
+Broader corrective and preventive actions completed or promised include training, management review of calls and CRTS records, procedural changes, and audits of Patient and Technical Services procedures and processes.
+Your corrective actions appear to be appropriate; however, a follow-up inspection will be necessary to evaluate implementation and effectiveness.
+3. Failure to review, evaluate and investigate, where necessary, complaints involving the possible failure of a device to meet any of its specifications. This is required by 21 CFR 820.198(c). Specifically:
+A) Product Performance Specialists did not adequately evaluate complaints.
+(1) Per the procedure "Product Performance Specialist Work Instruction," (RPMWI1666) non-returned product with suspected non-conformance is to be formally investigated. Eleven of 11 closed complaints involving motor stalls with unknown cause and no returned product were not formally investigated nor was there an adequate explanation for why no investigation occurred. These complaints include:
+500073583: Motor stall, pain reported, volume discrepancy
+500099975: Motor stall, nausea, vomiting
+500047736: Motor stall, volume discrepancy, withdrawal, pump explanted
+500079921: Motor stall, volume discrepancy, pain
+500050534: Motor stall, underdose, pump explanted
+500031251: Motor stall, return of symptoms
+500054080: Motor stall, increased pain, underdose symptoms, pump explanted
+500024556: Motor stall, pain reported, pump explanted
+500022409: Motor stall, underdose, pump explanted
+700099823: Motor stall, no therapeutic effect
+700062012: Motor stall, withdrawal symptoms
+FDA 483 Response:
+Your response states that the Neuromodulation Complaint Evaluation Team (NCET) initiated an investigation and recommended that PEs alleging motor stall be assessed and dispositioned to open CAPAs, CAPA monitors, Data Monitors, and/ or PITCH Events. Additional broader corrective actions include development of improved criteria for complaint investigations and revisions to the Risk Evaluation Board (REB) and Product Performance Trend Reporting procedures.
+Your corrective actions appear to be appropriate; however, a follow-up inspection will be necessary to evaluate implementation and effectiveness.
+(2) An investigation into reports of vibrating pumps entitled "WATCHLIST-Patient Reports of Pump Vibrations" was opened on March 30, 2007, and closed February 7, 2008. This investigation included 19 separate complaints. It was determined that "the likely cause for these vibrations is a physiological sensation due to surgery and the healing process."
+The following complaints involving "vibration" sensations were not investigated nor was there an adequate explanation for why no investigation occurred:
+Complaint Number
+Implant Date
+Notified Date
+Description
+700074933
+6/1/2006
+12/2/2011
+Inflammatory mass, vibrating sensation
+500083053
+3/9/2010
+4/29/2011
+Vibrating sensation, caller reported pump "hasn't been working"
+500078876
+4/28/2007
+7/11/2011
+Vibration, caller reported pump "not working like it used to"
+500047418
+8/28/2007
+10/6/2011
+Abdominal vibration, withdrawal,
+catheter punctures
+500205241
+1/7/2010
+10/3/2011
+Vibration sensation
+500167917
+3/7/2011
+8/10/2011
+Painful vibration in abdomen
+700074795
+11/7/2007
+12/1/2011
+Vibration felt in stomach
+700078229
+11/30/2005
+12/14/2011
+Vibration sensation, patient reports pump not working
+700085549
+2/28/2011
+1/13/2012
+Vibration sensation
+500038321
+1/17/2007
+1/3/2011
+Vibration sensation, increased
+weakness
+500037974
+4/12/2004
+12/16/2010
+Vibration sensation, catheter kink
+500073385
+12/21/2007
+4/23/2010
+Vibration sensation
+500091223
+6/30/2009
+1/18/2011
+Vibration sensation
+500046267
+5/26/2010
+10/6/2011
+Feeling vibration, pain, blisters, and fluid in front of pump
+500184025
+3/24/2011
+6/29/2011
+Vibration sensation in abdomen down to lower groin
+500099975
+5/22/2007
+3/15/2010
+Vibration sensation, 3 months later patient experienced motor
+stall
+FDA 483 Response:
+Your response states that Neuromodulation initiated a PITCH (Preliminary Investigation and Trending for Complaint Handling) event to investigate potential causes and similarities I differences related to allegations of vibration with the SynchroMed II pump.
+Your corrective actions appear to be appropriate; however, a follow-up inspection will be necessary to evaluate implementation and effectiveness.
+(3) The procedure "Complaint Evaluation and Investigation Process" (RPM1234) states "assign appropriate functional area(s) to further investigate the issue." Complaint 500082715 was not assigned to the functional area of Medical Safety. The complaint description states "HCP reports a death of a patient that had a gastric stimulator implanted. He died on Monday, according to what was reported to us he could not swallow, he had severe acid in his body."
+FDA 483 Response:
+Neuromodulation re-reviewed the complaint and clearly documented the investigation activities. The complaint was reviewed by a Medical Safety physician, and an MDR was filed for the event. In addition, you promised to implement a more detailed process for medical review of complaints and develop a remediation plan for review of prior complaint flies.
+Your actions are appropriate; however, a follow-up inspection will be necessary to evaluate implementation and effectiveness.
+(4) The procedure "Product Performance Specialist Work Instruction" (RPM 1666) states "check for relationship of issue to existing investigations (e.g. [ ... ] CAPA or Data monitor)."
+a. Complaint 500037816 was a returned product due to volume discrepancies at multiple refills. The analysis stated "corrosion and residue were seen on both sides of gear wheel." This complaint was not added to GCAPA 1485 for motor corrosion.
+b. Complaint 500091325 stated the following on the Medical Device Report: "further information received from the healthcare provider indicated she believed the lead had migrated." This complaint was not added to the Data monitor for "migration" for urinary InterStim.
+FDA 483 Response:
+Your firm re-reviewed complaints 500037816 and 500091325 and documented the investigations and conclusions. For complaint 500091325, coding was corrected and the monitor was updated.
+Your corrective actions appear to be appropriate; however, a follow-up inspection will be necessary to evaluate implementation and effectiveness.
+B) Coding of similar complaints is inconsistent.
+Procedure "Complaint and Adverse Event Coding and Master Data Management Process" (RPMWI1833) describes "what codes will be assigned in the PEs" (complaints) that could subsequently be used for trend analysis. Each complaint is to receive a
+(b)(4)
+code defined as:
+(b)(4)
+Of the following 14 complaints relating to similar motor stall issues (700062012,500082653,500024556,500099975,500073583,500047736, 500079921,500052853,500054080,500050534,500075490,500031526, 700095413,500031251:
+• 4 received a
+(b)(4)
+• 10 received
+(b)(4)
+• 2 received a
+(b)(4)
+• 9 received a
+(b)(4)
+• 3 received a
+(b)(4)
+Of the following 10 complaints relating to similar inflammatory mass issues (500166572,500054756,500050731,500071678,500093511,500075527, 500093970, 500043194, 500074339, 700069121):
+• 5 received a
+(b)(4)
+• 1 received a
+(b)(4)
+• 2 received a
+(b)(4)
+• 2 received a
+(b)(4)
+• 6 received a
+(b)(4)
+• 3 received a
+(b)(4)
+• 1 received a
+(b)(4)
+FDA 483 Response:
+Your response states that you implemented a secondary review of coding decisions to ensure accuracy and consistency
+(b)(4)
+. Neuromodulation committed to a comprehensive assessment processes and to develop a revised coding strategy. Remediation of infusion system files will also be conducted. The specific complaints cited above involving motor stall and inflammatory mass were re-reviewed, and codes were revised if necessary.
+Your corrective actions appear to be appropriate; however, a follow-up inspection will be necessary to evaluate implementation and effectiveness.
+C) Trending of complaint data/ coding for evaluation was not completed per procedures:
+(1) Devices that are not returned are trended per the procedure "Complaint and Adverse Event Trend Reporting" (RPMWI1832). This was not completed for 2011 and 2012 for the following products: infusion systems, neurostimulation for movement disorder (DBS), neurostimulation for pain, InterStim therapy, Enterra therapy, and Prostiva.
+FDA 483 Response:
+Neuromodulation trended complaint PEs without an associated product return. Your firm also developed a new analysis approach to replace the trend "Device not returned, further investigation not possible without device," previously required by RPMWI1832. An
+(b)(4)
+to perform statistical analysis of post-market surveillance data sources is being implemented.
+Your corrective actions appear to be appropriate; however, a follow-up inspection will be necessary to evaluate implementation and effectiveness.
+(2) "Known Expected Events" are trended per the procedure Adverse Event Trend Reporting" (RPMWI1832), using a
+(b)(4)
+code. Due to a transition to a new complaint handling computer system, the following complaints were missing an
+(b)(4)
+code and were not included in trending:
+a. 99 complaints for inflammatory mass including, 500037107, 500093511,500082334,500075104,500050731,500095044, 500071809,500071678,500054756,500051396,500075527, 500039586,500043194,500165916,700069121,500093970, 500074339,500166572,500076576,and500081542.
+b. 88 complaints for Dysarthria. When this data was added to the system, three separate signals exceeded threshold.
+c. 11 complaints for Loculation.
+d. 104 complaints for Incision Pain.
+FDA 483 Response:
+Your firm re-reviewed all complaints that were affected by the transition/conversion issue, and missing
+(b)(4)
+codes were added to the files. New trending was conducted and resulting signals were investigated. On a broader scale, data conversion procedures were revised and implemented to address the root cause of the problem.
+Your corrective actions appear to be appropriate; however, a follow-up inspection will be necessary to evaluate implementation and effectiveness.
+(3) The threshold limit assigned to trends is not described in the procedure "Complaint and Adverse Event Trend Reporting" (RPMWI1832).
+FDA483 Response:
+Your response states that you updated RPMWI1832 to include instructions for
+(b)(4)
+A follow-up inspection will be necessary to evaluate implementation and effectiveness of this corrective action.
+D) Data is not evaluated per procedure to determine if signals exist that would require further investigation.
+The procedure "Complaint and Adverse Event Trend Reporting" (RPMWI 1832) states "Evaluate the data and determine if any results meet the signal investigation requirement(s)." This was not completed due to incomplete data noted above.
+FDA 483 Response:
+Your response appears to be limited to the incomplete data cited above in 3. C) (2). The scope of this citation, however, is broader. We are concerned that incomplete complaint data and incorrect coding decisions described elsewhere in this letter (e.g., citations 2 and 3) may have compromised your firm's ability to detect and investigate signals.
+In response to this letter, please describe the actions that your firm is taking to ensure that you will appropriately detect and investigate all signals.
+Re: FDA 483 Response to Observations 4-6:
+The corrective actions reported and planned appear to be adequate. Implementation and effectiveness will be evaluated during a follow-up inspection.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the Food and Drug Administration without further notice. These actions include, but are not limited to, seizure, injunction, and/ or civil money penalties. Also, federal agencies are advised of the issuance of all Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+We are requesting that you submit to this office on the schedule below, certification by an outside expert consultant that he/she has conducted an audit of your establishment's manufacturing and quality assurance systems relative to the requirements of the device Quality System regulation (21 CFR Part 820). You should also submit a copy of the consultant's report and your certification that you have reviewed the consultant's report and that your establishment has initiated or completed all corrections called for in the report. The initial certifications of audit and corrections and subsequent certifications of updated audits and corrections (if required) should be submitted to this office by the following dates:
+• Initial certifications by consultant and establishment - by January 17, 2013
+• Subsequent certifications of updated audits and corrections- by January 17, 2014, and 2015
+Please notify this office in writing within fifteen (15) working days from the date you receive this letter with an update on the specific steps you have taken to correct the noted violations, including an explanation of how you plan to prevent these violations, or similar violations, from occurring again. Include documentation of the corrective actions you have taken. If your planned corrections will occur over time, please include a timetable for implementation. If corrective actions cannot be completed within 15 working days, state the reason for the delay and the time within which the corrections will be completed.
+Your response should be sent to Timothy G. Philips, Compliance Officer, at the address on this letterhead. If you have any questions about the content of this letter please contact Mr. Philips at (612) 758-7133.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, Form FDA 483, issued at the closeout of the inspection may be symptomatic of serious problems in your firm's manufacturing and quality assurance systems. You should investigate and determine the causes of the violations and take prompt actions to correct the violations and to bring your products into compliance.
+Sincerely,
+/s/
+Michael Dutcher, DVM
+Director
+Minneapolis District
+-
