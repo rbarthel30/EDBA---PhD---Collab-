@@ -1,0 +1,166 @@
+Bacterin International, Inc. 1/28/13
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Seattle District
+Pacific Region
+22215 26
+th
+Avenue SE, Suite 210
+Bothell, WA 98021
+Telephone: 425-302-0340
+FAX: 425-302-0402
+January 28, 2013
+OVERNIGHT DELIVERY
+SIGNATURE REQUIRED
+In reply refer to Warning Letter SEA 13-11
+Guy S. Cook
+CEO and President
+Bacterin International, Inc.
+664 Cruiser Lane
+Belgrade, Montana 59714
+WARNING LETTER
+Dear
+Mr. Cook
+:
+During an inspection of your firm located at 664 Cruiser Lane, Belgrade, Montana, July 19, 2012, through July 27, 2012, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures Elutia and Via Wound Drains. Under Section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are a devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+The inspection revealed that these devices are adulterated within the meaning of Section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, its manufacture, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+We received a response from you dated August 13, 2012, concerning our investigators’ observations noted on the Form FDA 483 (FDA 483), List of Inspectional Observations, that was issued to your firm. We address the response below, in relation to each of the noted violations.
+We received an additional response from you, dated December 31, 2012. We will evaluate this response along with any other written material provided in response to the violations cited in this letter.
+Your firm’s violations include, but are not limited to, the following:
+1.
+Failure to establish and maintain procedures to ensure that all purchased or otherwise received product and services conform to specified requirements, as required by 21 CFR 820.50.
+For example, the Supplier Qualification & Audit Procedure, SOP 050-025-3, section 18.1 states "QA/QC will periodically review the performance of all suppliers and audit them. "The Supplier Performance Review and Audit Forms, FM 050-172-2, for the performance review of
+(b)(4)
+, dated October 13, 2008, states, "An audit should be completed within the next
+(b)(4)
+months," however the next performance review/audit of
+(b)(4)
+Inc., was not conducted until February 8, 2012, when CAPA-00312 was opened. CAPA-00312 describes
+(b)(4)
+, as "unresponsive and unhelpful in resolving quality and shipping issues."
+The adequacy of the response dated August 13, 2012, cannot be determined at this time. Your firm plans to update its Supplier Qualification system. Additionally, your firm plans to revise Supplier Qualification & Audit Procedure, SOP 050-025, to merge the Device and Biologics Supplier Qualification system and control the qualification of Biologics suppliers, and perform retraining on the system revision. Your firm planned to take these steps by October 1, 2012; however, the FDA has not received the revised Supplier Qualification & Audit Procedure, SOP 050-025, and documentation of the retraining of employees on the revised Supplier Qualification & Audit Procedure SOP.
+2.
+Failure to establish and maintain procedures to control product that does not conform to specified requirements, as required by 21 CFR 820.90(a).
+For example, your firm’s Nonconforming Materials Procedure, SOP 050-016-4, Effective Date May 29, 2008, requires the following for a "Use As Is" disposition: "justification for this disposition must be based upon scientific evidence, must be recorded on the NC Report in the evaluation section, and must be signed off on by the person providing the justification." Nonconformance Report, NC-02511, initiated December 30, 2011, documents that one out of
+(b)(4)
+samples in the Elutia 19 Fr Wound Drain, lot number 064011, production run tested
+(b)(4)
+ug/cm
+2
+for silver content, which is outside of the acceptance criteria range of
+(b)(4)
+ug/cm
+2
+. The product disposition was documented as "Use As Is," with no documented justification.
+The adequacy of the response dated August 13, 2012, cannot be determined at this time. Your firm stated that the lower limit for the silver total load range is
+(b)(4)
+ug/cm
+2
+and the result in question was
+(b)(4)
+ug/cm
+2
+which, using standard mathematical rounding, rounds to
+(b)(4)
+ug/cm
+2
+. Your firm stated that this reasoning was not documented on NC‑02511 and no other justification was provided. Your firm plans to:
+1)
+Perform re-training on the use of the NC Report and the need for justification when processing a Nonconformance.
+2)
+For this specific case, prepare a letter to file that:
+a)
+Evaluates the rest of the total load results for the identified lot;
+b)
+Evaluates silver total load trend data to see if there is an identifiable trend associated with this test result; and
+c)
+Provides consistent guidance on the documentation and interpretation of results that meet the silver total load acceptance criteria with standard mathematical rounding.
+Your firm planned to complete these steps by September 1, 2012; however, the FDA has not received documentation of the retraining conducted on use of the NC report and the need for justification when processing a nonconformance.
+3.
+Failure to establish and maintain procedures for finished device acceptance to ensure that each production run, lot, or batch of finished devices meets acceptance criteria, as required by 21 CFR 820.80(d).
+For example, Elutia Hubless Wound Drain, lot numbers 050110X, 050810X, 051710, 051110, 052510X, and 052210, left your firm's control on January 19, 2011; however, the Drain Adhesion testing, a final acceptance test, was not completed until after the wound drain was released. Specifically, Drain Adhesion tests were not completed until January 26, 2011, for lot numbers 051710 and 051110; January 25, 2011, for lot numbers 052510X and 052210; and January 21, 2011, for lot numbers 050110X and 050810X.
+The adequacy of the response dated August 13, 2012, cannot be determined at this time. Your firm plans to revise the Finished Device Acceptance Procedure, SOP 050-023, to reflect that it will not allow finished product to leave its control until all acceptance testing has been completed. However, the revised Finished Device Acceptance Procedure, SOP 050-023, and training on the revised SOP were not provided with this response. Your firm planned to have this completed by October 1, 2012. Additionally, your firm stated that this was a planned one-time event that was controlled, completed, and reviewed. Partial testing of each lot was performed and found acceptable, prior to international shipment and all follow-up testing was performed and passed prior to its receipt by the customer.
+4.
+Failure to establish and maintain procedures to control all documents that are required by 21 CFR 820, as required by 21 CFR 820.40. Specifically, documents that were not approved and obsolete were observed at a location where they were used. For example:
+a)
+The following documents have an Effective Date of "Draft" and are not approved per your firm's Document Format and Control SOP 050-015-4:
+i.
+Calibration, Cleaning, and Maintenance Log-
+(b)(4)
+;
+ii.
+Work Order Form - Elutia 10 Fr Round Full-Fluted Wound Drains with 1/8"
+Trocar; and
+iii.
+Wound Drain Spraying Elutia 10 Fr Hubless
+(b)(4)
+.
+b)
+Complaint-00311 was recorded on November 23, 2011. This complaint described the reported failure of a bulb to hold suction. It was documented on obsolete Complaint Form FM 050-013-2, Effective Date July 24, 2006, which does not include an "Initial Risk Assessment" section. Complaint Form FM 050-013-4, Effective Date November 4, 2009, was the approved document at the time this complaint was recorded.
+The adequacy of the response dated August 13, 2012, cannot be determined at this time. Your firm plans to complete the identified documents mentioned above and add controlled use of draft documents to its Document Control Procedure, SOP 050-014. Additionally, your firm plans to perform re-training on its revised Document Control SOP. Your firm planned to have this completed by October 1, 2012. However, the FDA has not received the revised Document Control SOP and documentation of the retraining of employees on the revised Document Control SOP.
+Our inspection also revealed that your devices are misbranded under Section 502(t)(2) of the Act, 21 USC § 352(t)(2), in that your firm failed or refused to furnish material or information respecting the devices that is required by or under Section 519 of the Act, 21 USC § 360i, and 21 CFR Part 803 – Medical Device Reporting. Significant deviations include, but are not limited to:
+Failure to adequately develop, maintain, and implement written Medical Device Reporting (MDR) procedures, as required by
+21 CFR 803.17.
+We reviewed your
+procedure, SOP 080-001-1, Medical Device Reporting and Vigilance Reporting, dated March 16, 2010, and conclude that it is not adequate. SOP 080-001-1, Medical Device Reporting and Vigilance Reporting
+,
+dated March 16, 2010,combines procedures for Vigilance, MDR reporting and device recalls. The procedure fails to meet the requirements of 21 CFR 803.17. The following issues were noted:
+1.
+SOP 080-001-1 does not establish internal systems that provide for timely and effective identification, communication, and evaluation of events that may be subject to MDR requirements. For example:
+a)
+The procedure, as written, combines language from the requirements of other regulatory or competent authorities with the requirements in 21 CFR Part 803 in a manner that will result in incomplete, inadequate, or even non-reporting of adverse events that meet reportability requirements under 21 CFR Part 803. For example, the procedure defines terms such as “Adverse Incident,” “Adverse Near-Incident,” and “Information that Reasonably Suggests an Adverse Incident,” but does not define the terms “MDR reportable event,” or provide the complete definition of “Malfunction,” as defined in 21 CFR 803.3.
+b)
+The procedure lacks definitions of what your firm will consider to be a reportable event under 21 CFR Part 803. To facilitate the correct interpretation of reportable events and to assure the quality of MDR submissions, the procedure should include definitions based on 21 CFR 803.3 of the terms “become aware,” “caused or contributed,” and “remedial action,” and the definition of the term “reasonably known” found in 21 CFR 803.50(b).
+2.
+SOP 080-001-1 does not establish internal systems that provide for timely transmission of complete medical device reports. Specifically, the following are not addressed:
+a)
+The procedure does not reference where to submit MDRs to FDA. The address is: FDA, CDRH, Medical Device Reporting, and P. O. Box 3002, Rockville, MD 20847-3002.
+b)
+Section 11.8 of the procedure should be revised to include the timeframe for submission of a supplemental or follow-up report, as described in 21 CFR 803.56.
+3.
+SOP 080-001-1 does not describe how your firm will address documentation and record-keeping requirements, including systems that ensure access to information that facilitates timely follow-up and inspection by FDA.
+In addition, SOP 080-001-1, Medical Device Reporting and Vigilance Reporting,includes references to baseline reporting and annual certification, which are no longer required. We recommend that all references to Baseline Reports and Annual Certification be removed from the firm’s MDR procedure (see: 73 Federal Register Notice 53686, dated September 17, 2008; and Fourth
+Notice, Federal Register, dated March 20, 1997: Medical Device Reporting, Annual Certification, Final Rule, respectively).
+If your firm wishes to submit MDR reports via electronic submission it can follow the directions stated at the following URL:
+http://www.fda.gov/ForIndustry/FDAeSubmitter/ucm107903.htm
+If your firm wishes to discuss MDR reportability criteria or to schedule further communications, it may contact the MDR Policy Branch at 301-796-6670 or by email at
+MDRPolicy@fda.hhs.gov
+.
+Our inspection also revealed that
+the Elutia Coated Closed Surgical Wound Drain is adulterated under section 501(f)(1)(B) of the Act, 21 U.S.C. § 351(f)(1)(B), because your firm does not have an approved application for premarket approval (PMA) in effect pursuant to section 515(a) of the Act, 21 U.S.C. § 360e(a), or an approved application for an investigational device exemption under section 520(g) of the Act, 21 U.S.C. § 360j(g).
+The device is also misbranded under section 502(o) the Act, 21 U.S.C. § 352(o), because you did not notify the agency of your intent to introduce the device into commercial distribution in that a notice or other information respecting the new intended use of the device was not provided to the FDA as required by section 510(k), 21 U.S.C. § 360(k), and 21 CFR 807.81(a)(3)(ii).
+Specifically, the Elutia Coated Closed Surgical Wound Drain cleared under K063245, was for the evacuation of biological fluids from wounds or body cavities. However, a review of the product labeling, promotional brochure, and website at
+www.bacterin.com
+shows that the Elutia Coated Closed Surgical Wound drain Device is being promoted with antimicrobial claims and as the “Elutia Antimicrobial-Coated Wound Drain.” The device is also being marketed with other claims, such as:
+“Healthcare Associated Infections (HAIs) are infections that occur while receiving treatment in a healthcare environment. Bacterin has taken the initiative to address HAIs by developing bioactive coatings for medical devices to potentially decrease infection.”
+Promotion of this device for the claims listed above represents
+a major change in the intended use of the device. Additionally, the change in name, i.e., adding the words “antimicrobial coating,” and the addition of claims regarding prevention of HAIs can be linked to the clinical benefit of preventing infections, something a drainage catheter is not intended to do.
+For a device requiring premarket approval, the notification required by section 510(k) is deemed satisfied when a PMA is pending before the agency under 21 CFR 807.81(b). The kind of information that your firm needs to submit in order to obtain approval or clearance for the device is described on the Internet at
+http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/HowtoMarketYourDevice/default.htm
+. The FDA will evaluate the information that your firm submits and decide whether the product may be legally marketed.
+In addition, your firm’s product catalog makes the following claims:
+“One-piece design minimizes discomfort and pain”
+“Flexible silicone minimizes tissue trauma and discomfort”
+“Channel design reduces the effects of clotting and tissue ingrowth”
+According to the device description under your firm’s 510(k), the Elutia Coated Closed Surgical Wound Drain contains silicone. FDA is aware that silicone drains, without antimicrobials, were available in the United States for purchase prior to May 28, 1976. If you believe that your firm’s silicone drains continue to be pre-amendment devices, then please provide documentation demonstrating that the claims above were included in promotional or advertising literature prior to May 28, 1976 for your silicone drains.
+The CDRH Office of Compliance requests that Bacterin International, Inc., immediately cease the dissemination of promotional materials for Elutia Coated Closed Surgical Wound Drain the same as or similar to those described above.
+A follow-up inspection will be required to assure that corrections and/or corrective actions are adequate.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the awarding of contracts.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+Your firm’s response should be sent to: U.S. Food and Drug Administration
+Seattle District
+Office
+, 22215 26
+th
+Avenue SE, Suite 210, Bothell, Washington 98021. If you have any questions about the contents of this letter, please contact: Compliance Officer Brenda L. Reihing at 425-302-0429.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely,
+/S/
+Charles M. Breen
+District Director
+-
+-
+Close Out Letter
+Bacterin International, Inc. - Close Out Letter 9/18/13
+-

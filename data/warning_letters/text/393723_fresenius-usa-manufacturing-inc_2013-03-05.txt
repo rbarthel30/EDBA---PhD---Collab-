@@ -1,0 +1,162 @@
+Fresenius Medical Care, North America 3/5/13
+Share
+Tweet
+Linkedin
+Pin it
+More sharing options
+Linkedin
+Pin it
+Email
+Print
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Denver District Office
+Building 20 - Denver Federal Center
+P.O. Box 25087
+Denver, Colorado 80225-0087
+TELEPHONE: 303-236-3000
+March 5, 2013
+WARNING LETTER
+UPS Overnight
+Robert M. Powell
+CEO & Deputy Chairman
+Fresenius Medical Care, North America
+920 Winter Street
+Waltham, MA 02451
+Ref: DEN-13-10-WL
+Dear
+Mr. Powell:
+During an inspection of your firm located in Ogden, UT on November 26 through December 7, 2012, an investigator from the United States Food and Drug Administration (FDA) determined that your firm manufactures Optiflux Polysulfone Dialyzers. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+We received responses from Brian R. Burns, Senior Vice President, Quality Systems and Regulatory Affairs North America (Waltham, MA) dated December 28, 2012, January 2, 2013 and February 7, 2013, concerning our investigator’s observations noted on the Form FDA 483 (FDA 483), List of Inspectional Observations, which was issued to your firm. We address this response below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1)
+F
+ailure to establish and maintain adequate procedures for verifying the device design. Design verification shall confirm that the design output meets the design input requirements, as required by 21 CFR 820.30(f). For example:
+a.
+The
+design input for the
+(b)(4)
+dialyzers required biocompatibility of these dialyzers be no different than the
+(b)(4)
+dialyzers. However, the biocompatibility testing determined that the
+(b)(4)
+dialyzers
+(b)(4)
+. The biocompatibility studies concluded that additional testing was required to quantify the amount of
+(b)(4)
+delivered to the patient and to evaluate the effect of the
+(b)(4)
+on the dialyzer membrane. During the inspection, you failed to provide documentation demonstrating that the additional testing was conducted prior to releasing the
+(b)(4)
+dialyzers in 2001.
+b.
+Your st
+udy
+(b)(4)
+. During the inspection, however, you reported that the
+(b)(4)
+dialyzer complaints were mainly associated with
+(b)(4)
+. No testing was conducted for
+(b)(4)
+, including
+(b)(4)
+.
+We have reviewed your
+responses dated 12/28/2012, 1/2/12013 and 2/7/2013, and do not find them to be adequate. Your design verification studies are incomplete. For example, the design verification testing report
+(b)(4)
+, did not discuss deviation notices cited under reference #s 14-16. Your design validation/verification procedure, SOP 07E-010A, dated 09/24/90, does not mention how the verification studies are conducted. None of the studies submitted as part of your responses quantified an acceptable level of PVP residual after priming. You failed to provide justification for only using
+(b)(4)
+dialyzers for comparison in your design verification studies; the
+(b)(4)
+. The aforementioned responses also failed to provide a summary of your firm’s studies and test reports regarding non-complement mediated dialyzer reactions.
+Furthermore,
+your updated biocompatibility testing,
+(b)(4)
+, did not address whether or not platelet adsorption was assessed, and your design validation report, dated 12/27/00, did not evaluate the effect of
+(b)(4)
+dialyzers on platelet adhesion. Additional testing, completed in 2001 under study
+(b)(4)
+.
+2)
+F
+ailure to establish and maintain adequate procedures for validating the device design. Design validation shall be performed under defined operating conditions on initial production units, lots, or batches, or their equivalents. Design validation shall ensure that devices conform to defined user needs and intended uses and shall include testing of production units under actual or simulated use conditions. Design validation shall include software validation and risk analysis, where appropriate, as required by 21 CFR 820.30(g). For example:
+a.
+The
+design validation for the
+(b)(4)
+of Optiflux Polysulfone (PS)
+di
+alyzers
+(b)(4)
+is incomplete. A clinical study,
+(b)(4)
+, was conducted
+(b)(4)
+. The study indicated that
+(b)(4)
+. The study was conducted approximately
+(b)(4)
+the dialyzers were released for distribution in 2001. Furthermore, you were not able to provide documentation demonstrating that the study was conducted using
+(b)(4)
+.
+We have reviewed your
+responses dated 12/28/2012, 1/2/12013 and 2/7/2013, and do not consider them to be adequate. The responses indicated that the clinical trial results
+(b)(4)
+. However, the clinical trial was conducted under
+(b)(4)
+. Therefore, this clinical trial constituted design validation activities for the
+(b)(4)
+dialyzers. See also the comments regarding design validation/verification and evaluation of platelet adhesion under #1 above.
+b.
+Your 10/31/12 Risk
+Management Matrix (RMM) failed to identify risks per RMM protocol, S100429-01, Rev. D, dated 9/28/12. Specifically,
+i.
+Your dialyzer R&D test report
+(b)(4)
+concluded that
+(b)(4)
+. The report also stated that
+(b)(4)
+. However, your 10/31/12 RMM failed to assess risks due to
+(b)(4)
+of the
+(b)(4)
+dialyzers.
+ii.
+Your membrane surface characteristics/chemistry study, dated 4/19/12,
+(b)(4)
+. However, your 10/31/12 RMM failed to include the risks resulting from
+(b)(4)
+.
+We have reviewed your
+responses dated 12/28/2012, 1/2/12013 and 2/7/2013, and do not consider them to be adequate. The responses indicate that the RMM (Rev. A, dated 10/31/2012) references
+(b)(4)
+This response does not address risks of increased residuals associated with the process which are independent of raw material or components that do not meet specification upon receipt. For example, the RMM did not consider the fact that raw materials,
+(b)(4)
+, can contribute to risks even if the materials meets specification. Furthermore, none of the studies provided for review evaluated the risks associated with
+(b)(4)
+Optiflux PS dialyzers under actual or simulated use conditions.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+Your firm’s response should be sent to: U.S. Food and Drug Administration, Denver District Office, Building 20 – DFC, P.O. Box 25087, Denver, CO 80225-0087, Attn: Sarah A. Della Fave, Compliance Officer.
+If
+you have any questions about the contents of this letter, please contact Ms. Della Fave at 303.236.3006.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the FDA 483, List of Inspectional Observations, issued at the close of the inspection, may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely yours,
+/S/
+LaTonya M. Mitchell
+District Director
+Denver District
+cc:
+UPS Overnight
+Mr. Steven D. Marler
+Senior Director of Operations
+Fresenius Medical Care, North America
+475 West 13
+th
+Street
+Ogden, UT 84404-5554
+Close Out Letter
+Fresenius Medical Care, North America - Close Out Letter 4/30/15

@@ -1,0 +1,135 @@
+St Jude Medical CRMD 1/10/13
+Share
+Tweet
+Linkedin
+Pin it
+More sharing options
+Linkedin
+Pin it
+Email
+Print
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Los Angeles District
+19701 Fairchild
+Irvine, California 92612-2506
+Telephone (949) 608-2900
+Fax (949) 608-4415
+WARNING LETTER
+VIA UNITED PARCEL SERVICE
+SIGNATURE REQUIRED
+WL 15-13
+January 10, 1013
+Mr. Eric S. Fain
+President
+St. Jude Medical
+Cardiac Rhythm Management Division (CRMD)
+15900 Valley View Court
+Sylmar, California, 91342-3577
+Dear
+Mr. Fain:
+During an inspection of your firm located in Sylmar, California,
+on
+September 25 through October 17, 2012, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures the Durata and Riata ST Optim high voltage implantable cardiac leads.
+Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+We received responses from Mr. Philip Tsung, Vice President of Quality Assurance, dated November
+7, 2012, and December 7, 2012, to the observations noted on Form FDA-483, List of Inspectional Observations, which was issued to
+your firm
+. We address these responses below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1. Failure to ensure, when the results of a process cannot be fully verified by subsequent inspection and test, that the process shall be validated with a high degree of assurance and approved according to established procedure, as required by 21 CFR 820.75(a). For example, your firm created multiple different holders to hold leads during
+(b)(4)
+. Your firm did not specify how these holders were installed or qualified to ensure they met their intended use.
+We reviewed your firm’s responses and conclude that they are not adequate. Your firm provided evidence that it performs a first article inspection of the
+(b)(4)
+produced with these holders. However, your firm has not provided evidence that it has challenged the process, nor has it performed any testing to demonstrate adequacy of the
+(b)(4)
+produced using these holders. Your firm has not provided a description or evidence of consideration of a systemic corrective action.
+2. Failure to establish procedures for monitoring and control of process parameters for validated processes to ensure that the specified requirements continue to be met, as required by 21 CFR 820.75(b). For example, your firm does not monitor the flow of the
+(b)(4)
+to the
+(b)(4)
+machines to ensure the appropriate amount of
+(b)(4)
+is supplied, as specified in section 3.4.1.9 of the
+(b)(4)
+manual,
+(b)(4)
+.
+The manual specifies a “
+(b)(4)
+.”
+We reviewed your firm’s responses and conclude that they are not adequate. Your firm stated that it will install pressure and flow meters to monitor the
+(b)(4)
+flow to these machines and establish procedures to monitor and control the
+(b)(4)
+. However, your firm did not provide evidence of implementation of these corrective actions or consideration of a systemic corrective action.
+3. Failure to establish and maintain adequate procedures for verifying the device design. Design verification shall confirm that the design output meets the design input requirements, as required by 21 CFR 820.30(f). For example:
+Your firm failed to validate the
+(b)(4)
+test methods implemented during the Durata design verification testing. These test methods were created in-house to verify your firm’s design inputs; however, they were not based on and did not follow a national standard.
+Your firm failed to follow its test procedure,
+(b)(4)
+Rev. D, released 05/09/2003
+, during design verification testing of the
+(b)(4)
+. Specifically, the procedure required each lead to be tested 5 times and the mean of the 5 tests would be considered the result. However, your firm only tested each lead one time to determine the results.
+Your firm performed design verification of the Durata lead prior to establishing design inputs. Specifically, your firm performed the design verification study to ensure the
+(b)(4)
+was not excessive on June 7, 2007, prior to establishing the design input that “the
+(b)(4)
+of the
+(b)(4)
+shall be
+(b)(4)
+” on July 16, 2007.
+The adequacy of your firm’s responses cannot be determined at this time. Your firm stated that it will prioritize and conduct the test method validations for this and other product lines. Furthermore, your firm will perform a systematic review of completion dates of key phases in design history files to identify and remediate any gaps. However, evidence of these corrective actions was not provided.
+4. Failure to establish and maintain a design history file for each type of device, as required by 21 CFR 820.30(j). For example, your firm was unable to demonstrate when key elements of a design history file for the Durata design project were conducted and approved, such as design inputs, outputs, verification, validation, and design transfer.
+The adequacy of your firm’s responses cannot be determined at this time.
+Your firm stated that it will conduct a systematic review of the design history files for currently manufactured products to identify any required remediation. Your firm will create and add a summary document that outlines the gate completion dates for design inputs, outputs, verification, validation, and transfer to each design history file. However, evidence of these correction actions was not provided.
+5. Failure to establish and maintain procedures for implementing corrective and preventive action, as required by 21 CFR 820.100(a). For example:
+Your firm’s procedure,
+Corrective and Preventive Action Procedure, SOP 3.3.5 Rev. Y, dated May 30, 2012,
+states that a CAPA (PIR: Product Improvement request) closure memo shall include a statement of effectiveness of the CAPA. However, your firm’s CAPAs designated as PIR 12-004 and PIR 11-013 were closed on August 16, 2012, and September 14, 2012, respectively, without a statement or reference to a verification of effectiveness.
+Your firm’s procedure,
+Corrective and Preventive Action Procedure, SOP 3.3.5 Rev. Y, dated May 30, 2012,
+states that an effectiveness check shall be performed on any PIR that has been closed, unless there is a justification that no effectiveness check is required. However, your firm’s CAPAs designated as PIR 12-008 and PIR 12-007 were closed on September 10, 2012, and September 11, 2012, respectively, and state that “no effectiveness check is required” without any documented justification.
+Your firm’s CAPA procedures do not require a determination as to whether the action taken adversely affects the finished device.
+The adequacy of your firm’s responses cannot be determined at this time. Your firm provided its revised procedure,
+Corrective and Preventive Action Procedure, SOP 3.3.5 Rev. AA,
+which now requires that a determination be made as to whether the action taken adversely affects the finished device.
+Your firm stated it will conduct a retrospective review of CAPAs to identify and address any gaps in verification of effectiveness activities. However, evidence of this corrective action was not provided.
+Our inspection also revealed that your Durata lead is misbranded under section 502(t)(2) of the Act, 21 USC § 352(t)(2), in that your firm failed or refused to furnish material or information respecting the device that is required by or under section 519 of the Act, 21 USC § 360i, and 21 CFR Part 803 – Medical Device Reporting (MDR). Significant deviations include, but are not limited to:
+Failure to report to the FDA no later than 30 calendar days after the day that your firm received or otherwise became aware of information, from any source, that reasonably suggests that a device that your firm markets malfunctioned and that this device or a similar device that your firm markets would be likely to cause or contribute to a death or serious injury, if the malfunction were to recur, as required by 21 CFR 803.50(a)(2).
+For example, complaint numbers AHH029263, BKB10735, AHH24652, and ADH32782 refer to malfunctions of your firm’s Durata lead. The Durata lead is a life-supporting or life-sustaining medical device and a malfunction involving such a device is reportable. See Medical Devices; Medical User Facility and Manufacturer Reporting, Certification and Registration (preamble); Final Rule, 60 Fed. Reg. 63585, comment 12 (Dec. 11, 1995). There is no information in your firm’s complaint file that justifies why the malfunctions referenced above would not be likely to cause or contribute to a reportable death or serious injury were they to recur. An MDR should have been submitted for each of the referenced complaints.
+If your firm wishes to submit MDR reports via electronic submission it can follow the directions stated at the following URL:
+http://www.fda.gov/ForIndustry/FDAeSubmitter/ucm107903.htm
+If your firm wishes to discuss the information included in this letter or other questions about reporting adverse events, it may contact the Reportability Review Team of the MDR Policy Branch at
+ReportabilityReviewTeam@fda.hhs.gov
+.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+Your response should be sent to:
+Mr. Blake Bevill
+Director, Compliance Branch
+Food and Drug Administration
+19701 Fairchild
+Irvine, CA
+92612-2506
+If you have any questions about the content of this letter please contact: Dr. William Vitale, Compliance Officer at 949-608-2919.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely,
+/S/
+Alonza E. Cruse,
+Director
+Los Angeles District
+cc:
+Ms. Ingeborg Small, Chief
+California Department of Public Health
+Food and Drug Branch
+1500 Capitol Avenue, MS 7602
+P.O. Box 997435
+Sacramento, CA 95899-7435
+Close Out Letter
+St Jude Medical CRMD - Close Out Letter 6/30/14

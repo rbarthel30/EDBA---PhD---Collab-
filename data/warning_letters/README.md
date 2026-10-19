@@ -13,12 +13,15 @@ rebuild the folder from scratch.
 
 > **Archived (pre-2016) letters.** FDA's live site only carries letters from
 > 2021 on; older letters survive only in web archives. We recovered
-> **115 of 160** letters issued 2008–2015:
-> - **2008–2012: 86 of 98**, nearly complete.
-> - **2013–2015: 29 of 62**, the main gap (FDA's archived indexes for these
+> **126 of 160** letters issued 2008–2015 (as of 2026-10-19):
+> - **2008–2012: 87 of 98**, nearly complete.
+> - **2013–2015: 39 of 62**, the main gap (FDA's archived indexes for these
 >   years are incomplete).
 >
-> 104 of the 115 come from **Common Crawl** copies of FDA's old site.
+> 112 of the 126 come from **Common Crawl** copies of FDA's old site.
+>
+> **Totals:** 168 of the 206 project letters, plus 7 of 10 extra letters
+> Armando requested (see Section 6).
 
 ---
 
@@ -184,7 +187,7 @@ purpose, so the letter set never drifts unnoticed.
 
 ---
 
-## 5. What this snapshot contains (2026-10-13)
+## 5. First snapshot (2026-10-13; superseded by Section 6)
 
 The download was **stopped early at Ryan's request**; this folder holds what
 had been collected and verified by then.
@@ -231,4 +234,32 @@ flags every letter whose printed recipient differs from the dashboard name,
 even when the letter was found by its Case ID. For example, the October 2021
 "ICU Medical" letter is addressed to Smiths Medical, which ICU bought in
 January 2022.
+
+---
+
+## 6. Update 2026-10-19: Armando's 27 requested letters
+
+Re-run with `--case-ids` (search only the listed case numbers and merge into
+the manifest) and `--wayback-wait`, after archive.org's block had lifted.
+
+- **17 letters in our 206** that neither his PDFs nor our first snapshot had:
+  **11 found**, 6 still missing (Medivators 2009, LeMaitre 2010, Leica 2011,
+  St. Jude 2012-06-05, ICU Medical Costa Rica 2012, Dentsply 2013).
+- **10 letters in his sample but outside our 206** (no Compustat link): added
+  with `in_project_sample = 0` and blank gvkey. **7 found** (Veolia, AMO
+  Uppsala, Isomedix ×2, Canon, NCS Pearson, LivaNova); 3 still missing
+  (EMD Millipore 2009, **Labcorp-PMD 2011**, Valeant 2012).
+- For hand-requested case numbers only, the script also accepts an FDA index
+  entry dated within 3 days that shares a distinctive word with the firm's
+  name (e.g. "Steris Isomedix Services" for "Isomedix Operations"). Such
+  matches are flagged, and the letter text must still pass every check.
+- **Labcorp 2011:** not in any archived FDA index page (none lists Labcorp
+  near July 2011), and no cached archived letter page mentions it. The only
+  Labcorp letters found are from 2007 (ViroMed) and September 2008. FDA may
+  never have posted the 2011 letter; if so, a FOIA request is the remaining
+  route.
+
+The manifest now has 216 rows (206 + 10). 34 of the found letters are
+flagged `ADDRESSED TO …` (sent to a different or former firm name than the
+dashboard shows).
 

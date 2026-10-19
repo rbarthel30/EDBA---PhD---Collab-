@@ -1,0 +1,282 @@
+Sorin Group Deutschland GmbH 12/29/15
+Share
+Tweet
+Linkedin
+Pin it
+More sharing options
+Linkedin
+Pin it
+Email
+Print
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+10903 New Hampshire Avenue
+White Oak Building 66
+Silver Spring, MD 20993
+DEC 29, 2015
+WARNING LETTER
+VIA UNITED PARCEL SERVICE
+André-Michel Ballester
+Chief Executive Officer
+LivaNova (formerly Sorin Group S.p.A.)
+Via Benigono Crespi, 17
+Milano, 20159
+Italy
+Dear
+Mr. Ballester
+:
+The United States Food and Drug Administration (FDA) conducted the following inspections at your facilities:
+Sorin Group Deutschland GmbH, Lindberghstrasse 25, Munchen, 80939, Germany, (Munchen Facility), dated August 24, 2015, through August 27, 2015; and
+Sorin Group USA, Inc., 14401 W. 65th Way, Arvada, Colorado 80004, U.S.A., (Arvada Facility), dated August 24, 2015, through September 1, 2015.
+During the inspection at your Munchen facility, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures
+Stockert Heater Cooler 3T thermal regulator devices
+. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or function of the body.
+These inspections revealed that your firm’s devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+We received a response from Mr.
+Thierry Dupoux, Vice President, Sorin Group Cardiopulmonary BU, Sorin Group Deutschland GmbH, dated September 15, 2015, concerning our investigator’s observations noted on the Form FDA 483s (FDA 483), List of Inspectional Observations, which was issued to your firm’s Munchen, Germany facility. We address this response below, in relation to each of the noted violations.
+These violations include, but are not limited to, the following:
+1.
+Failure to establish and maintain procedures for the identification, documentation, validation or where appropriate verification, review, and approval of design changes before their implementation, as required by 21 CFR 820.30(i) [Munchen Facility]. For example:
+a.
+Your firm created Design Change Order #8115, dated December 11, 2012, as part of the corrective actions to the FDA Warning Letter dated August 2, 2011, to the
+Munchen Facility, to address deficiencies in the design change procedures. The change order documents the decisions to change the design input for water quality to add new cleanliness criteria, test the cleaning instructions for use (IFU) to the new input, update the cleaning instructions for use, and validate the new IFU. However:
+i.
+The changed design input is incomplete in that there is no information on how maintaining a cleanliness standard for drinking water applies to the requirement that “biofilm should not grow in the 3T devices”. Additionally, there is no information on a water quality standard ensures that the device does not cause waterborne infection; and,
+ii.
+The design validation for the change to the cleaning IFU is inadequate. In the IFU, end users are responsible for conducting the cleaning and disinfection procedure on devices at user facilities. There is no documentation that your firm tested the updated IFU under actual or simulated use conditions to ensure the usability of the cleaning IFU. Your firm has received complaints of patient deaths due to infection from non-tuberculosis mycobacteria (NTM), specifically
+mycobacteria chimaera,
+since January 2014, where the cause of the infection appeared to be 3T devices colonized with the mycobacteria. Your firm investigated the complaints and determined that the user facilities had not been following the cleaning IFUs, potentially contributing to patient infections.
+b.
+Your firm issued Design Change Orders 9416, 9416-01, 9711, and 9690, corresponding to CAPA 2015-03, and submitted a recall in June, 2015 (#Z-2076/2081-2015), to update the cleaning and disinfection IFU after receiving complaints of patient deaths due to infections caused by the 3T device. As part of this design change, your firm contracted a laboratory to conduct a test on the cleaning procedure in the updated IFU. The resulting test report, dated April 7, 2015, describes the test protocol and results. However, your firm’s test report does not demonstrate an adequate verification or validation of the new cleaning IFU because:
+(reduction) for bacteria, as required by your test procedure. In addition the acceptance criteria do not appear to correspond to the design inputs of drinking water quality, controlling biofilm, or that the device does not cause waterborne infection;
+i.
+The acceptance criteria for the test do not demonstrate that the updated cleaning and disinfection instructions produce a
+(
+b)(4)
+level (reduction) for bacteria, as required by your test procedure. In addition the acceptance criteria do not appear to correspond to the design inputs of drinking water quality, controlling biofilm, or that the device does not cause waterborne infection;
+ii.
+Puristeril is not available in the United States, and therefore your firm recommends using Clorox as a substitute in the IFUs. However, the test report does not demonstrate the amounts of Clorox described in the IFU are equivalent to Puristeril;
+iii.
+Two of the challenge bacteria,
+(
+b)(4)
+and
+(
+b)(4)
+,
+used in the test procedure were not used at a high enough concentration to demonstrate the
+(
+b)(4)
+level acceptance criteria;
+iv.
+The exact disinfectant dilution is not clear, because the exact water amounts used were not measured. Water levels were determined by
+(
+b)(4)
+.
+No validation for the accuracy of these
+(
+b)(4)
+for detecting water levels was documented in the test report;
+v.
+There is no description for how the sampling locations, sampling methods, and machine conditions used represent worst case condition for finding bacteria;
+vi.
+There is no statistical rationale documented in the test report for using testing
+(
+b)(4)
+,
+to demonstrate that the cleaning instructions for use will consistently maintain water quality requirements inside 3T devices in the field or clinical setting; and,
+vii.
+There is
+no documentation
+that your firm tested the updated IFUs for usability by the end user. Specifically, those responsible for conducting the cleaning and disinfection procedure on devices at user facility.
+Your firm’s response did not address this deficiency. We note that this is a repeat from a nonconformance noted in the Warning Letter issued to the Munchen facility on August 2, 2011.
+2.
+Failure to validate a process, with a high degree of assurance and approved according to established procedures, a process where results cannot be fully verified by subsequent inspection and test, as required by 21 CFR 820.75(a) [Munchen facility]. For example, your firm designed and implemented a new cleaning, drying, and disinfection process using
+(
+b)(4)
+at the contract manufacturer,
+(
+b)(4)
+,
+as part of a corrective action. However, the new process was not adequately validated or verified prior to implementation on production units or monitored after implementation. Specifically:
+a.
+Your firm contracted an “efficacy test” at a testing firm,
+(
+b)(4)
+, on November 17, 2014, to conduct an in-house validation of the use of the
+(
+b)(4)
+disinfection and drying process to eliminate a mycobacterium test strain from 3T devices to validate the new process. However, the efficacy test was not an adequate verification or validation of the disinfection and drying process because:
+i.
+The efficacy test report documented testing to
+(
+b)(4)
+mixture
+;
+however, the disinfection and drying process
+(
+b)(4)
+.
+There was no documentation of justification for using a different concentration, and therefore the test does not accurately reflect the
+(
+b)(4)
+disinfection procedure;
+ii.
+No controls were used in the efficacy test;
+iii.
+Your firm did not provide documentation to describe if a
+(
+b)(4)
+was used
+(
+b)(4)
+; and
+iv.
+Your firm did not provide documentation for how the bacteria were
+(
+b)(4)
+.
+b.
+Your firm conducted further monitoring of manufactured devices after the
+(
+b)(4)
+disinfection and drying process was implemented. However, the monitoring was inadequate because the following required information for a cleaning and disinfection monitoring report was not documented:
+i.
+The data for recovery efficiency of bacteria from the 3T devices;
+ii.
+The data for complete bioburden: aerobic bacteria, anaerobic bacteria, spores, fungi, and yeast in the devices prior to disinfection. Only aerobic mesophilic bacteria are noted;
+iii.
+The data for bacteriostasis or fungistasis;
+iv.
+The concentration of
+(
+b)(4)
+used in sampling;
+v.
+The time of exposure to the
+(
+b)(4)
+; and
+vi.
+Whether
+(
+b)(4)
+was performed after
+(
+b)(4)
+.
+c.
+Your firm’s disinfection and drying procedure and validation protocol, “
+(
+b)(4)
+cleaning, disinfection, and drying process designed and implemented by your Munchen facility at the contract manufacturer
+(
+b)(4)
+. However, the procedure was not adequately validated to ensure that the process completely dries the device.
+For example:
+i.
+The protocol states that the transparent pump tubing
+(
+b)(4)
+The protocol did not indicate whether any
+(
+b)(4)
+after drying was acceptable; and
+ii.
+The validation did not include key technical parameters required for validation of a disinfection process. For example:
+a.
+The amount of
+(
+b)(4)
+at time 0 (start of experiment);
+b.
+Data to provide a rationale for choosing
+(
+b)(4)
+dry the tanks and tubing;
+c.
+Quantification of the term “visually dry” and how to measure dryness by a validated method;
+d.
+Documentation of the
+(
+b)(4)
+; and
+e.
+Documentation of environmental conditions for temperature and humidity during the
+(
+b)(4)
+device prior to sampling.
+We reviewed your firm’s response and conclude that it is not adequate. Your firm did not evaluate the potential impact of these violations on distributed devices, and take steps to mitigate the risks as needed.
+Our inspection also revealed that your firm’s devices are misbranded under section 502(t)(2) of the Act, 21 U.S.C. §
+352(t)(2), in that your firm failed or refused to furnish material or information respecting the device that is required by or under section 519 of the Act, 21 U.S.C. § 360i, and 21 CFR Part 803 - Medical Device Reporting (MDR), but are not limited to, the following:
+3.
+Failure to adequately develop, implement, and maintain written MDR procedures, as required by 21 CFR 803.17 (Arvada facility). For example:
+Your firm’s MDR procedure, “Standard Operating Procedure for Medical Device Reporting”,
+(
+b)(4),
+Rev. AA, updated on October 15, 2012, has the following deficiencies:
+a. The procedure does not establish internal systems that provide for timely and effective identification, communication, and evaluation of events that may be subject to MDR requirements. For example, the procedure omits definition of the term “reasonably suggests,” found in 803.20(c)(1). The exclusion of this definition for this term from the procedure may lead your firm to make an incorrect reportability decision when evaluating a complaint that may meet the criteria for reporting under 21 CFR 803.50(a);
+b. The procedure does not establish internal systems that provide for timely transmission of complete medical device reports. Specifically, the procedure does not address how your firm will submit all information reasonably known to it for each event;
+c. The procedure does not describe how it will address documentation and record-keeping requirements, including:
+i.
+Documentation of adverse event related information maintained as MDR event files’
+ii.
+Information that was evaluated to determine if an event was reportable;
+iii.
+Documentation of the deliberations and decision-making processes used to determine if a device-related death, serious injury, or malfunction was or was not reportable; and
+iv.
+Systems that ensure access to information that facilitates timely follow-up and inspection by FDA.
+In addition, we have noticed deficiencies in your firm’s (Munchen facility) MDR procedure,
+“(
+b)(4)
+,
+Rev. 003. Specifically, the MDR procedure does not have an effective date.
+Please note, the MDR procedures at the Munchen and Arvada facilities include references to submitting MDRs to FDA using the following address: FDA, CDRH, Medical Device Reporting, P. O. Box 3002, Rockville, MD 20847-3002. Please note that effective August 14, 2015, MDRs should be submitted electronically and paper submissions will not be accepted, except under special circumstances, directed by FDA. For more information about electronic reporting, please refer to the eMDR website and the eMDR guidance document.
+http://www.fda.gov/ForIndustry/FDAeSubmitter/ucm107903.htm
+Our inspection at your Munchen facility also revealed that the Heater Cooler 3T device is adulterated under section 501(f)(1)(B) of the Act, 21 U.S.C. § 351(f)(1)(B), because you do not have an approved application for premarket approval (PMA) in effect pursuant to section 515(a) of the Act, 21 U.S.C. § 360e(a), or an approved application for an investigational device exemption under section 520(g) of the Act, 21 U.S.C. § 360j(g). The Heater-Cooler System 3T is also misbranded under section 502(o) the Act, 21 U.S.C. § 352(o), because you did not notify the agency of your intent to introduce the device into commercial distribution as required by section 510(k) of the Act, 21 U.S.C. § 360(k).
+Specifically, your firm distributed the Heater-Cooler System 3T, cleared under K052601, with modified Instructions for Use (Versions 013 and 014) with respect to the operating, maintaining, cleaning and disinfecting of the device. Some of the modifications found in Versions 013 and 014 include: adding more instruction details, changes to the cleaning/disinfecting process (e.g., chemicals used and amounts used), and expansion to the process to include the entire circuit instead of only the tanks. These are significant labeling changes that can affect the safety or effectiveness of the device, and therefore require a new 510(k) in order to be assured that appropriate testing and validation of the cleaning/disinfecting protocols have taken place.
+For a device requiring premarket approval, the notification required by section 510(k) of the Act, 21 U.S.C. § 360(k), is deemed satisfied when a PMA is pending before the agency, 21 CFR 807.81(b). The kind of information you need to submit in order to obtain approval or clearance for the device is described on the Internet at:
+http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/HowtoMarketYourDevice/default.htm.
+The FDA will evaluate the information that you submit and decide whether your product may be legally marketed.
+Our inspections also revealed that your firm’s
+Heater-Cooler System 3T devices are misbranded under section 502(t)(2) of the Act, 21 U.S.C.
+§
+352(t)(2), in that your firm failed or refused to furnish material or information respecting the device that is required by or under section 519 of the Act, 21 U.S.C. § 360i, and 21 CFR Part 806 – Medical Devices; Reports of Corrections and Removals. Significant violations include, but are not limited to, the following:
+Failure to
+submit a written report to FDA of any correction or removal of a device initiated to remedy a violation of the act caused by the device which may present a risk to health, as required by 21 CFR 806.10.
+For example: A change order was initiated on December 20, 2011, related to a change consisting of updating the devices’ IFU to indicate a new cleaning and disinfection procedure. Subsequently, the change was implemented in the IFU to indicate the use of a water filter and to add Hydrogen Peroxide to the water used in the devices. A letter was sent to your customers notifying them of the new IFU.
+The letter stated that the instructions for the device had been updated to assure the user can maintain the cleanliness of the water in the device, and that the ‘Updated Instructions for Water Cleanliness’ replaced the previous water cleaning instructions for the 3T Heater Cooler. Your firm did not submit a written report to FDA of the correction and removal, as required by 21 CFR 806.
+Given the serious nature of the violations of the Act,
+the Heater Cooler 3T devices, and other devices manufactured by your Munchen facility are subject to refusal of admission under section 801(a) of the Act, 21 U.S.C. § 381(a), in that they appear to be adulterated. As a result,
+FDA is taking steps to refuse entry of these devices into the United States, known as “detention without physical examination,” until these violations are corrected. In order to remove the devices from detention, your firm should provide a written response to this Warning Letter as described below and correct the violations described in this letter. We will notify you regarding the adequacy of your firm’s response and the need to re-inspect your firm’s facility to
+verify that the appropriate corrections and/or corrective actions have been made.
+Also, U.S. federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related will not be approved until the violations have been corrected.
+Please notify this office, in writing within fifteen business days from the date you receive this letter, of the specific steps your firm has taken to correct the noted violations, including an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (which must address systemic problems) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Please provide a translation of documentation not in English to facilitate our review.
+Your firm’s response should be sent to:
+Food and Drug Administration, Center for Devices and Radiological Health, Office of Compliance, Field Inspections Support Branch, White Oak Building 66, Rm 2622, 10903 New Hampshire Ave., Silver Spring, MD 20993.
+Refer to CMS case #484629 when replying.
+If you have any questions about the contents of this letter, please contact: Shumaya Ali, Acting Chief, Foreign Enforcement Branch, at feb@fda.hhs.gov (email), or +1 (240) 402-4020 (phone), or +1 (301) 847-8139 (fax).
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely yours,
+/S/
+CAPT Sean Boyd
+Acting Director
+Office of Compliance
+Center for Devices and
+Radiological Health
+Cc:
+Thierry Dupoux
+Vice President of Quality Assurance and Regulatory Affairs
+LivaNova (formerly Sorin Group Deutschland GmbH)
+Lindberghstrasse 25
+Munchen, 80939
+Germany
+Carrie Wood
+Director
+Customer Quality
+LivaNova (formerly Sorin Group USA)
+14401 W 65
+th
+Way
+Arvada, CO 80004

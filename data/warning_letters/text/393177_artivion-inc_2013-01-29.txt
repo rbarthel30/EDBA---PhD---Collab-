@@ -1,0 +1,143 @@
+CryoLife, Inc. 1/29/13
+Share
+Tweet
+Linkedin
+Pin it
+More sharing options
+Linkedin
+Pin it
+Email
+Print
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Atlanta District Office
+60 Eighth Street N.E.
+Atlanta, GA 30309
+January 29, 2013
+VIA UPS
+Steven G. Anderson, CEO
+Cryolife, Inc.
+1655 Roberts Blvd, NW
+Kennesaw, Ga 30144
+WARNING LETTER
+13-ATL-07
+Dear Mr. Anderson:
+During an inspection of Cryolife Inc., conducted at 1655 Roberts Boulevard on September 17 – October 16, 2012, investigators from the U.S. Food and Drug Administration (FDA) determined that your firm manufactures various medical devices. These products are devices within the meaning of Section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act) [21 United States Code (U.S.C.) § 321(h)] in that they are intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+This inspection revealed that these devices are adulterated within the meaning of Section 501(h) of the Act [21 U.S.C. § 351(h)] in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) regulations found at Title 21 of the Code of Federal Regulations Part 820 (21 CFR Part 820).
+A form FDA 483, Inspectional Observations, was issued to David Fronk, Vice President Regulatory Affairs and Quality Assurance, at the close of the inspection (copy enclosed). We have received your firm’s response letters dated November 6, 2012; December 5, 2012; and January 14, 2013 concerning our investigators’ observations identified on the FDA 483. We address these responses below, in relation to each of the noted violations. The violations documented on the FDA 483 issued include, but are not limited to, the following:
+Failure to ensure, when the results of a process cannot be fully verified by subsequent inspection and test, that the process shall be validated with a high degree of assurance and approved according to established procedure, as required by 21 CFR 820.75(a).
+Specifically,
+a.
+The coupons used in the "Disinfectant Efficacy Verification for Hard Surfaces" VP-2008-065-PV approved: 04/26/2010, were not representative of the surfaces found in the Tissue Processing Laboratories (TPL) and BioAdhesive laboratories. For example,
+(b)(4)
+was used in the study to represent the biological safety cabinets, laminar flow hoods, and tables in the processing and manufacturing areas. However, the equipment is comprised of
+(b)(4)
+.
+Your response to this observation appears adequate; however, we are unable to determine if this response is adequate without review of the final summary with the included data for VP-2008-065-PV, Addendum 3, "Disinfectant Efficacy Verification for Hard Surfaces." This information will be reviewed during the next establishment inspection.
+b.
+All surfaces that are used in critical processing and manufacturing areas were not evaluated in the "Disinfectant Efficacy Verification for Hard Surfaces" VP-2008-065-PV approved: 04/26/2010.
+Your response to this observation is not adequate. The
+(b)(4)
+work-top surface is an area that is monitored and is located in a classified area. Therefore, the effectiveness of its cleaning should be evaluated just as the other surfaces.
+Failure to document corrective and preventive actions and their results, as required by 21 CFR 820.100(b). Specifically,
+a.
+The environmental action trending reports for 4th quarter 2011 and 1st quarter 2012 omitted the trending of alerts prior to the approval of your procedure titled "Environmental Trending".
+Your response to this observation is inadequate. The 4
+th
+Quarter 2011 environmental action trending report was generated prior to the approval of SOP NL0026 revision 002 “Environmental Trending” effective date: May 31, 2012. Therefore, it should have been generated using the requirements of SOP NL0026 revision 001.
+b.
+Graphs including the top three (3) organisms recovered for each room or water system were not included in the Environmental Action Trending Reports for 4th quarter 2011 and 1st quarter 2012 as stated in SOP NL0026 revision 001, effective date: 12/28/2011 "Environmental Trending."
+c.
+The "Environmental Action Report Trending" Quarter 4, 2011 and Quarter 1, 2012 omitted thirteen (13) actions and alerts for Tissue Processing Laboratory room # 1132. Room # 1132 is used in the packaging and transfer of all SynerGraft and tissue products.
+Your responses to these observations are inadequate. Your response letters fail to identify corrective actions your firm has implemented to prevent the recurrence of this observation
+Failure to establish procedures to control environmental conditions as required by 21 CFR 820.70(c).
+a.
+Tissue Processing Laboratory room #1131 including all equipment and surfaces (i.e. Biological Safety Cabinets, work trays, tables, and floors) are environmentally monitored monthly in a passive state per SOP NL0012.028 "Environmental Specifications" effective date: 08/23/2012.
+b.
+No active environmental monitoring is performed in critical classified areas when environmental conditions could reasonably be expected to have an adverse effect on the SynerGraft and tissue products. SOP NL0012.028 "Environmental Specifications" effective date: 08/23/2012 does not require active monitoring of environments.
+c.
+Personnel monitoring of TPL technicians for aseptic technique is performed quarterly per SOP NL0006.018 "Microbiological Monitoring of Processing Garments" effective date: 09/19/2011. According to management, active monitoring of personnel only occurs during process simulations.
+We have received your responses pertaining to these observations; however, additional information is needed before we can evaluate the adequacy of your response. Specifically, your procedures (SOP NL0001.017 – Non-Viable Particulate Monitoring of Processing Areas; SOP NL0004.020 – Microbiological Monitoring of Processing Area Surfaces; SOP NL0005.027 – Monitoring for Airborne Microorganisms in Processing Areas) require “quarterly active monitoring” be performed for all Biological Safety Cabinets (BSCs) and Laminar Flow Hoods (LFHs). Please provide your firm’s rationale for the frequency selection of quarterly monitoring.
+d.
+Incoming municipal potable water is used in the preparation of disinfectants
+(b)(4)
+according to SOP GP0075.026 "Disinfectant Preparation and Usage" effective date: 09/04/2012 which lists "city water" under materials and equipment. Review of the incoming city water testing results revealed consistent bioburden levels too numerous to count.
+We are unable to evaluate the adequacy of your response until additional information is provided to our office. Specifically, further information should be provided describing the changes to your disinfectant system.
+Failure to review, evaluate and investigate, unless any such investigation has been performed for similar complaints and another investigation is not necessary, any complaint involving the possible failure of a device, labeling or packaging to meet any of its specifications, as required by 21 C.F.R. § 820.198(c). Specifically,
+a.
+Complaint 1269 initiated on 01/27/10 indicates patient died on 12/24/09 from multiple system failure due to sepsis. Upon review of one of the associated lots record (09MUV007), it was observed that there were analytical Out of Specification (OOS) test results for
+(b)(4)
+and a Material Deviation Report for the bioburden testing for this lot. Your investigational report failed to acknowledge these deficiencies.
+b.
+Complaint 1663 involving a patient death was initiated on 01/31/12 and indicated BioGlue was not very viscous and was running deeper into the lumen. Upon review of DHR for the associated lots, syringes were rejected due to particulates for Lot Numbers 11MJX009 and 11MJX015 during filling of the 10 mL BioGlue syringes. The First Re-inspection for 11MJX015 showed that 61 out of
+(b)(4)
+syringes were rejected. The First Re-inspection for 11MJX009 showed that 49 out of
+(b)(4)
+syringes were rejected. An investigation was not generated for these two lots, and the re-inspection of the affected BioGlue did not document the reason for the rejected syringes.
+c.
+Complaint 1278 reports
+Aspergillus
+was identified on a pre-implant culture of a pulmonary branch patch,
+(b)(4)
+that was tested by the customer (hospital). Review of the firm's environmental data finds that monthly environmental monitoring was not performed in the dissection room (TPL 1131) as required. A CAPA was completed for the deficiency. Environmental data for the monitoring period prior to dissection date recovered fungi,
+Bacillus,
+and
+Staphylococcus
+in air samples taken under passive conditions in the firm's dissection room. However, this information was not considered in the determination of a possible root cause. The firm's investigation does not address the environmental findings in the processing area.
+d.
+Complaint 1279 reports a pre-implant culture of a SynerGraft Pulmonary Hemi-Artery
+(b)(4)
+tested positive for coagulase-negative
+Staphylococcus
+at the hospital. Environmental monitoring in the firm's dissection room (TPL 1131) and the packaging room (TPL 1132) shows
+Staphylococcus
+and
+Micrococcus
+were recovered from the firm's environment during the processing period identified for this allograft; however, this information was not considered in the determination of a possible root cause. The investigation does not address the fact that
+Staph
+yl
+ococcus
+species was recovered in several sites during the identified processing period.
+e.
+Complaint 1679 reports an aortic valve and conduit was implanted as a root replacement in the patient
+(b)(4)
+in which the patient developed
+Candida
+endocarditis and the valve was subsequently explanted. The investigation indicates the
+(b)(4)
+incubator unit lost power as well as finding filamentous fungus in the laminar flow hood. The investigation erroneously reports there were no Material Deviation Reports or Positive Microbiology Reports associated with this allograft.
+Your responses to these observations are inadequate. Your response letters fail to identify corrective actions your firm is taking to adequately assure that all complaint investigations are adequately conducted.
+Your firm’s personnel do not have the necessary training to perform their jobs, as required by 21 CFR 820.25(a). Specifically,
+a.
+Poor aseptic techniques were observed of Microbiology Technician performing sterility testing on 9/19/2012.
+b.
+Employee's head covering was not properly attired during the filling process of BioGlue Adhesive
+(b)(4)
+while working in the fume hood in the
+(b)(4)
+work area of Room #3070 on 9/18/2012.
+c.
+Employees were not trained on the validation requirements prior to protocol executive as outlined in VP-2009-007-EQ/PV, Equipment Qualification and Process Validation of the
+(b)(4)
+Heat Sealer. Employee
+(b)(4)
+performed packaging operations for the validation. Training is not documented as required in the protocol.
+Your responses to these observations are inadequate. Your response letters fail to identify corrective actions your firm has implemented to prevent the recurrence of this observation.
+Failure of management with executive responsibility to review the suitability of the quality system at defined intervals and with sufficient frequency according to established procedures to ensure the quality system satisfies the requirements of this part, as required by 21 CFR 820.20(c). Specifically,
+a.
+Environmental Trending was not performed as stated in SOP NL0026, revision 000 effective date: 10/28/2009, and revision 001 effective date: 12/28/2011 "Environmental Trending." The management group did not attend quarterly trending meetings to identify or respond to trends observed during 3rd and 4th quarter 2009 and 1st through 4th quarter of 2010 and 2011. Additionally, the internal audit system failed to identify that environmental trending was not performed until the 4th quarter of 2011.
+Your response to this observation is inadequate. Your response letter fails to identify corrective actions your firm has implemented to assure the reoccurrence of this observation.
+We acknowledge that your response letters appear to adequately address several items on the FDA 483 which are not listed in this letter. All corrective actions identified in your response letters will be verified during our next inspection.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts.
+Please notify our office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+Your firm’s response should be sent to: Derek Price, Compliance Officer, Atlanta District Office, 60 Eighth Street NE, Atlanta, Georgia, 30309.
+If you have any questions about the contents of this letter, please contact: Compliance Officer Price by phone at (404) 253-2277 or by fax at (404) 253-1205.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely
+/S/
+John R. Gridley
+District Director
+Atlanta District Office
+Close Out Letter
+CryoLife, Inc. - Close Out Letter 4/23/15

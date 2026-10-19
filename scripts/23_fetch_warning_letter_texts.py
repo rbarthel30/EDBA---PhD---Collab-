@@ -350,9 +350,12 @@ def cc_fetch(filename, offset, length):
 # =============================================================
 # STEP 1. The letter set: device warning letters linked to a gvkey
 # =============================================================
-def build_target_letters(s14) -> pd.DataFrame:
+def build_target_letters(s14, extra_ids=()) -> pd.DataFrame:
     """Same rule as script 18's load_warning_letter_events, keeping the
-    letter-level identifiers that script drops."""
+    letter-level identifiers that script drops. `extra_ids` adds letters
+    OUTSIDE the 206 (e.g. Armando's US-listing sample, which does not use the
+    Compustat link) straight from the dashboard file, with no gvkey and
+    in_project_sample = 0."""
     win = s14.load_ownership_windows()
     ca = pd.read_csv(LETTERS_PATH, low_memory=False)
     dev = ca[ca["is_device"] & ca["is_warning_letter"]].copy()
@@ -388,11 +391,36 @@ def build_target_letters(s14) -> pd.DataFrame:
         "recipient_country": m["Country/Area"],
         "action_taken_date": m["action_date"].dt.date,
         "letter_year": m["year"],
-        "gvkey": m["gvkey"].astype("int64"),
+        "gvkey": m["gvkey"].astype("Int64"),
         "company_name_compustat": m["company_name_compustat"],
         "publicly_traded_in_letter_year": m["publicly_traded_in_letter_year"],
+        "in_project_sample": 1,
         "normalized_name": m["normalized_name"],
-    }).sort_values(["action_taken_date", "case_id"]).reset_index(drop=True)
+    })
+
+    extra = [str(i) for i in extra_ids if str(i) not in set(out["case_id"])]
+    if extra:
+        ex = ca[ca["Case/Injunction ID"].astype("int64").astype(str).isin(extra)]
+        ex = ex.drop_duplicates("Case/Injunction ID").copy()
+        missing = set(extra) - set(ex["Case/Injunction ID"].astype("int64").astype(str))
+        assert not missing, f"case IDs not in the dashboard file: {sorted(missing)}"
+        ad = pd.to_datetime(ex["action_taken_date"], errors="coerce")
+        out = pd.concat([out, pd.DataFrame({
+            "case_id": ex["Case/Injunction ID"].astype("int64").astype(str),
+            "fei_number": ex["FEI Number"],
+            "recipient_name_fda": ex["Legal Name"],
+            "recipient_state": ex["State"],
+            "recipient_country": ex["Country/Area"],
+            "action_taken_date": ad.dt.date,
+            "letter_year": ad.dt.year,
+            "gvkey": pd.array([pd.NA] * len(ex), dtype="Int64"),
+            "company_name_compustat": None,
+            "publicly_traded_in_letter_year": pd.NA,
+            "in_project_sample": 0,
+            "normalized_name": ex["company_name_clean"].map(s14.normalize_name),
+        })], ignore_index=True)
+        print(f"    + {len(ex)} letters outside the project sample (requested by case ID)")
+    out = out.sort_values(["action_taken_date", "case_id"]).reset_index(drop=True)
 
     # FORMER NAMES OF THE SAME ESTABLISHMENT. The dashboard's Legal Name is
     # the FEI's CURRENT name, so a 2008 letter to I-Flow shows as "Avanos
@@ -412,7 +440,8 @@ def build_target_letters(s14) -> pd.DataFrame:
         [n for n in fei_names.get(f, []) if n != own] if pd.notna(f) else []
         for f, own in zip(fei, out["normalized_name"])]
     print(f"    {len(out)} letters, {out['gvkey'].nunique()} firms; "
-          f"{out['publicly_traded_in_letter_year'].sum()} publicly traded in letter year; "
+          f"{int(pd.to_numeric(out['publicly_traded_in_letter_year'], errors='coerce').sum())} "
+          f"publicly traded in letter year; "
           f"{sum(map(bool, out['fei_former_names']))} establishments with other names "
           f"in FDA recall records")
     return out
@@ -507,7 +536,7 @@ def parse_listing_page(body, listing_url) -> pd.DataFrame:
     return df.dropna(subset=["ucm_path", "issue_date_parsed"])
 
 
-def letter_page_title_index(caps, old_idx, todo, s14) -> pd.DataFrame:
+def letter_page_title_index(caps, old_idx, todo, s14, window_only=False) -> pd.DataFrame:
     """
     (c') Index the archived old-scheme LETTER pages that no archived FDA
     index page lists, from each page's own title line - the old site opens
@@ -541,6 +570,8 @@ def letter_page_title_index(caps, old_idx, todo, s14) -> pd.DataFrame:
             lo, hi = k["ucm"].quantile(0.05), k["ucm"].quantile(0.95)
             lst.loc[lst["ucm"].between(lo, hi), "in_window"] = True
     lst = lst.sort_values(["in_window", "ucm"], ascending=[False, True])
+    if window_only:
+        lst = lst[lst["in_window"]]
     print(f"    {len(lst):,} unlisted letter pages ({lst['in_window'].sum():,} inside the "
           f"missing letters' page-number windows, read first); cached after the first run")
     rows, found = [], set()
@@ -738,11 +769,34 @@ def candidates_by_case_id(targets, live, cdx_new) -> pd.DataFrame:
     return c.drop(columns="action_taken_date")
 
 
-def candidates_by_listing(targets, old_idx, caps) -> pd.DataFrame:
+# Words too common in firm names to identify a firm on their own.
+GENERIC_WORDS = set("""MEDICAL HEALTHCARE HEALTH CARE SYSTEMS SYSTEM TECHNOLOGIES TECHNOLOGY
+PRODUCTS LABORATORIES LABORATORY INTERNATIONAL USA US AMERICA AMERICAN NORTH GROUP
+HOLDINGS MANUFACTURING DEVICES DEVICE SERVICES SERVICE SURGICAL SCIENCES SCIENTIFIC
+DIVISION OPERATIONS CENTER DIAGNOSTICS PHARMACEUTICALS PHARMACEUTICAL THE AND OF FOR
+LTD LLC GMBH AB AG SA SAS SPA SRL BV NV PLC CO CORP INC COMPANY DBA WORLDWIDE GLOBAL
+SOLUTIONS INDUSTRIES ENTERPRISES PUERTO RICO COSTA RICA""".split())
+
+
+def shared_word(a, b):
+    """True if two normalized names share a distinctive word (>= 4 letters,
+    not in GENERIC_WORDS): ISOMEDIX, UPPSALA, FRESENIUS."""
+    ta = {w for w in a.split() if len(w) >= 4 and w not in GENERIC_WORDS}
+    tb = {w for w in b.split() if len(w) >= 4 and w not in GENERIC_WORDS}
+    return bool(ta & tb)
+
+
+def candidates_by_listing(targets, old_idx, caps, requested=False) -> pd.DataFrame:
     """(c): old-scheme listing rows within the date tolerance whose company
     name matches the dashboard recipient. Each candidate letter page carries
     its archived captures in preference order (Common Crawl, latest crawl
-    first, then Wayback); fetch_candidate uses the first that loads."""
+    first, then Wayback); fetch_candidate uses the first that loads.
+
+    requested=True (--case-ids, letters a person has already identified by
+    case number) adds one looser rule: an index entry dated within 3 days
+    that shares a DISTINCTIVE word with the recipient's name or a former name
+    ("Steris Isomedix Services" for "Isomedix Operations"). The page must
+    still pass the text checks, and the match is flagged."""
     letters = caps.dropna(subset=["ucm_path"]).copy()
     letters["crawl_order"] = letters["crawl"].rank(method="dense", ascending=False).fillna(0)
     letters = letters.sort_values(["ucm_path", "archive_rank", "crawl_order"])
@@ -754,12 +808,18 @@ def candidates_by_listing(targets, old_idx, caps) -> pd.DataFrame:
         near = old_idx[(old_idx["issue_date_parsed"] - ad).abs().dt.days <= DATE_TOL_DAYS]
         for r in near.itertuples():
             score, via = best_name(r.norm, t)
-            if score >= FUZZY_MIN:
+            rule = "name"
+            if (score < FUZZY_MIN and requested
+                    and abs((r.issue_date_parsed - ad).days) <= 3
+                    and any(shared_word(r.norm, n) for n in
+                            [t.normalized_name] + list(t.fei_former_names))):
+                score, via, rule = FUZZY_MIN - 1, t.normalized_name, "same-date shared word"
+            if score >= FUZZY_MIN or rule != "name":
                 out.append({"case_id": t.case_id, "ucm_path": r.ucm_path,
                             "matched_former_name": "" if via == t.normalized_name else via,
                             "listing_company": r.company, "listing_issue_date": r.issue_date_parsed,
                             "index_source": getattr(r, "index_source", "FDA index page"),
-                            "listing_name_score": score})
+                            "listing_name_score": score, "listing_match_rule": rule})
     c = pd.DataFrame(out)
     if c.empty:
         return c
@@ -939,15 +999,26 @@ def main() -> int:
     ap.add_argument("--wayback-wait", action="store_true",
                     help="sit out archive.org HTTP 429 blocks (can take hours) "
                          "instead of skipping Wayback for the rest of the run")
+    ap.add_argument("--case-ids", default="",
+                    help="comma/space-separated FDA case IDs: search ONLY these and "
+                         "merge the results into the latest manifest (IDs outside "
+                         "the 206 are added with in_project_sample = 0)")
+    ap.add_argument("--title-window-only", action="store_true",
+                    help="step 4b: read only unlisted pages inside the missing letters' "
+                         "page-number windows (much faster; pages outside rarely match)")
     args = ap.parse_args()
     WAYBACK["wait"] = args.wayback_wait
+    only = [x for x in re.split(r"[,\s]+", args.case_ids) if x]
     PAGE_CACHE.mkdir(parents=True, exist_ok=True)
     (OUT_DIR / "text").mkdir(parents=True, exist_ok=True)
     (OUT_DIR / "html").mkdir(parents=True, exist_ok=True)
     s14 = load_script14()
 
     print("[1/5] Letter set (device warning letters linked to a gvkey) ...")
-    targets = build_target_letters(s14)
+    targets = build_target_letters(s14, extra_ids=only)
+    if only:
+        targets = targets[targets["case_id"].isin(only)].reset_index(drop=True)
+        print(f"    --case-ids: searching only these {len(targets)} letters")
 
     print("[2/5] Indexes: fda.gov live table, Wayback CDX, Common Crawl index ...")
     live = fda_live_index(args.refresh)
@@ -976,7 +1047,7 @@ def main() -> int:
     print("[4/5] Remaining letters: old-scheme listing match (Common Crawl, then Wayback) ...")
     todo = targets[~targets["case_id"].isin(done)]
     old_idx = old_scheme_listing_index(caps, todo, s14)
-    lc = candidates_by_listing(todo, old_idx, caps)
+    lc = candidates_by_listing(todo, old_idx, caps, requested=bool(only))
     if not lc.empty:
         miss_cap = lc["_captures"].map(len).eq(0)
         if miss_cap.any():
@@ -993,8 +1064,9 @@ def main() -> int:
     print(f"[4b/5] {len(todo2)} pre-2018 letters still missing: indexing unlisted "
           f"letter pages by their own titles (Common Crawl) ...")
     if len(todo2):
-        title_idx = letter_page_title_index(caps, old_idx, todo2, s14)
-        lc2 = candidates_by_listing(todo2, title_idx, caps)
+        title_idx = letter_page_title_index(caps, old_idx, todo2, s14,
+                                            window_only=args.title_window_only)
+        lc2 = candidates_by_listing(todo2, title_idx, caps, requested=bool(only))
         if not lc2.empty:
             run(lc2[lc2["_captures"].map(len).gt(0)])
     res = pd.DataFrame(results)
@@ -1029,7 +1101,10 @@ def main() -> int:
         if not b["case_id_in_text"]:
             flags.append("case ID not printed; matched on date+name")
         score = pd.to_numeric(b["listing_name_score"], errors="coerce")
-        if pd.notna(score) and score < 100:
+        if b.get("listing_match_rule") == "same-date shared word":
+            flags.append(f"matched FDA index entry '{b['listing_company']}' on date + a "
+                         f"shared distinctive word (requested case ID)")
+        elif pd.notna(score) and score < 100:
             flags.append(f"fuzzy listing name match ({score:.0f}): {b['listing_company']}")
         if n_tied[t.case_id] > 1 and not b["case_id_in_text"]:
             flags.append(f"{n_tied[t.case_id]} acceptable pages; closest chosen")
@@ -1061,6 +1136,26 @@ def main() -> int:
                      "text_file": f"text/{stem}.txt", "html_file": f"html/{stem}.html",
                      "review_flag": "; ".join(flags)})
     man = pd.DataFrame(rows)
+    audit = res.drop(columns=[c for c in res.columns if c.startswith("_")])
+    old_man = sorted(OUT_DIR.glob("warning_letter_texts_manifest_*.csv"))
+    old_aud = sorted(OUT_DIR.glob("warning_letter_text_candidates_*.csv"))
+    if only and old_man:
+        # Targeted run: keep every other letter from the latest manifest (and
+        # audit) and replace only the rows for the requested case IDs.
+        prev = pd.read_csv(old_man[-1], dtype=str)
+        prev = prev[~prev["case_id"].isin(man["case_id"])]
+        # Manifests written before --case-ids existed hold only the 206.
+        if "in_project_sample" not in prev.columns:
+            prev["in_project_sample"] = "1"
+        prev["in_project_sample"] = prev["in_project_sample"].fillna("1")
+        man = pd.concat([prev, man.astype(str).replace({"nan": "", "<NA>": "", "None": ""})],
+                        ignore_index=True)
+        man["text_found"] = pd.to_numeric(man["text_found"]).astype(int)
+        man = man.sort_values(["action_taken_date", "case_id"]).reset_index(drop=True)
+        if old_aud:
+            pa = pd.read_csv(old_aud[-1], dtype=str)
+            audit = pd.concat([pa[~pa["case_id"].isin(set(targets["case_id"]))], audit],
+                              ignore_index=True)
     # Remove letter files left by earlier runs that this run did not write
     # (e.g. a letter whose chosen document changed), so the folders always
     # match the manifest exactly.
@@ -1071,14 +1166,19 @@ def main() -> int:
                 f.unlink()
     # Two letters should never share one document; if they do (e.g. one
     # letter carried under two Case IDs), flag both rather than hide it.
-    shared = man["source_url"].notna() & man["source_url"].duplicated(keep=False)
-    if shared.any():
-        man.loc[shared, "review_flag"] = (man.loc[shared, "review_flag"].fillna("")
-                                          + "; SAME PAGE AS ANOTHER LETTER").str.lstrip("; ")
+    url = man["source_url"].replace("", pd.NA)
+    shared = url.notna() & url.duplicated(keep=False)
+    add = shared & ~man["review_flag"].fillna("").str.contains("SAME PAGE AS ANOTHER LETTER")
+    if add.any():
+        man.loc[add, "review_flag"] = (man.loc[add, "review_flag"].fillna("")
+                                       + "; SAME PAGE AS ANOTHER LETTER").str.lstrip("; ")
     print(f"    letters sharing a page with another letter: {int(shared.sum())}")
     man.to_csv(OUT_DIR / f"warning_letter_texts_manifest_{stamp}.csv", index=False)
-    audit = res.drop(columns=[c for c in res.columns if c.startswith("_")])
     audit.to_csv(OUT_DIR / f"warning_letter_text_candidates_{stamp}.csv", index=False)
+    # One manifest/audit in the folder: older dated copies are superseded.
+    for f in old_man + old_aud:
+        if stamp not in f.name:
+            f.unlink()
 
     found = man["text_found"].sum()
     print(f"    letters with text: {found} of {len(man)}")

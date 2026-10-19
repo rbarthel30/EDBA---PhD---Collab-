@@ -1,0 +1,82 @@
+Respironics California Inc 11/17/14
+Share
+Tweet
+Linkedin
+Pin it
+More sharing options
+Linkedin
+Pin it
+Email
+Print
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Los Angeles District
+Pacific Region
+19701 Fairchild
+Irvine, CA 92612-2506
+Telephone: 949-608-2900
+FAX: 949-608-4415
+WARNING LETTER
+VIA UNITED PARCEL SERVICE
+SIGNATURE REQUIRED
+November 17, 2014
+WL# 04-15
+Randall L. Whitfield
+Vice President and General Manager
+Respironics California, Inc.
+2271 Cosmos Court
+Carlsbad, California 92011
+Dear Mr. Whitfield:
+During an inspection of your firm located in Carlsbad, CA on April 14, 2014 through May 8, 2014, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures mechanical ventilators (V60, V200) and provides services for some discontinued mechanical ventilators (e.g. Esprit V1000). Under Section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 United States Code (U.S.C.) § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+Our inspection revealed that your devices are misbranded under Section 502(t)(2) of the Act,
+21 U.S.C. § 352(t)(2), in that your firm failed or refused to furnish material or information regarding the devices that is required by or under Section 519 of the Act, 21 U.S.C. § 360i, and 21 CFR Part 803 - Medical Device Reporting. Significant deviations include, but are not limited to:
+1.
+Failure to report to FDA no later than 30 calendar days after the day that your firm becomes aware of information, from any source, that reasonably suggests that a device that it markets has malfunctioned and this device or a similar device that it markets would be likely to cause or contribute to a death or serious injury, if the malfunction were to recur, as required by 21 CFR 803.50(a)(2).
+For example: Complaint PR ID #s: 2777649, 1961008 (MDR 2031642-2013-00539), 1347355 (2031642-2013-00008), 2049946 (2031642-2013-00629), and 1180023 (2031642-2013-00013) reference a device malfunction of a life-sustaining/life-supporting device. There is no information included for the complaints that reasonably suggests that the referenced malfunctions would not be likely to cause or contribute to a death or serious injury if they were to recur. Your firm did not submit an MDR for complaint PR ID: 2777649. The remaining MDRs were received by FDA beyond the 30 calendar day timeframe.
+We reviewed your firm’s response dated June 3, 2014 and conclude that the adequacy of the response cannot be determined at this time. Your firm’s response states that corrections are planned, yet your firm did not include documentation or evidence of the corrections. Without this documentation, FDA cannot make an assessment with respect to adequacy.
+We reviewed your firm’s response dated June 27, 2014, and conclude that the response appears to be adequate. Your firm provided a document titled QST3-3412 Rev. A, “Medical Device Determination” The document provides reportability guidance and states that each complaint is to be assessed on its own merit.
+2.
+Failure to include in the reports all information reasonably known, including a statement explaining why information in the reports was missing and the steps taken to obtain the information, as required by 21 CFR 803.50(b)(3).
+For example, your firm failed to document in the MDR associated with Complaint PR ID: 1493205, (MDR 2031642-2013-00032), that it made several attempts to gather patient information in Blocks A.1 through A.4; date of event in Block B.3; and device serial number in Block D.4.
+We reviewed your firm’s response dated June 3, 2014 and June 27, 2014, and conclude that is not adequate. Your firm stated that it revised its Complaint Handling Instructions, QST3-3134 Rev. AE procedure to include a statement to reach out for more information during the complaint handling process. However, your firm’s corrective action does not state how it will address the requirement to provide complete reports including a statement explaining why information was incomplete and the steps taken to obtain any required information.
+3.
+Failure to submit a supplemental or follow up report to FDA within 1 month of the day that your firm received information under Part 803 that it did not provide because it was not known or available when the initial report was submitted, as required by 21 CFR 803.56.
+For example: On July 10, 2013, your firm became aware of a reportable malfunction as described in Complaint PR ID 1926455. FDA received MDR 2031642-2013-00333 on July 12, 2013. On November 26, 2013, your firm became aware of the results of its investigation for the device, which was returned on November 21, 2013. A supplemental MDR that included this information was not received by the FDA within the required 1 month timeframe.
+We reviewed your firm’s response dated June 3, 2014 and conclude that the adequacy of the response dated June 3, 2014, cannot be determined at this time. Your firm’s response states that corrections are planned, yet it did not include documentation or evidence of the corrections. Without this documentation, FDA cannot make an assessment with respect to adequacy.
+We reviewed your firm’s response dated June 27, 2014, and conclude that it appears to be adequate. Your firm submitted MDR Procedure titled QST3-3223, Adverse Event Reporting, Rev. U” dated June 27, 2014, in response to Observation 5. Procedure QST3-3223 adequately addresses the requirement to submit supplemental or follow up reports as required.
+In addition, we reviewed your firm’s MDR Procedure titled QST3-3223, Adverse Event Reporting, Rev. U, dated June 27, 2014 in its entirety. The procedure does not include the definition of the term “become aware,” found in 21 CFR 803.3 and the definition for the term “reasonably suggests,” found in 803.20(c)(1). The exclusion of the definitions for these terms from the procedure may lead your firm to make an incorrect reportability decision when evaluating a complaint that may meet the criteria for reporting under 21 CFR 803.50(a). We recommend that your firm include these definitions in the procedure.
+The eMDR Final Rule requiring manufacturers and importers to submit electronic Medical Device Reports (eMDRs) to FDA was published on February 13, 2014. The requirements of this final rule will take effect on August 14, 2015. If your firm is not currently submitting reports electronically, we encourage you to visit the following web link for additional information about the electronic reporting requirements:
+http://www.fda.gov/ForIndustry/FDAeSubmitter/ucm107903.htm
+.
+If your firm wishes to discuss MDR reportability criteria or to schedule further communications, it may contact the Reportability Review Team by email at:
+ReportabilityReviewTeam@fda.hhs.gov
+.
+A follow up inspection will be required to assure that all corrections are adequate.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (which must address systemic problems) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+Your firm’s response should be sent to:
+Acting Director, Compliance Branch
+US Food and Drug Administration
+19701 Fairchild
+Irvine, CA 92612-2506
+Refer to the Unique Identification Number (CMS case #432772) when replying. If you have any questions about the contents of this letter, please contact: Jessica Mu, Compliance Officer, at
+949-608-4477.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely,
+/S/
+Alonza E. Cruse, Director
+Los Angeles District
+Cc:
+Frans van Houten
+Chief Executive Officer
+Philips Healthcare
+3000 Minuteman Road
+Andover, MA 01810
+Harlan Loui, Acting Chief
+California Department of Public Health
+Food and Drug Branch
+1500 Capitol Avenue - MS 7602
+P.O. Box 997435
+Sacramento, California 95899-7435
+Attn: FDA Correspondence

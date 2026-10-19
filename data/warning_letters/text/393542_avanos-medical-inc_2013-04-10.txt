@@ -1,0 +1,148 @@
+CORPAK MedSystems, Inc. 4/10/13
+Share
+Tweet
+Linkedin
+Pin it
+More sharing options
+Linkedin
+Pin it
+Email
+Print
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Chicago District
+550 West Jackson Blvd., 15th Floor
+Chicago, Illinois 60661
+Telephone: 312-353-5863
+April 10, 2013
+WARNING LETTER
+CHI-11-13
+VIA UPS Next Day
+Mr. Jeffrey A. Blair
+Chief Executive Officer
+Corpak MedSystems, Inc.
+1001 Asbury Drive
+Buffalo Grove, IL 60089
+Dear Mr. Blair:
+During an inspection of your firm located in Buffalo Grove, Illinois, on November 26, 2012, through January 4, 2013, an investigator from the United States Food and Drug Administration (FDA) determined that your firm manufactures disposable medical devices, including enteral feeding bags and administration sets, feeding tubes, catheters, gastronomy devices and Cortrak Enteral Access System. Under Section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+This inspection revealed that these devices are adulterated within the meaning of Section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+We received a response from Ms. Stephanie Wasielewski, Vice President of Regulatory Affairs/Quality Assurance, dated January 24, 2013, concerning our investigator’s observations noted on the Form FDA 483 (FDA 483), Inspectional Observations, that was issued to your firm. We address this response below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+Failure to adequately establish procedures for corrective and preventive action, as required by 21 CFR 820.100(a). For example, CAPA
+(
+b)(4)
+was inadequate, in that it was closed on March 13, 2012 without identifying actions needed to correct and prevent recurrence of the inaccurate deployment of the transmitting stylet tip, and without verifying that the implemented corrective action was effective in preventing recurrence of the issue. CAPA
+(
+b)(4)
+was initiated on May 14, 2009 to investigate an increasing number of reported events of inaccurate deployment of the transmitting stylet tip resulting in erratic or unexpected tracings in the Cortrak Enteral Access System.
+Failure to adequately document process validation activities and results, as required by 21 CFR 820.75(a). For example, Validation
+(b)(4)
+, Cortrak Tube Product Performance Qualification, finalized
+(b)(4)
+, did not document the 100% in-process functional testing or the rejected stylets identified during the in-process testing in the final report of the validation study. The following information was found through review of the Device History Records and was not documented in the validation study:
+22 Rejected Stylets from Lot
+(
+b)(4)
+11 Rejected Stylets from Lot
+(
+b)(4)
+27 Rejected Stylets from Lot
+(b)(4)
+The validation study was conducted to document that the process to assemble Cortrak feeding tubes, used in conjunction with the Cortrak Enteral Access System, produces acceptable final product according to the specifications. The transmitting stylets referenced above were rejected because they were shown to not be functional or able to produce traces that are acceptable.
+Failure to establish procedures to control product that does not conform to specified requirements, as required by 21 CFR 820.90(a). For example, between January 1, 2012 and October 31, 2012, your firm has identified an excess of 3,000 transmitting stylets that have failed in-process functional testing. The rejected stylets were scrapped; however, a non-conforming material report was not initiated as required by Procedure
+(b)(4)
+, “Control of Nonconforming Product”. Between November 5, 2012 and December 21, 2012, your firm identified an additional 853 stylets that failed in-process functional testing.
+With respect to the previous three points, we reviewed your firm’s responses and conclude that they are not adequate. The responses do not address how your firm is going to correct your identified root cause which is defective stylets that cause the signal to leak and lead to inaccurate tracings. The response indicates additional testing that is conducted to remove defective stylets; however, no actions have been identified or taken to determine why the stylets are defective. In addition, your firm’s response indicates that stylets that fail the in-process functional testing will be documented through the nonconforming material procedure as of January 1, 2013; however, the response does not indicate how this information will be fed back into your quality system, such as the determination of reject action levels. Your firm’s response fails to address the issue in a holistic manner, including the fundamental design problem that your firm identified in your CAPA, which is defective stylets.
+Failure to evaluate and investigate, where necessary, complaints involving the possible failure of a device to meet any of its specifications, as required by 21 CFR 820.198(c). For example, between January 10, 2012 and October 5, 2012, your firm received the following nine (9) complaints alleging “lung placement” while utilizing the Cortrak Enteral Access System to aid and confirm the proper placement of the Cortrak nasogastric tube.
+COMP-2012
+-(b)(6)
+, dated
+(
+b)(4)
+2012, right lung placement
+COMP-2012-
+(b)(6)
+, dated
+(b)(4)
+2012, left lung placement
+COMP-2012-
+(b)(6)
+, dated
+(b)(4)
+2012, left lung placement
+COMP-2012-
+(b)(6)
+, dated
+(b)(4)
+2012, left lung placement
+COMP-2012-
+(b)(6)
+, dated
+(b)(4)
+2012, left lung placement
+COMP-2012-
+(b)(6)
+, dated
+(b)(4)
+2012, right lung placement
+COMP-2012-
+(b)(6)
+, dated
+(b)(4)
+2012, right lung placement
+COMP-2012-
+(b)(6)
+, dated
+(b)(4)
+2012, left lung placement
+COMP-2012-
+(b)(6)
+, dated
+(b)(4)
+2012, right lung placement
+The majority of the complaints above resulted in pneumothorax (collapsed lung) for the patient involved. Your firm’s investigations into the complaints failed to adequately address all available information for contributing factors for lung placement and resulting injury. Specifically, the investigations did not include the collection of further information to determine whether the Cortrak Enteral Access System or the transmitting stylet utilized during the procedure performed according to specifications or whether the events were caused or contributed by user error.
+We reviewed your response and conclude that it is not adequate. Your firm’s response only considers the use of the feeding tube in the complaint investigations because it is the feeding tube that is actually placed into the lung. The response does not show how your firm will include information that is known to your firm in future complaint reports to identify a root cause, such as a known defect with the transmitting stylets used as part of the Cortrak Enteral Access System that can lead to erratic or inaccurate tracings, and information gathered during an investigation into the defective stylets, CAPA
+(b)(4),
+that reported that a defective stylet that produced erratic tracings on one day may not be repeated the next day.
+Failure to have adequate risk analysis, as required by 21 CFR 820.30(g). For example, between January 10, 2012 and October 5, 2012, your firm received nine (9) complaints for lung placement of feeding tubes while utilizing the Cortrak Enteral Access System to aid in the proper placement of the nasogastric tube, and your firm has not re-evaluated the risk associated with this failure mode when the frequency changed, as demonstrated by post-market data acquisition. Re-evaluation of risk assessment is required per your firm’s Procedure
+(b)(4)
+, “Risk Management Procedure”.
+We reviewed your response and conclude that it is not adequate. While your firm’s response indicates that the percentage of change (based on Cortrak tubes sold) in lung placements from 2010 to 2012 has decreased, the response did not provide any evidence to support this statement or the claim that the change is not significant. In addition, the response only lists frequency as a factor that is being considered in the risk analysis, and it fails to take into consideration the severity of the injury (i.e., death). Moreover, the response is inadequate because no documentation was provided regarding the scoring of the risk analysis. This information is essential in verifying and evaluating statements made in your fimr’s response and within the attached risk management files for the Cortrak Enteral Access System.
+Our inspection also revealed that your firm’s disposable medical devices, including enteral feeding bags and administration sets, feeding tubes, catheters, gastronomy devices and Cortrak Enteral Access System are misbranded under Section 502(t)(2) of the Act, 21 U.S.C. § 352(t)(2), in that your firm failed or refused to furnish material or information respecting the device that is required by or under Section 519 of the Act, 21 U.S.C. § 360i, and 21 CFR Part 803 - Medical Device Reporting. Significant violations include, but are not limited to, the following:
+1.
+Failure to maintain and implement written MDR procedures, as required in 21 CFR 803.17. For example, there is no evidence that your firm’s MDR procedure has been implemented. There is no effective date for the procedure. Your firm’s MDR procedure does not establish internal systems that provide for timely and effective identification, communication, and evaluation of events that may be subject to MDR requirements.
+We reviewed your response and conclude that it is not adequate. Your firm’s MDR procedure
+(b)(4)
+includes definitions from 21 CFR 803.3, but omits the definition of “become aware,” “caused or contributed,” “MDR reportable event,” and a definition for the term “reasonably known “found in 803.20(c)(1). The exclusion of these terms from the procedure may lead your firm to make an incorrect reportability decision when evaluating a complaint that may meet the criteria for reporting under 21 CFR 803.50(a).
+2.
+Failure to submit individual adverse event reports, as reasonably known by the firm, the correct type of reportable event, as required by 21 CFR 803.52(f)(1). For example, the information included for complaint COMP-2012
+-(
+b)(4)
+describes an event where a patient sustained a pneumothorax after device treatment and subsequently died. However, your firm submitted an MDR
+(b)(4)
+that incorrectly identified the reportable event under
+(b)(4)
+as a “serious injury.”
+We reviewed your response and conclude that it is not adequate. Although your firm submitted an MDR
+(b)(4)
+for the referenced reportable event, FDA has not yet received a supplemental MDR that correctly identifies the type of reportable event under
+(b)(4)
+as “death.”
+If your firm wishes to submit MDR reports via electronic submission it can follow the directions stated at the following URL:
+http://www.fda.gov/ForIndustry/FDAeSubmitter/ucm107903.htm
+If your firm wishes to discuss MDR reportability criteria or to schedule further communications, it may contact the MDR Policy Branch by email at
+ReportablityReviewTeam@fda.hhs.gov
+.
+A follow up inspection by FDA will be required to assure that corrections and/or corrective actions are adequate.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+Your firm’s response should be sent to: Carrie Ann Plucinski, Compliance Officer, Food and Drug Administration, 550 W. Jackson Blvd., 15
+th
+floor, Chicago, IL 60661. Refer to the Unique Identification Number (CMS case # 393542) when replying. If you have any questions about the content of this letter, please contact Ms. Plucinski at 312-596-4224.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring the products into compliance.
+Sincerely,
+/S/
+Scott J. MacIntire
+District Director
+Close Out Letter
+CORPAK MedSystems, Inc. - Close Out Letter 12/12/14

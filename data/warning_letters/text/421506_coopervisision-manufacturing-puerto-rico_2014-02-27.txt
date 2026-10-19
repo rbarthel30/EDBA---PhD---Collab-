@@ -1,0 +1,111 @@
+Cooper Vision Caribbean Corp. 2/27/14
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+San Juan District
+Compliance Branch
+466 Fernandez Juncos Avenue
+San Juan, PR 00901-3223
+TEL (787) 729-8500
+FAX (787) 729-6658
+WARNING LETTER
+14-SJN-WL-01
+February 27, 2014
+CERTIFIED MAIL
+RETURN RECEIPT REQUESTED
+Mr. Robert Weiss, President and CEO
+Cooper Companies Inc.
+6140 Stoneridge Mall Road, Suite 590
+Pleasanton, CA 94588
+Dear
+Mr. Weiss:
+During an inspection of Cooper Vision Caribbean Corporation located at 500 Road 584 Amuelas Industrial Park Juana Diaz, Puerto Rico, from December 10, 2013 through January 10, 2014, an investigator from the United States Food and Drug Administration (FDA) determined that your firm is a medical device manufacturer of daily soft wear contact lenses and extended wear soft contact lenses, Class II and Class III medical devices respectively, marketed under the brand names of Biomedics, Proclear, Biofinity, Avaira & Single Use Silicon. Under Section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+This inspection disclosed that your devices are adulterated within the meaning of Section 501 (h) of the Act (21 U.S.C. § 351 (h)), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+We received a response from Mr. Cesar L. Rodriguez, Director of Quality Assurance and Regulatory Compliance, dated February 3, 2014, concerning our investigator's observations cited on the Form FDA 483 (FDA 483), List of lnspectional Observations, issued to Mr. Rolando Torres, Vice President of Molding Manufacturing, Americas at the conclusion of the inspection.
+The agency acknowledges your commitment to ensuring full compliance with the QS regulation and making continuous improvements to processes to correct all of the deviations in your firm’s operations. However, we have reviewed your response and we have concluded that it is inadecuate; it has not completely outlined all of the specific actions taken to fully address the inspectional observations.
+These violations include, but are not limited to, the following:
+1.
+Failure to adequately investigate the cause of nonconformities relating to product, processes, and the quality system and to identify the actions needed to correct and prevent recurrence of nonconforming product and other quality problems as required by 21 C.F.R. § 820.100(a)(3).
+We have reviewed your Corrective Action and Preventive Action (CAPA) investigations and have concluded that they are incomplete. The investigations failed to include information evaluating the impact of reported problems on the affected device, implementation of interim controls to avoid the distribution of potentially adulterated products while corrective actions are fully implemented, and a full evaluation of the impact on the quality of affected products found in commercial distribution. In addition, we are concerned with the timeliness of your CAPA investigations while you continue manufacturing and releasing your medical device products. For example,
+CAPA
+(b)(4)
+was initiated on 12/02/11, after a confirmed trend of non-conformances related to the presence of metallic particles found during in-process testing of the Avaira Toric contact lenses. We find objectionable that containment activities were not implemented until October 2012, and the risk assessment was not finalized until 09/13/13. This CAPA was closed on 09/16/13, without revising the FMEA addressing the presence of particulate matter, categorized as a “minor” defect. The CAPA did not fully explain and document the scientific justification for not categorizing this defect as a “major defect.” A scientific assessment of this major defect was not conducted for affected devices found in commercial distribution.
+Your firm’s response addressing this issue is incomplete. It indicates that no complaints have been reported for particulate matter on affected Avaira Toric contact lenses. However, metallic particles might be present in your distributed devices because the corrective actions implemented were ineffective. Bear in mind that your current in-process controls might allow for the release of devices with particulate matter without requiring the identification of particulate matter as part of your investigation. Please provide your retrospective review outcome of CAPAs opened since November 2011 regarding particulate matter for Avaira Toric contact lenses.
+Preventive Action (PA)
+(b)(4)
+was initiated on 10/21/2011, due to confirmed complaints concerning incorrect power failures for distributed ProClear One Day lenses. Your firm’s investigation is inadequate because you allowed the distribution of lenses
+(b)(4)
+. The investigation also disclosed that this issue may affect all lenses manufactured in your facility. A product risk assessment was conducted on 12/16/13, and it concluded that
+(b)(4)
+.
+We have reviewed your firm’s response and have concluded it is inadequate. Your investigation confirmed the complaints and it documented that devices were released for distribution not in compliance with the labeled power specification. We are concerned when a firm uses the product’s end-user as quality control based on use discomfort resulting in visual acuity disturbance. Please identify all lots affected with this major defect and provide evidence to demonstrate device conformance with the labeled power specification.
+Preventive Action (PA)
+(b)(4)
+was initiated on 08/27/12, after receiving four (4) medical complaints from 05/06/12 to 09/13/12 for particulate matter found on Proclear One Day products distributed in the Japanese market. As a result of the investigation, the most probable root cause identified
+(b)(4)
+. Please explain why your CAPA investigation was not extended to other devices that shared the same raw materials and were also processed using the same manufacturing equipment, and were further distributed to the U.S. market such as Proclear One Day, Biomedics XC, and Proclear Toric. During the inspection, you initiated a health hazard evaluation (HHE) to determine the impact of these particles on patient’s safety. The HHE dated 12/20/13, determined that health hazards associated with particulate matter in a finished device are as follows: pain, blurry vision, slight giant capillary conjunctivitis, allergic reaction, and/or corneal abrasion.
+We have reviewed your response and have concluded that it is inadequate. You confirmed the presence of particular matter on devices manufactured at your facility but the scope of your investigation was not extended to other potentially affected devices distributed in the U.S. market.
+We are also concerned with your current defects classification system. For instance, you classified the particulate matter defect as “minor” but the complaint was classified as a “medical complaint” because of the potential for injury or illness as a result of the use of affected contact lenses. Your response does not adequately address and resolve the issues described above. Reassessment of your current controls for establishing and classifying product defects is needed.
+PA
+(b)(4)
+was initiated on 04/02/12, for an increased trend on confirmed device non-conformances regarding
+(b)(4)
+of Proclear Toric contact lenses. This investigation was closed on 11/05/13, without conducting an assessment of the potential safety risk on the impacted devices. During the inspection,
+(b)(4)
+. CAPA
+(b)(4)
+was initiated on 06/03/13, to address six (6) confirmed complaints for
+(b)(4)
+for lot 5379500244. Retention samples were analyzed and confirmed the failure in the
+(b)(4)
+. During your investigation, you found other lots, manufactured before and/or after lot 5379500244, which also
+(b)(4)
+. CAPA
+(b)(4)
+was still opened at the time of the inspection.
+We have reviewed your response and have concluded that it is inadequate. The impact on the devices’ performance was acknowledged and you failed to provide a scientific justification for not conducting due diligence on affected devices in commercial distribution.
+2.
+Failure to implement adequate calibration procedures as required by 21 CFR 820.72 (b).
+Specifically, your SOP
+(b)(4)
+, which describes how
+(b)(4)
+of your Proclear Toric, Biomedics Toric, and Avaira Toric
+(b)(4)
+because it failed to cover your pre-established in-process and finished specifications
+(b)(4)
+.
+We have reviewed your response and have concluded that it is incomplete. CAPA
+(b)(4)
+was opened but no information was submitted. You have not explained and documented what actions you have taken to correct and prevent the nonconforming specification
+(b)(4)
+.
+3.
+Failure to establish and maintain adequate procedures for implementing corrective and preventive action as required by 21 C.F.R. § 820.100(a)
+Our review of your Standard Operating Procedure
+(b)(4)
+(SOP
+(b)(4)
+), Corrective and Preventive Action System, disclosed that it is inadequate because it does not include timeframes for the completion of CAPA investigations based on a revised risk classification, implementation of subsequent corrective and preventive actions, and for verifying the effectiveness of these activities. It also failed to provide specific instructions for conducting risk assessments, Health Hazard Evaluations (HHEs), and the containment of product when the criticality of the problem merits due diligence.
+We have reviewed your response and have concluded that it is incomplete. You indicated that you modified SOP
+(b)(4)
+to include a criticality assessment, containment actions when necessary, and a timeframe for CAPA completion based on the non-conformity risk classification. Nevertheless, the revised SOP was not included with your response. The adequacy of your implemented corrective actions will be verified during our next scheduled inspection.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the Food and Drug Administration without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies are advised of the issuance of all Warning Letters about devices so that they may take this information into account when considering the award of contracts.
+Additionally, premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+This letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the FDA 483 issued at the closeout of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality assurance systems. You should investigate and determine the causes of the violations, and take prompt actions to correct the violations and bring your products into compliance.
+Please notify this office in writing within fifteen (15) working days from the date you receive this letter of the specific steps you have taken to correct the noted violations, including an explanation of how you plan to prevent these violations, or similar violations, from occurring again. Include documentation of the corrective action you have taken. If your planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective action cannot be completed within 15 working days, state the reason for the delay and the time within which the corrections will be completed.
+Your response should be sent to:
+Maridalia Torres, District Director.
+If you have any questions about the content of this letter please contact: Margarita Santiago, Compliance Officer, at 787-729-8702.
+Sincerely,
+/S/
+Maridalia Torres
+District Director
+San Juan District
+cc:
+Mr. Rolando Torres
+VP Molding Manufacturing Americas
+500 Road 584 Amuelas Industrial Park
+Juana Diaz, PR 00795
+Close Out Letter
+Cooper Vision Caribbean Corp. - Close Out Letter 10/20/14

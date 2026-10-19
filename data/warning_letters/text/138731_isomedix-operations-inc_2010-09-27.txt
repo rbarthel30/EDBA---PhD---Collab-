@@ -1,0 +1,118 @@
+Steris Isomedix Services, Inc. 9/27/10
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Dallas District
+4040 North Central Expressway
+Dallas, Texas 75204-31284
+WARNING LETTER
+CERTIFIED MAIL
+RETURN RECEIPT REQUESTED
+2010-DAL-WL-17
+September 27, 2010
+Walter M. Rosebrough
+President and Chief Executive Officer
+Steris Corporation
+5960 Heisley Road
+Mentor, Ohio 44060
+Dear Mr. Rosebrough:
+During an inspection of your firm located in Grand Prairie, Texas, on June 8, 2010 through June 21, 2010, investigators from the United States Food and Drug Administration (FDA) determined that your firm performs contract sterilization of medical devices. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) regulation found at Title 21, Code of Federal Regulations (C.F.R.), Part 820.
+We received a response from Paul Coons, Plant Manager, dated July 12, 2010, and August 16, 2010, concerning our investigators' observations noted on the Form FDA 483, List of Inspectional Observations that was issued to you. We address your response below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1. Failure to establish procedures for finished device acceptance to ensure that each production run, lot, or batch of finished devices
+meet acceptance criteria, as required by 21 C.F.R. § 820.80(d). FDA 483 Item 1.
+Specifically, your firm has no procedures to address how many relative humidity (Rh) monitors are placed in a sterilization load and how your firm accepts or rejects Rh data recorded during routine sterilization cycles subject to parametric release. For 30 of the 71 customer records reviewed from November 21, 2009 through May 16, 2010, the investigators noted that only the data from one monitor was reported to the customer. Your firm did not consistently record and evaluate data from all
+(b)(4)
+Rh monitors used during the ETO sterilization process to monitor the relative humidity (Rh) to ensure that it consistently meets the customer's validated Rh specification. For example:
+a. The raw data from the Rh monitors for load T100131-02 showed two Rh monitors measured the humidity to be 41% & 28.5% and 58% &
+46% at the two data points before and after the humidity dwell. However, only the data from the humidity monitor showing 58% and 46% was provided to the customer. The customer's specification is between 34% and 70%. This load was released to the customer for distribution.
+b. The raw data from the Rh monitors for load T091214-05 showed two Rh monitors measured the humidity to be 63% & 34.5% and 76.5% & 76.5% at the two data points before and after the humidity dwell. However, only the data from the humidity monitor showing 63% and 34.5% was provided to the customer. The customer's specification is between 34 and 70. This load was released to the customer for distribution.
+Your firm's customers have defined validated specifications for the Rh of the ETO chambers at the end of the humidity dwell. Your firm's Rh monitors record relatively humidity every
+(b)(4)
+during the ETO processing, but your firm fails to have a procedure to address what time increment you will record and read Rh data for acceptance or rejection. Your firm was using either the data point before or after the time of the end of the humidity dwell depending on which one meets the customer's specifications. For example:
+a. Tile Rh data provided to the customer showed the humidity dwell for load T1 001 04-01 ended at 21: 11. The Rh monitor showed the data point for 21:10 was 61% and the data point for
+(b)(4)
+was 30%. The customer's specification is between 34% and 70%. This load was released on the basis of the data point which read 61 %.
+b. The Rh data provided to the customer showed the humidity dwell for load T1 001 03-01 ended at 13:25. The Rh monitor showed the data point for 13:25 was 32.5% and the data point for
+(b)(4)
+was 36%. The customer's specification is between 34% and 70%. This load was released on the basis of the data point which read 36%.
+2. Failure to establish adequate procedures to control product that does not conform to specified requirements, as required by 21 C.F.R. § 820.90(a). FDA 483 Item 2.
+Specifically, your firm's procedure entitled, "CAPA Process Procedures" PROC-00007, states a CAPA will be initiated for any identified nonconformities. The following sterilization loads had Rh levels at the end of the humidity dwell that were outside the customers' Rh specifications. Only the readings that were within the customers' specification were reported to the customers and no CAPA was initiated to investigate and evaluate out-of specifications for Rh identified in the below (2) sterilization loads.
+a. Load T1 001 03-01 shows the Rh of the chamber at the end of the humidity dwell was 32.5%. The customer's validated Rh specification for this load is between 34% and 70%.
+b. The raw data for load T100209-04 shows the Rh of the chamber at the end of the humidity dwell was 100%. The customer's validated RH specification for this load is between 30% and 95%.
+3. Failure to establish and maintain adequate procedures for implementing corrective and preventive action to correct and prevent recurrence of quality problems, as required by 21 C.F.R. § 820.100(a). FDA 483 Item 4.
+Specifically, on March 30, 2010, our firm opened CAPA CAL-00272 because it failed to calibrate the
+(b)(4)
+the within the previous.
+(b)(4)
+months as recommended by their manufacturer. These monitors were used to measure the relative humidity (Rh) in the ETO chambers used to sterilize medical devices subject to parametric release. Although your firm calibrated all the Rh monitors by the end of April 2010, at the time of the current inspection on June 8, 2010 your risk assessment performed in response to the CAPA did not address the risk of the failure to calibrate the Rh monitors could have on the sterilization process and on the product being sterilized. As of June 9, 2010, your firm has not taken the necessary actions to identify the time frame of loads affected, and has not taken steps to notify your customers of the Rh out-of-calibration to allow for the customers' evaluation of the potential effects of out-of-calibrated Rh monitors on their product.
+In addition, your procedure PROC-00741 "Mylsomedix CAPA Module Work Instruction" (until Rev 9 - Effective Date June 1, 2010) and PROC-00742, "Mylsomedix Risk Assessment Work Instruction" was not followed. Your firm did not follow your procedures in evaluating risk rating probabilities and completing all phases of the CAPA in your assessment, thereby resulting in premature closing of the CAPA. For example:
+a. Non-conformance CAPA, NC-02083, created on June 11, 2009, was given a medium Risk Rating of "28." Your firm had 4 similar power outages prior to this incident. A risk rating of 28 should have gone through all phases of CAPA per PROC-00741, Rev.5, dated June 8, 2009. The CAPA was closed on June 23, 2009.
+b. Continuous Improvement CAPA, CI-00271, created on July 14, 2008, was given a low Risk Rating of "2A." Your firm had 3 similar pneumatic line leaks in the past 12 months prior to this incident. A risk rating of 2A for this CAPA allowed your firm to close the CAPA prematurely without taking any corrective actions to prevent recurrence of the same issues in the future. The CAPA was closed on November 30,2008. Your firm then had various other pneumatic line failures after the closure of this Continuous Improvement CAPA. Your firm created nonconformance CAPAs NC2120, NC-02123, NC-02162, NC-02170, and Continuous Improvement CAPA CI-0477 and CI-0483 in June and July of 2009 associated with these pneumatic leakages.
+4. Failure to validate manufacturing process whose results cannot be fully verified by subsequent inspection and test with a high degree of assurance and approve according to established procedures, as required by 21 C.F.R. § 820.75(a). FDA 483 Item 5. Specially:
+a. You firm did not follow its own procedures for conducting
+(b)(4)
+requalification of ETO chamber
+(b)(4)
+. Your procedure entitled "Operational Qualification", PROC-00730, states "a minimum of
+(b)(4)
+must be performed for each
+(b)(4)
+and "A minimum of
+(b)(4)
+qualification cycles will be performed and summarized to verify acceptable temperature distribution and reproducibility." In December 2009, your firm only performed one qualification cycle.
+b. Your "Operational Qualification" procedure states "Prior to initiation and upon completion of the OQ, all environmental monitors must be calibrated in accordance with the requirements set forth in PROC 00681 "Calibration Program."" Your firm used
+(b)(4)
+Temperature Monitors to perform the requalification of ETO chamber
+(b)(4)
+on December 6, 2009.
+(b)(4)
+of the temperature monitors used had not been calibrated within the last
+(b)(4)
+months prior to the performance of the qualification. This was documented in your "Master List of Instruments and Calibration Schedule," dated June 7,2010.
+c. On November 14, 2009, your revalidation of the sterilization process used for devices manufactured by a customer was performed using
+(b)(4)
+temperature sensors of which,
+(b)(4)
+temperature sensors were not calibrated in the
+(b)(4)
+months prior to the revalidation.
+d. On September 27, 2009, your firm was revalidating the sterilization process used for products manufactured by another customer using
+(b
+)(4) temperature sensors, of which,
+(b)(4)
+had not been calibrated in the
+(b)(4)
+months prior to the revalidation.
+5. Failure to maintain Device History Records (DHR's) for each batch, lot, or unit to demonstrate that the device is manufactured in accordance with the Device Master Record (DMR), as required by 21 C.F.R. § 820.184. FDA 483 Item 6. Specifically:
+The load records (DHR) do not contain the complete acceptance records to show the sterilization of the devices met the required specifications of your firm's customers. Your firm did not maintain all of the RH monitoring records or documentation of raw data obtained from the monitors placed in each load to show the sterilization of the devices met the required specifications of your firm's customers. For each load noted below, the verification data does not show the reading of the BI room humidity monitor, which is used as the standard to verify
+(b)(4)
+the monitors against at the time the verification measurement was identified. For example:
+a. The load record for load T1 001 03-01 only contains the data for one of the humidity monitors placed in the load.
+b. The load record for load T09011 0-07 only contains the data for two of the humidity monitors placed in the load.
+c. The load record for load T080309-02 only contains the data for two of the humidity monitors placed in the load.
+Your firm provided written responses (Progress Report 1) explaining the corrective actions you have taken to correct the deficiencies. We understand that your firm is still evaluating the information gathered from the
+(b)(4)
+year gap review. Based on the information you provided in your most recent response, your corrective actions taken for observations #1-4 are inadequate.
+Specifically, you stated that your firm completed the
+(b)(4)
+year data review (Gap Analysis) starting
+(b)(4)
+to June 30, 2010 to identify corrective actions for Observations 1 - 4. Your firm provided us with the raw data for the past
+(b)(4)
+years, but has only analyzed the data from Jan 1, 2010 to June 30, 2010. The documentation provided to the customers does not accurately reflect the deviations that occurred. For example, you provided documentation to your customers that shows the Rh monitors that were out of calibration (out of the tolerance of ±
+(b)(4)
+%) when read against a calibrated monitor. Your firm did not report to your customers the percentage of the deviation or out-of-range values for the monitors that were not within tolerance when calibrated.
+We would need to evaluate your firm's results of the GAP analysis review, your firm's course of action as a result of the analysis review, and the response from your customers once they are notified of your review results. A follow up inspection would also be required to assure that corrections are fully implemented and being followed to avoid future deviations.
+Your corrective action for observation #5 appears to be adequate. All of your out-of-calibrated Rh monitors and temperature monitors were calibrated. Any instrument or equipment that was re-qualified with an Rh monitor or temperature monitor that was out of calibration at the time was re-qualified by your firm. However, your firm still needs to assess the potential effects of the out-of calibrated Rh monitors had on the product that has been released.
+Your corrective action to Observation #6 is adequate. Your firm will place in the DHR all records of the Rh monitor's raw data readings. Your procedures have been revised to ensure that they are consistent with practices and training of employees was conducted.
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the Food and Drug Administration without further notice.
+These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies are advised of the issuance of all Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation deviations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen (15) working days from the date you receive this letter of the specific steps you have taken to correct the noted violations, including an explanation of how you plan to prevent these violation(s), or similar violation(s), from occurring again. You should include documentation of the corrective action you have taken. If your planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective action cannot be completed within 15 working days, state the reason for the delay and the time within which the corrections will be completed.
+Your response should be sent to: Ronda Loyd-Jones, Compliance Officer, 4040 North Central Expressway, Suite 300, Dallas, Texas 75204. If you have any questions about the content of this letter, please contact Ronda Loyd-Jones at 214-253-5242.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violation(s) at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violation(s) noted in this letter and in the Inspectional Observations, Form FDA 483 (FDA 483), issued at the closeout of the inspection may be symptomatic of serious problems in your firm's manufacturing and quality assurance systems. You should investigate and determine the causes of the violation(s), and take prompt actions to correct the violation(s) and to bring your products into compliance.
+Sincerely,
+/s/
+Reynold R. Rodriguez, Jr.
+Dallas District Director
+-

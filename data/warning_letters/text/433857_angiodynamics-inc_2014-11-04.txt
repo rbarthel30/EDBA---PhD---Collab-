@@ -1,0 +1,164 @@
+Navilyst Medical, Inc. 11/4/14
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+New York District
+Food & Drug Administration
+158-15 Liberty Avenue
+Jamaica, NY 11433
+November 4, 2014
+WARNING LETTER NYK-2015-5
+VIA UNITED POSTAL SERVICE
+DELIVERY SIGNATURE REQUESTED
+Joseph M. DeVivo
+President and Chief Executive Officer
+Navilyst Medical Inc., an AngioDynamics Company
+14 Plaza Drive
+Latham, NY 12110
+Dear Mr. DeVivo:
+During inspections of your Navilyst Medical Inc. facilities located at
+26 Forest Street, Marlborough, MA,
+on
+April 9 through May 28, 2014 and 10 Glens Falls Technical Park, Glens Falls, NY on February 24, 2014 through March 30, 2014, investigators from the United States Food and Drug Administration (FDA) determined that your firm is a specification developer and manufacturer for the Vaxcel, Xcela and Biostable (BioFlo) Peripherally Inserted Central Catheters (PICC) medical devices, which are long-term (greater than 30 days) intravascular implantable catheters. This warning letter addresses violations found at the Navilyst Medical Inc. facilities located at 26 Forest Street, Marlborough, MA and 10 Glens Falls Technical Park, Glens Falls, NY.
+Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+These inspections revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+We received responses dated April 17, 2014, May 30, 2014, June 18, 2014, and June 27, 2014 from Thomas Ireland, Senior Vice President, Quality and Regulatory Affairs, Navilyst Medical Inc., an AngioDynamics company and July 31, 2014 and August 29, 2014 from Michael J. Duerr, Director, Corporate Compliance, Navilyst Medical Inc., an AngioDynamics company. These were responses to the observations noted on Form FDA 483s, Lists of Inspectional Observations that were issued to you at the close of our inspections. We address your responses below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+Quality System Regulation Violations found at the Marlborough MA facility
+1. Failure to establish and maintain procedures for verifying the device design as required by 21 CFR 820.30(f). Specifically:
+A. Your firm failed to adequately establish design verification procedures for Vaxcel Pressure Activated Safety Valve (PASV) PICC, Xcela PICC, Xcela PASV PICC, and Biostable (Bioflo) PICC (valved and non-valved) Kits packaged in Tyvek Pouch/Tray/Base/Snap Lid package configuration.
+For example, one of
+(b)(4)
+required seal width samples failed to meet your minimal pre-defined seal width specifications, however, you approved your
+(b)(4)
+Report P003655 Rev A on 4/12/13 for the Maximal Barrier Nursing Kit Configuration. These kits were released for distribution on 6/4/13. Your firm did not identify the cause or repeat the testing. On 6/12/13, 95 of the 550 kits were found to have breached and completely open seals during visual inspection. Your 9/27/13 CAPA (2013-004) determined that the lid adhesive you were using could not withstand the temperature and humidity of the sterilization cycle and weakened seals causing seal creep. Between 6/7/13 and 10/8/13 your firm scrapped over 1000 kits due to seal defects.
+B. Your firm failed to verify packaging design for some package configurations to demonstrate effectiveness in protecting kits from damage and maintaining the sterile barrier after distribution and aging. You could not demonstrate that the kits tested are representative of kits currently in distribution in terms of worst case density configuration.
+For example:
+a.
+The
+(b)(4)
+(P002793 Rev A) effective 10/5/11, summarizing documentation references/ rationales for packaging testing of the kits, indicates that during Product Performance Qualification 90322192 for Part 12000347 (your firm’s representative explained that 90331830 in the document was incorrect) trays were sealed empty with a rationale that any product for Custom kits would not impact seal integrity or burst. During that Product Performance Qualification, a different Tyvek lid was used than what is currently in use. In addition, the 7/21/03 validation for hard pack tray part 12000347 did not include impact testing. Related complaints include:
+PR03447 (8/30/13)-Tyvek tray lid partially unglued
+PR04009 (11/20/13)-Hard plastic trays are cracking at corners and near tabs lifting the seal
+PR02852 (12/11/12)-White valve making hole in packaging, 5 samples contained holes
+b.
+Distribution/aging challenge testing documented in the verification report dated 7/31/08 was conducted on a FM Convenience Kit, which differs in shape and size from the current base tray and contains a Tyvek lid with a different specification. Your firm has not provided evidence that the testing performed on the FM Convenience Kit can adequately verify the suitability of the product this verification report is intended to support.
+C. Your firm failed to adequately establish procedures for Accelerated and Real Time Aging Storage and Testing Requirements and the use of your Accelerated Age Chamber and Real Time Shelf Life Storage. Accelerated Age Testing of packaging was only conducted on Vaxcel PICC w/PASV and not on the Xcela Power Injectable PICC, Xcela PICC w/PASV and BioFlo (valve and unvalved) PICCs. Rationale for using the data to support PICCs, other than the Vaxcel PICC w/ PASV, did not take into consideration packaging changes and worse case kit configuration in terms of density.
+For example:
+a) Your specification for Accelerated Aging is %Relative Humidity (%RH) is
+(b)(4)
+Out of tolerance humidity conditions were observed in which humidity drifted between 5% for 43 hours and 11% for 11 hours seen on chart recorders for Shelf Life Log Numbers 26-12-20121A, 04-01-2013.1A and 04-01-2013.2A. The %RH out-of-tolerance conditions were not properly documented and there was no evidence that requestors were notified of the out- of- tolerance conditions as your procedures specify.
+b) You did not follow your Real Time Aging procedures that require establishment of shelf life prior to launch if an acceptable accelerated aging model is not available or if the product cannot be subjected to accelerated aging parameters. The Xcela Power Injectable PICC with PASV was released for distribution on 5/28/09 prior to completion of real time study on 7/16/12 although 20 catheters were observed to have fractures on their oversleeves after exposure to the temperature and humidity of accelerated aging conditions. The fractures were documented in the Xcela Power Injectable PICC with PASV Shelf Life Report.
+c) Your firm retested the Xcela Power Injectable PICC (various lumen sizes) that failed valve
+(b)(4)
+using the
+(b)(4)
+test (infusion direction) and
+(b)(4)
+at 6-month accelerated aging, using a different method, the
+(b)(4)
+Test, and results went from fail to passing. Failures were not documented. Xcela Power Injectable PICC with PASV was released for distribution on 5/28/09.
+We find that your June 18, 2014 response does not adequately address these deficiencies. You have not provided the evidence to ensure the current pouch supplied was the same as the previous supplier’s pouch used for all accelerated age studies. In addition, 100% verification per visual inspection for a process that should be validated is inadequate as verification and does not ensure seal adequacy. You have not provided assurance or a plan that you will discontinue the process of passing validations that fail to meet acceptance criteria.
+Regarding humidity specifications, your June 18, 2014 response states that your firm’s documentation was not complete or accurate for Accelerated and Real Time Aging to reflect consistency with actual study conditions. You state that an engineer erroneously added humidity conditions into the accelerated aging protocol, however your response provides no assurance that procedures have been revised and/or implemented that will prevent these errors from reoccurring. You state that the procedures and templates will be updated to better define humidity controls for your firm’s accelerated and real time aging studies. These updated procedures and templates will need to be verified during an FDA inspection of your firm.
+With regard to adding an additional month to accelerated aging, it appears you did not follow your own internal procedures. QA-096 procedure which defines accelerated age requirements includes a table defining the use of an
+(b)(4)
+for all accelerated studies. You state that
+(b)(4)
+is to meet
+(b)(4)
+regulatory requirements; however, the procedure also states that it has been
+(b)(4)
+”
+.
+Furthermore, lack of complaint volume does not exempt your firm from following the Quality System regulations regarding adequate design verification for sterile medical device packaging. We acknowledge your plan to obtain verification data on current packaging configurations.
+2. Failure to establish and maintain procedures to ensure that the design requirements relating to Xcela PASV and BioFlo w/PASV PICC devices are appropriate and address the intended use of the device, including the needs of the user and patient, as required by 21 CFR 820.30(c). Specifically, your
+(b)(4)
+procedure that pertains to
+(b)(4)
+, does not address any alternate collecting device, such as a vacutainer. Your design verification indicates the devices would only be
+(b)(4)
+. However, your firm provided 102 complaints involving hemolysis occurring from 5/30/12-4/10/14 and at least 90 of these complaints documented use of a vacutainer or indicated the collecting device was unknown.
+We find that your June 28, 2014 response does not adequately address these deficiencies. Your response does not indicate whether your firm considered all design input requirements, including the use of a vacutainer, an accessory being used by health care providers. Your firm’s design requirements and design controls documents for your firm’s PICC devices do not address or accommodate for the alternate collecting devices currently being used in patient care, such as the vacutainer. We acknowledge your firm has two open CAPAs to investigate an increase in hemolysis complaints associated with high aspiration values that may be associated with health care providers using alternate collecting devices and to assess whether design inputs need to be added or changed for these devices, however current documentation provided does not indicate you are resolving these issues effectively. Your firm has a number of PICC devices in the marketplace that were manufactured prior to change in manufacturing process 5X03. We acknowledge that field personnel are in contact with customers regarding these devices, however, your response does not indicate your firm’s plan is to ensure these devices are not used by end users.
+3. Failure to adequately establish and maintain procedures for implementing corrective and preventative action, as required by 21 CFR 820.100. Specifically, your CAPA procedures S842678-00.H effective 2/28/12 and S842678-00.H effective 2/21/14 were not adequately established to detect a nonconformity and eliminate the recurrence.
+For example:
+a) CAPA-2013-004 initiated 9/27/13 to address
+(b)(4)
+on Maximal Barrier Nursing kits, did not identify actions to eliminate recurrence of the issue for product released into distribution.
+b) CAPA- 2013-001 initiated 1/31/13 to address
+(b)(4),
+did not identify the actions needed to correct and prevent recurrence of nonconforming product and other quality problems in the Xcela PASV and BioFlo PASC PICC catheters. Actions were not identified to address the use of vacutainers with PICCS. Vacutainers were not considered during design of the device.
+c) A CAPA was not opened to address complaints involving foreign material (hair) discovered by end users in sterile devices packages that you claim were 100% visually inspected for this type of defect. Your firm provided a list of 55 complaints received between 5/3/12 and 5/19/14 regarding foreign matter (hair) in the package.
+We find that your June 28, 2014 response does not adequately address these deficiencies. You have not provided any justification as to why seal integrity throughout distribution can be adequately assessed during 100% verification. We believe your firm’s sample size
+(b)(4)
+does not provide adequate verification. You have not provided sufficient evidence to support why you believe
+(b)(4)
+is acceptable.
+Regarding CAPA 2013-001 related to the
+(b)(4)
+issue, your corrective actions are not adequate for devices already in distribution, manufactured prior to your manufacturing process change or in which end users are using vacutainers, an accessory that was not considered in your device design.
+It does not appear that your firm has fully corrected deviations observed in closed CAPA 2013-001. It would appear to be unacceptable to test product that is so severely over-aged.
+Your firm sold product as sterile when you had knowledge that it contained foreign matter such as hair. This is unacceptable regardless of your complaint rate. You have not identified adequate corrective actions to prevent recurrence.
+4. Failure to conduct quality audits and establish procedures for conducting quality audits as required by 21 CFR 820.22. Specifically, your 2013 internal audit of your Customer Related Processes was scheduled for an audit in November of 2013 but had not been audited as of April 2014.
+We find that your June 28, 2014 response is adequate but will need to be verified during an FDA inspection of your firm. We acknowledge that your firm is updating internal audit procedures to ensure that audits are performed according to schedule.
+Quality System Regulation Violations found at the Glens Falls, NY facility
+5. Failure to validate, with a high degree of assurance and approve according to established procedures, a manufacturing process that cannot be fully verified by subsequent inspection and testing, to ensure the process will continue to meet specifications as required by 21 CFR 820.75(a).Specifically, the process used to cure silicone sheets used in the production of valves for intravascular catheters does not appear to be fully validated and does not allow for 100% of the valves to be tested. For example, valves used in your Vaxcel catheters are tested using a sampling plan
+(b)(4)
+for
+(b)(4)
+testing) and
+(b)(4)
+for leak testing) which, for a typical valve batch of
+(b)(4)
+valves, would be equivalent to
+(b)(4)
+valves. The silicone curing process using the
+(b)(4)
+oven was considered not fully validated since (a.) the bake time for silicone sheets may vary from batch-to-batch, (b.) scale down samples of baked silicone sheets used to calculate the average modules and final bake time have a different load configuration and (c.) production yield and/or rework activities are not consistent and show variation from batch-to-batch.
+We find that your responses dated April 17, 2014, May 30, 2014, June 27, 2014, July 31, 2014 and August 29, 2014 fail to address the silicone curing process for valves in intravascular catheters, i.e. bake time variation, bake load configuration variation & inconsistent yields and/or rework activities.
+6. Failure to establish and maintain procedures for verifying the device design, as required by 21 CFR 820.30(f).Specifically, the intravascular catheters sold under your trade names Vaxcel, Bio-Flo and Xcela are designed with a PASV (Pressure Activated Safety Valve) and design verification activities include a test for performance characteristics under accelerated age and real time conditions. However, your design verification activities do not test catheters with PASV at real time conditions showing the catheter’s ability to draw blood samples without damaging blood cells. Following an increase in complaints of hemolysis in 2012 for your PICCs (Peripherally Inserted Central Catheters), the manufacturing specification for
+(b)(4)
+was tightened, but the product’s Device History File (DHF) did not include a test to verify real time conditions that the valves are capable of aspirating human blood samples without damaging blood draws.
+We find that your responses dated April 17, 2014, May 30, 2014, June 27, 2014, July 31, 2014 and August 29, 2014 appear adequate, but are still in progress and will need to be verified during an FDA inspection of your firm.
+7. Failure to establish and maintain procedures to control product that does not conform to specified requirements as required by 21 CFR 820.90(a). Specifically, procedures have not been adequately established to control product that does not conform to specified requirements. For example, valves for Xcela and BioFlo intravascular catheters showed a low yield % (less than 50% of valves were found acceptable), yet a Non Conformity Report (NCR) was not completed to investigate the root cause or justify the use of these valves when high amounts of rejects/scraps were reported. Your firm’s Non Conformity SOP requires a NCR if product specifications are not met. Target modules were changed from
+(b)(4)
+to
+(b)(4)
+to accommodate tightened specifications for the
+(b)(4)
+test,but no quality objectives are established for an acceptable yield. During the period of January 2011 through January 2014, 62 valve lots showed low yield rates, 11 of which had 0% acceptable.
+Your responses dated April 17, 2014, May 30, 2014, June 27, 2014, July 31, 2014 and August 29,2014 report a corrective action establishing a
+(b)(4)
+Yield Lower Control Limit (LCL) as an appropriate limit for
+all targeted automation activities
+. It is unclear how this corrective action will result in an acceptable final product yield.
+Your firm should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Also, federal agencies may be advised of the issuance of Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation violations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to correct the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (including any systemic corrective actions) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address all violations included in this Warning Letter.
+Your written response should be sent to the Food and Drug Administration; Attention:
+Lillian C. Aveta
+Compliance Officer
+U. S. Food and Drug Administration
+158-15 Liberty Ave.
+Jamaica, NY 11433
+A copy of your written response should also be sent to:
+Diane M. Prince
+Compliance Officer
+U. S. Food and Drug Administration
+One Montvale Ave.
+Stoneham, MA 02180
+If you have any questions about the content of this letter please contact: Lillian Aveta at 718-662-5576.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Form FDA 483, Inspectional Observations (FDA 483), issued at the close out of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. You should investigate and determine the causes of the violations, and take prompt actions to correct the violations and to bring your products into compliance.
+Sincerely yours,
+/S/
+Ronald M. Pace
+District Director
+New York District
+Cc:
+Michael Duerr
+Director, Corporate Compliance
+Navilyst Medical Inc., an AngioDynamics company
+26 Forest Street
+Marlborough, MA 01752
+Michael Duerr
+Director, Corporate Compliance
+Navilyst Medical Inc., an AngioDynamics company
+10 Glens Falls Technical Park
+Glens Falls, NY 12801

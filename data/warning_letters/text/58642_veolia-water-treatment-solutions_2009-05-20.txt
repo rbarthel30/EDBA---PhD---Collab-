@@ -1,0 +1,165 @@
+Water and Power Technologies, Inc
+Department of Health and Human Services
+Public Health Service
+Food and Drug Administration
+Dallas District
+4040 North Central Expressway
+Dallas, Texas 75204-3145
+May 20,2009
+Ref: 2009-DAL-WL-11
+WARNING LETTER
+CERTIFIED MAIL
+RETURNED RECEIPT REQUESTED
+Mr. Jim Laraway
+Chief Operations Officer
+Water and Power Technologies, Inc.
+1455 South 5500 West, Suite C
+Salt Lake City, Utah 84104-4423
+Dear Mr. Laraway:
+During an inspection of your firm located at 1217 West Corporate Drive, Arlington, Texas, on January 26 through February 23, 2009, investigators from the United States Food and Drug Administration (FDA or Agency) determined that your firm designs, manufactures, installs, and services water purification systems, including mixed-bed deionization (01) tanks and carbon tanks, which are used to provide treated water for dialysis treatment and other medical uses. Under section 201 (h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321 (h), these products are devices because they are intended for use in the diagnosis of disease or other conditions, or in
+the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or any function of the body.
+This inspection revealed that your devices are adulterated within the meaning of section 501 (h) of the Act, 21 U.S.C. § 351 (h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the Current Good Manufacturing Practice (CGMP) requirements of the Quality System (QS) regulations found at Title 21, Code of Federal Regulations (C.F.R), Part 820.
+We received two responses with attachments from Mr. Michael Ancy, Regional General Manager, South Region, dated March 31, 2009, and April 28, 2009, concerning our investigators' inspectional observations noted on the Form FDA 483 (List of Inspectional Observations) that was issued at the conclusion of our inspection. We have reviewed your responses and concluded that they are incomplete because your firm has not completed the corrective actions and verified their effectiveness to satisfactorily resolve all the inspectional observations, for the reasons explained below.
+We address your firm's responses below, in relation to the noted violations. FDA follow-up inspections will be necessary to ensure that your firm's corrections are adequate.
+The violations include, but are not limited to, the following:
+Quality System Violations
+1. Failure to establish and maintain adequate procedures for quality audits and conduct such audits to assure that the quality system is in compliance with established quality system requirements and to determine the effectiveness of the quality system, as required by 21 C.F.R. § 820.22. See FDA 483 Item 2.
+Specifically:
+a. At the time of the current inspection, your firm had not conducted and documented
+(b)(4)
+quality audit of the quality system since December 20, 2007.
+b. Your firm's quality audit procedure entitled "Audit" was deficient because it did not include requirements for re-auditing deficient matters noted during the last quality audit, and because it did not require quality audits be conducted by individuals who do not have direct responsibility for the matters being audited.
+We have reviewed your responses to this violation and conclude that they are incomplete. Your firm's April 28, 2009 response stated that your firm has now completed and documented the last
+(b)(4)
+quality audit
+(b)(4)
+. However, Attachment 28-2 of the March 31, 2009 response showed that your firm's audit of the device design controls and device installation will not take place until September 2009. Please clarify if your firm has actually completed the audit of these quality system areas. We have also identified deviations in your firm's design controls. Your revised "Audit" procedures in Attachment 1 of the April 28, 2009 response and Attachment 2A of the March 31, 2009 response did not have the signature and date of the individual(s) approving the document and a description of the revision changes as per 21 C.F.R. § 820.40, which are repeat deviations described in FDA 483 Item 12.
+2. Failure to establish and maintain procedures to control the design of the device in order to ensure that specified design requirements are met, as required by 21 C.F.R. § 820.30(a). FDA 483 Item 9.
+Specifically, your firm has not established written procedures that describe how it performs and documents each step of the design control process for your water purification system based on the needs, facility size, and water feed requirements at each dialysis site, including the design transfer of the device design specifications through installation and testing of each water purification system at each dialysis site.
+We have reviewed your responses to this violation and conclude that they are incomplete. Your firm has not completed establishing written design control procedures within 90 days as promised and verified the effectiveness of your design controls.
+3. Failure to establish and maintain a device design history file for each type of device that includes or references the records necessary to demonstrate that the design was developed in accordance with the approved design plan and the design control requirements of 21 C.F.R. § 820, as required by 21 C.F.R. § 820.300). See FDA 483 Item 4.
+Specifically, your firm has not maintained a design history file consisting of the design plan, design input requirements, design outputs, design reviews, design verification and/or validation, design changes, and design transfer for the original water purification system cleared in 510(k) K994292 and the specific water purification systems installed at the
+(b)(4)
+customer (dialysis) sites. Each dialysis site has separate and different design requirements based on their needs, facility size, and water feed requirements.
+We have reviewed your response to this violation and conclude that it is incomplete. Your March 31, 2009 response stated that documentation for all subsequent design changes from the original 510(k) K994292 submission is being compiled into a single design history file and will be submitted in a progress report within 90 days. Your response only addressed documenting design changes in the design history file. You have not explained if the other design control records referenced above will also be filed in the design history file.
+4. Failure to establish and maintain adequate procedures for validating the device design in order to ensure that the devices conform to defined user needs and intended uses. The design validation must include testing of production units under actual or simulated use conditions, and risk analysis, where appropriate, and the design validation results must be documented, as required by 21 C.F.R. §
+820.30(g). See FDA 483 Item 3. Specifically:
+a. Your firm has not established and maintained procedures for validating the design of the original water purification system described in 510(k) K994292 and the subsequent design of each specific water purification system installed at each of the
+(b)(4)
+dialysis sites. Your firm is advised that receiving a 510(k) letter from the Agency does not exempt your devices from complying with the design control regulation set forth in 21 C.F.R. § 820.30. Although your firm has a list of "Consequences of Component Failures" included in the 510(k) K994292 submission (Section H21), your firm has not established risk analysis procedures or methods to (a) identify, analyze, and control risks, and (b) document the risk analysis results. For instance, the list states that "Quality Monitor" (Fail-SafeMeter) will alarm for "poor quality," but did not state what was measured at the point of use to define "poor quality," and did not include measures to correct
+"poor quality" in the treated water.
+b. Some system components on the part lists were not depicted on the
+(b)(4)
+drawings of the water purification systems installed at the
+(b)(4)
+dialysis sites. Your computer software used to perform the
+(b)(4)
+calculations has not been validated. The investigators did not
+include these discrepancies on the Form FDA 483 that was issued to your firm but discussed them with your firm during the inspection. We ask that you address this issue to ensure your firm's compliance with 21 C.F.R. § 820.30(g) in your response to this warning letter.
+We have reviewed your response to this violation and conclude that it is incomplete. Your response did not address the issues described above. Your April 28, 2009 response stated that the design risk analysis was conducted and included in Section H22 of the 510(k) submission. Section H22 only documented the initial acceptable water test results of chemical contaminants after a water purification system was installed on December 1, 2000. Section H22 did not explain what happens to the water test results if a system component fails or multiple system components fail, nor did Section H22 address possible microbiological contamination and elevated endotoxin levels in the water purification system during use after installation.
+5. Failure to establish and maintain procedures to ensure that design requirements relating to a device are appropriate and address the intended use of the device, including the needs of the user and patient; to include a mechanism in the design input procedure to address incomplete, ambiguous, or conflicting requirements; and to ensure that the design input requirements shall be documented and shall be
+reviewed and approved by designated individual(s), as required by 21 C.F.R. § 820.30(c). See FDA 483 Item 6.
+Specifically, your firm has not established procedures to define, review, document, and approve design input requirements for each specific water purification system installed at each of the dialysis sites.
+We have reviewed your response to this violation and conclude that it is incomplete. Your March 31, 2009 response stated that a comprehensive design input procedure is being developed and expected to be completed within 90 days. Your response further stated that a copy of the "design worksheet" was presented to the investigators for review as noted in Attachment 5 of the March 31, 2009 response.
+You did not explain whether and where the customer needs, facility and plumbing requirements, and water feed requirements were documented, reviewed, and approved, and how they are translated into the system components described in Attachment 5. This attachment did not document (a) detailed specifications for each specific system component of the water purification system (e.g., water softener, pressure switches, alarms, storage tanks, etc.); or (b) review, approval, and the signature of the responsible individual(s) approving the "design worksheet."
+6. Failure to establish and maintain procedures for defining and documenting design outputs in terms that allow an adequate evaluation of conformance to design input requirements. The design output procedures shall contain or make reference to acceptance criteria and shall ensure that those design outputs that are essential for the proper functioning of the device are identified, documented, reviewed, and
+approved prior to release, as required by 21 C.F.R. § 820.30(d). See FDA 483 Item 7.
+Specifically, your firm has not established procedures for defining, documenting, reviewing, and approving design outputs.
+We have reviewed your response to this violation and conclude that it is incomplete. Your March 31, 2009 response stated that a written design output procedure is being developed and expected to be completed within 90 days. You then referred our review to Attachment 5 of the March 31, 2009 response. You have not established what constitutes the essential design outputs that are traceable back to
+the design input requirements.
+7. Failure to establish and maintain procedures for verifying the device design and documenting the design verification results in the design history file, as required by 21 C.F.R. § 820.30(f). See FDA 483 Item 5.
+Specifically, your firm ha$ not established procedures for verifying that design outputs meet design input requirements for each of the
+(b)(4)
+dialysis sites based on their needs, facility size, and water feed requirements.
+We have reviewed your response to this violation and conclude that it is incomplete. Your March 31, 2009 response stated that a design verification procedure that includes testing of the complete water purification system and installation procedures will be completed within 90 days.
+8. Failure to establish and maintain procedures to ensure that formal documented reviews of the design results are planned and conducted at appropriate stages of the device's development, as required by 21 C.F.R. § 820.30(e). See FDA 483 Item 8.
+Specifically, your firm has neither established design review procedures nor conducted design reviews for the design of the original water purification system described in 510(k) K994292 and the subsequent designs of the specific water purification systems installed at the
+(b)(4)
+dialysis sites.
+We have reviewed your response to this violation and conclude that it is incomplete. Your March 31, 2009 response stated that your firm will establish written design review procedures and conduct design reviews of the water purification system within 90 days.
+9. Failure to establish and maintain adequate procedures for acceptance activities, including inspections, tests, or verification of incoming product, and for documenting the acceptance or rejection of the incoming product, as required by 21 C.F.R. § 820.80(b). See FDA 483 Item 10. Specifically,
+a. Your firm has not established procedures for inspecting or verifying exhausted mixed-bed deionization (01) resin tanks returned to your firm for regeneration. Your firm has not documented the receipt, serial numbers, and inspection of these tanks.
+We have reviewed your response to this violation and conclude that it is incomplete. Your March 31, 2009 response stated "it is to be recognized, however, that the recording of a serial number of an incoming tank does not enhance the control of materials because the resin from all tanks is dumped into a composite for regeneration." Your response failed to explain what procedures your firm has in place to inspect and prevent potential mixups of the Type I, II, and Custom exhausted DI resins when their exhausted tanks are returned to
+your firm for regeneration. Your firm explained to the investigators that the Type II resins are not intended for dialysis. Your revised procedure "Receiving Exhausted Resin Tanks," No. W-003.1, effective date April 1, 2009, in Attachment 10A-2 of the March 31, 2009 response did not (a) address the issue described above, and (b) identify "all other defects" for inspection and repair of incoming exhausted resin tanks. Further, the Exhausted Tank Data Log in Attachment 10A-3 of the March 31, 2009 response did not document the status
+of acceptance, rejection, and repair of each incoming exhausted resin tank and carbon tank.
+b. At the time of the inspection, your firm could not provide any analysis that your firm performed or your firm's supplier performed for the
+(b)(4)
+lots of the mixed bed DI resins received on January 4, 2008, April 8, 2008, and September 23, 2008. Your firm also had no documented qualification activities for the supplier of the mixed bed DI resins. When the investigators asked to review the certificates of analysis (COA) of the
+(b)(4)
+lots of the DI resins, your firm had to call the supplier to get a copy of the COAs for review.
+We have reviewed your response to this violation and conclude that it is incomplete. The COAs of the
+(b)(4)
+lots of the mixed bed DI resins you provided in Attachment 10B-1, 10B-2, and 10B-3 of the March 31, 2009 response were prepared and approved on January 30, 2009 during the inspection. Your firm was supposed to request these COAs from the supplier and review them for acceptance or rejection upon receipt of the lots at the time in 2008. Your response further indicated that your firm performed independent testing of the
+(b)(4)
+lots of resin in order to qualify the supplier. Your firm's testing was not performed until March 31, 2009, after the conclusion of our inspection. See
+Attachment 10B-4 of the March 31, 2009 response. Your firm's revised General Receiving Procedure, No. W-002.3, effective date April 1, 2009 in Attachment 10C-2 of the March 31, 2009 response is inadequate as it does not document acceptance criteria to accept or reject (a) the supplier's COA for the mixed bed 01 resin and carbon resin, and (b) the system components of the water purification system your firm receives from their suppliers (e.g., RO units, storage tanks, conductivity/resistivity meters, remote alarms, filters,
+(b)(4)
+systems,
+membranes, pumps, and fiberglass tanks). The Receiving Log in Attachment 10C-1 of the March 31, 2009 response did not have a field to document the reason for product rejects.
+10. Failure to establish and maintain adequate installation and inspection instructions, and where appropriate, test procedures, to ensure that the device will perform as intended after installation, as required by 21 C.F.R. § 820.170(a), and failure of the person installing the device to document the results of the installation, inspection, and any required testing in accordance with the manufacturer's instructions to demonstrate proper installation, as required by 21 C.F.R. § 820.170(b). See FDA 483 Item 11.
+Specifically, your firm's technician failed to document
+(b)(4)
+to check voltage and amps, and installation of the following system components: the
+(b)(4)
+pump, the deionization
+(b)(4)
+for the mixed bed deionizers, and the
+(b)(4)
+tank
+(b)(4)
+See "Installation Checklist" for water purification system Serial No.
+(b)(4)
+Our review of this "Installation Checklist" revealed that it lacked complete installation instructions and acceptance criteria. For instance, (a) the "Quality Monitor" section did not define or reference the specifications for "set the alarm set point;" and (b) the "Sub Micron Filter" section did not document or reference instructions for how to "flush and disinfect the loop."
+We have reviewed your responses to these violations and concluded that they are incomplete. We required your firm to address the deviations described above for the "Quality Monitor" and "Sub Micron Filter" sections of the previous "Installation Checklist" used for the water purification system Serial No.
+(b)(4)
+and Attachment 2 to the April 28, 2009 letter does not contain these items.
+11. Failure to establish and maintain procedures to ensure that all purchased or otherwise received product and services conform to specified requirements, as required by 21 C.F.R. § 820.50. See FDA 483 Item 15. Specifically:
+a. Your firm has not ensured that
+(b)(4)
+of the
+(b)(4)
+suppliers have completed and returned the ''Vendor Assessment Questionnaire" form for your firm's evaluation before placing them in the "Approved Vendor List" as required by your firm's "Vendor Qualification Procedure." Your firm has taken no follow-up action on the
+(b)(4)
+suppliers who failed to complete and return the questionnaire form. For example, the two suppliers of the mixed-bed DI resins and reverse osmosis have not returned their questionnaire form.
+b. Your firm's "Vendor Qualification Procedure" did not document (1) specified requirements, including quality requirements, which must be met by your suppliers, contractors, and consultants in order for them to be evaluated, approved, and added to your approved vendor list; and (2) periodic reviews of these establishments' ability to meet your firm's specified and quality requirements in order to determine if they need to be re-qualified.
+We have reviewed your response to this violation and conclude that it is incomplete. Your April 28, 2009 response stated that your firm had assessed the current suppliers on April 24, 2009 and now considered them qualified. Your response did not specify whether the
+(b)(4)
+suppliers have completed and returned the "Vendor Assessment Questionnaire" form for your firm's assessment on or before April 24, 2009. Additionally, please provide your basis for the
+(b)(4)
+interval of testing
+(b)(4)
+of newly purchased deionization resin as part of your firm's supplier qualification. We are concerned that testing of only
+(b)(4)
+of the newly purchased DI resin every
+(b)(4)
+may not be sufficient to detect changes in the product specifications and to ensure they meet your approved specifications.
+12. Failure to establish and maintain procedures to control all quality system documents, as required by 21 C.F.R § 820.40. See FDA 483 Item 12. Specifically:
+a. An obsolete manufacturing procedure entitled "Valve Instructions for the Regeneration Plant," revision dated June 30, 2007, was not removed from the production floor to prevent its use.
+b. The current "Regeneration Operations Manual" has been revised seven times from June 30, 2007 through October 2, 2008. A description or a reason for each revision (change) was not documented.
+We have reviewed your response to this violation and conclude that it is incomplete. Your March 31, 2009 response stated that your firm will develop or revise document control procedures within 90 days and will remove obsolete manufacturing procedures from the production floor. You have not explained if your firm will provide employee training on new or revised procedures and maintain the current revisions of the quality system procedures at their designated areas for use by your employees.
+13. Failure to establish and maintain adequate complaint handling procedures for receiving, reviewing, and evaluating complaints by a formally designated unit and to ensure that all the requirements of 21 C.F.R. § 820.198 are met. See FDA 483 Item 13.
+Specifically, your firm did not further investigate the twenty (20) complaints received in 2008 to determine and document whether they occurred before, during, or after patients' dialysis treatment in order to evaluate their impact on patient dialysis treatment, and whether or not each complaint must be reported as a reportable MDR event to the Agency under 21 C.F.R. § 803.
+We have reviewed your response to this violation and conclude that it is incomplete. Your March 31, 2009 response stated that an investigation procedure to cover all complaints will be prepared within 90 days. Your response further stated that your firm provided a complaint log for our investigators' review at the conclusion of the inspection and later revised the complaint log to include additional information and attached it in Attachment 13 of the March 31, 2009 response for our review. Your revised complaint log did not meet all the requirements of 21 C.F.R. §§ 820.198 and 803. While a complaint log (a spread sheet) may provide a quick review and trending of product issues, your firm is still required to conduct and document investigation of each complaint in the complaint file in conformance with 21 C.F.R. § 820.198 and evaluate each complaint for MDR reportable event and document your evaluation in conformance with 21 C.F.R. § 803.
+Responding to This Warning Letter
+You should take prompt action to correct the violations addressed in this letter. Failure to promptly correct these violations may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and/or civil money penalties. Also, federal agencies are advised of the issuance of all Warning Letters about devices so that they may take this information into account when considering the award of contracts. Additionally, premarket approval applications for Class III devices to which the Quality System regulation (21 C.F.R. Part 820) deviations are reasonably related will not be approved until the violations have been corrected. Requests for Certificates to Foreign Governments will not be granted until the violations related to the subject devices have been corrected.
+Please notify this office in writing within fifteen (15) working days from the date you receive this letter of the specific steps you have taken to correct the noted violations, including an explanation of how you plan to prevent these violations, or similar violations, from occurring again. Please include documentation of the corrective action you have taken. If your planned corrections will occur over time, please include a timetable for implementation of those corrections. If corrective action cannot be completed within 15 working days, state the reason for the delay and the time within which the corrections will be completed.
+Your response should be sent to Thao Ta, Compliance Officer, Dallas District Office, Food and Drug Administration, HFR-SW140, 4040 N. Central Expressway, Suite 300, Dallas, Texas 75204. If you have any questions about the content of this letter, please contact Mr. Ta at 214-253-5217.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your facility. It is your responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the FDA 483 issued at the closeout of the inspection may be symptomatic of serious problems in your firm's manufacturing and quality assurance systems.
+You should investigate and determine the causes of the violations, and take prompt actions to correct the violations and to bring your products into compliance.
+Sincerely,
+/S/
+Reynaldo R. Rodriguez
+Dallas District Director
+RRR:txt
+cc:
+Mr. Michael Ancy
+Regional General Manager
+Water and Power Technologies, Inc.
+1217 West Corporate Drive
+Arlington, Texas 76006-6103
+Mr. Rich Oberholtzer
+Service Director
+Water and Power Technologies, Inc.
+1525 Lakeville Drive, Suite #120
+Houston, Texas 77339-2067
+-
