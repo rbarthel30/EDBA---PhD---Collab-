@@ -254,7 +254,8 @@ the manifest) and `--wayback-wait`, after archive.org's block had lifted.
   name (e.g. "Steris Isomedix Services" for "Isomedix Operations"). Such
   matches are flagged, and the letter text must still pass every check.
 - **Labcorp 2011:** not in any archived FDA index page (none lists Labcorp
-  near July 2011), and no cached archived letter page mentions it. The only
+  near July 2011), and none of the 1,780 archived Common Crawl letter pages in
+  FDA's 2011 and 2012 folders mentions Labcorp or Monogram. The only
   Labcorp letters found are from 2007 (ViroMed) and September 2008. FDA may
   never have posted the 2011 letter; if so, a FOIA request is the remaining
   route.
